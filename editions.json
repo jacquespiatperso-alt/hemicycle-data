@@ -1,310 +1,223 @@
 {
-  "updated": "2026-10-17T06:55:00+02:00",
+  "updated": "2026-10-19T17:40:00+02:00",
   "editions": [
     {
-      "date": "2026-10-17",
-      "label": "Samedi 17 octobre 2026",
-      "maj": "Mise à jour à 6 h 55",
-      "intro": "EXEMPLE FICTIF : ce fichier sert à tester l'appli L'Hémicycle. Les sujets, chiffres et propos ci-dessous sont inventés et ne décrivent pas l'actualité réelle. Au menu : le budget 2027 entre en commission, l'encadrement des loyers revient au Parlement, et la régulation de l'installation des médecins divise toujours.",
+      "date": "2026-10-19",
+      "label": "Lundi 19 octobre 2026",
+      "maj": "Mise à jour à 17 h 40",
+      "intro": "Deux jours après la mobilisation du 17 octobre contre la vie chère, marquée par des pillages et des attaques contre des mairies, le pays fait les comptes. Au menu : le bilan de la journée et le débat sur les responsabilités, la réponse de l'exécutif (couvre-feux localisés, aides aux commerçants, enquête parlementaire réclamée), le vote décisif de mardi sur le budget 2027, et la tournée d'Emmanuel Macron dans le Golfe pour sécuriser l'approvisionnement en carburant.",
       "stories": [
         {
-          "id": "2026-10-17-budget-commission",
+          "id": "2026-10-19-mobilisation-17-octobre",
+          "rubrique": "Société",
+          "titre": "Mobilisation du 17 octobre : des centaines de milliers de manifestants, des violences dans plusieurs villes",
+          "chapo": "La journée nationale contre la vie chère, portée notamment par le mouvement lycéen, d'anciens gilets jaunes et des syndicats, a rassemblé des centaines de milliers de personnes. En marge des cortèges, des pillages et des attaques contre des bâtiments publics ont eu lieu dans plusieurs grandes villes.",
+          "faits": [
+            "Les organisateurs revendiquent environ 800 000 manifestants, le ministère de l'Intérieur en a compté 550 000.",
+            "Selon le dernier bilan du ministère de l'Intérieur, près de 2 400 personnes ont été interpellées et environ un millier de policiers et gendarmes blessés.",
+            "La mairie de Limoges a été en partie détruite par un incendie, des casseurs sont entrés dans les mairies de Marseille, Lille et Angers, l'office du tourisme de Lyon a brûlé et la résidence du préfet de Gironde a été saccagée.",
+            "Le ministre du Commerce, Serge Papin, estime à environ 3 000 le nombre de commerces touchés, un chiffre encore en cours d'évaluation.",
+            "Le mouvement lycéen, à l'origine de la mobilisation, dénonce depuis septembre les classes surchargées, les professeurs non remplacés et la pression de Parcoursup ; une nouvelle journée est annoncée pour le 5 novembre."
+          ],
+          "enjeu": "Le débat porte sur la responsabilité des violences : groupes organisés d'ultragauche et pillards pour le gouvernement et la droite, défaillances du maintien de l'ordre pour une partie de la gauche. Derrière, la question de fond reste celle de la vie chère et des inquiétudes de la jeunesse, à six mois de la présidentielle.",
+          "positions": {
+            "gr": {
+              "type": "declare",
+              "texte": "Manuel Bompard (LFI) accuse le gouvernement de chercher le désordre plutôt que de répondre aux revendications, et reproche aux chaînes de télévision de montrer les violences plus que l'ampleur des cortèges.",
+              "src": "LCP, 17 octobre 2026"
+            },
+            "g": {
+              "type": "declare",
+              "texte": "Emmanuel Grégoire (PS), maire de Paris, condamne les violences « avec la plus grande fermeté » et appelle au calme, tout en rappelant qu'il faut entendre les colères et permettre qu'elles s'expriment pacifiquement.",
+              "src": "LCP, 17 octobre 2026"
+            },
+            "c": {
+              "type": "declare",
+              "texte": "Le Premier ministre Sébastien Lecornu affirme que le gouvernement ne se laissera pas intimider et attribue l'organisation des violences à des groupes d'ultragauche ; Gabriel Attal (Renaissance) parle de pillages indignes et d'une provocation envers l'autorité de l'État.",
+              "src": "LCP, 17 octobre 2026"
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Bruno Retailleau (LR) réclame « la force implacable de l'État » et estime que ceux qui ont agressé les forces de l'ordre doivent aller en prison.",
+              "src": "LCP, 17 octobre 2026"
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Marine Le Pen (RN) estime que des revendications sociales légitimes ont été prises en otage par l'extrême gauche et accuse LFI de légitimer la violence ; Jordan Bardella (RN) promet, s'il gouverne, le principe du « casseur-payeur ».",
+              "src": "LCP, 17 octobre 2026"
+            }
+          },
+          "sources": [
+            { "t": "LCP : soutien aux policiers ou critiques du maintien de l'ordre, les responsables politiques se divisent", "u": "https://lcp.fr/actualites/manifestations-du-17-octobre-soutien-aux-policiers-ou-critiques-du-maintien-de-l-ordre" },
+            { "t": "ici : près de 2 400 interpellations et un millier de policiers et gendarmes blessés", "u": "https://www.ici.fr/infos/faits-divers-justice/mobilisation-du-17-octobre-1-800-interpellations-en-france-indique-le-ministre-de-l-interieur-laurent-nunez-6459330" },
+            { "t": "Public Sénat : après les violences, les maires font front devant leurs mairies", "u": "https://www.publicsenat.fr/actualites/politique/apres-les-violences-du-17-octobre-les-maires-font-front-devant-leurs-mairies" },
+            { "t": "Café pédagogique : lycéens mobilisés, ce qu'ils disent", "u": "https://www.cafepedagogique.net/2026/10/01/lyceens-mobilises-ce-quils-disent-ce-quon-leur-repond/" }
+          ]
+        },
+        {
+          "id": "2026-10-19-reponse-executif-violences",
+          "rubrique": "Sécurité",
+          "titre": "Après les violences : couvre-feux localisés, aides aux commerçants et appels à une commission d'enquête",
+          "chapo": "Emmanuel Macron s'est adressé aux Français dimanche soir. Ce lundi, Sébastien Lecornu a annoncé des couvre-feux très localisés et un soutien aux commerces pillés. Au Parlement, plusieurs groupes réclament des comptes sur la préparation de la journée.",
+          "faits": [
+            "Dimanche à 20 h, Emmanuel Macron a dit sa « colère » et sa « honte », exclu l'état d'urgence, permis aux préfets d'interdire certains rassemblements et demandé au ministre de l'Intérieur « toute la transparence » sur le déroulé de la journée.",
+            "Lundi, le Premier ministre a demandé aux préfets d'instaurer dès le soir des couvre-feux partiels et très localisés, en lien avec les maires ; il n'exclut pas l'état d'urgence « si c'est utile ».",
+            "L'État prendra en charge à 100 % le chômage partiel des commerces sinistrés à partir de mardi, et un fonds spécifique doit aider les commerçants à rouvrir.",
+            "L'Association des maires de France a appelé les élus à se rassembler lundi devant leurs mairies ; Jordan Bardella et Marine Le Pen ont fait savoir qu'ils ne participeraient pas à la réunion des chefs de parti prévue à Matignon.",
+            "Mardi, la présidente de l'Assemblée, Yaël Braun-Pivet, réunit les présidents de groupe au sujet d'une éventuelle commission d'enquête ; la proposition de loi dite « casseurs-payeurs » arrive au Sénat le 27 octobre."
+          ],
+          "enjeu": "L'exécutif doit à la fois rétablir l'ordre, rassurer les commerçants et les maires, et expliquer pourquoi l'ampleur des violences n'a pas été anticipée. L'opposition se divise entre ceux qui demandent plus de fermeté (état d'urgence, couvre-feu) et ceux qui veulent d'abord une enquête sur la gestion du maintien de l'ordre.",
+          "positions": {
+            "gr": {
+              "type": "declare",
+              "texte": "Jean-Luc Mélenchon (LFI) attribue le chaos parisien à un « commandement aberrant » de la police, qui aurait provoqué la dispersion des cortèges, et demande à ses soutiens de rester à l'écart des pillages.",
+              "src": "LCP, 17 octobre 2026"
+            },
+            "g": {
+              "type": "declare",
+              "texte": "Au Sénat, Patrick Kanner (PS) demande un débat avec le gouvernement et la transformation de la mission sur l'ordre public en commission d'enquête ; Guy Benarroche (Les Écologistes) annonce que son groupe demandera aussi une commission d'enquête et s'interroge sur le déploiement des forces de l'ordre.",
+              "src": "Public Sénat, 18 octobre 2026"
+            },
+            "c": {
+              "type": "declare",
+              "texte": "Emmanuel Macron juge que rien ne justifie ces violences, distingue les manifestants contre la vie chère des « factieux » et des pillards, et affirme que les auteurs de destructions devront payer et les pilleurs rembourser.",
+              "src": "Allocution du président de la République, 18 octobre 2026 (Public Sénat)"
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Bruno Retailleau (LR) réclame l'état d'urgence immédiat et un couvre-feu ; la sénatrice LR Catherine Dumas soutient une commission d'enquête et juge qu'un « mot fort » ne suffit pas.",
+              "src": "Public Sénat, 18 octobre 2026"
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Edwige Diaz (RN) s'oppose à une commission d'enquête, qu'elle présente comme une diversion, met en cause LFI et le bloc central, et demande d'appliquer les lois et sanctions existantes.",
+              "src": "Public Sénat, 18 octobre 2026"
+            }
+          },
+          "sources": [
+            { "t": "Public Sénat : Macron exprime sa « colère » et sa « honte » et promet « toute la transparence »", "u": "https://www.publicsenat.fr/actualites/politique/violences-du-17-octobre-macron-exprime-sa-colere-et-sa-honte-et-promet-toute-la-transparence" },
+            { "t": "Public Sénat : au Sénat, l'heure des comptes pour le gouvernement", "u": "https://www.publicsenat.fr/actualites/politique/violences-du-17-octobre-au-senat-lheure-des-comptes-pour-le-gouvernement" },
+            { "t": "Le JDD : Sébastien Lecornu demande aux préfets des couvre-feux localisés", "u": "https://www.lejdd.fr/politique/violences-urbaines-sebastien-lecornu-demande-aux-prefets-de-declencher-un-certain-nombre-de-couvre-feux-localises-186438" },
+            { "t": "Made in Marseille : chômage partiel à 100 % pour les commerces sinistrés", "u": "https://madeinmarseille.net/actualite/212970-sebastien-lecornu-annonce-le-chomage-partiel-a-100-pour-les-commerces-sinistres/" }
+          ]
+        },
+        {
+          "id": "2026-10-19-budget-vote-recettes",
           "rubrique": "Budget",
-          "titre": "Budget 2027 : le projet de loi de finances entre en commission",
-          "chapo": "Les députés de la commission des finances commencent l'examen du budget de l'État pour 2027. Le gouvernement vise une réduction du déficit ; les oppositions contestent la répartition de l'effort.",
+          "titre": "Budget 2027 : vote à haut risque mardi sur la partie « recettes »",
+          "chapo": "Les députés votent mardi sur la première partie du projet de loi de finances, consacrée aux recettes. Le texte arrive très remanié et avec de nombreux articles non examinés. S'il est rejeté, le budget part au Sénat dans la version du gouvernement.",
           "faits": [
-            "La commission des finances examine à partir de lundi la première partie du texte, consacrée aux recettes.",
-            "Le gouvernement table sur un déficit public ramené à 4,6 % du PIB en 2027 (chiffre fictif).",
-            "Plus de 2 000 amendements ont été déposés en commission (chiffre fictif).",
-            "Le vote solennel en séance publique est attendu fin octobre."
+            "Le gouvernement vise un déficit public de 5 % du PIB en 2027 ; la commission des finances avait rejeté la partie recettes le 9 octobre (31 voix contre 3).",
+            "En séance, les députés ont supprimé l'article qui fixait la trajectoire de déficit et le rabot sur l'abattement fiscal des retraités (1,4 milliard d'euros d'économies attendues).",
+            "Ils ont doublé, à 15 000 euros par an, le plafond des heures supplémentaires défiscalisées, contre l'avis du gouvernement.",
+            "Avant le vote, il restait 51 articles sur 58 et plus de 2 800 amendements pour une seule journée de séance, ce lundi.",
+            "Calendrier : vote sur le budget de la Sécurité sociale le 27 octobre, vote sur l'ensemble du budget de l'État le 17 novembre."
           ],
-          "enjeu": "Sans majorité absolue, le gouvernement doit trouver des voix au-delà du bloc central ou recourir au 49.3, au risque d'une motion de censure. Le débat porte sur l'équilibre entre économies sur les dépenses et hausses d'impôts ciblées.",
+          "enjeu": "Sans majorité, le gouvernement Lecornu doit éviter un rejet qui ferait partir le texte au Sénat sans les modifications de l'Assemblée. Le recours au 49.3 exposerait l'exécutif à une motion de censure. Le fond du débat reste le partage de l'effort entre impôts et économies.",
           "positions": {
             "gr": {
               "type": "declare",
-              "texte": "« Ce budget fait payer les services publics et épargne les plus hauts revenus. Nous présenterons un contre-budget. » (citation fictive)",
-              "src": "Exemple fictif : conférence de presse du groupe, 16 octobre"
+              "texte": "Aurélien Le Coq (LFI) qualifie le projet de « budget de violence sociale » et prévient que son groupe déposera une motion de censure si le gouvernement recourt au 49.3.",
+              "src": "LCP, 9 et 12 octobre 2026"
             },
             "g": {
-              "type": "lecture",
-              "texte": "Le courant demande habituellement une contribution accrue des plus hauts patrimoines et la préservation des crédits de la transition écologique, tout en se disant prêt à amender le texte.",
-              "src": ""
+              "type": "declare",
+              "texte": "Boris Vallaud, président du groupe PS, dit ne voir aucune main tendue du Premier ministre ; la députée PS Estelle Mercier reproche au gouvernement de refuser de faire contribuer davantage les plus aisés.",
+              "src": "NosParlementaires, d'après les débats du 13 octobre 2026"
             },
             "c": {
               "type": "declare",
-              "texte": "« Le redressement des comptes publics est une exigence. Nous sommes ouverts à tout amendement qui ne dégrade pas le déficit. » (citation fictive)",
-              "src": "Exemple fictif : entretien radio, 17 octobre"
+              "texte": "Paul Midy (Renaissance) estime qu'il vaut mieux un budget imparfait que pas de budget ; le ministre des Comptes publics David Amiel s'est opposé au doublement du plafond des heures supplémentaires, jugeant déraisonnable d'aller au-delà du plafond actuel.",
+              "src": "LCP, 9 octobre 2026 ; NosParlementaires, 15 octobre 2026"
             },
             "d": {
-              "type": "lecture",
-              "texte": "Le courant privilégie d'ordinaire les économies sur la dépense publique plutôt que les hausses d'impôts, et conditionne son soutien à l'absence de nouveaux prélèvements sur les ménages et les entreprises.",
-              "src": ""
+              "type": "declare",
+              "texte": "Philippe Juvin (LR), rapporteur général du budget, juge la copie issue de la commission « pas satisfaisante » ; son groupe dénonce une surenchère fiscale et demande davantage d'économies sur la dépense.",
+              "src": "LCP, 9 octobre 2026"
             },
             "dn": {
-              "type": "lecture",
-              "texte": "Le courant met habituellement l'accent sur le pouvoir d'achat, notamment la baisse des taxes sur l'énergie, et propose de la financer par des économies sur d'autres postes de dépense.",
-              "src": ""
+              "type": "declare",
+              "texte": "Jean-Philippe Tanguy (RN) refuse de voter des hausses d'impôts ; son groupe a choisi de ne pas rejeter le texte d'emblée pour défendre ses amendements, la baisse de l'indexation des pensions restant pour lui une ligne rouge.",
+              "src": "LCP, 9 et 12 octobre 2026"
             }
           },
           "sources": [
-            { "t": "Exemple : dossier législatif du projet de loi de finances", "u": "https://example.org/hemicycle/plf-2027" },
-            { "t": "Exemple : calendrier de la commission des finances", "u": "https://example.org/hemicycle/commission-finances" }
+            { "t": "LCP : les députés rejettent en commission la partie recettes", "u": "https://lcp.fr/actualites/budget-2027-les-deputes-rejettent-en-commission-la-partie-recettes-du-projet-de-loi-de" },
+            { "t": "LCP : le gouvernement sur un fil à la veille des débats", "u": "https://lcp.fr/actualites/budget-2027-le-gouvernement-sur-un-fil-a-la-veille-de-l-ouverture-des-debats-a-l" },
+            { "t": "NosParlementaires : vote mardi 20 octobre, texte inachevé", "u": "https://nosparlementaires.fr/actualites/budget-2027-calendrier-assemblee-cinq-semaines" },
+            { "t": "Assemblée nationale : dossier législatif du PLF 2027", "u": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PLF_2027" }
           ]
         },
         {
-          "id": "2026-10-17-encadrement-loyers",
-          "rubrique": "Logement",
-          "titre": "Encadrement des loyers : une proposition de loi veut le rendre permanent",
-          "chapo": "Une proposition de loi transpartisane propose de pérenniser l'encadrement des loyers dans les villes volontaires. Les propriétaires bailleurs dénoncent une mesure qui découragerait l'investissement locatif.",
+          "id": "2026-10-19-carburants-golfe",
+          "rubrique": "Énergie",
+          "titre": "Carburants : Emmanuel Macron en tournée dans le Golfe pour sécuriser l'approvisionnement",
+          "chapo": "Le chef de l'État se rend du 19 au 21 octobre au Koweït, aux Émirats arabes unis, à Bahreïn et au Qatar. Objectif : obtenir des volumes de gazole et de pétrole, alors que le conflit dans le Golfe fait grimper les prix à la pompe, l'une des causes de la colère du 17 octobre.",
           "faits": [
-            "Le dispositif est aujourd'hui expérimental et limité aux collectivités qui en font la demande.",
-            "Une vingtaine de villes l'appliquent selon le texte (chiffre fictif).",
-            "La proposition de loi doit être examinée en commission des affaires économiques le 4 novembre (date fictive)."
+            "La tournée commence lundi au Koweït et se termine par une visite d'État au Qatar les 20 et 21 octobre ; des dirigeants de TotalEnergies et d'Engie accompagnent le président.",
+            "Les livraisons venues du Golfe sont perturbées par le blocage du détroit d'Ormuz, lié à la crise entre les États-Unis et l'Iran.",
+            "Le 7 octobre, le gouvernement a annoncé la mise sur le marché de 10 millions de barils de gazole issus des stocks stratégiques, de novembre à janvier, pour une baisse attendue de 12 à 18 centimes par litre.",
+            "L'aide de 100 euros par mois aux « grands rouleurs » est prolongée jusqu'à fin 2026 et élargie, et 100 000 foyers supplémentaires deviennent éligibles au chèque énergie."
           ],
-          "enjeu": "Le texte oppose deux lectures de la crise du logement : protéger les locataires face à la hausse des loyers, ou relancer l'offre en rassurant les investisseurs. Le gouvernement n'a pas encore arrêté sa position.",
+          "enjeu": "Le gouvernement mise sur l'approvisionnement et des aides ciblées plutôt que sur une baisse générale des taxes, jugée trop coûteuse en plein débat budgétaire. Les oppositions réclament des mesures plus directes sur les prix, chacune avec ses outils.",
           "positions": {
             "gr": {
               "type": "lecture",
-              "texte": "Le courant soutient habituellement l'encadrement des loyers et plaide pour son extension obligatoire à toutes les zones tendues, voire pour un gel des loyers.",
-              "src": ""
-            },
-            "g": {
-              "type": "declare",
-              "texte": "« L'encadrement a fait ses preuves là où il est appliqué. Il est temps d'en faire un outil durable pour les maires qui le souhaitent. » (citation fictive)",
-              "src": "Exemple fictif : tribune d'élus locaux, 15 octobre"
-            },
-            "c": {
-              "type": "lecture",
-              "texte": "Le courant est habituellement partagé : il préfère laisser le choix aux collectivités et demande une évaluation des effets sur l'offre avant toute pérennisation.",
-              "src": ""
-            },
-            "d": {
-              "type": "declare",
-              "texte": "« Encadrer les loyers, c'est raréfier les logements à louer. La priorité est de construire davantage. » (citation fictive)",
-              "src": "Exemple fictif : communiqué, 16 octobre"
-            },
-            "dn": {
-              "type": "lecture",
-              "texte": "Le courant se montre habituellement réservé sur l'encadrement et met en avant l'allègement des normes et de la fiscalité pour les petits propriétaires.",
-              "src": ""
-            }
-          },
-          "sources": [
-            { "t": "Exemple : texte de la proposition de loi", "u": "https://example.org/hemicycle/ppl-loyers" },
-            { "t": "Exemple : bilan de l'expérimentation", "u": "https://example.org/hemicycle/bilan-encadrement" }
-          ]
-        },
-        {
-          "id": "2026-10-17-deserts-medicaux",
-          "rubrique": "Santé",
-          "titre": "Déserts médicaux : la régulation de l'installation des médecins revient au Sénat",
-          "chapo": "Le Sénat reprend l'examen d'un texte qui limiterait l'installation de nouveaux médecins dans les zones déjà bien dotées. Les syndicats de médecins libéraux y sont opposés.",
-          "faits": [
-            "Le texte prévoit qu'un médecin ne puisse s'installer en zone bien dotée qu'en remplacement d'un départ.",
-            "Près de 6 millions de patients n'auraient pas de médecin traitant (chiffre fictif).",
-            "Plusieurs syndicats de médecins appellent à une journée de mobilisation le 22 octobre (date fictive)."
-          ],
-          "enjeu": "La mesure divise au sein même de plusieurs groupes : faut-il contraindre l'installation pour réduire les inégalités d'accès aux soins, ou s'en tenir aux incitations au risque que la situation perdure ?",
-          "positions": {
-            "gr": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement une régulation de l'installation et le développement de centres de santé publics avec des médecins salariés.",
+              "texte": "Le courant défend habituellement le blocage des prix des carburants et une taxation des profits des compagnies pétrolières, jugeant les aides ciblées insuffisantes.",
               "src": ""
             },
             "g": {
               "type": "lecture",
-              "texte": "Le courant est habituellement favorable à la régulation, qu'il présente comme une mesure d'égalité territoriale, en complément de la formation de davantage de médecins.",
+              "texte": "Le courant plaide d'ordinaire pour des aides ciblées sur les ménages modestes et ruraux, comme un chèque énergie renforcé, et pour accélérer la sortie de la dépendance au pétrole.",
               "src": ""
             },
             "c": {
               "type": "declare",
-              "texte": "« La contrainte seule ne fera pas venir de médecins. Nous préférons renforcer les incitations et le travail en équipe. » (citation fictive)",
-              "src": "Exemple fictif : déclaration en séance, 16 octobre"
+              "texte": "Emmanuel Macron attribue la hausse des prix au conflit dans le golfe Persique, auquel la France ne participe pas, et présente sa tournée comme un moyen de sécuriser l'approvisionnement en carburant et en gaz.",
+              "src": "Allocution du président de la République, 18 octobre 2026 (Public Sénat)"
             },
             "d": {
               "type": "lecture",
-              "texte": "Le courant est habituellement opposé à la coercition à l'installation et privilégie les aides financières et la simplification administrative pour les praticiens.",
+              "texte": "Le courant demande habituellement une baisse de la fiscalité sur l'énergie financée par des économies sur la dépense publique, et soutient la sécurisation des approvisionnements.",
               "src": ""
             },
             "dn": {
-              "type": "declare",
-              "texte": "« Il faut former beaucoup plus de médecins et mieux rémunérer ceux qui s'installent dans les territoires oubliés. » (citation fictive)",
-              "src": "Exemple fictif : entretien télévisé, 15 octobre"
+              "type": "lecture",
+              "texte": "Le courant réclame d'ordinaire une baisse de la TVA sur les carburants et l'énergie, au nom du pouvoir d'achat, mesure que le gouvernement a jusqu'ici refusée.",
+              "src": ""
             }
           },
           "sources": [
-            { "t": "Exemple : dossier législatif au Sénat", "u": "https://example.org/hemicycle/regulation-installation" }
+            { "t": "Boursorama : Macron dans quatre pays du Golfe du 19 au 21 octobre", "u": "https://www.boursorama.com/actualite-economique/actualites/macron-dans-quatre-pays-du-golfe-du-19-au-21-octobre-pour-securiser-des-approvisionnements-energetiques-37f5c43832ff034808c71ea3c06871cd" },
+            { "t": "Public Sénat : les mesures de Sébastien Lecornu auront-elles un impact sur les prix ?", "u": "https://www.publicsenat.fr/actualites/politique/prix-du-carburant-les-mesures-annoncees-par-sebastien-lecornu-auront-elles-vraiment-un-impact-sur-les-prix" },
+            { "t": "La finance pour tous : des mesures pour faire baisser les prix à la pompe", "u": "https://www.lafinancepourtous.com/2026/10/09/carburant-des-mesures-pour-faire-baisser-les-prix-a-la-pompe/" }
           ]
         }
       ],
       "breves": [
         {
-          "titre": "Collectivités : le congrès des maires approche",
-          "texte": "Les maires se réuniront en novembre à Paris. Les finances locales et la sécurité devraient dominer les échanges (exemple fictif).",
-          "src": { "t": "Exemple : programme du congrès", "u": "https://example.org/hemicycle/congres-maires" }
+          "titre": "Présidentielle 2027 : Marine Le Pen en tête, trois candidats au coude-à-coude derrière",
+          "texte": "Selon l'Elabe publié le 17 octobre, Marine Le Pen (RN) obtient 31 à 33,5 % des intentions de vote ; Édouard Philippe (Horizons), Raphaël Glucksmann (Place publique, désigné lors de la primaire du 11 octobre) et Jean-Luc Mélenchon (LFI) se tiennent entre 13,5 et 16,5 %. Près de la moitié des sondés peuvent encore changer d'avis. Premier tour le 18 avril 2027.",
+          "src": { "t": "Toute l'Europe : présidentielle 2027, l'état des sondages", "u": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-marine-le-pen-largement-en-tete-dans-les-sondages-a-six-mois-du-premier-tour-trois-candidats-au-coude-a-coude-pour-la-deuxieme-place/" }
         },
         {
-          "titre": "Sénat : une mission d'information sur l'intelligence artificielle",
-          "texte": "Une mission transpartisane rendra ses conclusions au printemps sur l'usage de l'IA dans les services publics (exemple fictif).",
-          "src": { "t": "Exemple : communiqué du Sénat", "u": "https://example.org/hemicycle/mission-ia" }
+          "titre": "Limoges : le maire met en cause l'État",
+          "texte": "Après l'incendie qui a ravagé une partie de sa mairie, le maire de Limoges, Guillaume Guérin, estime que l'État est en partie responsable de ce qui s'est passé samedi, faute d'une protection policière suffisante.",
+          "src": { "t": "Public Sénat : « L'État est responsable en partie », déclare le maire de Limoges", "u": "https://www.publicsenat.fr/actualites/societe/letat-est-responsable-en-partie-de-ce-quil-sest-passe-samedi-a-limoges-declare-le-maire-de-la-ville" }
+        },
+        {
+          "titre": "Les maires rassemblés devant leurs mairies",
+          "texte": "À l'appel de l'Association des maires de France, des élus se sont rassemblés lundi midi devant leur hôtel de ville, notamment à Paris, Bordeaux et Lille. Les maires de Paris, Lyon et Marseille doivent être reçus par le Premier ministre.",
+          "src": { "t": "Public Sénat : les maires font front devant leurs mairies", "u": "https://www.publicsenat.fr/actualites/politique/apres-les-violences-du-17-octobre-les-maires-font-front-devant-leurs-mairies" }
         }
       ],
       "agenda": [
-        { "d": "Lun. 19 oct.", "t": "Début de l'examen du budget en commission des finances (exemple)" },
-        { "d": "Mar. 20 oct.", "t": "Questions au gouvernement à l'Assemblée nationale" },
-        { "d": "Mer. 21 oct.", "t": "Conseil des ministres" }
-      ]
-    },
-    {
-      "date": "2026-10-16",
-      "label": "Vendredi 16 octobre 2026",
-      "maj": "Mise à jour à 6 h 55",
-      "intro": "EXEMPLE FICTIF : édition de test. Au menu : les partenaires sociaux rouvrent le dossier de l'assurance chômage, la réforme de la formation des enseignants entre en application, et un plan de sobriété sur l'eau agricole fait débat.",
-      "stories": [
-        {
-          "id": "2026-10-16-assurance-chomage",
-          "rubrique": "Social",
-          "titre": "Assurance chômage : syndicats et patronat rouvrent la négociation",
-          "chapo": "Le gouvernement a transmis aux partenaires sociaux une lettre de cadrage qui demande de nouvelles économies sur l'indemnisation des demandeurs d'emploi.",
-          "faits": [
-            "La lettre de cadrage fixe un objectif d'économies de 2 milliards d'euros par an (chiffre fictif).",
-            "Les organisations ont trois mois pour aboutir à un accord.",
-            "À défaut d'accord, l'État pourra fixer les règles par décret."
-          ],
-          "enjeu": "La négociation teste la capacité des partenaires sociaux à garder la main sur l'assurance chômage face à un gouvernement qui veut réduire les dépenses et inciter au retour à l'emploi.",
-          "positions": {
-            "gr": {
-              "type": "declare",
-              "texte": "« Une nouvelle baisse des droits des chômeurs serait inacceptable. Nous la combattrons au Parlement et dans la rue. » (citation fictive)",
-              "src": "Exemple fictif : meeting, 15 octobre"
-            },
-            "g": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement le paritarisme et s'oppose aux réductions de durée ou de montant d'indemnisation décidées par l'exécutif.",
-              "src": ""
-            },
-            "c": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement les réformes visant à encourager la reprise d'emploi et la maîtrise des comptes de l'assurance chômage.",
-              "src": ""
-            },
-            "d": {
-              "type": "declare",
-              "texte": "« Le travail doit toujours payer davantage que l'inactivité. Cette négociation doit aller plus loin. » (citation fictive)",
-              "src": "Exemple fictif : entretien de presse, 16 octobre"
-            },
-            "dn": {
-              "type": "lecture",
-              "texte": "Le courant critique habituellement les baisses d'indemnisation pour les salariés ayant longtemps cotisé, tout en défendant un durcissement ciblé des contrôles.",
-              "src": ""
-            }
-          },
-          "sources": [
-            { "t": "Exemple : lettre de cadrage du gouvernement", "u": "https://example.org/hemicycle/lettre-cadrage-unedic" },
-            { "t": "Exemple : calendrier de la négociation", "u": "https://example.org/hemicycle/calendrier-negociation" }
-          ]
-        },
-        {
-          "id": "2026-10-16-formation-enseignants",
-          "rubrique": "Éducation",
-          "titre": "Formation des enseignants : le concours avancé à bac+3 entre en application",
-          "chapo": "Les premiers étudiants recrutés après la licence intègrent une formation rémunérée de deux ans. Le ministère espère enrayer la crise des recrutements.",
-          "faits": [
-            "Le concours de professeur des écoles et de professeur de collège et lycée se passe désormais en fin de licence.",
-            "Les lauréats suivent deux années de formation rémunérée avant leur titularisation.",
-            "Environ 3 000 postes n'avaient pas été pourvus lors de la dernière session (chiffre fictif)."
-          ],
-          "enjeu": "La réforme doit rendre le métier plus attractif. Ses détracteurs s'inquiètent du niveau disciplinaire et de la place de l'université dans la formation.",
-          "positions": {
-            "gr": {
-              "type": "lecture",
-              "texte": "Le courant demande habituellement une revalorisation salariale générale des enseignants, qu'il juge plus décisive que le calendrier du concours.",
-              "src": ""
-            },
-            "g": {
-              "type": "lecture",
-              "texte": "Le courant salue habituellement les pré-recrutements rémunérés, mais estime qu'ils ne suffiront pas à rendre le métier attractif sans revalorisation des salaires.",
-              "src": ""
-            },
-            "c": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement cette réforme comme un moyen d'ouvrir le métier aux étudiants qui y renonçaient faute de moyens.",
-              "src": ""
-            },
-            "d": {
-              "type": "lecture",
-              "texte": "Le courant insiste habituellement sur l'exigence disciplinaire et l'autorité des enseignants, et se montre attentif au niveau requis au concours.",
-              "src": ""
-            },
-            "dn": {
-              "type": "lecture",
-              "texte": "Le courant met habituellement l'accent sur la transmission des savoirs fondamentaux et l'autorité à l'école, et critique la gestion des recrutements.",
-              "src": ""
-            }
-          },
-          "sources": [
-            { "t": "Exemple : présentation de la réforme", "u": "https://example.org/hemicycle/reforme-formation" }
-          ]
-        },
-        {
-          "id": "2026-10-16-eau-agricole",
-          "rubrique": "Environnement",
-          "titre": "Eau : un plan de sobriété pour l'irrigation agricole en concertation",
-          "chapo": "Le gouvernement soumet à concertation un plan qui fixerait des objectifs de réduction des prélèvements d'eau pour l'irrigation dans les bassins les plus touchés par la sécheresse.",
-          "faits": [
-            "Le plan vise une baisse de 10 % des prélèvements agricoles d'ici 2030 dans les bassins en déficit (chiffre fictif).",
-            "Il prévoit des aides pour les équipements d'irrigation économes.",
-            "La concertation avec les organisations agricoles et les associations dure jusqu'à fin novembre."
-          ],
-          "enjeu": "Le dossier oppose la sécurisation de la production agricole et la préservation de la ressource en eau, sur fond de sécheresses répétées et de conflits locaux autour des retenues d'eau.",
-          "positions": {
-            "gr": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement une gestion publique de l'eau et s'oppose aux grandes retenues réservées à quelques exploitations.",
-              "src": ""
-            },
-            "g": {
-              "type": "declare",
-              "texte": "« Ce plan va dans le bon sens, mais l'objectif reste trop timide face à l'urgence climatique. » (citation fictive)",
-              "src": "Exemple fictif : communiqué, 15 octobre"
-            },
-            "c": {
-              "type": "lecture",
-              "texte": "Le courant présente habituellement la sobriété comme une démarche concertée, combinant aides à l'investissement et objectifs fixés par bassin.",
-              "src": ""
-            },
-            "d": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement l'accès à l'eau des exploitations et le stockage, et s'oppose aux objectifs de réduction qu'il juge trop contraignants.",
-              "src": ""
-            },
-            "dn": {
-              "type": "declare",
-              "texte": "« La souveraineté alimentaire passe par l'accès à l'eau : il faut stocker l'eau l'hiver pour irriguer l'été. » (citation fictive)",
-              "src": "Exemple fictif : déplacement en région, 15 octobre"
-            }
-          },
-          "sources": [
-            { "t": "Exemple : document de concertation", "u": "https://example.org/hemicycle/plan-eau" },
-            { "t": "Exemple : données sur les prélèvements d'eau", "u": "https://example.org/hemicycle/prelevements-eau" }
-          ]
-        }
-      ],
-      "breves": [
-        {
-          "titre": "Assemblée : une commission d'enquête sur les transports régionaux",
-          "texte": "Les députés ont créé une commission d'enquête sur la qualité du service des trains régionaux (exemple fictif).",
-          "src": { "t": "Exemple : communiqué de l'Assemblée", "u": "https://example.org/hemicycle/commission-enquete-trains" }
-        },
-        {
-          "titre": "Gouvernement : un comité interministériel sur la jeunesse",
-          "texte": "Un comité interministériel consacré à la jeunesse se réunira début novembre (exemple fictif).",
-          "src": { "t": "Exemple : agenda du gouvernement", "u": "https://example.org/hemicycle/comite-jeunesse" }
-        }
-      ],
-      "agenda": [
-        { "d": "Ven. 16 oct.", "t": "Première séance de négociation sur l'assurance chômage (exemple)" },
-        { "d": "Lun. 19 oct.", "t": "Début de l'examen du budget en commission des finances (exemple)" }
+        { "d": "Lun. 19 oct.", "t": "Emmanuel Macron au Koweït, début de sa tournée dans le Golfe ; premiers couvre-feux localisés" },
+        { "d": "Mar. 20 oct.", "t": "Vote solennel à l'Assemblée sur la partie recettes du budget 2027 ; chômage partiel à 100 % pour les commerces sinistrés" },
+        { "d": "Mar. 20 oct.", "t": "Yaël Braun-Pivet réunit les présidents de groupe sur une éventuelle commission d'enquête" },
+        { "d": "Mar. 20 – mer. 21 oct.", "t": "Visite d'État d'Emmanuel Macron au Qatar" },
+        { "d": "Mar. 27 oct.", "t": "Proposition de loi « casseurs-payeurs » au Sénat ; vote du budget de la Sécurité sociale à l'Assemblée" },
+        { "d": "Jeu. 5 nov.", "t": "Nouvelle journée de mobilisation annoncée" }
       ]
     }
   ]
