@@ -1,6 +1,308 @@
 {
-  "updated": "2026-10-19T17:40:00+02:00",
+  "updated": "2026-10-20T06:27:00+02:00",
   "editions": [
+    {
+      "date": "2026-10-20",
+      "label": "Mardi 20 octobre 2026",
+      "maj": "Mise à jour à 6 h 27",
+      "intro": "Trois jours après la mobilisation du 17 octobre, l'exécutif tente de reprendre la main. Au menu : les premiers couvre-feux à Paris, Lyon, Lille et Nice, et l'aveu d'une « perte de contrôle » par le ministre de l'Intérieur ; la commission d'enquête que Yaël Braun-Pivet propose ce mardi aux présidents de groupe ; un budget de l'État mis entre parenthèses, tandis que celui de la Sécurité sociale arrive dans l'hémicycle ; et les syndicats attendus mercredi à Matignon, alors qu'un « acte II » est annoncé samedi.",
+      "stories": [
+        {
+          "id": "2026-10-20-couvre-feux-failles",
+          "rubrique": "Sécurité",
+          "titre": "Premiers couvre-feux et « perte de contrôle » reconnue : l'exécutif tente de reprendre la main",
+          "chapo": "Des couvre-feux partiels sont entrés en vigueur lundi soir dans plusieurs grandes villes. Le ministre de l'Intérieur, dont la démission a été refusée, admet des failles dans la gestion de la journée du 17 octobre.",
+          "faits": [
+            "Lundi, à l'issue d'une cellule interministérielle de crise, le Premier ministre Sébastien Lecornu a demandé aux préfets des couvre-feux « localisés » et « partiels » ; il écarte pour l'heure l'état d'urgence, qu'il se dit prêt à décréter « si c'est nécessaire ».",
+            "À Paris, la préfecture de police interdit toute présence de 23 h à 6 h autour de la place de la République et des Halles ; à Lyon, une partie de la Presqu'île est sous couvre-feu de 20 h à 6 h ; dans le Nord (Lille, Douai, Denain, Wattignies) et à Nice, les couvre-feux visent les mineurs, à Nice jusqu'au 26 octobre.",
+            "Sur France Inter, Laurent Nuñez a reconnu un « manque d'anticipation » et une « perte de contrôle » dans certaines villes, avec environ 60 000 policiers et gendarmes mobilisés samedi ; il avait présenté sa démission dimanche, refusée par Emmanuel Macron.",
+            "Selon le ministre de la Justice Gérald Darmanin, 2 331 gardes à vue ont eu lieu pendant le week-end ; le ministre du Commerce Serge Papin compte « au moins 3 000 » commerces touchés.",
+            "Le gouvernement a demandé à Vinted, Amazon, eBay, Leboncoin, Meta et TikTok de retirer les annonces de revente d'objets pillés ; un fonds exceptionnel doit financer la reconstruction des équipements publics détruits."
+          ],
+          "enjeu": "L'exécutif doit montrer qu'il peut rétablir l'ordre sans recourir à l'état d'urgence, que réclame une partie de la droite. La reconnaissance de failles par le ministre de l'Intérieur ouvre aussi le débat sur la doctrine de maintien de l'ordre, à six mois de la présidentielle.",
+          "positions": {
+            "gr": {
+              "type": "declare",
+              "texte": "Jean-Luc Mélenchon (LFI) estime que le gouvernement est seul responsable des violences, qu'il juge prévisibles, met en cause Laurent Nuñez et qualifie de « crime » l'incendie de la mairie de Limoges. Le sénateur Fabien Gay (PCF) reproche à l'État d'avoir réprimé des manifestants pacifiques tout en laissant faire les pilleurs.",
+              "src": "LCP, 18 octobre 2026 ; Public Sénat, 19 octobre 2026"
+            },
+            "g": {
+              "type": "declare",
+              "texte": "Marine Tondelier (Les Écologistes) juge les couvre-feux « lourds de conséquences » et demande au gouvernement de rendre compte de ses décisions opérationnelles. Le PS veut « refonder une doctrine du maintien de l'ordre respectueuse des libertés fondamentales » et renoncer aux équipements mutilants.",
+              "src": "AFP (Boursorama), 19 octobre 2026 ; LCP, 19 octobre 2026"
+            },
+            "c": {
+              "type": "declare",
+              "texte": "Sébastien Lecornu dit sa détermination « totale » à rétablir l'ordre, juge les couvre-feux plus adaptés que l'état d'urgence et accuse l'ultragauche de vouloir semer le désordre jusqu'à la présidentielle. Gabriel Attal (Renaissance) estime que la réponse du gouvernement n'est « pas à la hauteur de la situation ».",
+              "src": "AFP (Boursorama et 20 minutes), 19 octobre 2026"
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Bruno Retailleau (LR), qui avait réclamé dimanche l'état d'urgence, dénonce une « convergence » entre extrême gauche et « racailles » et propose d'abaisser à quinze ans la majorité pénale pour les crimes et délits les plus graves.",
+              "src": "Public Sénat, 19 octobre 2026 ; AFP (Boursorama), 19 octobre 2026"
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Jordan Bardella (RN) dénonce une « faillite sécuritaire et politique sans précédent », promet de « rétablir la sécurité et l'ordre par tous les moyens légaux » et accuse LFI d'une « responsabilité morale ». Éric Ciotti (UDR), maire de Nice, a instauré avec le préfet un couvre-feu pour les mineurs.",
+              "src": "Sud Radio, 19 octobre 2026 ; AFP (Boursorama), 19 octobre 2026"
+            }
+          },
+          "sources": [
+            {
+              "t": "AFP (Boursorama) : violences du week-end, le gouvernement reconnaît des failles, Lecornu annonce des couvre-feux localisés",
+              "u": "https://www.boursorama.com/actualite-economique/actualites-amp/violences-du-week-end-le-gouvernement-reconnait-des-failles-lecornu-annonce-des-couvre-feux-localises-36fd018af015dce033a167660a152dd6"
+            },
+            {
+              "t": "Yahoo Actualités : un couvre-feu dans certains quartiers de Paris à partir de 23 h",
+              "u": "https://fr.news.yahoo.com/sport/violences-17-octobre-couvre-feu-174149162.html"
+            },
+            {
+              "t": "Public Sénat : pourquoi l'état d'urgence est écarté par le gouvernement",
+              "u": "https://www.publicsenat.fr/actualites/politique/violences-du-17-octobre-pourquoi-letat-durgence-est-ecarte-par-le-gouvernement"
+            },
+            {
+              "t": "LCP : qui propose quoi sur le maintien de l'ordre ?",
+              "u": "https://lcp.fr/actualites/violences-du-17-octobre-qui-propose-quoi-sur-le-maintien-de-l-ordre-444073"
+            },
+            {
+              "t": "Nice Premium : couvre-feu pour les mineurs à Nice jusqu'au 26 octobre",
+              "u": "https://www.nicepremium.fr/actualites/violences-urbaines-le-prefet-des-alpes-maritimes-et-eric-ciotti-instaurent-un-couvre-feu-a-nice-jusquau-26-octobre/"
+            }
+          ]
+        },
+        {
+          "id": "2026-10-20-commission-enquete",
+          "rubrique": "Institutions",
+          "titre": "Violences du 17 octobre : le Parlement veut des comptes, une commission d'enquête proposée ce mardi",
+          "chapo": "Yaël Braun-Pivet soumet aujourd'hui aux présidents de groupe la création d'une commission d'enquête. Au Sénat, la gauche réclame la même chose et un débat dans l'hémicycle.",
+          "faits": [
+            "La présidente de l'Assemblée, Yaël Braun-Pivet, propose ce mardi en conférence des présidents une commission d'enquête sur les débordements, le mode opératoire des « groupuscules violents » et la stratégie de maintien de l'ordre ; sa création reste à acter.",
+            "Elle porterait sur le degré d'anticipation, le dimensionnement et la doctrine du maintien de l'ordre, ainsi que sur d'« éventuels dysfonctionnements ».",
+            "Au Sénat, socialistes, communistes et écologistes demandent une commission d'enquête ; Patrick Kanner (PS) réclame aussi un débat au titre de l'article 50-1 de la Constitution, qui peut donner lieu à un vote sans engager la responsabilité du gouvernement.",
+            "La mission d'information du Sénat sur le maintien de l'ordre présente son rapport mercredi 21 octobre ; les sénateurs LR prévoient d'entendre des représentants des forces de l'ordre la semaine prochaine."
+          ],
+          "enjeu": "Le contrôle parlementaire doit établir ce qui a failli le 17 octobre : renseignement, effectifs ou doctrine. Le périmètre retenu, plutôt tourné vers les casseurs ou vers la conduite du maintien de l'ordre, sera lui-même un sujet de désaccord entre groupes.",
+          "positions": {
+            "gr": {
+              "type": "declare",
+              "texte": "Les sénateurs communistes réclament une commission d'enquête. Pour Fabien Gay (PCF), Emmanuel Macron « porte une lourde responsabilité » ; il s'oppose à la proposition de loi « casseurs-payeurs », qui selon lui restreindrait fortement la liberté de manifester.",
+              "src": "Public Sénat, 19 octobre 2026"
+            },
+            "g": {
+              "type": "declare",
+              "texte": "Patrick Kanner (PS) demande une commission d'enquête et un débat 50-1, en prévenant que « la réponse à une crise sociale ne peut se limiter à une réponse sécuritaire ». Mélanie Vogel (Les Écologistes) interroge la responsabilité politique du ministère de l'Intérieur et déplore un manque d'anticipation.",
+              "src": "Public Sénat, 19 octobre 2026"
+            },
+            "c": {
+              "type": "declare",
+              "texte": "Yaël Braun-Pivet (Renaissance) veut faire « toute la lumière » sur les scènes de chaos et de pillages pour éviter qu'elles se reproduisent. Le sénateur Franck Dhersin (Horizons) se montre réservé face au recours systématique à ce type de procédure.",
+              "src": "LCP, 18 octobre 2026 ; Public Sénat, 19 octobre 2026"
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Mathieu Darnaud, président des sénateurs LR, déclare : « Nous attendons enfin des actes et non des paroles ». Son groupe entend auditionner des représentants des forces de l'ordre pour tirer les enseignements de la journée.",
+              "src": "Public Sénat, 19 octobre 2026"
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Edwige Diaz, présidente du groupe RN au Sénat, estime qu'« on n'a pas besoin d'une commission d'enquête ». Marine Le Pen (RN) reproche au gouvernement de déplorer les événements « sans parvenir à les prévenir, à les contrôler ou même à les gérer ».",
+              "src": "Public Sénat, 19 octobre 2026 ; LCP, 18 octobre 2026"
+            }
+          },
+          "sources": [
+            {
+              "t": "Public Sénat : commission d'enquête, débat « 50-1 », auditions… le Parlement exige des explications",
+              "u": "https://www.publicsenat.fr/actualites/parlementaire/violences-urbaines-commission-denquete-debat-50-1-auditions-le-parlement-exige-des-explications-apres-la-journee-chaotique-du-17-octobre"
+            },
+            {
+              "t": "LCP : Yaël Braun-Pivet veut une commission d'enquête sur les débordements et le maintien de l'ordre",
+              "u": "https://lcp.fr/actualites/violences-du-17-octobre-yael-braun-pivet-veut-une-commission-d-enquete-sur-les"
+            },
+            {
+              "t": "LCP : Marine Le Pen et Édouard Philippe accusent LFI, Jean-Luc Mélenchon charge le gouvernement",
+              "u": "https://lcp.fr/actualites/violences-du-17-octobre-marine-le-pen-et-edouard-philippe-accusent-lfi-jean-luc"
+            },
+            {
+              "t": "Public Sénat : Fabien Gay, « Les pillards sont l'ennemi du mouvement social »",
+              "u": "https://www.publicsenat.fr/emission/bonjour-chez-vous/fabien-gay-les-pillards-sont-lennemi-du-mouvement-social-e0"
+            }
+          ]
+        },
+        {
+          "id": "2026-10-20-budget-pause-secu",
+          "rubrique": "Budget",
+          "titre": "Budget : le vote des recettes reporté, la Sécurité sociale arrive dans l'hémicycle",
+          "chapo": "Faute d'avoir achevé l'examen des recettes, l'Assemblée met le budget de l'État en pause. Elle ouvre cet après-midi le débat sur le budget de la Sécurité sociale, dont la mesure phare est la désindexation de la plupart des retraites.",
+          "faits": [
+            "Le vote solennel sur la partie recettes du budget de l'État, prévu ce mardi, est reporté : un peu plus de 2 600 amendements restaient à examiner quand les débats ont été suspendus lundi à minuit ; l'examen doit reprendre le 27 octobre.",
+            "Le ministre des Comptes publics David Amiel estime que la première semaine de débats a dégradé le déficit de 10 milliards d'euros ; le gouvernement vise 5 % du PIB en 2027, contre 5,4 % en 2026.",
+            "Le budget de la Sécurité sociale, rejeté en commission, est examiné en séance à partir de cet après-midi dans sa version initiale ; il vise un déficit de 12,7 milliards d'euros en 2027, contre 21,8 milliards en 2026.",
+            "Le texte ne revaloriserait selon l'inflation que les pensions jusqu'à environ 1 260 euros, soit un tiers des retraités ; il gèle aussi les allocations familiales (1,1 milliard d'euros attendus selon LCP).",
+            "L'Assemblée a jusqu'au 27 octobre pour se prononcer sur le budget de la Sécurité sociale et jusqu'au 17 novembre sur celui de l'État ; au-delà des délais constitutionnels, le gouvernement pourrait recourir aux ordonnances."
+          ],
+          "enjeu": "Sans majorité, le gouvernement risque un rejet des recettes, qui enverrait le texte au Sénat, et un détricotage du budget de la Sécu. L'usage du 49.3, au risque d'une censure, ou des ordonnances revient dans le débat.",
+          "positions": {
+            "gr": {
+              "type": "declare",
+              "texte": "Hadrien Clouet (LFI) conteste le seuil de revalorisation des pensions : « On ne vit pas bien avec 1 265 euros », rappelant que le seuil de pauvreté est de 1 337 euros. LFI a voté en commission la suppression de la désindexation des retraites.",
+              "src": "LCP, 12 et 16 octobre 2026"
+            },
+            "g": {
+              "type": "declare",
+              "texte": "Sandrine Runel (PS) annonce l'opposition de son groupe à « toute forme de gel » des pensions, estimant que « l'argent est ailleurs ». Estelle Mercier (PS) reproche au gouvernement un « tabou absolu » sur la contribution des plus riches.",
+              "src": "LCP, 16 septembre 2026 ; NosParlementaires, 13 octobre 2026"
+            },
+            "c": {
+              "type": "declare",
+              "texte": "David Amiel, ministre des Comptes publics, alerte sur une dégradation du déficit de 10 milliards d'euros après une semaine de débats. Paul Midy (Renaissance) défend l'idée qu'il vaut mieux un budget imparfait que pas de budget.",
+              "src": "LCP, 20 octobre 2026 ; LCP, 9 octobre 2026"
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Thibault Bazin (LR), rapporteur général du budget de la Sécu, juge que la commission a « tiré à blanc » en rejetant le texte. Justine Gruet (LR) réclame « de vraies économies sur la dépense publique », jusqu'à 20 milliards d'euros supplémentaires.",
+              "src": "LCP, 16 octobre 2026 ; LCP, 12 octobre 2026"
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Jean-Philippe Tanguy (RN) décrit un budget « qui ne fait pas d'économies ». Joëlle Mélin (RN) estime que le budget de la Sécu « va faire encore payer les Français », notamment avec la taxe sur les produits sucrés.",
+              "src": "Le Courrier des stratèges, 13 octobre 2026 ; LCP, 12 octobre 2026"
+            }
+          },
+          "sources": [
+            {
+              "t": "LCP : après avoir commencé à détricoter le projet, l'Assemblée passe au budget de la Sécu",
+              "u": "https://lcp.fr/actualites/budget-de-l-etat-apres-avoir-commence-a-detricoter-le-projet-du-gouvernement-l-assemblee"
+            },
+            {
+              "t": "LCP : le vote prévu mardi va être reporté",
+              "u": "https://lcp.fr/actualites/budget-2027-le-marathon-de-la-partie-recettes-loin-d-etre-termine-le-vote-prevu-demain-a"
+            },
+            {
+              "t": "LCP : budget de la Sécu rejeté en commission, examiné à partir de mardi dans l'hémicycle",
+              "u": "https://lcp.fr/actualites/budget-de-la-secu-rejete-en-commission-par-les-deputes-le-texte-sera-examine-a-partir-de"
+            },
+            {
+              "t": "LCP : les cinq points qui concentrent les tensions sur le budget de la Sécu",
+              "u": "https://lcp.fr/actualites/coup-d-envoi-du-budget-de-la-secu-en-commission-les-cinq-points-qui-concentrent-les"
+            },
+            {
+              "t": "MoneyVox : ce que change le projet de budget 2027 de la Sécu",
+              "u": "https://www.moneyvox.fr/retraite/actualites/110888/pension-de-retraite-desindexee-aides-caf-rabotees-ce-que-change-le-projet-de-budget-2027-de-la-secu"
+            }
+          ]
+        },
+        {
+          "id": "2026-10-20-syndicats-matignon",
+          "rubrique": "Social",
+          "titre": "Syndicats attendus mercredi à Matignon, un « acte II » annoncé samedi",
+          "chapo": "Chargé par Emmanuel Macron de réunir partis, syndicats et élus, Sébastien Lecornu reçoit les organisations syndicales mercredi matin. Les initiateurs du 17 octobre appellent déjà à de nouvelles journées.",
+          "faits": [
+            "Sébastien Lecornu reçoit les syndicats mercredi matin à Matignon ; Emmanuel Macron lui a demandé dimanche de réunir partis, syndicats, collectivités et parlementaires.",
+            "Jordan Bardella a fait savoir que ni lui ni Marine Le Pen ne participeraient à la réunion des chefs de parti ; le RN y sera « très certainement » représenté par un vice-président.",
+            "La coordination à l'origine du 17 octobre annonce un « acte II » le samedi 24 octobre, puis des mobilisations le 31 octobre et le 5 novembre.",
+            "La CGT condamne la « stratégie du chaos » qu'elle prête au gouvernement et appelle à poursuivre une mobilisation pacifique ; le président du Medef, Patrick Martin, juge « grand temps que le pays se ressaisisse »."
+          ],
+          "enjeu": "Le gouvernement cherche à rouvrir le dialogue social sur la vie chère et la mobilisation lycéenne sans paraître céder sous la pression. Les syndicats, eux, veulent des annonces concrètes, alors que de nouvelles journées sont déjà annoncées.",
+          "positions": {
+            "gr": {
+              "type": "declare",
+              "texte": "Fabien Gay (PCF) juge qu'Emmanuel Macron a pris la parole « pour ne rien dire » et distingue les manifestants pacifiques des pillards. Jean-Luc Mélenchon (LFI) demande l'indemnisation immédiate des commerçants pillés et une réponse à la colère sociale.",
+              "src": "Public Sénat, 19 octobre 2026 ; LCP, 18 octobre 2026"
+            },
+            "g": {
+              "type": "declare",
+              "texte": "Le maire de Paris Emmanuel Grégoire (PS) relie les violences au « pourrissement » du mouvement social, qu'il impute au gouvernement. Raphaël Glucksmann (Place publique) craint que Marine Le Pen soit « la bénéficiaire du chaos ».",
+              "src": "20 minutes (AFP), 19 octobre 2026 ; Sud Radio, 19 octobre 2026"
+            },
+            "c": {
+              "type": "declare",
+              "texte": "La porte-parole du gouvernement Maud Brégeon estime que les Français « sauront faire la part des choses ». Édouard Philippe (Horizons) regrette l'absence de décisions concrètes du président et juge que « notre pays a besoin d'être commandé ».",
+              "src": "Sud Radio, 19 octobre 2026 ; 20 minutes (AFP), 19 octobre 2026"
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Face à la crise lycéenne, Bruno Retailleau (LR) plaide pour « une sélection à l'université ». Il défend une nouvelle doctrine qui protège les manifestants pacifiques tout en assumant « la répression ferme des violences ».",
+              "src": "Public Sénat, 14 octobre 2026 ; LCP, 19 octobre 2026"
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Jordan Bardella (RN), qui boycotte la réunion des chefs de parti avec Marine Le Pen, appelle au vote contestataire : « le meilleur moyen de protester, c'est de voter ».",
+              "src": "Sud Radio, 19 octobre 2026"
+            }
+          },
+          "sources": [
+            {
+              "t": "20 minutes (AFP) : les syndicats conviés à Matignon mercredi matin",
+              "u": "https://www.20min.ch/fr/story/crises-en-france-les-syndicats-convies-a-matignon-mercredi-matin-103644663"
+            },
+            {
+              "t": "Maritima : des couvre-feux et un acte II annoncé par les gilets jaunes",
+              "u": "https://maritima.fr/actualites/faits-divers/marseille/16233/direct-des-couvres-feu-pour-ce-soir-et-un-acte-ii-annonce-par-les-gilets-jaunes"
+            },
+            {
+              "t": "Sud Radio : face aux violences, le RN cherche à capitaliser sur l'image du parti de l'ordre",
+              "u": "https://www.sudradio.fr/societe/presidentielle-face-aux-violences-le-rn-cherche-a-capitaliser-sur-limage-du-parti-de-lordre"
+            },
+            {
+              "t": "Public Sénat : crise lycéenne, Bruno Retailleau veut « une sélection à l'université »",
+              "u": "https://www.publicsenat.fr/actualites/politique/crise-lyceenne-bruno-retailleau-veut-une-selection-a-luniversite"
+            }
+          ]
+        }
+      ],
+      "breves": [
+        {
+          "titre": "Macron poursuit sa tournée dans le Golfe",
+          "texte": "Arrivé lundi au Koweït, Emmanuel Macron doit se rendre aux Émirats, à Bahreïn puis au Qatar d'ici mercredi pour obtenir des engagements sur des volumes de diesel et de pétrole. Un expert de l'Ifri, Francis Perrin, n'attend pas d'effet immédiat sur les prix. La France consomme environ 600 000 barils de diesel par jour, dont près de la moitié importée.",
+          "src": {
+            "t": "Connaissance des Énergies (AFP) : Macron cherche dans le Golfe du pétrole et du diesel supplémentaires",
+            "u": "https://www.connaissancedesenergies.org/afp/macron-en-tournee-dans-le-golfe-apres-un-week-end-de-chaos-en-france-261019"
+          }
+        },
+        {
+          "titre": "Commerces pillés : les premières aides",
+          "texte": "Le chômage partiel des commerces sinistrés est pris en charge à 100 % à partir de ce mardi, et un fonds spécifique doit couvrir leurs besoins de trésorerie. Les représentants du commerce évoquent des « centaines de millions d'euros » de dégâts ; l'U2P n'a vu « rien de concret » à l'issue de la réunion avec le ministre.",
+          "src": {
+            "t": "Public Sénat : « au moins 3 000 » commerces touchés",
+            "u": "https://www.publicsenat.fr/actualites/economie/pillages-au-moins-3-000-commerces-touchees-pour-des-centaines-de-millions-deuros-de-degats"
+          }
+        },
+        {
+          "titre": "Réseaux sociaux : faut-il couper ?",
+          "texte": "Gabriel Attal (Renaissance) a relancé l'idée d'un blocage « temporaire, ciblé » des réseaux sociaux dans les territoires touchés. Le sénateur Mickaël Vallet (PS) ne l'exclut pas face à des appels explicites à la violence, avec un cadre juridique strict ; Matignon annonce 200 enquêteurs pour exploiter les images diffusées en ligne.",
+          "src": {
+            "t": "Public Sénat : après les pillages, faut-il couper les réseaux sociaux ?",
+            "u": "https://www.publicsenat.fr/actualites/politique/apres-les-pillages-du-17-octobre-faut-il-couper-les-reseaux-sociaux"
+          }
+        }
+      ],
+      "agenda": [
+        {
+          "d": "Mar. 20 oct.",
+          "t": "Conférence des présidents à l'Assemblée : proposition d'une commission d'enquête ; début de l'examen du budget de la Sécurité sociale en séance"
+        },
+        {
+          "d": "Mar. 20 – mer. 21 oct.",
+          "t": "Emmanuel Macron aux Émirats, à Bahreïn et au Qatar"
+        },
+        {
+          "d": "Mer. 21 oct.",
+          "t": "Syndicats reçus à Matignon ; rapport de la mission d'information du Sénat sur le maintien de l'ordre"
+        },
+        {
+          "d": "Sam. 24 oct.",
+          "t": "« Acte II » annoncé par la coordination du 17 octobre"
+        },
+        {
+          "d": "Mar. 27 oct.",
+          "t": "Date limite pour le vote du budget de la Sécurité sociale à l'Assemblée ; reprise du budget de l'État ; « casseurs-payeurs » au Sénat"
+        },
+        {
+          "d": "Jeu. 5 nov.",
+          "t": "Nouvelle journée de mobilisation annoncée"
+        }
+      ]
+    },
     {
       "date": "2026-10-19",
       "label": "Lundi 19 octobre 2026",
