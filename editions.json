@@ -1,6 +1,307 @@
 {
-  "updated": "2026-10-20T06:27:00+02:00",
+  "updated": "2026-10-21T06:27:00+02:00",
   "editions": [
+    {
+      "date": "2026-10-21",
+      "label": "Mercredi 21 octobre 2026",
+      "maj": "Mise à jour à 6 h 27",
+      "intro": "Quatre jours après le 17 octobre, Sébastien Lecornu reçoit ce matin les cinq syndicats représentatifs, avant les partis jeudi, et prépare un « acte II » samedi sous haute surveillance. L'Assemblée a lancé sa commission d'enquête sur les violences et le maintien de l'ordre. Le budget de la Sécurité sociale est entré dans l'hémicycle sous l'alerte de la Cour des comptes. Et la sécurité de la campagne présidentielle s'invite dans le débat, entre date du second tour et ingérences étrangères.",
+      "stories": [
+        {
+          "id": "2026-10-21-samedi-syndicats",
+          "rubrique": "Sécurité",
+          "titre": "Syndicats à Matignon ce matin, manifestations « à risque » interdites samedi : le gouvernement durcit le ton",
+          "chapo": "Après un face-à-face tendu avec les députés mardi, le Premier ministre reçoit les syndicats ce mercredi. Le ministre de l'Intérieur demande aux préfets d'interdire les cortèges jugés à risque lors de l'« acte II » annoncé samedi.",
+          "faits": [
+            "Sébastien Lecornu reçoit ce mercredi matin la CFDT, la CGT, FO, la CFTC et la CFE-CGC, en présence de Laurent Nuñez, pour parler de la sécurisation des cortèges et des réponses aux lycéens ; les syndicats maintiennent leur journée de mobilisation du 5 novembre.",
+            "Dans un télégramme du 19 octobre révélé par Le JDD, Laurent Nuñez demande aux préfets d'interdire les manifestations revendicatives « susceptibles de troubler l'ordre public » prévues samedi 24 octobre, après dialogue avec les organisateurs, et d'éloigner les cortèges autorisés des bâtiments publics et des rues commerçantes.",
+            "Aux questions au gouvernement mardi, le Premier ministre a jugé le dispositif du 17 octobre « trop statique et pas assez mobile », promis un déploiement « massif » samedi et dénoncé un « schéma insurrectionnel » de groupuscules d'ultragauche ; il a démenti tout « renseignement politique ».",
+            "Les couvre-feux ont été reconduits mardi soir : à Paris autour de République et des Halles (23 h – 6 h), sur la Presqu'île de Lyon (21 h – 6 h), et pour les mineurs dans le centre de Marseille à partir de 22 h, au moins jusqu'à vendredi.",
+            "Selon le ministre de la Justice Gérald Darmanin, 123 personnes ont été incarcérées depuis le week-end et une cinquantaine d'informations judiciaires ouvertes."
+          ],
+          "enjeu": "Le gouvernement veut éviter un nouveau samedi de violences sans paraître restreindre le droit de manifester, que les syndicats entendent exercer le 5 novembre. Le rendez-vous de Matignon dira si l'exécutif ouvre un volet social, que réclament syndicats et gauche, ou s'en tient à l'ordre public.",
+          "positions": {
+            "gr": {
+              "type": "declare",
+              "texte": "Mathilde Panot (LFI) accuse le Premier ministre de faire porter à son mouvement la responsabilité des violences pour masquer son bilan : « Quand il ne vous reste que la répression, c'est le signe qu'il faut partir ». Manuel Bompard (LFI) l'accuse de « manipuler les services de renseignement ».",
+              "src": "LCP, 20 octobre 2026 ; L'Express, 20 octobre 2026"
+            },
+            "g": {
+              "type": "declare",
+              "texte": "Boris Vallaud (PS) réclame une réponse politique à la crise, au-delà du maintien de l'ordre. Olivier Faure (PS) veut « refonder une doctrine du maintien de l'ordre respectueuse des libertés fondamentales » ; Marine Tondelier (Les Écologistes) plaide pour une doctrine de dialogue et de désescalade.",
+              "src": "Brut, 20 octobre 2026 ; LCP, 19 octobre 2026"
+            },
+            "c": {
+              "type": "declare",
+              "texte": "Sébastien Lecornu estime que « le retour à l'ordre est le préalable de tout » et promet un dispositif renforcé samedi. Laurent Nuñez demande aux préfets une réponse « extrêmement rapide et ferme » et des interdictions ciblées, au cas par cas.",
+              "src": "Brut, 20 octobre 2026 ; Le JDD, 20 octobre 2026"
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Bruno Retailleau (LR) demande une doctrine qui protège les manifestants pacifiques tout en assumant « la répression ferme des violences, l'interpellation des casseurs et l'usage de la force légitime », et refuse qu'un policier soit présumé fautif avant examen des faits.",
+              "src": "LCP, 19 octobre 2026"
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Jordan Bardella (RN) dénonce l'« incompétence » du gouvernement et juge que le mouvement de Jean-Luc Mélenchon porte une responsabilité dans les violences. Marine Le Pen (RN) estime que les revendications sociales ont été « prises en otage par l'extrême gauche ».",
+              "src": "CNews, cité par Le JDD, 20 octobre 2026 ; AFP, 17 octobre 2026"
+            }
+          },
+          "sources": [
+            {
+              "t": "L'essentiel (AFP) – Lecornu reçoit les syndicats avant de nouvelles manifestations",
+              "u": "https://www.lessentiel.lu/fr/story/crises-en-france-lecornu-recoit-les-syndicats-avant-de-nouvelles-manifestations-103644650"
+            },
+            {
+              "t": "Le JDD – Nuñez ordonne aux préfets d'interdire les manifestations à risque prévues samedi",
+              "u": "https://www.lejdd.fr/Societe/apres-les-emeutes-du-17-octobre-nunez-ordonne-aux-prefets-dinterdire-les-manifestations-a-risque-prevues-samedi-186534"
+            },
+            {
+              "t": "LCP – « Votre camp, c'est le camp de la honte » : Lecornu et Panot s'affrontent dans l'hémicycle",
+              "u": "https://lcp.fr/actualites/votre-camp-c-est-le-camp-de-la-honte-et-nous-vous-combattrons-sebastien-lecornu-et"
+            },
+            {
+              "t": "Brut – Passage mouvementé de Sébastien Lecornu devant l'Assemblée nationale",
+              "u": "https://www.brut.media/fr/articles/passage-mouvemente-de-sebastien-lecornu-devant-l-assemblee-nationale-ce-mardi-20-octobre"
+            },
+            {
+              "t": "Tribune de Lyon – Le couvre-feu reconduit à Lyon pour la nuit du 20 au 21 octobre",
+              "u": "https://tribunedelyon.fr/societe/couvre-feu-reconduit-lyon-nuit-du-20-au-21-octobre/"
+            },
+            {
+              "t": "LCP – Violences du 17 octobre : qui propose quoi sur le maintien de l'ordre ?",
+              "u": "https://lcp.fr/actualites/violences-du-17-octobre-qui-propose-quoi-sur-le-maintien-de-l-ordre-444073"
+            }
+          ]
+        },
+        {
+          "id": "2026-10-21-commission-enquete",
+          "rubrique": "Institutions",
+          "titre": "Violences du 17 octobre : l'Assemblée lance sa commission d'enquête, la gauche veut y inclure la mobilisation lycéenne",
+          "chapo": "La commission des lois de l'Assemblée a obtenu mardi les pouvoirs d'une commission d'enquête sur les violences et le maintien de l'ordre. Ses travaux doivent démarrer dans les prochains jours.",
+          "faits": [
+            "Mardi matin, la conférence des présidents a approuvé le principe proposé par Yaël Braun-Pivet ; dans la soirée, la commission des lois a voté pour se doter des pouvoirs d'une commission d'enquête, présidée par Vincent Caure (Ensemble pour la République).",
+            "Le périmètre couvre la préparation des pouvoirs publics, le renseignement, l'information des maires par les préfectures, le déroulé du week-end, les ingérences étrangères, le rôle des réseaux sociaux, l'organisation des auteurs de violences, le dispositif de maintien de l'ordre et la réponse pénale.",
+            "La création devient définitive sauf opposition avant ce mercredi 15 h ; trois rapporteurs doivent être désignés et des conclusions sont envisagées avant la fin de l'année, selon LCP.",
+            "Au Sénat, la commission des lois a annoncé lundi soir une mission d'information sur ces violences et les failles du maintien de l'ordre."
+          ],
+          "enjeu": "La commission devra établir les responsabilités entre exécutif, services de renseignement et groupes violents, à six mois de la présidentielle. Sa publicité, son calendrier et l'inclusion ou non des semaines de mobilisation lycéenne qui ont précédé le 17 octobre font déjà débat.",
+          "positions": {
+            "gr": {
+              "type": "declare",
+              "texte": "Ugo Bernalicis (LFI) prévient : « Si c'est pour refaire une commission d'enquête Benalla bis, c'est pas la peine », et demande des travaux publics et menés sereinement. Elsa Faucillon (groupe GDR, communistes et ultramarins) veut que le périmètre couvre les semaines précédentes, dont la mobilisation lycéenne.",
+              "src": "LCP, 20 octobre 2026"
+            },
+            "g": {
+              "type": "declare",
+              "texte": "Hervé Saulignac (PS) met en garde contre un calendrier trop long : « Rien ne serait pire que d'arriver au 20 décembre ». Pouria Amirshahi (groupe Écologiste et social) demande d'élargir la période étudiée pour ne pas « invisibiliser » la mobilisation lycéenne.",
+              "src": "LCP, 20 octobre 2026"
+            },
+            "c": {
+              "type": "declare",
+              "texte": "Yaël Braun-Pivet (Renaissance) veut « faire la lumière sur les débordements, les méthodes des groupuscules violents et la stratégie de maintien de l'ordre » : « Il ne faut pas que cela se reproduise ». Vincent Caure (EPR) pose « le principe premier » de la « publicité des travaux ».",
+              "src": "LCP, 20 octobre 2026"
+            },
+            "d": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement les forces de l'ordre et attend d'une telle enquête qu'elle établisse les responsabilités de l'exécutif dans l'anticipation des violences et celles des groupes qui les ont organisées, plutôt qu'elle ne mette en cause l'action des policiers.",
+              "src": ""
+            },
+            "dn": {
+              "type": "lecture",
+              "texte": "Le courant met habituellement en avant les failles du gouvernement en matière d'ordre public et la responsabilité de l'extrême gauche, et se montre favorable aux enquêtes qui pointent ces deux aspects, tout en défendant l'action des policiers et gendarmes.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "LCP – Violences et maintien de l'ordre le 17 octobre : l'Assemblée lance une commission d'enquête",
+              "u": "https://lcp.fr/actualites/violences-et-maintien-de-l-ordre-le-17-octobre-l-assemblee-lance-une-commission-d"
+            },
+            {
+              "t": "LCP – L'Assemblée approuve la création de la commission d'enquête proposée par Yaël Braun-Pivet",
+              "u": "https://lcp.fr/actualites/info-lcp-17-octobre-l-assemblee-nationale-approuve-la-creation-de-la-commission-d"
+            },
+            {
+              "t": "Public Sénat – « Le président de la République n'a apporté aucune solution, aucun cap », déplore Hervé Marseille",
+              "u": "https://www.publicsenat.fr/actualites/politique/apres-les-violences-urbaines-et-les-pillages-du-17-octobre-le-president-de-la-republique-na-apporte-aucune-solution-aucun-cap-deplore-herve-marseille"
+            }
+          ]
+        },
+        {
+          "id": "2026-10-21-plfss-hemicycle",
+          "rubrique": "Budget",
+          "titre": "Budget de la Sécu : l'examen lancé dans l'hémicycle, la Cour des comptes juge la situation « hautement périlleuse »",
+          "chapo": "Les députés ont rejeté mardi la motion de rejet de LFI et commencé l'examen du budget de la Sécurité sociale pour 2027. Le même jour, la Cour des comptes a mis en doute les économies annoncées.",
+          "faits": [
+            "La motion de rejet préalable déposée par LFI a été repoussée par 259 voix contre 128 ; les groupes de gauche l'ont soutenue, les autres ont choisi de débattre du texte, qui avait été rejeté en commission la semaine dernière.",
+            "Le gouvernement vise un déficit de la Sécurité sociale de 12,7 milliards d'euros en 2027, contre 21,8 milliards attendus en 2026 ; le texte chiffre les économies à 8,7 milliards. Les modifications votées en commission auraient porté le déficit à environ 21,4 milliards, selon le rapporteur général Thibault Bazin.",
+            "La Cour des comptes juge plusieurs économies incertaines (arrêts maladie, allocation de rentrée scolaire, produits de santé) et qualifie d'« intenable » la trajectoire de la dette de l'Acoss, dont le plafond d'endettement passerait à 85 milliards d'euros.",
+            "L'examen en séance doit se poursuivre jusqu'au 27 octobre, avec notamment le gel des pensions au-delà de 1 260 euros, supprimé en commission."
+          ],
+          "enjeu": "Sans majorité, le gouvernement doit trouver des compromis sur les retraites et les économies de santé sans laisser filer un déficit que la Cour des comptes juge déjà difficile à tenir. Le débat se déroule en pleine crise sociale, ce qui pèse sur les mesures touchant les ménages.",
+          "positions": {
+            "gr": {
+              "type": "declare",
+              "texte": "Hadrien Clouet (LFI) dénonce un « ultime texte de braquage » de la Sécurité sociale et un « texte de classe », citant 600 millions d'euros d'économies sur l'allocation de rentrée scolaire. Édouard Bénard (PCF) dénonce un « double racket » des comptes de la Sécu et du porte-monnaie des assurés.",
+              "src": "LCP, 20 octobre 2026"
+            },
+            "g": {
+              "type": "declare",
+              "texte": "Béatrice Bellay (PS) dénonce une « nouvelle violence sociale » et les groupes socialiste et écologiste ont voté la motion de rejet. Les deux groupes avaient obtenu en commission, avec d'autres, la suppression du gel des pensions.",
+              "src": "LCP, 20 octobre 2026 ; LCP, 16 octobre 2026"
+            },
+            "c": {
+              "type": "declare",
+              "texte": "La ministre de la Santé Stéphanie Rist appelle à la « lucidité » et à un « compromis » pour « tenir la promesse d'une Sécurité sociale pour les générations futures ». Annie Vidal (EPR) refuse de renvoyer le texte « à l'expéditeur » sans débat.",
+              "src": "LCP, 20 octobre 2026"
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Le rapporteur général Thibault Bazin (Droite républicaine) relativise le rejet en commission, qui a « tiré à blanc », tout en chiffrant à plus de 21 milliards le déficit qui résulterait des votes de la commission. Son groupe a voté la suppression du gel des pensions.",
+              "src": "LCP, 16 octobre 2026"
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Christophe Bentz (RN) juge le texte « très mauvais » et « très injuste », mais son groupe a refusé la motion de rejet pour débattre du budget et tenter de « limiter les dégâts ».",
+              "src": "LCP, 20 octobre 2026"
+            }
+          },
+          "sources": [
+            {
+              "t": "LCP – Budget de la Sécu : la motion de rejet de LFI écartée, l'examen lancé dans l'hémicycle",
+              "u": "https://lcp.fr/actualites/budget-de-la-secu-la-motion-de-rejet-de-lfi-ecartee-l-examen-du-texte-lance-dans-l"
+            },
+            {
+              "t": "Public Sénat – « Une situation hautement périlleuse » : la Cour des comptes alerte sur le trou de la Sécu",
+              "u": "https://www.publicsenat.fr/actualites/sante/une-situation-hautement-perilleuse-pour-la-cour-des-comptes-la-france-ne-peut-plus-differer-les-efforts-pour-resorber-le-trou-de-la-secu"
+            },
+            {
+              "t": "LCP – Budget de la Sécu : rejeté en commission, le texte examiné à partir de mardi dans l'hémicycle",
+              "u": "https://lcp.fr/actualites/budget-de-la-secu-rejete-en-commission-par-les-deputes-le-texte-sera-examine-a-partir-de"
+            },
+            {
+              "t": "Assemblée nationale – Dossier législatif PLFSS 2027",
+              "u": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PLFSS_2027"
+            }
+          ]
+        },
+        {
+          "id": "2026-10-21-campagne-securite",
+          "rubrique": "Présidentielle 2027",
+          "titre": "Sécurité de la campagne : partis convoqués jeudi à Matignon, Retailleau veut déplacer le second tour",
+          "chapo": "Le Premier ministre réunit jeudi les partis pour parler notamment de la sécurité de la présidentielle. Bruno Retailleau demande de changer la date du second tour, et le ministre de l'Intérieur alerte sur les ingérences étrangères.",
+          "faits": [
+            "Dans une lettre de deux pages envoyée mardi, Sébastien Lecornu invite les partis à Matignon jeudi 22 octobre ; il y écrit qu'« aucun désaccord, aucune colère, aucune ambition politique ne peut justifier le recours à la violence ». LFI et les Écologistes iront, le RN se fera représenter.",
+            "Bruno Retailleau (LR) demande de déplacer le second tour, fixé au 2 mai 2027, au lendemain du 1er-Mai ; le premier tour est prévu le 18 avril. Les dates relèvent d'un décret, mais la Constitution impose un second tour quatorze jours après le premier et une élection dans une fenêtre précise avant la fin du mandat, le 14 mai.",
+            "Au Sénat, qui a entamé mardi l'examen du projet de loi contre les ingérences étrangères, Laurent Nuñez a indiqué que près d'une centaine d'opérations numériques étrangères visant la présidentielle ont été détectées depuis l'été, contre 25 lors des élections de 2024.",
+            "Le texte triple les peines pour la diffusion de fausses informations en période électorale, jusqu'à trois ans de prison et 45 000 euros d'amende."
+          ],
+          "enjeu": "À six mois du scrutin, l'exécutif veut associer les partis à la sécurisation de la campagne, mais la réunion s'annonce tendue. La question du calendrier électoral et celle des ingérences étrangères touchent à la sincérité du scrutin.",
+          "positions": {
+            "gr": {
+              "type": "declare",
+              "texte": "Jean-Luc Mélenchon (LFI) juge la réunion « très étrange » et annonce que LFI s'y rendra : « On va y aller, on va te pourrir la réunion ». Il accuse le Premier ministre de faire porter à son mouvement la responsabilité des violences.",
+              "src": "AFP (France 24), 20 octobre 2026"
+            },
+            "g": {
+              "type": "declare",
+              "texte": "Marine Tondelier (Les Écologistes) ira à Matignon mais regrette qu'« à aucun moment, en deux pages », la lettre du Premier ministre ne parle de « comment on sort de la crise sociale ». La gauche lie sécurité de la campagne et réponse aux revendications sociales.",
+              "src": "AFP (Orange), 20 octobre 2026"
+            },
+            "c": {
+              "type": "declare",
+              "texte": "Sébastien Lecornu dénonce « un agenda de bordélisation de l'ultragauche jusqu'à l'élection présidentielle ». Laurent Nuñez prévient qu'« à six mois de l'élection présidentielle, la France aurait tort de se croire à l'abri » des ingérences étrangères.",
+              "src": "AFP (La Libre), 20 octobre 2026 ; Public Sénat, 20 octobre 2026"
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Bruno Retailleau (LR) demande au gouvernement de changer la date du second tour, qu'il juge « mauvaise » : « Peu de 1er mai se passent calmement ». Il estime qu'« il serait encore temps » de modifier le calendrier.",
+              "src": "BFMTV, 19 octobre 2026, cité par Public Sénat et le Journal du Net"
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Jordan Bardella (RN) raille un « conseil de classe » où « le proviseur Lecornu » demande aux partis d'être clairs sur la violence, et affirme que LFI « nourrit la violence ». Marine Le Pen et lui se feront représenter jeudi.",
+              "src": "AFP (Orange), 20 octobre 2026"
+            }
+          },
+          "sources": [
+            {
+              "t": "Orange (AFP) – Partis invités à Matignon : « on va te pourrir la réunion », dit Mélenchon à Lecornu",
+              "u": "https://actu.orange.fr/politique/partis-invites-a-matignon-apres-les-violences-quot-on-va-y-aller-on-va-te-pourrir-la-reunion-quot-dit-melenchon-a-lecornu-CNT000002thcq3.html"
+            },
+            {
+              "t": "La Libre (AFP) – Lecornu réunira les partis politiques jeudi",
+              "u": "https://www.lalibre.be/international/europe/2026/10/20/tensions-en-france-lecornu-reunira-les-partis-politiques-jeudi-3CDFFGMK6BGZNJHOIGLDRXMZ7Q/"
+            },
+            {
+              "t": "Public Sénat – Violences du 17 octobre : peut-on déplacer la date du second tour de l'élection présidentielle ?",
+              "u": "https://www.publicsenat.fr/actualites/politique/violences-du-17-octobre-peut-on-deplacer-la-date-du-second-tour-de-lelection-presidentielle"
+            },
+            {
+              "t": "Journal du Net – Bruno Retailleau demande au gouvernement de changer la date du second tour",
+              "u": "https://www.journaldunet.com/business/action-publique/1556849-bruno-retailleau-demande-au-gouvernement-de-changer-la-date-du-second-tour-de-la-presidentielle/"
+            },
+            {
+              "t": "Public Sénat – La présidentielle déjà ciblée par une centaine d'opérations d'ingérences étrangères",
+              "u": "https://www.publicsenat.fr/actualites/international/la-presidentielle-deja-ciblee-par-une-centaine-doperations-numeriques-dingerences-etrangeres-depuis-cet-ete-indique-laurent-nunez"
+            }
+          ]
+        }
+      ],
+      "breves": [
+        {
+          "titre": "Commerces pillés : prêts à taux zéro dès vendredi",
+          "texte": "Roland Lescure et David Amiel ont annoncé des prêts à taux zéro jusqu'à 50 000 euros, gérés par Bpifrance et disponibles dès vendredi, ainsi que l'étalement des charges fiscales et sociales des entreprises touchées. Le président du Medef, Patrick Martin, juge que l'État « a été défaillant » sur l'indemnisation.",
+          "src": {
+            "t": "L'essentiel (AFP) – Lecornu reçoit les syndicats avant de nouvelles manifestations",
+            "u": "https://www.lessentiel.lu/fr/story/crises-en-france-lecornu-recoit-les-syndicats-avant-de-nouvelles-manifestations-103644650"
+          }
+        },
+        {
+          "titre": "Gazole : Macron revient du Golfe avec des volumes supplémentaires",
+          "texte": "En tournée dans le Golfe, Emmanuel Macron a obtenu environ 295 000 tonnes de gazole supplémentaires par mois en octobre et novembre, en provenance des Émirats arabes unis, de Bahreïn et de l'Arabie saoudite, selon l'AFP.",
+          "src": {
+            "t": "L'essentiel (AFP) – Lecornu reçoit les syndicats avant de nouvelles manifestations",
+            "u": "https://www.lessentiel.lu/fr/story/crises-en-france-lecornu-recoit-les-syndicats-avant-de-nouvelles-manifestations-103644650"
+          }
+        },
+        {
+          "titre": "Mairie de Limoges : un suspect interpellé",
+          "texte": "Un homme fiché S a été interpellé mardi matin par le RAID dans l'enquête sur l'incendie de l'hôtel de ville de Limoges, dont la partie ancienne a été quasi entièrement détruite. La sous-direction antiterroriste a été saisie ; son rôle reste à déterminer, selon le parquet de Limoges.",
+          "src": {
+            "t": "Public Sénat – Incendie de la mairie de Limoges : qu'est-ce que l'ultragauche ?",
+            "u": "https://www.publicsenat.fr/actualites/politique/incendie-de-la-mairie-de-limoges-quest-ce-que-lultragauche-mouvance-dont-le-suspect-arrete-serait-issu"
+          }
+        }
+      ],
+      "agenda": [
+        {
+          "d": "Mer. 21 oct.",
+          "t": "Syndicats reçus à Matignon ; création définitive de la commission d'enquête de l'Assemblée sauf opposition avant 15 h"
+        },
+        {
+          "d": "Jeu. 22 oct.",
+          "t": "Partis politiques reçus à Matignon, notamment sur la sécurité de la campagne présidentielle"
+        },
+        {
+          "d": "Ven. 23 oct.",
+          "t": "Sébastien Lecornu attendu à Limoges ; prêts à taux zéro ouverts aux commerces touchés"
+        },
+        {
+          "d": "Sam. 24 oct.",
+          "t": "« Acte II » de la mobilisation, sous dispositif policier renforcé"
+        },
+        {
+          "d": "Mar. 27 oct.",
+          "t": "Fin prévue de l'examen du budget de la Sécurité sociale en première lecture à l'Assemblée"
+        },
+        {
+          "d": "Jeu. 5 nov.",
+          "t": "Journée de mobilisation intersyndicale"
+        }
+      ]
+    },
     {
       "date": "2026-10-20",
       "label": "Mardi 20 octobre 2026",
