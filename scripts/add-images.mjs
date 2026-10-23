@@ -20,9 +20,17 @@ const BLOCKED = [
 // Images génériques (logo, visuel par défaut du site) : on les écarte pour essayer l'article suivant.
 const GENERIC = /(\/bundles\/|logo|default|placeholder|fallback|global-news|share[-_]?image|og[-_]?default|no[-_]?image|avatar|favicon|sprite)/i;
 
+const NAMED = {
+  eacute: 'é', egrave: 'è', ecirc: 'ê', euml: 'ë', agrave: 'à', acirc: 'â', auml: 'ä', ccedil: 'ç',
+  icirc: 'î', iuml: 'ï', ocirc: 'ô', ouml: 'ö', ugrave: 'ù', ucirc: 'û', uuml: 'ü', oelig: 'œ', aelig: 'æ',
+  Eacute: 'É', Egrave: 'È', Ecirc: 'Ê', Agrave: 'À', Acirc: 'Â', Ccedil: 'Ç', Icirc: 'Î', Ocirc: 'Ô', OElig: 'Œ',
+  laquo: '«', raquo: '»', rsquo: '’', lsquo: '‘', ldquo: '“', rdquo: '”', hellip: '…', ndash: '–', mdash: '—', euro: '€',
+};
+
 const decode = (s) => s
   .replace(/&amp;/g, '&').replace(/&quot;/g, '"').replace(/&#0?39;|&apos;/g, "'")
-  .replace(/&lt;/g, '<').replace(/&gt;/g, '>')
+  .replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&nbsp;/g, ' ')
+  .replace(/&([a-z]+);/gi, (m, n) => NAMED[n] ?? m)
   .replace(/&#(\d+);/g, (_, n) => String.fromCodePoint(+n))
   .replace(/&#x([0-9a-f]+);/gi, (_, n) => String.fromCodePoint(parseInt(n, 16)));
 
