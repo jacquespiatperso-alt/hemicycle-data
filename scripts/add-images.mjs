@@ -17,6 +17,9 @@ const BLOCKED = [
   'nosparlementaires.fr', 'wikipedia.org', 'news.google.com', 'titrespresse.com',
 ];
 
+// Images génériques (logo, visuel par défaut du site) : on les écarte pour essayer l'article suivant.
+const GENERIC = /(\/bundles\/|logo|default|placeholder|fallback|global-news|share[-_]?image|og[-_]?default|no[-_]?image|avatar|favicon|sprite)/i;
+
 const decode = (s) => s
   .replace(/&amp;/g, '&').replace(/&quot;/g, '"').replace(/&#0?39;|&apos;/g, "'")
   .replace(/&lt;/g, '<').replace(/&gt;/g, '>')
@@ -72,7 +75,7 @@ async function imageFor(story) {
       let img = meta(html, ['og:image:secure_url', 'og:image', 'og:image:url', 'twitter:image', 'twitter:image:src']);
       if (!img) { console.log(`  pas d'og:image ${src.u}`); continue; }
       img = new URL(img, r.url).href.replace(/^http:\/\//, 'https://');
-      if (blocked(img) || !(await checkImage(img))) { console.log(`  image refusée ${img}`); continue; }
+      if (blocked(img) || GENERIC.test(new URL(img).pathname) || !(await checkImage(img))) { console.log(`  image refusée ${img}`); continue; }
       const credit = (src.t || '').split(/\s[–—-]\s/)[0].trim() || new URL(src.u).hostname.replace(/^www\./, '');
       const alt = meta(html, ['og:image:alt', 'twitter:image:alt']) || `Illustration de l'article de ${credit}`;
       return { u: img, credit, alt: alt.slice(0, 300) };
