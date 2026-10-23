@@ -1,0 +1,49 @@
+name: Images des sujets
+
+on:
+  push:
+    branches: [main]
+    paths: [editions.json]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+
+concurrency:
+  group: images
+  cancel-in-progress: false
+
+jobs:
+  images:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Chercher les images manquantes
+        run: node scripts/add-images.mjs
+
+      - name: Publier si des images ont été ajoutées
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if git diff --quiet editions.json; then
+            echo "Aucune image ajoutée."
+            exit 0
+          fi
+          node -e 'JSON.parse(require("fs").readFileSync("editions.json","utf8"))'
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add editions.json
+          git commit -m "Images des sujets"
+          git pull --rebase origin main
+          git push origin HEAD:main
+          # Un push fait avec GITHUB_TOKEN peut ne pas relancer GitHub Pages : on demande le build explicitement.
+          gh api -X POST "repos/${GITHUB_REPOSITORY}/pages/builds" || echo "Build Pages non demandé (il sera peut-être lancé automatiquement)."
