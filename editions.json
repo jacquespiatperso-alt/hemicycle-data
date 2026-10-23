@@ -157,7 +157,12 @@
               "t": "Europe 1 – Émeutes du 17 octobre : « Ces gens-là sont mus par la haine de notre pays », déplore Éric Zemmour",
               "u": "https://www.europe1.fr/societe/emeutes-du-17-octobre-ces-gens-la-sont-mus-par-la-haine-de-notre-pays-deplore-eric-zemmour-1161123"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2026-10/macron%2022%2010%2026.jpg?itok=QHvO1Pmx",
+            "credit": "LCP",
+            "alt": "Illustration de l'article de LCP"
+          }
         },
         {
           "id": "2026-10-23-reunion-matignon-partis",
@@ -256,7 +261,12 @@
               "t": "Sud Radio (AFP) – Macron en première ligne avec les lycéens et les forces de l'ordre, Lecornu à Limoges",
               "u": "https://www.sudradio.fr/societe/macron-en-premiere-ligne-avec-les-lyceens-et-les-forces-de-lordre-lecornu-a-limoges"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.publicsenat.fr/app/uploads/2026/10/SIPA_01309352_000012-1200x630.jpg",
+            "credit": "Public Sénat",
+            "alt": "Illustration de l'article de Public Sénat"
+          }
         },
         {
           "id": "2026-10-23-secu-depart-62-ans",
@@ -340,7 +350,12 @@
               "t": "LCP – Budget de la Sécu : la motion de rejet de LFI écartée, l'examen du texte lancé dans l'hémicycle",
               "u": "https://lcp.fr/actualites/budget-de-la-secu-la-motion-de-rejet-de-lfi-ecartee-l-examen-du-texte-lance-dans-l"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2026-10/Sandrine%20Rousseau.jpg?itok=wlQ0GVLc",
+            "credit": "LCP",
+            "alt": "Illustration de l'article de LCP"
+          }
         },
         {
           "id": "2026-10-23-encadrement-loyers-senat",
@@ -420,7 +435,12 @@
               "t": "LCP – Encadrement des loyers : l'Assemblée vote en faveur d'une pérennisation du dispositif",
               "u": "https://lcp.fr/actualites/encadrement-des-loyers-l-assemblee-vote-en-faveur-d-une-perennisation-du-dispositif"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.publicsenat.fr/app/uploads/2026/10/SIPA_00715500_000002-scaled.jpg",
+            "credit": "Public Sénat",
+            "alt": "Illustration de l'article de Public Sénat"
+          }
         },
         {
           "id": "2026-10-23-corse-autonomie-senat",
@@ -516,7 +536,12 @@
               "t": "Alta Frequenza – Autonomie de la Corse : le gouvernement se mobilise, l'alternative de Marine Le Pen rejetée",
               "u": "https://www.alta-frequenza.corsica/actu/autonomie_de_la_corse_le_gouvernement_se_mobilise_l_alternative_de_marine_le_pen_rejetee_128893"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.publicsenat.fr/app/uploads/2026/10/SIPA_01309034_000018-scaled.jpg",
+            "credit": "Public Sénat",
+            "alt": "Illustration de l'article de Public Sénat"
+          }
         },
         {
           "id": "2026-10-23-ukraine-kyiv-frappe",
@@ -620,7 +645,12 @@
               "t": "Boursorama (AFP) – Suspension de l'aide à l'Ukraine : Le Pen joue l'apaisement",
               "u": "https://www.boursorama.com/actualite-economique/actualites/suspension-de-l-aide-a-l-ukraine-le-pen-joue-l-apaisement-ses-lieutenants-montent-au-front-880ec05f04cc722af57919e38b6e5a04"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.boursorama.com/bundles/boursoramaui/images/news/global-news.jpg",
+            "credit": "Boursorama (Reuters)",
+            "alt": "Kyiv visée par 21 missiles russes, Moscou ciblée par les drones ukrainiens"
+          }
         }
       ],
       "breves": [
