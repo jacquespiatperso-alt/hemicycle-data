@@ -439,7 +439,12 @@
               "t": "Titrespresse (RTL) – Le Smic à 1 700 euros : Manuel Bompard sur RTL",
               "u": "https://www.titrespresse.com/22156422603/smic-manuel-bompard"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.economiematin.fr/wp-content/uploads/2026/10/manifesttions-paris-violences.jpg",
+            "credit": "Économie Matin",
+            "alt": "Émeutes 2026 : pourquoi votre assurance va coûter plus cher"
+          }
         },
         {
           "id": "2026-10-23-encadrement-loyers-senat",
