@@ -1,50 +1,75 @@
 {
-  "updated": "2026-10-23T06:26:58+02:00",
+  "updated": "2026-10-23T11:46:34+02:00",
   "editions": [
     {
       "date": "2026-10-23",
       "label": "Vendredi 23 octobre 2026",
-      "maj": "Mise à jour à 6 h 26",
-      "intro": "Emmanuel Macron veut que seules les manifestations syndicales soient autorisées ce week-end et dénonce des « actes séditieux » de l'ultragauche, une annonce que des juristes et la gauche jugent liberticide. À Matignon, la réunion des partis sur le 17 octobre a déçu de la gauche au RN, et Bruno Retailleau est parti avant la fin. À l'Assemblée, les députés ont voté un départ anticipé à 62 ans pour les carrières longues, et au Sénat l'encadrement des loyers a été prolongé de deux ans. En brèves : la justice suspend l'interdiction d'une manifestation étudiante à Paris, Macron reçoit les lycéens cet après-midi.",
+      "maj": "Mise à jour à 11 h 46",
+      "intro": "Seuls les cortèges syndicaux seront autorisés ce week-end : les préfectures multiplient les interdictions, le Conseil d'État est saisi et Emmanuel Macron reçoit les lycéens cet après-midi après un conseil de défense. La réunion des partis à Matignon a déçu de la gauche au RN. À l'Assemblée, les députés ont voté un départ anticipé à 62 ans et supprimé la taxe sur les sucres ; le Sénat prolonge l'encadrement des loyers et s'apprête à débattre de l'autonomie de la Corse. À l'international : Kyiv frappée par des missiles à sous-munitions au lendemain de la visite de Steve Witkoff à Vladimir Poutine.",
       "stories": [
         {
           "id": "2026-10-23-manifestations-syndicales-seules",
           "rubrique": "Libertés publiques",
-          "titre": "Ce week-end, seules les manifestations syndicales seront autorisées, annonce Emmanuel Macron",
-          "chapo": "Après une réunion avec les services de renseignement, le chef de l'État a dénoncé des « actes séditieux » de groupes d'ultragauche le 17 octobre et demandé aux préfets d'interdire les autres cortèges samedi et dimanche. Un conseil de défense se tient ce vendredi matin.",
+          "titre": "Week-end sous restrictions : seules les manifestations syndicales autorisées, un recours devant le Conseil d'État",
+          "chapo": "Après la consigne d'Emmanuel Macron de n'autoriser samedi et dimanche que les cortèges syndicaux, les préfectures multiplient les interdictions et un recours a été déposé devant le Conseil d'État. Le chef de l'État a présidé ce vendredi matin un conseil de défense avant de recevoir les lycéens à 15 h.",
           "faits": [
-            "Jeudi, à l'Élysée, Emmanuel Macron a affirmé que le 17 octobre avait connu des « actes séditieux » de « groupes organisés d'ultragauche » visant à « faire tomber la République », distincts de la délinquance ordinaire, qui appelle selon lui aussi « la plus grande dureté ».",
-            "« La recommandation générale, c'est qu'il n'y ait pas de manifestation dans les jours à venir », a-t-il déclaré : pour samedi 24 et dimanche 25 octobre, seuls les cortèges syndicaux seraient autorisés, sur des parcours alternatifs fixés par les préfets ; les autres, déposés par des gens qui n'ont « aucune légitimité pour cela », seront interdits « partout où on le peut ».",
-            "La porte-parole du gouvernement, Maud Bregeon, a précisé que les interdictions seraient décidées « au cas par cas », dans le cadre de l'État de droit et sous le contrôle du tribunal administratif ; des manifestations sont déjà interdites ou restreintes à Lyon, Marseille, Rouen et Toulon.",
-            "Le ministère de l'Intérieur prévoit samedi une mobilisation policière supérieure de 20 % à celle du week-end dernier, avec blindés, militaires de Sentinelle et unités d'élite ; selon les autorités, environ 2 700 personnes ont été placées en garde à vue après le 17 octobre.",
-            "Les professeurs de droit Paul Cassia (Paris 1) et Serge Slama (Grenoble Alpes) estiment que le président « sort complètement de son rôle constitutionnel » et inverse le principe selon lequel la liberté de manifester est la règle ; un conseiller de l'exécutif assure qu'il « n'outrepasse absolument pas ses prérogatives »."
+            "Jeudi, après un conseil de sécurité, Emmanuel Macron a dénoncé des « actes séditieux » de groupes d'ultragauche le 17 octobre et déclaré : « La recommandation générale, c'est qu'il n'y ait pas de manifestation dans les jours à venir » ; seuls les cortèges syndicaux seront autorisés samedi 24 octobre, sur des parcours fixés par les préfets.",
+            "À Paris, la préfecture de police autorise le cortège déclaré notamment par la CGT entre Bastille et Nation et interdit celui d'Interfac et de gilets jaunes vers Opéra ; le préfet du Rhône interdit « toute manifestation » à Lyon, celui des Bouches-du-Rhône toutes les manifestations du département avec un couvre-feu étendu aux majeurs de 23 h à 5 h ; à Orléans, le rassemblement anti-RN de samedi est autorisé, celui de dimanche interdit.",
+            "L'Association de défense des libertés constitutionnelles (Adelico) et le Syndicat de la magistrature ont saisi jeudi soir le Conseil d'État en référé-liberté, estimant que le président excède ses pouvoirs et que la distinction entre syndicats et autres organisateurs est infondée ; jeudi, le tribunal administratif de Paris avait déjà annulé l'interdiction d'un rassemblement étudiant d'Interfac.",
+            "Ce vendredi, Emmanuel Macron a présidé à 9 h un conseil de défense dont l'Élysée attendait des « décisions supplémentaires », non rendues publiques à la mi-journée ; il reçoit les organisations lycéennes à 15 h. Le dispositif policier de samedi sera supérieur de 20 % à celui du 17 octobre, avec militaires de Sentinelle, Raid, GIGN, BRI, hélicoptères et blindés.",
+            "Sophie Binet (CGT) juge la mesure « très grave » : « la liberté de manifester, c'est le fondement de la démocratie ». Le maître de conférences John-Christopher Rolland relève que « rien dans la loi » ne distingue une manifestation syndicale d'une autre ; pour Linda Kebbab (Un1té, police), le déploiement envoie « un message politique »."
           ],
-          "enjeu": "L'exécutif parie qu'un week-end sans cortèges non syndicaux évitera de nouvelles violences, au risque de recours en série devant les tribunaux administratifs et d'une confrontation avec les jeunes mobilisés hors des syndicats. Le conseil de défense de ce vendredi doit préciser la portée réelle de ces restrictions.",
+          "enjeu": "L'exécutif parie qu'un week-end sans cortèges non syndicaux évitera de nouvelles violences, au risque d'un désaveu du Conseil d'État ou des tribunaux administratifs et d'une confrontation avec les jeunes mobilisés hors des syndicats. La réception des lycéens à l'Élysée et la concertation de lundi à Matignon diront si une réponse politique accompagne la réponse sécuritaire.",
           "positions": {
-            "gr": {
-              "type": "declare",
-              "texte": "Les députés LFI jugent la décision liberticide : « Ainsi mourut le droit de manifester », écrit Alma Dufour, tandis qu'Éric Coquerel craint une situation « éclatée et non anticipée » pour la police. Fabien Roussel (PCF) qualifie la position de l'exécutif d'« anti-démocratique ».",
-              "src": "LCP, 22 octobre 2026 ; Brut, 22 octobre 2026"
-            },
-            "g": {
+            "eg": {
               "type": "lecture",
-              "texte": "Le courant défend habituellement la liberté de manifester comme un droit fondamental et se montre réservé face aux interdictions générales, tout en condamnant les violences et les pillages. Il plaide en général pour une doctrine de maintien de l'ordre fondée sur la désescalade et pour des réponses aux revendications sociales.",
+              "texte": "Le courant défend habituellement le droit de manifester sans autorisation préalable des pouvoirs publics et dénonce les interdictions comme une répression du mouvement social. Il appelle en général à poursuivre la mobilisation dans la rue et refuse de distinguer les cortèges syndicaux des autres.",
               "src": ""
             },
-            "c": {
+            "gr": {
               "type": "declare",
-              "texte": "Emmanuel Macron assume vouloir « le retour au calme » et des interdictions ce week-end « parce que ce n'est pas le moment ». Maud Bregeon, porte-parole du gouvernement, assure que les décisions seront prises « au cas par cas », dans le cadre de l'État de droit et avec possibilité de recours.",
-              "src": "LCP, 22 octobre 2026"
+              "texte": "Les députés LFI jugent la décision liberticide : « Ainsi mourut le droit de manifester », écrit Alma Dufour, tandis qu'Éric Coquerel craint une situation « éclatée et non anticipée » pour la police. Fabien Roussel (PCF) qualifie l'interdiction évoquée par le président d'« anti-démocratique ».",
+              "src": "LCP, 22 octobre 2026 ; Brut, 22 octobre 2026"
+            },
+            "soc": {
+              "type": "declare",
+              "texte": "Olivier Faure (PS) estime qu'« on ne peut pas traiter uniquement de manière sécuritaire un sujet d'abord politique » et réclame une réponse politique. Boris Vallaud (PS) avait jugé mardi que le gouvernement a « failli » faute d'avoir écouté « les revendications légitimes de la jeunesse ».",
+              "src": "La Provence, 22 octobre 2026 ; Assemblée nationale, 20 octobre 2026"
+            },
+            "eco": {
+              "type": "declare",
+              "texte": "Marine Tondelier (Les Écologistes) estime que « parier sur le pourrissement du mouvement est une erreur impardonnable ». À l'Assemblée, la députée écologiste Léa Balage El Mariky a accusé le gouvernement de répression et l'a appelé à « faire des lois contre la misère ».",
+              "src": "L'Express, 22 octobre 2026 ; Assemblée nationale, 20 octobre 2026"
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "Maud Bregeon (Renaissance), porte-parole du gouvernement, assure que les interdictions seront décidées « au cas par cas » et que « des recours sont possibles devant le tribunal administratif ». Gabriel Attal (Renaissance) a jugé lundi que s'il faut décréter l'état d'urgence, « il faut le faire ».",
+              "src": "LCP, 22 octobre 2026 ; LCP, 19 octobre 2026"
+            },
+            "modem": {
+              "type": "declare",
+              "texte": "Marc Fesneau, président du groupe MoDem à l'Assemblée, a interrogé mardi le gouvernement sur les initiatives prévues pour rétablir l'ordre : « Comment entendez-vous garantir durablement la paix civile » et protéger les Français, a-t-il demandé.",
+              "src": "Assemblée nationale, 20 octobre 2026"
+            },
+            "hor": {
+              "type": "declare",
+              "texte": "Édouard Philippe (Horizons) a réclamé dès dimanche des décisions pour le retour à l'ordre, estimant que « notre pays a besoin d'être commandé ». Le député Horizons Laurent Marcangeli a demandé mardi quel dispositif était prévu samedi « pour éviter un acte II ».",
+              "src": "Europe 1, 18 octobre 2026 ; Assemblée nationale, 20 octobre 2026"
             },
             "d": {
               "type": "declare",
-              "texte": "Bruno Retailleau (LR) juge les mesures insuffisantes et continue de réclamer l'état d'urgence, estimant qu'il faut « se saisir de cet arsenal ». Il demande aussi un réexamen du calendrier de la présidentielle, dont le second tour doit avoir lieu le 2 mai.",
-              "src": "Public Sénat, 22 octobre 2026 ; franceinfo, 22 octobre 2026"
+              "texte": "Bruno Retailleau (LR) juge les mesures insuffisantes et réclame l'état d'urgence. Il demande aussi que soit « reconsidéré » le calendrier de la présidentielle, dont le second tour doit avoir lieu le 2 mai.",
+              "src": "Public Sénat, 22 octobre 2026"
             },
             "dn": {
               "type": "declare",
-              "texte": "Guilhem Carayon, vice-président délégué de l'UDR d'Éric Ciotti, salue la limitation des manifestations du 24 octobre : « Il était temps ». Il appelle à un « réarmement régalien » de l'État face aux violences.",
-              "src": "franceinfo, 22 octobre 2026"
+              "texte": "Éric Ciotti (UDR) avait demandé mardi au gouvernement : « Interdirez-vous toutes les manifestations du week-end ? ». Guilhem Carayon, vice-président délégué de l'UDR, salue la limitation des cortèges : « Il était temps », et appelle à un « réarmement régalien » de l'État.",
+              "src": "Assemblée nationale, 20 octobre 2026 ; franceinfo, 22 octobre 2026"
+            },
+            "ed": {
+              "type": "declare",
+              "texte": "Éric Zemmour (Reconquête) attribue les violences du 17 octobre à des casseurs « mus par la haine de notre pays et par la volonté de se venger de la colonisation », assurant : « On sait qui c'est, on sait d'où ça vient ».",
+              "src": "Europe 1, 18 octobre 2026"
             }
           },
           "sources": [
@@ -53,12 +78,44 @@
               "u": "https://lcp.fr/actualites/emmanuel-macron-souhaite-interdire-ce-week-end-les-manifestations-organisees-par-des"
             },
             {
+              "t": "Public Sénat – Emmanuel Macron serre la vis sur les mobilisations : jusqu'à quel point peut-on restreindre la liberté de manifester ?",
+              "u": "https://www.publicsenat.fr/actualites/politique/emmanuel-macron-serre-la-vis-sur-les-mobilisations-jusqua-quel-point-peut-on-restreindre-la-liberte-de-manifester"
+            },
+            {
               "t": "Europe 1 – Violences : Emmanuel Macron dénonce une volonté de l'ultragauche de « faire tomber la République »",
               "u": "https://www.europe1.fr/politique/violences-emmanuel-macron-denonce-une-volonte-de-lultragauche-de-faire-tomber-la-republique-1173594"
             },
             {
-              "t": "Le Petit Journal – Macron serre la vis sur les manifestations avant un nouveau samedi de mobilisation",
-              "u": "https://lepetitjournal.com/expat-politique/actualites/macron-serre-la-vis-sur-les-manifestations-avant-un-nouveau-samedi-de-mobilisation-456789"
+              "t": "Europe 1 – Paris : parcours de manifestation validé entre Bastille et Nation, interdit vers Opéra",
+              "u": "https://www.europe1.fr/societe/paris-parcours-de-manifestation-valide-entre-bastille-et-nation-interdit-vers-opera-1173618"
+            },
+            {
+              "t": "Lyon Capitale – Acte II contre la vie chère : toutes les manifestations interdites samedi à Lyon",
+              "u": "https://www.lyoncapitale.fr/actualite/acte-ii-contre-la-vie-chere-toutes-les-manifestations-interdites-samedi-a-lyon"
+            },
+            {
+              "t": "Maritima – Bouches-du-Rhône : manifestations interdites samedi et couvre-feu étendu aux majeurs",
+              "u": "https://maritima.fr/actualites/defense/bouches-du-rhone/16338/bouches-du-rhone-manifestations-interdites-samedi-et-couvre-feu-etendu-aux-majeurs"
+            },
+            {
+              "t": "TRT Français – France : un recours déposé contre l'interdiction des manifestations non « légitimes »",
+              "u": "https://www.trtfrancais.com/article/051b5feda35e"
+            },
+            {
+              "t": "Sud Radio (AFP) – Macron en première ligne avec les lycéens et les forces de l'ordre, Lecornu à Limoges",
+              "u": "https://www.sudradio.fr/societe/macron-en-premiere-ligne-avec-les-lyceens-et-les-forces-de-lordre-lecornu-a-limoges"
+            },
+            {
+              "t": "franceinfo – Direct : « C'est très grave, la liberté de manifester c'est le fondement de la démocratie », déclare Sophie Binet",
+              "u": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/direct-manifestations-du-24-octobre-emmanuel-macron-preside-un-conseil-de-defense-a-9-heures-avant-de-recevoir-les-lyceens-dans-l-apres-midi_8250124.html"
+            },
+            {
+              "t": "Titrespresse (L'Humanité) – Sophie Binet (CGT) : « C'est très grave, la liberté de manifester, c'est… »",
+              "u": "https://www.titrespresse.com/26218772603/sophie-binet-cgt"
+            },
+            {
+              "t": "Yahoo Actualités (20 Minutes) – Manifestation du 24 octobre : pourquoi envoyer le Raid face aux casseurs ressemble à un piège pour les policiers",
+              "u": "https://fr.news.yahoo.com/sport/manifestation-24-octobre-pourquoi-envoyer-154550960.html"
             },
             {
               "t": "franceinfo – « Il sort complètement de son rôle constitutionnel » : Emmanuel Macron peut-il décider d'interdire les manifestations qui ne sont pas organisées par des syndicats ?",
@@ -71,6 +128,34 @@
             {
               "t": "Brut – Qu'ont pensé les partis politiques de la réunion à Matignon ?",
               "u": "https://www.brut.media/fr/articles/france/politique/comment-ressortent-les-partis-politiques-de-la-reunion-a-matignon"
+            },
+            {
+              "t": "Public Sénat – Réunion des partis politiques à Matignon : « De qui se moque-t-on ? On a assisté à une réunion technique » déplore la gauche",
+              "u": "https://www.publicsenat.fr/actualites/politique/reunion-des-partis-politiques-a-matignon-de-qui-se-moque-t-on-on-a-assiste-a-une-reunion-technique-deplore-la-gauche"
+            },
+            {
+              "t": "Titrespresse (La Provence) – Manifestations : « On ne peut pas traiter uniquement de manière sécuritaire un sujet d'abord politique », Olivier Faure",
+              "u": "https://www.titrespresse.com/26087022603/oliver-faure-ps"
+            },
+            {
+              "t": "Orange (L'Express/6Medias) – Mobilisation du 24 octobre : la gauche « en colère », le RN rassuré après une réunion des partis à Matignon",
+              "u": "https://actu.orange.fr/politique/mobilisation-du-24-octobre-la-gauche-en-colere-le-rn-rassure-apres-une-reunion-des-partis-a-matignon-l-express-via-6medias-CNT000002tlbpy.html"
+            },
+            {
+              "t": "LCP – Violences du 17 octobre : qui propose quoi sur le maintien de l'ordre ?",
+              "u": "https://lcp.fr/actualites/violences-du-17-octobre-qui-propose-quoi-sur-le-maintien-de-l-ordre-444073"
+            },
+            {
+              "t": "Assemblée nationale – Compte rendu de la première séance du mardi 20 octobre 2026 (questions au gouvernement)",
+              "u": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-mardi-20-octobre-2026"
+            },
+            {
+              "t": "Europe 1 – En direct – Émeutes du 17 octobre : les réactions de la classe politique après l'allocution d'Emmanuel Macron",
+              "u": "https://www.europe1.fr/societe/en-direct-emeutes-du-17-octobre-emmanuel-macron-sadressera-aux-francais-a-20-heures-1159713"
+            },
+            {
+              "t": "Europe 1 – Émeutes du 17 octobre : « Ces gens-là sont mus par la haine de notre pays », déplore Éric Zemmour",
+              "u": "https://www.europe1.fr/societe/emeutes-du-17-octobre-ces-gens-la-sont-mus-par-la-haine-de-notre-pays-deplore-eric-zemmour-1161123"
             }
           ]
         },
@@ -80,37 +165,62 @@
           "titre": "Réunion des partis à Matignon : « réunion technique » pour la gauche, Retailleau part avant la fin",
           "chapo": "Trois heures d'échanges sur le 17 octobre et la doctrine du maintien de l'ordre n'ont pas rapproché les forces politiques. La gauche dénonce l'absence de réponse aux revendications sociales, la droite et le RN reprochent au gouvernement de minimiser ses responsabilités.",
           "faits": [
-            "Sébastien Lecornu a reçu jeudi les partis de 14 h 30 à environ 17 h 30, entouré de Laurent Nuñez (Intérieur), de Gérald Darmanin (Justice) et de responsables du renseignement et des forces de l'ordre, après avoir promis la « transparence » sur le déroulement du 17 octobre.",
-            "Selon plusieurs participants, la réunion a pris la forme d'un exposé sur la doctrine française du maintien de l'ordre, sans annonce nouvelle ; Marine Tondelier évoque des « power point » et des participants « traités comme des élèves ».",
-            "Marine Le Pen et Jordan Bardella ont décliné l'invitation : le RN était représenté par Edwige Diaz et Louis Aliot ; Christophe Béchu représentait Horizons à la place d'Édouard Philippe. Bruno Retailleau (LR) a quitté la réunion au bout d'environ une heure.",
-            "Le Premier ministre a ensuite reçu les maires de Paris, Lyon et Marseille ; il doit réunir lundi les organisations lycéennes et étudiantes, enseignantes, syndicales, patronales et les élus locaux."
+            "Sébastien Lecornu a reçu jeudi les partis de 14 h 30 à environ 17 h 30, entouré de Laurent Nuñez (Intérieur), de Gérald Darmanin (Justice) et de responsables du renseignement et des forces de l'ordre ; selon Maud Bregeon, porte-parole du gouvernement, « l'objectif, c'était de rappeler quelle était la doctrine du maintien de l'ordre ».",
+            "Selon plusieurs participants, la réunion a pris la forme d'un exposé sans annonce nouvelle ; Marine Tondelier évoque des « power point » et des participants « traités comme des élèves ». Le gouvernement a écarté l'état d'urgence réclamé par LR.",
+            "Marine Le Pen et Jordan Bardella ont décliné l'invitation : le RN était représenté par Edwige Diaz et Louis Aliot ; Christophe Béchu représentait Horizons, Olivier Faure, Boris Vallaud et Patrick Kanner le PS. Bruno Retailleau (LR) est parti au bout d'environ une heure, Manuel Bompard (LFI) lui aussi avant la fin.",
+            "Le Premier ministre a ensuite reçu les maires de Paris, Lyon et Marseille ; il se rend ce vendredi à Limoges, dont l'hôtel de ville a été incendié le 17 octobre, et doit réunir lundi les organisations lycéennes et étudiantes, enseignantes, syndicales, patronales, les collectivités et les parlementaires."
           ],
           "enjeu": "Matignon espérait afficher un front commun avant le week-end ; la réunion a surtout montré l'écart entre une gauche qui réclame des réponses sociales et une droite qui veut un durcissement sécuritaire. La concertation de lundi devra montrer si le gouvernement a une offre au-delà de l'ordre public.",
           "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant, qui n'est pas représenté dans ce type de réunion, juge habituellement ces concertations avec les partis inutiles face à un mouvement social. Il défend en général la mobilisation dans la rue et les revendications salariales plutôt qu'un dialogue centré sur l'ordre public.",
+              "src": ""
+            },
             "gr": {
               "type": "declare",
-              "texte": "Manuel Bompard (LFI) estime que la réunion a « fait perdre du temps au pays » et que le Premier ministre n'est jamais entré dans le débat sur les revendications des jeunes. Fabien Roussel (PCF) se dit déçu d'une réunion « technique », sans réponse aux urgences sociales.",
-              "src": "Public Sénat, 22 octobre 2026 ; Brut, 22 octobre 2026"
+              "texte": "Manuel Bompard (LFI) estime que la réunion a « fait perdre » du temps au pays et que le Premier ministre n'est pas « rentré dans le débat précis » sur les revendications des jeunes. Fabien Roussel (PCF), « extrêmement déçu », demande de « traiter les causes de ces manifestations et pas les symptômes ».",
+              "src": "Public Sénat, 22 octobre 2026 ; L'Express, 22 octobre 2026"
             },
-            "g": {
+            "soc": {
               "type": "declare",
-              "texte": "Marine Tondelier (Les Écologistes) sort « encore plus inquiète et en colère » et lance : « De qui se moque-t-on ? ». Raphaël Glucksmann (Place publique), soutenu par le PS, regrette de n'avoir « pas obtenu de réponses claires » et défend l'abrogation de Parcoursup et l'annulation des suppressions de postes dans l'Éducation.",
-              "src": "Public Sénat, 22 octobre 2026"
+              "texte": "Raphaël Glucksmann (Place publique), candidat soutenu par le PS, regrette : « Nous n'avons pas obtenu de réponses claires ». Il juge « inquiétant » de n'avoir eu aucune réponse sur le « fiasco sécuritaire » du 17 octobre et estime que « le gouvernement ne fait pas de politique ».",
+              "src": "Public Sénat, 22 octobre 2026 ; AFP, 22 octobre 2026 ; Brut, 22 octobre 2026"
             },
-            "c": {
+            "eco": {
               "type": "declare",
-              "texte": "Christophe Béchu (Horizons) pose comme « préalable » la « condamnation sans retenue de la violence » et souhaite ne pas revoir « les mêmes images que la semaine dernière ». Il demande l'examen à l'Assemblée du texte du Sénat sur les polices municipales.",
+              "texte": "Marine Tondelier (Les Écologistes) sort « avec beaucoup de colère » et lance : « De qui se moque-t-on ? ». Elle juge que « parier sur le pourrissement du mouvement est une erreur impardonnable » et constate : « on ne se comprend plus ».",
+              "src": "Public Sénat, 22 octobre 2026 ; L'Express, 22 octobre 2026"
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "Maud Bregeon (Renaissance), porte-parole du gouvernement, défend l'ordre comme une priorité : « Sans ordre public, il ne peut pas y avoir de discussion sereine, apaisée, contradictoire sur des revendications ». Elle a écarté l'état d'urgence.",
+              "src": "AFP, 22 octobre 2026 ; Brut, 22 octobre 2026"
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant, allié du gouvernement, soutient habituellement ce type de concertation transpartisane et place le retour au calme comme préalable. Il plaide en général pour conjuguer fermeté face aux violences et écoute des revendications, notamment celles de la jeunesse.",
+              "src": ""
+            },
+            "hor": {
+              "type": "declare",
+              "texte": "Christophe Béchu (Horizons) pose comme « préalable » la « condamnation sans retenue de la violence » et réclame de l'ordre dans les rues. Il demande l'inscription à l'Assemblée du texte voté par le Sénat en février pour élargir les pouvoirs des polices municipales.",
               "src": "Public Sénat, 22 octobre 2026 ; Brut, 22 octobre 2026"
             },
             "d": {
               "type": "declare",
-              "texte": "Bruno Retailleau (LR) a quitté la réunion en jugeant « cocasse » la présence d'élus LFI, à qui il attribue une « responsabilité majeure » dans le climat de violence. Il dit n'avoir « été écouté sur aucun » de ses points, dont l'état d'urgence.",
+              "texte": "Bruno Retailleau (LR) a quitté la réunion en affirmant que « les élus LFI ont une responsabilité majeure dans le climat de violence ». Il dit n'avoir été entendu sur aucun de ses points, dont l'état d'urgence et un calendrier présidentiel « reconsidéré ».",
               "src": "Public Sénat, 22 octobre 2026 ; Brut, 22 octobre 2026"
             },
             "dn": {
               "type": "declare",
-              "texte": "Edwige Diaz (RN) accuse Sébastien Lecornu et Laurent Nuñez de chercher à « minimiser » leurs responsabilités, tout en se disant rassurée sur la sécurité du congrès d'Orléans. Louis Aliot (RN) prévient que d'éventuelles violences ce week-end seraient « la responsabilité de la gauche ».",
-              "src": "Public Sénat, 22 octobre 2026"
+              "texte": "Edwige Diaz (RN) accuse Sébastien Lecornu et Laurent Nuñez de chercher à « minimiser » leurs responsabilités, tout en se disant rassurée sur la sécurité du congrès d'Orléans. Louis Aliot (RN) prévient : « s'il y a de la casse à Orléans ce week-end, ce sera la responsabilité de la gauche ».",
+              "src": "Public Sénat, 22 octobre 2026 ; AFP, 22 octobre 2026"
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant, absent de la réunion, réclame habituellement un durcissement sécuritaire bien au-delà des mesures gouvernementales. Il relie en général les violences urbaines à l'immigration et prône une réponse pénale et policière renforcée.",
+              "src": ""
             }
           },
           "sources": [
@@ -123,51 +233,93 @@
               "u": "https://www.brut.media/fr/articles/france/politique/comment-ressortent-les-partis-politiques-de-la-reunion-a-matignon"
             },
             {
+              "t": "La Gazette France (AFP) – Réunion des partis à Matignon : la gauche déçue, le gouvernement défend l'ordre comme une « priorité »",
+              "u": "https://www.lagazettefrance.fr/article/reunion-des-partis-a-matignon-la-gauche-decue-le-gouvernement-defend-l-ordre-comme-une-priorite"
+            },
+            {
+              "t": "Orange (L'Express/6Medias) – Mobilisation du 24 octobre : la gauche « en colère », le RN rassuré après une réunion des partis à Matignon",
+              "u": "https://actu.orange.fr/politique/mobilisation-du-24-octobre-la-gauche-en-colere-le-rn-rassure-apres-une-reunion-des-partis-a-matignon-l-express-via-6medias-CNT000002tlbpy.html"
+            },
+            {
+              "t": "Orange (vidéo) – Partis politiques reçus à Matignon : « L'objectif, c'était de rappeler quelle était la doctrine du maintien de l'ordre », explique Maud Bregeon",
+              "u": "https://actu.orange.fr/videos/politique/partis-politiques-recus-a-matignon-l-objectif-c-etait-de-rappeler-quelle-etait-la-doctrine-du-maintien-de-l-ordre-explique-maud-bregeon-porte-parole-du-gouvernement-CNT000002tlaDm.html"
+            },
+            {
               "t": "franceinfo – « Perte de temps », « des responsabilités minimisées »… Les oppositions fustigent le gouvernement à l'issue de la réunion à Matignon",
               "u": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/reunion-des-partis-a-matignon-sebastien-lecornu-a-fait-perdre-du-temps-au-pays-denonce-manuel-bompard_8249335.html"
             },
             {
-              "t": "Le Petit Journal – Macron serre la vis sur les manifestations avant un nouveau samedi de mobilisation",
-              "u": "https://lepetitjournal.com/expat-politique/actualites/macron-serre-la-vis-sur-les-manifestations-avant-un-nouveau-samedi-de-mobilisation-456789"
+              "t": "Journal du Net – Emmanuel Macron restreint les manifestations et renforce la sécurité après les violences du 17 octobre",
+              "u": "https://www.journaldunet.com/business/action-publique/1557027-emmanuel-macron-restreint-les-manifestations-et-renforce-la-securite-apres-les-violences-du-17-octobre/"
+            },
+            {
+              "t": "Sud Radio (AFP) – Macron en première ligne avec les lycéens et les forces de l'ordre, Lecornu à Limoges",
+              "u": "https://www.sudradio.fr/societe/macron-en-premiere-ligne-avec-les-lyceens-et-les-forces-de-lordre-lecornu-a-limoges"
             }
           ]
         },
         {
           "id": "2026-10-23-secu-depart-62-ans",
           "rubrique": "Social",
-          "titre": "Budget de la Sécu : les députés votent un départ anticipé à 62 ans pour les carrières de 42 ans",
-          "chapo": "Contre l'avis du gouvernement, l'Assemblée a adopté un amendement écologiste créant un « congé anticipatoire de départ en retraite ». Une victoire symbolique, dont l'avenir dépend de l'issue très incertaine du budget.",
+          "titre": "Budget de la Sécu : les députés votent un départ anticipé à 62 ans et rejettent la taxe sur les sucres",
+          "chapo": "Contre l'avis du gouvernement, l'Assemblée a adopté un « congé anticipatoire » pour les carrières de 42 ans, puis supprimé la taxe sur les produits sucrés. Le vote solennel sur l'ensemble du texte est prévu mardi 27 octobre.",
           "faits": [
-            "Jeudi, lors de l'examen du budget de la Sécurité sociale pour 2027, les députés ont adopté par 45 voix contre 36 un amendement du groupe Écologiste et social porté par Sandrine Rousseau.",
-            "Le dispositif permettrait aux salariés d'au moins 62 ans ayant cotisé 168 trimestres (42 ans) d'arrêter de travailler jusqu'à l'âge légal, en percevant de leur employeur un revenu égal à leur future pension à taux plein ; l'employeur serait compensé par des exonérations de cotisations sociales.",
-            "Le coût n'a pas été chiffré : selon ses auteurs, les exonérations compenseraient « à l'euro près » les sommes versées, mais la Sécurité sociale perdrait des recettes.",
-            "Selon LCP, la mesure a peu de chances de s'appliquer : l'Assemblée n'a pas de majorité pour adopter le texte, et un recours au 49.3 ou aux ordonnances l'écarterait vraisemblablement ; le relèvement de l'âge légal à 64 ans avait déjà été partiellement suspendu dans le budget de la Sécu pour 2026."
+            "Jeudi 22 octobre, les députés ont adopté par 45 voix contre 36 un amendement du groupe Écologiste et social, porté par Sandrine Rousseau : les salariés d'au moins 62 ans ayant cotisé 168 trimestres (42 ans) pourraient cesser de travailler jusqu'à l'âge légal, avec un revenu égal à leur future pension versé par l'employeur, compensé par des exonérations de cotisations.",
+            "Le coût n'a pas été chiffré ; selon LCP, la mesure a peu de chances de s'appliquer, faute de majorité pour adopter le texte, et un recours au 49.3 ou aux ordonnances l'écarterait vraisemblablement.",
+            "Jeudi également, les députés ont supprimé par 86 voix contre 58 la taxe sur les produits transformés sucrés, qui devait rapporter environ 300 millions d'euros : LR et le RN ont voté pour la suppression, MoDem, LFI, socialistes, écologistes et Liot contre, Renaissance et Horizons se sont divisés, selon l'AFP.",
+            "Les députés ont aussi supprimé l'article 9, qui créait une contribution de 3,6 % sur certains dispositifs médicaux remboursés, et adopté, contre l'avis du gouvernement, la suppression de la hausse annuelle des accises sur le tabac indexée sur l'inflation.",
+            "La discussion des articles doit s'achever lundi 26 octobre, avant un vote solennel mardi 27 octobre ; le texte partira ensuite au Sénat, le Parlement ayant jusqu'au 26 novembre pour se prononcer."
           ],
-          "enjeu": "Le vote rouvre, à six mois de la présidentielle, le débat sur la réforme des retraites de 2023 sans l'abroger formellement. Il illustre aussi la difficulté du gouvernement à tenir son texte dans un hémicycle sans majorité, où chaque amendement adopté contre lui complique une issue négociée.",
+          "enjeu": "Chaque amendement adopté contre le gouvernement éloigne le texte de l'équilibre recherché, à commencer par un déficit visé de 12,7 milliards d'euros. Le vote du 27 octobre dira si une majorité existe pour le budget de la Sécu ou si l'exécutif devra recourir au 49.3 ou aux ordonnances.",
           "positions": {
-            "gr": {
+            "eg": {
               "type": "lecture",
-              "texte": "Le courant défend habituellement l'abrogation pure et simple de la réforme de 2023 et le retour de la retraite à 60 ans. Il soutient en général les mesures qui avancent l'âge de départ, tout en jugeant insuffisants les aménagements partiels.",
+              "texte": "Le courant réclame habituellement l'abrogation des réformes des retraites et le retour à la retraite à 60 ans. Il juge en général que la Sécurité sociale doit être financée par les cotisations patronales plutôt que par des économies sur les assurés.",
               "src": ""
             },
-            "g": {
+            "gr": {
               "type": "declare",
-              "texte": "Sandrine Rousseau (Les Écologistes) défend un congé jusqu'à l'âge légal financé par l'employeur et « compensé à l'euro près » par des exonérations. Le groupe Écologiste et social salue une « immense victoire » et demande au gouvernement de conserver la mesure.",
-              "src": "LCP, 22 octobre 2026 ; Moneyvox, 22 octobre 2026"
+              "texte": "À l'ouverture des débats, Hadrien Clouet (LFI) a défendu une motion de rejet contre un « texte de classe », finalement écartée par l'Assemblée. Son groupe a voté contre la suppression de la taxe sur les produits sucrés.",
+              "src": "LCP, 20 octobre 2026 ; AFP (Imaz Press), 23 octobre 2026"
             },
-            "c": {
+            "soc": {
               "type": "declare",
-              "texte": "Le ministre du Travail Jean-Pierre Farandou s'y oppose en raison d'une charge « très lourde » pour les entreprises : « Les entreprises vont se séparer des gens avant qu'ils atteignent ce seuil », prévient-il, au détriment de l'emploi des seniors.",
-              "src": "LCP, 22 octobre 2026"
+              "texte": "Béatrice Bellay (PS) voit dans le budget de la Sécu présenté par le gouvernement une « nouvelle violence sociale ». Les socialistes ont voté contre la suppression de la taxe sur les produits sucrés.",
+              "src": "LCP, 20 octobre 2026 ; AFP (Imaz Press), 23 octobre 2026"
+            },
+            "eco": {
+              "type": "declare",
+              "texte": "Sandrine Rousseau (Les Écologistes) défend un congé jusqu'à l'âge légal financé par l'employeur et « compensé à l'euro près ». Son groupe salue une « immense victoire » et demande au gouvernement de conserver la mesure.",
+              "src": "LCP, 22 octobre 2026 ; Moneyvox (AFP), 22 octobre 2026"
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "Annie Vidal (Ensemble pour la République) a plaidé pour débattre du texte plutôt que de le rejeter d'emblée. Sur la taxe sur les produits sucrés, les députés Renaissance se sont divisés.",
+              "src": "LCP, 20 octobre 2026 ; AFP (Imaz Press), 23 octobre 2026"
+            },
+            "modem": {
+              "type": "declare",
+              "texte": "Cyrille Isaac-Sibille (MoDem) a défendu la taxe sur les produits sucrés, destinée selon lui à prévenir de nouveaux cas de maladies. Son groupe a voté contre sa suppression.",
+              "src": "AFP (Imaz Press), 23 octobre 2026"
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement la maîtrise des comptes sociaux et le maintien du report de l'âge de départ, tout en se montrant réservé sur les hausses d'impôts. Ses députés se sont divisés sur la taxe sur les produits sucrés.",
+              "src": ""
             },
             "d": {
               "type": "declare",
-              "texte": "Le rapporteur général du budget de la Sécu, Thibault Bazin (Droite républicaine), juge la mesure symbolique et « pas opérante » sur le fond. Il s'interroge sur ce qui se passerait en cas de défaillance de l'employeur et craint qu'elle se retourne contre les assurés.",
-              "src": "LCP, 22 octobre 2026 ; Moneyvox, 22 octobre 2026"
+              "texte": "Le rapporteur général Thibault Bazin (Droite républicaine) juge le congé anticipatoire « pas opérant » et craint qu'il se retourne contre les assurés. Justine Gruet (LR) estime la taxe sur les sucres peu dissuasive et pénalisante pour le pouvoir d'achat.",
+              "src": "LCP, 22 octobre 2026 ; AFP (Imaz Press), 23 octobre 2026"
             },
             "dn": {
+              "type": "declare",
+              "texte": "Christophe Bentz (RN) dénonce l'« obsession fiscale » de la gauche et de la « macronie » et a soutenu la suppression de la taxe sur les produits sucrés, votée avec LR.",
+              "src": "AFP (Imaz Press), 23 octobre 2026"
+            },
+            "ed": {
               "type": "lecture",
-              "texte": "Le courant défend habituellement un départ à 62 ans pour ceux qui ont commencé à travailler tôt et réclame l'abrogation de la réforme de 2023. Il se montre en général attentif au coût des mesures pour les petites entreprises.",
+              "texte": "Le courant met habituellement en avant la baisse des prélèvements et la lutte contre la fraude sociale pour équilibrer les comptes. Il se montre en général hostile aux taxes comportementales et réservé sur le coût des mesures d'âge.",
               "src": ""
             }
           },
@@ -179,6 +331,14 @@
             {
               "t": "Moneyvox (AFP) – Budget de la Sécu : les députés votent un dispositif pour un départ en retraite à 62 ans",
               "u": "https://www.moneyvox.fr/retraite/actualites/110942/budget-de-la-secu-les-deputes-votent-un-dispositif-pour-un-depart-en-retraite-a-62-ans"
+            },
+            {
+              "t": "Imaz Press (AFP) – Budget de la « Sécu » : les députés rejettent une taxe sur les produits sucrés",
+              "u": "https://imazpress.com/france-monde/budget-secu-deputes-taxe-sucre"
+            },
+            {
+              "t": "LCP – Budget de la Sécu : la motion de rejet de LFI écartée, l'examen du texte lancé dans l'hémicycle",
+              "u": "https://lcp.fr/actualites/budget-de-la-secu-la-motion-de-rejet-de-lfi-ecartee-l-examen-du-texte-lance-dans-l"
             }
           ]
         },
@@ -186,68 +346,306 @@
           "id": "2026-10-23-encadrement-loyers-senat",
           "rubrique": "Logement",
           "titre": "Le Sénat prolonge de deux ans l'encadrement des loyers, sans le rendre permanent",
-          "chapo": "Les sénateurs ont adopté à une très large majorité la proposition de loi socialiste, mais en ont limité la portée. Sans adoption définitive avant le 24 novembre, l'expérimentation prend fin.",
+          "chapo": "Les sénateurs ont adopté à une très large majorité la proposition de loi socialiste, mais en ont limité la portée. Sans adoption définitive par l'Assemblée avant le 24 novembre, l'expérimentation prend fin.",
           "faits": [
-            "Mercredi, le Sénat a adopté par 325 voix contre 17 la proposition de loi du député PS Iñaki Echaniz, déjà votée par l'Assemblée ; seul le groupe RN a voté contre, selon l'AFP.",
-            "L'Assemblée voulait pérenniser et étendre le dispositif ; le Sénat a retenu, avec le soutien du gouvernement, une prolongation de deux ans limitée aux territoires qui l'appliquent déjà.",
+            "Mercredi 21 octobre, le Sénat a adopté par 325 voix contre 17 la proposition de loi du député PS Iñaki Echaniz, déjà votée par l'Assemblée en décembre 2025 ; seul le groupe RN a voté contre, selon l'AFP.",
+            "L'Assemblée voulait pérenniser et étendre le dispositif ; le Sénat a retenu, avec le soutien du gouvernement, une prolongation de deux ans à périmètre constant, a supprimé le plafonnement du complément de loyer et permet aux collectivités qui le souhaitent de sortir du dispositif avant terme.",
             "L'encadrement concerne environ 70 communes dans neuf territoires (Paris, Plaine Commune, Est Ensemble, Lille, Lyon-Villeurbanne, Bordeaux, Montpellier, Grenoble, Pays basque), soit environ 1,2 million de locataires sur 7,7 millions dans le parc privé, selon la Cour des comptes.",
-            "Dans un rapport du 14 octobre, la Cour des comptes a jugé « fragile » la méthode de calcul des plafonds et recommandé de lier toute prolongation à une meilleure fiabilité des données ; l'Assemblée doit adopter le texte conforme avant le 24 novembre pour éviter une interruption."
+            "Le ministre du Logement Vincent Jeanbrun, opposé à titre personnel au dispositif, a accepté la prolongation pour « collecter plus de données », afin que la majorité issue de la présidentielle puisse trancher.",
+            "Dans un rapport du 14 octobre, la Cour des comptes a jugé « fragiles » les fondements méthodologiques du calcul des plafonds ; l'Assemblée doit adopter le texte sans modification avant le 24 novembre pour éviter une interruption, mais aucune date d'examen n'est encore fixée."
           ],
-          "enjeu": "Le compromis évite une fin brutale de l'encadrement, mais renvoie à la prochaine majorité le choix de le généraliser ou de l'abandonner. Reste à trouver une place dans l'agenda de l'Assemblée, saturé par les budgets.",
+          "enjeu": "Le compromis évite une fin brutale de l'encadrement, mais renvoie à la prochaine majorité le choix de le généraliser ou de l'abandonner. Reste à trouver une place dans l'agenda de l'Assemblée, très occupé par l'examen des budgets.",
           "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement un blocage, voire une baisse, des loyers et la réquisition des logements vacants. Il juge en général les dispositifs d'encadrement insuffisants face au poids des propriétaires et des investisseurs.",
+              "src": ""
+            },
             "gr": {
               "type": "declare",
-              "texte": "Le sénateur Ian Brossat (PCF) estime que le compromis permet au dispositif d'« éviter le pire », tout en regrettant la portée réduite du texte modifié par le Sénat.",
-              "src": "AFP (Orange), 22 octobre 2026"
+              "texte": "Le sénateur Ian Brossat (PCF) estime que le compromis permet d'« échapper au pire », tout en regrettant la portée réduite du texte. Il réclame davantage de contrôles et de sanctions, citant 40 % de propriétaires en infraction dans certains territoires.",
+              "src": "Public Sénat, 21 octobre 2026 ; AFP (Orange), 22 octobre 2026"
             },
-            "g": {
+            "soc": {
               "type": "declare",
-              "texte": "Iñaki Echaniz (PS), auteur du texte, salue une avancée pour le pouvoir d'achat des locataires et appelle l'Assemblée à adopter le texte du Sénat dans les prochains jours, pour éviter que le dispositif expire.",
-              "src": "AFP (Orange), 22 octobre 2026"
+              "texte": "Iñaki Echaniz (PS), auteur du texte, salue une « véritable avancée » pour le pouvoir d'achat des locataires et appelle l'Assemblée à adopter la version du Sénat dans les prochains jours. La sénatrice Viviane Artigalas (PS) aurait préféré trois ans, mais vote le compromis.",
+              "src": "AFP (Orange), 22 octobre 2026 ; Public Sénat, 21 octobre 2026"
             },
-            "c": {
+            "eco": {
               "type": "declare",
-              "texte": "Le ministre du Logement Vincent Jeanbrun, opposé à titre personnel à l'encadrement, refuse de le pérenniser mais accepte une prolongation pour « collecter plus de données », afin que la prochaine majorité puisse trancher.",
-              "src": "AFP (Orange), 22 octobre 2026"
+              "texte": "Lors du vote à l'Assemblée, Boris Tavernier (Écologiste et social) a soutenu la pérennisation, affirmant que l'encadrement n'explique pas la baisse de l'offre locative, constatée aussi dans les communes non encadrées.",
+              "src": "LCP, 11 décembre 2025"
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "Annaïg Le Meur (Ensemble pour la République), co-rapporteure d'une mission sur le sujet, jugeait un rapport d'évaluation « indispensable » avant toute décision définitive sur l'avenir du dispositif.",
+              "src": "LCP, 11 décembre 2025"
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant se montre habituellement ouvert à l'encadrement comme outil d'expérimentation local, à condition qu'il soit évalué. Il insiste en général sur la nécessité de relancer la construction et de ne pas décourager les bailleurs.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant se montre habituellement réservé sur l'encadrement des loyers, qu'il juge peu efficace face au manque de logements. Il privilégie en général le soutien à l'offre et à l'investissement locatif.",
+              "src": ""
             },
             "d": {
-              "type": "lecture",
-              "texte": "Le courant se montre habituellement réservé sur l'encadrement des loyers, jugé susceptible de décourager l'investissement locatif, et préfère soutenir l'offre de logements. Majoritaire au Sénat, il privilégie ici une prolongation limitée plutôt qu'une pérennisation.",
-              "src": ""
+              "type": "declare",
+              "texte": "Le sénateur Laurent Somon (LR) soutient une prolongation sans élargissement pour « revoir la méthodologie » et décider ensuite. Max Brisson (LR) approuve le maintien de l'expérimentation mais appelle à « envoyer aux propriétaires un message de confiance ».",
+              "src": "Public Sénat, 21 octobre 2026"
             },
             "dn": {
               "type": "lecture",
-              "texte": "Le courant critique habituellement l'encadrement des loyers comme une contrainte pour les petits propriétaires bailleurs et met en avant la baisse de la fiscalité et l'accès au logement social pour les Français. Ses sénateurs ont voté contre le texte.",
+              "texte": "Le courant critique habituellement l'encadrement des loyers comme une contrainte pour les petits propriétaires bailleurs et met en avant la baisse de la fiscalité et la priorité aux Français pour le logement social. Ses sénateurs ont voté contre le texte.",
+              "src": ""
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant s'oppose habituellement à l'encadrement des loyers, présenté comme une atteinte au droit de propriété. Il met en général en avant la baisse des normes et de la fiscalité pour relancer l'offre locative.",
               "src": ""
             }
           },
           "sources": [
             {
+              "t": "Public Sénat – Encadrement des loyers : un « compromis » entre l'Assemblée et le Sénat qui permet « d'échapper au pire », selon le sénateur communiste Ian Brossat",
+              "u": "https://www.publicsenat.fr/actualites/societe/encadrement-des-loyers-un-compromis-entre-lassemblee-et-le-senat-qui-permet-dechapper-au-pire-selon-le-senateur-communiste-ian"
+            },
+            {
               "t": "Orange (AFP) – Le Sénat vote pour prolonger deux ans l'encadrement des loyers",
               "u": "https://actu.orange.fr/politique/le-senat-vote-pour-prolonger-deux-ans-l-encadrement-des-loyers-CNT000002timbf.html"
             },
             {
-              "t": "Banque des Territoires – L'encadrement des loyers pourrait être prolongé pendant deux ans",
-              "u": "https://www.banquedesterritoires.fr/lencadrement-des-loyers-pourrait-etre-prolonge-pendant-deux-ans"
+              "t": "LCP – Encadrement des loyers : l'Assemblée vote en faveur d'une pérennisation du dispositif",
+              "u": "https://lcp.fr/actualites/encadrement-des-loyers-l-assemblee-vote-en-faveur-d-une-perennisation-du-dispositif"
+            }
+          ]
+        },
+        {
+          "id": "2026-10-23-corse-autonomie-senat",
+          "rubrique": "Institutions",
+          "titre": "Autonomie de la Corse : le Sénat détricote la réforme avant le débat en séance",
+          "chapo": "Adoptée par l'Assemblée en juin, la révision constitutionnelle « pour une Corse autonome au sein de la République » a été profondément remaniée en commission des lois du Sénat. Le débat en séance s'ouvre lundi 26 octobre, avec une issue incertaine.",
+          "faits": [
+            "L'Assemblée nationale a adopté le projet de loi constitutionnelle le 23 juin 2026 par 271 voix contre 202, avec 64 abstentions ; LR (Droite républicaine), le RN et l'UDR ont voté contre.",
+            "Mercredi 21 octobre, la commission des lois du Sénat, sur proposition de sa présidente et rapporteure Muriel Jourda (LR), a supprimé la notion de « communauté » corse, la référence au « lien singulier à la terre », le principe de non-régression sociale et environnementale et celui d'« égalité absolue ».",
+            "Un amendement de la rapporteure sur le pouvoir normatif de la collectivité n'a pas été retenu, faute de majorité, à égalité de voix. Le Conseil d'État avait émis des réserves sur le terme « communauté » dans son avis du 17 juillet 2025.",
+            "S'agissant d'une révision constitutionnelle, la séance publique, prévue lundi 26 octobre selon le site du Sénat, porte sur le texte voté par l'Assemblée : les modifications de la commission devront être redéposées en amendements.",
+            "La révision doit être votée en termes identiques par les deux chambres, puis approuvée soit par le Congrès à la majorité des trois cinquièmes des suffrages exprimés, soit par référendum ; une loi organique, non encore présentée, devra préciser le contenu de l'autonomie."
+          ],
+          "enjeu": "La majorité sénatoriale LR-centriste est divisée : les centristes pro-autonomie critiquent la méthode de la rapporteure, tandis qu'une partie de la droite reste opposée au principe même. Si le Sénat adopte un texte différent de celui de l'Assemblée, la navette se prolonge et la perspective d'un Congrès avant la présidentielle de 2027 s'éloigne.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant ne fait habituellement pas des réformes institutionnelles territoriales une priorité et les aborde sous l'angle des conditions de vie des travailleurs de l'île, de la spéculation foncière et des services publics, plutôt que du statut de la collectivité.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Éric Coquerel (LFI) a vu dans le vote de l'Assemblée « un signal fort et positif », le groupe insoumis votant presque unanimement pour ; Jean-Luc Mélenchon promet une « autonomie étendue » s'il est élu. Les députés communistes se sont montrés plus critiques.",
+              "src": "Banque des Territoires et LCP, 23-24 juin 2026"
+            },
+            "soc": {
+              "type": "declare",
+              "texte": "Patrick Kanner, président du groupe PS au Sénat, affirme qu'une large majorité des sénateurs socialistes veut inscrire l'autonomie dans une rédaction plus consensuelle que celle du gouvernement mais moins restrictive que celle de la rapporteure ; Mickaël Vallet (PS) y voit une « fuite en avant ».",
+              "src": "Public Sénat, 22 octobre 2026"
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement une décentralisation poussée et la reconnaissance des spécificités insulaires, en insistant sur la protection du foncier et de l'environnement ; une partie de ses élus a fait de la clause de non-régression environnementale, supprimée en commission, une condition de leur soutien.",
+              "src": ""
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "Gérald Darmanin (Renaissance), garde des Sceaux et initiateur du processus, a salué après le vote de l'Assemblée une promesse « tenue », présentant le texte non comme la victoire d'un camp mais comme un rapprochement entre la Corse et la République.",
+              "src": "Banque des Territoires, 24 juin 2026 ; Alta Frequenza, 17 juin 2026"
+            },
+            "modem": {
+              "type": "declare",
+              "texte": "Erwan Balanant (MoDem) jugeait avant le vote de juin que « l'atterrissage sur l'ensemble du texte est satisfaisant » après le compromis trouvé à l'Assemblée ; le groupe Les Démocrates a voté pour la réforme.",
+              "src": "LCP, 23 juin 2026"
+            },
+            "hor": {
+              "type": "declare",
+              "texte": "Laurent Marcangeli (Horizons), élu de Corse-du-Sud, espérait une large majorité en faveur du texte tout en admettant que « des opinions discordantes s'exprimeront » ; le groupe Horizons a voté pour à l'Assemblée.",
+              "src": "LCP, 23 juin 2026"
+            },
+            "d": {
+              "type": "declare",
+              "texte": "La rapporteure Muriel Jourda (LR) a fait retirer la « communauté » corse, jugée contraire à l'indivisibilité de la République ; Bruno Retailleau (LR) s'oppose au projet depuis juillet 2025, craignant qu'il « ne suscite, en définitive, que des frustrations ».",
+              "src": "Public Sénat, 22 octobre 2026 ; Banque des Territoires, 24 juin 2026"
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Marine Le Pen (RN) a défendu à l'Assemblée une « autonomie insulaire » alternative, rejetée par 180 voix contre 85 ; Stéphane Rambaud (RN) estime que le texte « ne permettra nullement à la Corse de répondre aux difficultés ». Le RN et l'UDR ont voté contre.",
+              "src": "Alta Frequenza, 17 juin 2026 ; Banque des Territoires, 24 juin 2026"
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement une conception unitaire et centralisée de la Nation et s'oppose à toute reconnaissance constitutionnelle d'une communauté ou d'un statut d'autonomie, perçus comme une menace pour l'unité de la République.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Public Sénat – Autonomie de la Corse : malgré le détricotage du texte en commission, le vote de la réforme constitutionnelle reste incertain au Sénat",
+              "u": "https://www.publicsenat.fr/actualites/parlementaire/autonomie-de-la-corse-malgre-le-detricotage-du-texte-en-commission-le-vote-de-la-reforme-constitutionnelle-reste-incertain-au-senat"
+            },
+            {
+              "t": "Sénat – Dossier législatif : Une Corse autonome au sein de la République",
+              "u": "https://www.senat.fr/dossier-legislatif/pjl24-869.html"
+            },
+            {
+              "t": "Public Sénat – Autonomie de la Corse : Françoise Gatel tente de rassurer un Sénat sceptique",
+              "u": "https://www.publicsenat.fr/actualites/parlementaire/autonomie-de-la-corse-ni-un-saut-dans-le-vide-ni-un-grand-soir-francoise-gatel-tente-de-rassurer-un-senat-sceptique-sur-la-reforme-constitutionnelle"
+            },
+            {
+              "t": "Banque des Territoires – Les députés favorables à une autonomie de la Corse, prochaine étape incertaine au Sénat",
+              "u": "https://www.banquedesterritoires.fr/les-deputes-favorables-une-autonomie-de-la-corse-prochaine-etape-incertaine-au-senat"
+            },
+            {
+              "t": "LCP – Scrutin indécis sur l'autonomie de la Corse : qui va voter quoi ce mardi à l'Assemblée ?",
+              "u": "https://lcp.fr/actualites/scrutin-indecis-sur-l-autonomie-de-la-corse-qui-va-voter-quoi-ce-mardi-a-l-assemblee"
+            },
+            {
+              "t": "Assemblée nationale – Scrutin n° 7454 du 23 juin 2026",
+              "u": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7454"
+            },
+            {
+              "t": "Alta Frequenza – Autonomie de la Corse : le gouvernement se mobilise, l'alternative de Marine Le Pen rejetée",
+              "u": "https://www.alta-frequenza.corsica/actu/autonomie_de_la_corse_le_gouvernement_se_mobilise_l_alternative_de_marine_le_pen_rejetee_128893"
+            }
+          ]
+        },
+        {
+          "id": "2026-10-23-ukraine-kyiv-frappe",
+          "rubrique": "International",
+          "titre": "Ukraine : Kyiv frappée par des missiles à sous-munitions au lendemain de la visite de Witkoff à Poutine",
+          "chapo": "Quelques heures après la rencontre entre l'émissaire américain Steve Witkoff et Vladimir Poutine à Saint-Pétersbourg, la Russie a frappé le centre de Kyiv avec, selon l'Ukraine, des missiles balistiques à sous-munitions. Moscou accepte « en principe » une reprise des pourparlers à trois.",
+          "faits": [
+            "Dans la nuit du 21 au 22 octobre, la Russie a tiré 21 missiles et 210 drones sur l'Ukraine, dont 181 drones neutralisés selon l'armée de l'air ukrainienne ; Volodymyr Zelensky affirme que trois missiles balistiques à sous-munitions ont visé Kyiv, dont un Iskander tombé dans le quartier historique de Petchersk.",
+            "Volodymyr Zelensky a fait état d'au moins deux morts et 34 blessés, dont cinq enfants ; selon le décompte des autorités locales compilé par le Kyiv Independent, les attaques russes des dernières 24 heures ont fait au moins neuf morts et 56 blessés dans le pays.",
+            "Dans la nuit du 22 au 23 octobre, la Russie a lancé 176 drones, dont 140 abattus ou neutralisés, selon l'armée de l'air ukrainienne ; dans la région de Jytomyr, plus de 900 localités étaient privées d'électricité vendredi matin. Moscou affirme de son côté avoir abattu 808 drones ukrainiens, dont 630 visant la capitale.",
+            "Après plus de trois heures d'entretien avec Steve Witkoff le 21 octobre, le conseiller du Kremlin Iouri Ouchakov a indiqué que des pourparlers trilatéraux pourraient reprendre « en principe » après le 10 novembre ; Moscou maintient sa revendication sur l'ensemble du Donbass.",
+            "Volodymyr Zelensky s'est dit prêt, le 21 octobre, à accepter un gel de la ligne de front actuelle comme base d'un cessez-le-feu, une concession qu'il refusait jusqu'ici ; Steve Witkoff a de son côté qualifié Vladimir Poutine d'« humaniste », provoquant des critiques jusque chez les républicains américains."
+          ],
+          "enjeu": "La reprise annoncée des discussions coïncide avec une intensification des frappes russes, ce qui alimente à Kyiv les doutes sur la volonté de Moscou de négocier. Paris, qui défend un soutien durable à l'Ukraine, une pression accrue sur la Russie et la préparation de négociations, n'avait pas publié de réaction spécifique à cette frappe vendredi en fin de matinée ; Emmanuel Macron avait dénoncé le 5 octobre le « choix irresponsable » de Moscou d'intensifier ses frappes. Le débat français est par ailleurs relancé par la promesse de Marine Le Pen de cesser l'aide financière à Kyiv.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant condamne habituellement l'invasion russe tout en dénonçant le militarisme des grandes puissances, la hausse des budgets militaires et les marchandages entre Washington et Moscou ; il appelle à la solidarité entre travailleurs russes et ukrainiens plutôt qu'au soutien aux gouvernements.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Jean-Luc Mélenchon (LFI) plaide pour une issue négociée au conflit et juge « très imprudent » d'accepter que l'Ukraine mène des tirs en profondeur sur le territoire russe.",
+              "src": "Sud Radio (AFP), 4 septembre 2026"
+            },
+            "soc": {
+              "type": "declare",
+              "texte": "Raphaël Glucksmann (Place publique) a qualifié de « capitulation » et de « soumission » la promesse de Marine Le Pen de cesser l'aide à l'Ukraine, estimant qu'elle reviendrait à soumettre l'Europe à Vladimir Poutine.",
+              "src": "Journal du Net, 16 octobre 2026 (propos sur France 5 le 15 octobre)"
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement un soutien militaire et financier sans faille à l'Ukraine, des sanctions renforcées contre la Russie, notamment sur les hydrocarbures, et l'utilisation des avoirs russes gelés au profit de Kyiv.",
+              "src": ""
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "Gabriel Attal (Renaissance) estime que couper l'aide à l'Ukraine, comme l'envisage le RN, « c'est laisser Vladimir Poutine gagner » et montrerait au monde que la parole et le soutien de la France ne valent rien.",
+              "src": "Sud Radio (AFP), 4 septembre 2026"
+            },
+            "modem": {
+              "type": "declare",
+              "texte": "Jean-Noël Barrot (MoDem), ministre de l'Europe et des Affaires étrangères, a mis en garde contre une confrontation avec la Russie qui ne se limite pas à l'Ukraine, évoquant désinformation et cyberattaques visant la France ; son ministère défend soutien à Kyiv, pression sur Moscou et préparation de négociations.",
+              "src": "LCI, 16 septembre 2026 ; Quai d'Orsay, 15 octobre 2026"
+            },
+            "hor": {
+              "type": "declare",
+              "texte": "Édouard Philippe (Horizons) a accusé le RN de vouloir « servir la Russie » en coupant l'aide à Kyiv, estimant qu'affaiblir l'Ukraine, « c'est menacer la sécurité de l'Europe et de la France ».",
+              "src": "La Gazette France (AFP), 4 septembre 2026"
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Bruno Retailleau (LR) a réservé à Kyiv, en mai 2026, son premier déplacement international de candidat, présentant la guerre comme un enjeu de sécurité européenne et non comme un conflit régional lointain ; il fait du soutien à l'Ukraine un marqueur face au RN.",
+              "src": "Europe 1, 27 mai 2026"
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Marine Le Pen (RN) promet, si elle est élue, de cesser sous six mois l'aide financière française à l'Ukraine, faute de moyens selon elle, tout en maintenant la formation de soldats et d'éventuelles livraisons de matériel ; elle se dit prête à en débattre avec Volodymyr Zelensky.",
+              "src": "AFP via Boursorama, 16 octobre 2026"
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant plaide habituellement pour une paix négociée rapidement en tenant compte des exigences russes, critique le coût de l'aide à Kyiv et les sanctions, et refuse toute implication militaire directe de la France.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Euronews – Selon Volodymyr Zelensky, la Russie aurait utilisé des armes à sous-munitions pour frapper Kyiv",
+              "u": "https://fr.euronews.com/2026/10/23/selon-volodymyr-zelensky-la-russie-aurait-utilise-des-armes-a-sous-munitions-pour-frapper-"
+            },
+            {
+              "t": "Boursorama (Reuters) – Kyiv visée par 21 missiles russes, deux morts selon Zelensky",
+              "u": "https://www.boursorama.com/actualite-economique/actualites/kyiv-visee-par-21-missiles-russes-deux-morts-selon-zelensky-c7586efc0028e7bd4eb600bb0668c1b5"
+            },
+            {
+              "t": "Kyiv Independent – Russian attacks kill at least 9, injure 57 across Ukraine",
+              "u": "https://kyivindependent.com/russian-attacks-kill-at-least-9-injure-57-across-ukraine-as-kyiv-hit-by-mass-missile-drone-attack/"
+            },
+            {
+              "t": "PBS NewsHour (AP) – Russian missiles pound Kyiv as Moscow says over 800 Ukrainian drones downed",
+              "u": "https://www.pbs.org/newshour/world/russian-missiles-pound-kyiv-as-moscow-says-over-800-ukrainian-drones-downed"
+            },
+            {
+              "t": "Interfax-Ukraine – Defense forces shoot down or neutralize 140 out of 176 enemy drones",
+              "u": "https://en.interfax.com.ua/news/general/1224996.html"
+            },
+            {
+              "t": "RFI via Yahoo – Volodymyr Zelensky se dit prêt à un gel du front",
+              "u": "https://fr.news.yahoo.com/volodymyr-zelensky-dit-pr%C3%AAt-%C3%A0-030843797.html"
+            },
+            {
+              "t": "L'Express via Orange – Vladimir Poutine, un « humaniste » ? Steve Witkoff choque même les républicains",
+              "u": "https://actu.orange.fr/monde/vladimir-poutine-un-humaniste-aux-etats-unis-steve-witkoff-choque-meme-les-republicains-l-express-CNT000002tl3dc.html"
+            },
+            {
+              "t": "Euronews – Macron condamne l'intensification des frappes russes",
+              "u": "https://fr.euronews.com/2026/10/05/emmanuel-macron-condamne-lintensification-des-frappes-russes-contre-les-infrastructures-uk"
+            },
+            {
+              "t": "Boursorama (AFP) – Suspension de l'aide à l'Ukraine : Le Pen joue l'apaisement",
+              "u": "https://www.boursorama.com/actualite-economique/actualites/suspension-de-l-aide-a-l-ukraine-le-pen-joue-l-apaisement-ses-lieutenants-montent-au-front-880ec05f04cc722af57919e38b6e5a04"
             }
           ]
         }
       ],
       "breves": [
         {
-          "titre": "La justice suspend l'interdiction d'une manifestation étudiante à Paris",
-          "texte": "Le tribunal administratif de Paris a suspendu jeudi en urgence l'arrêté de la préfecture de police qui interdisait la manifestation de l'Interfac Île-de-France, entre la Pitié-Salpêtrière et Bastille ; « L'arrêté est suspendu », a indiqué le juge des référés, sans motiver immédiatement sa décision.",
+          "titre": "Les taux d'emprunt français au-dessus de 5 %, Moody's attendue ce soir",
+          "texte": "Le taux d'emprunt de l'État à 10 ans a dépassé 5 %, une première depuis 2002, selon l'AFP ; une décision de l'agence Moody's sur la note de la France est attendue ce vendredi soir.",
           "src": {
-            "t": "La Libre (Belga) – La justice suspend l'interdiction de la manifestation prévue par l'Interfac à Paris jeudi",
-            "u": "https://www.lalibre.be/dernieres-depeches/2026/10/22/manifestations-en-france-la-justice-suspend-linterdiction-de-la-manifestation-prevue-par-linterfac-a-paris-jeudi-TOLHBHV3T5FFHC43WDRFEH452M/"
+            "t": "Sud Radio (AFP) – Macron en première ligne avec les lycéens et les forces de l'ordre, Lecornu à Limoges",
+            "u": "https://www.sudradio.fr/societe/macron-en-premiere-ligne-avec-les-lyceens-et-les-forces-de-lordre-lecornu-a-limoges"
           }
         },
         {
-          "titre": "Macron reçoit les organisations lycéennes cet après-midi",
-          "texte": "Le chef de l'État reçoit ce vendredi à 15 h à l'Élysée des lycéens et des représentants d'organisations lycéennes, dont des membres des conseils académiques de la vie lycéenne, pour « écouter leurs revendications et inquiétudes ». Les organisations prévoient un point presse à la sortie.",
+          "titre": "Tabac : les députés rejettent l'interdiction de vente aux générations nées après 2009",
+          "texte": "Lors de l'examen du budget de la Sécu, les députés ont rejeté jeudi l'interdiction de vente de tabac aux personnes nées à partir de 2009 et supprimé la hausse annuelle des accises indexée sur l'inflation, contre l'avis de la ministre de la Santé Stéphanie Rist.",
           "src": {
-            "t": "20 minutes (Suisse) – Macron reçoit les organisations lycéennes pour apaiser les tensions sociales",
-            "u": "https://20min.ch/fr/story/crises-en-france-macron-interdit-les-manifestations-hors-syndicats-103644663"
+            "t": "Imaz Press (AFP) – Budget de la Sécu : les députés suppriment la taxe sur les sucres",
+            "u": "https://imazpress.com/france-monde/budget-secu-deputes-taxe-sucre"
+          }
+        },
+        {
+          "titre": "La consultation des lycéens se clôt ce soir",
+          "texte": "La plateforme de consultation ouverte aux lycéens ferme ce vendredi à minuit, avec environ 98 500 contributions, alors qu'Emmanuel Macron reçoit les organisations lycéennes à l'Élysée à 15 h.",
+          "src": {
+            "t": "Europe 1 – À la veille d'une nouvelle mobilisation, Emmanuel Macron reçoit ce vendredi les organisations lycéennes",
+            "u": "https://www.europe1.fr/politique/a-la-veille-dune-nouvelle-mobilisation-etudiante-emmanuel-macron-recoit-ce-vendredi-les-organisations-lyceennes-1175376"
           }
         },
         {
@@ -262,11 +660,11 @@
       "agenda": [
         {
           "d": "Ven. 23 oct.",
-          "t": "Conseil de défense à l'Élysée le matin ; Emmanuel Macron reçoit les organisations lycéennes à 15 h"
+          "t": "Emmanuel Macron reçoit les organisations lycéennes à 15 h ; Sébastien Lecornu à Limoges ; décision de Moody's sur la note de la France dans la soirée"
         },
         {
           "d": "Sam. 24 oct.",
-          "t": "« Acte II » de la mobilisation : seuls les cortèges syndicaux autorisés selon l'exécutif ; ouverture du congrès du RN à Orléans et contre-manifestations"
+          "t": "« Acte II » de la mobilisation : seuls les cortèges syndicaux autorisés ; ouverture du congrès du RN à Orléans et contre-manifestations"
         },
         {
           "d": "Dim. 25 oct.",
@@ -274,11 +672,11 @@
         },
         {
           "d": "Lun. 26 oct.",
-          "t": "Sébastien Lecornu réunit organisations lycéennes, étudiantes et enseignantes, syndicats, patronat et élus ; Édouard Geffray présente ses premières mesures pour les lycées"
+          "t": "Sébastien Lecornu réunit organisations lycéennes, étudiantes, syndicales, patronales et élus ; autonomie de la Corse en séance au Sénat ; fin de la discussion du budget de la Sécu à l'Assemblée"
         },
         {
           "d": "Mar. 27 oct.",
-          "t": "Projet de loi « casseurs-payeurs » en séance au Sénat ; reprise de l'examen des recettes du budget de l'État à l'Assemblée"
+          "t": "Vote solennel sur le budget de la Sécu à l'Assemblée ; projet de loi « casseurs-payeurs » en séance au Sénat"
         },
         {
           "d": "Jeu. 5 nov.",
