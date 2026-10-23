@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-23T11:46:34+02:00",
+  "updated": "2026-10-23T12:13:00+02:00",
   "editions": [
     {
       "date": "2026-10-23",
       "label": "Vendredi 23 octobre 2026",
-      "maj": "Mise à jour à 11 h 46",
-      "intro": "Seuls les cortèges syndicaux seront autorisés ce week-end : les préfectures multiplient les interdictions, le Conseil d'État est saisi et Emmanuel Macron reçoit les lycéens cet après-midi après un conseil de défense. La réunion des partis à Matignon a déçu de la gauche au RN. À l'Assemblée, les députés ont voté un départ anticipé à 62 ans et supprimé la taxe sur les sucres ; le Sénat prolonge l'encadrement des loyers et s'apprête à débattre de l'autonomie de la Corse. À l'international : Kyiv frappée par des missiles à sous-munitions au lendemain de la visite de Steve Witkoff à Vladimir Poutine.",
+      "maj": "Mise à jour à 12 h 13",
+      "intro": "Seuls les cortèges syndicaux seront autorisés ce week-end : les préfectures multiplient les interdictions, le Conseil d'État est saisi et Emmanuel Macron reçoit les lycéens cet après-midi après un conseil de défense. La réunion des partis à Matignon a déçu de la gauche au RN, tandis que le gouvernement envisage d'avancer une hausse du Smic jugée bien trop faible par les syndicats. À l'Assemblée, les députés ont voté un départ anticipé à 62 ans ; le Sénat prolonge l'encadrement des loyers et s'apprête à débattre de l'autonomie de la Corse. À l'international : Kyiv frappée par des missiles à sous-munitions au lendemain de la visite de Steve Witkoff à Vladimir Poutine.",
       "stories": [
         {
           "id": "2026-10-23-manifestations-syndicales-seules",
@@ -16,7 +16,7 @@
             "Jeudi, après un conseil de sécurité, Emmanuel Macron a dénoncé des « actes séditieux » de groupes d'ultragauche le 17 octobre et déclaré : « La recommandation générale, c'est qu'il n'y ait pas de manifestation dans les jours à venir » ; seuls les cortèges syndicaux seront autorisés samedi 24 octobre, sur des parcours fixés par les préfets.",
             "À Paris, la préfecture de police autorise le cortège déclaré notamment par la CGT entre Bastille et Nation et interdit celui d'Interfac et de gilets jaunes vers Opéra ; le préfet du Rhône interdit « toute manifestation » à Lyon, celui des Bouches-du-Rhône toutes les manifestations du département avec un couvre-feu étendu aux majeurs de 23 h à 5 h ; à Orléans, le rassemblement anti-RN de samedi est autorisé, celui de dimanche interdit.",
             "L'Association de défense des libertés constitutionnelles (Adelico) et le Syndicat de la magistrature ont saisi jeudi soir le Conseil d'État en référé-liberté, estimant que le président excède ses pouvoirs et que la distinction entre syndicats et autres organisateurs est infondée ; jeudi, le tribunal administratif de Paris avait déjà annulé l'interdiction d'un rassemblement étudiant d'Interfac.",
-            "Ce vendredi, Emmanuel Macron a présidé à 9 h un conseil de défense dont l'Élysée attendait des « décisions supplémentaires », non rendues publiques à la mi-journée ; il reçoit les organisations lycéennes à 15 h. Le dispositif policier de samedi sera supérieur de 20 % à celui du 17 octobre, avec militaires de Sentinelle, Raid, GIGN, BRI, hélicoptères et blindés.",
+            "Ce vendredi, Emmanuel Macron a présidé à 9 h un conseil de défense dont l'Élysée attendait des « décisions supplémentaires » ; le ministre de l'Intérieur Laurent Nuñez doit détailler à la mi-journée le dispositif de sécurité du week-end, qui sera supérieur de 20 % à celui du 17 octobre (militaires de Sentinelle, Raid, GIGN, BRI, hélicoptères et blindés). Le chef de l'État reçoit les organisations lycéennes à 15 h.",
             "Sophie Binet (CGT) juge la mesure « très grave » : « la liberté de manifester, c'est le fondement de la démocratie ». Le maître de conférences John-Christopher Rolland relève que « rien dans la loi » ne distingue une manifestation syndicale d'une autre ; pour Linda Kebbab (Un1té, police), le déploiement envoie « un message politique »."
           ],
           "enjeu": "L'exécutif parie qu'un week-end sans cortèges non syndicaux évitera de nouvelles violences, au risque d'un désaveu du Conseil d'État ou des tribunaux administratifs et d'une confrontation avec les jeunes mobilisés hors des syndicats. La réception des lycéens à l'Élysée et la concertation de lundi à Matignon diront si une réponse politique accompagne la réponse sécuritaire.",
@@ -358,6 +358,90 @@
           }
         },
         {
+          "id": "2026-10-23-smic-hausse-anticipee",
+          "rubrique": "Social",
+          "titre": "Pouvoir d'achat : le gouvernement envisage d'avancer la hausse du Smic, les syndicats la jugent insuffisante",
+          "chapo": "Pour répondre à la mobilisation, l'exécutif étudierait une revalorisation anticipée du salaire minimum, d'environ 15 euros nets par mois. Les syndicats, reçus ce vendredi après-midi au ministère du Travail, réclament bien davantage.",
+          "faits": [
+            "Selon Les Échos, cités par Économie Matin, le gouvernement envisage d'avancer de quelques semaines l'indexation automatique du Smic, normalement prévue au 1er janvier 2027 ; la hausse serait d'environ 15 euros nets par mois, le Smic passant d'environ 1 477 à 1 500 euros nets (+1 % environ). Aucune date ni aucun montant n'ont été confirmés officiellement.",
+            "Invitée de TF1 ce vendredi, Marylise Léon (CFDT) réclame « un vrai électrochoc » et une hausse de 100 euros nets ; la CGT demande 10 % de hausse du Smic, soit environ 170 euros nets, et l'indexation de tous les salaires sur les prix ; l'Unsa souhaite une revalorisation dès le 1er novembre avec un coup de pouce.",
+            "Les organisations syndicales sont reçues ce vendredi après-midi au ministère du Travail pour une réunion consacrée au pouvoir d'achat.",
+            "Sur franceinfo, le président du Medef Patrick Martin estime qu'une forte hausse « mettra les entreprises dans la nasse » ; il chiffre à 11,5 milliards d'euros le surcoût pour les entreprises des mesures du budget de la Sécu 2027 et évoque une menace sur 200 000 emplois.",
+            "L'intersyndicale maintient sa journée de grève et de manifestations interprofessionnelle du jeudi 5 novembre."
+          ],
+          "enjeu": "Le gouvernement cherche un geste rapide sur les salaires pour apaiser la colère sociale sans alourdir le coût du travail, alors que les taux d'emprunt de l'État dépassent 5 %. L'écart entre les 15 euros évoqués et les 100 à 170 euros demandés par les syndicats rend un accord difficile avant le 5 novembre.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement une forte hausse de tous les salaires, leur indexation automatique sur les prix et considère que seule la grève et la mobilisation peuvent l'imposer au patronat.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Manuel Bompard (LFI) défend un Smic à 1 700 euros nets, estimant que l'on ne peut pas « vivre dignement en France avec un Smic » à son niveau actuel ; c'est la ligne réaffirmée par LFI et le PCF dans la mobilisation.",
+              "src": "RTL, 21 septembre 2026"
+            },
+            "soc": {
+              "type": "declare",
+              "texte": "Olivier Faure (PS) cite l'exemple de l'Espagne, où le salaire minimum a progressé d'environ 60 % en quelques années, et plaide pour une réindexation des salaires sur l'inflation.",
+              "src": "Capital, cité par Économie Matin, 23 octobre 2026"
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement une revalorisation nette du Smic et des bas salaires, associée à une meilleure répartition de la valeur et à la conditionnalité des aides publiques aux entreprises.",
+              "src": ""
+            },
+            "ren": {
+              "type": "lecture",
+              "texte": "Le courant privilégie habituellement la revalorisation automatique du Smic sans coup de pouce, la baisse des cotisations sur les bas salaires et les primes de partage de la valeur, en mettant en garde contre l'effet sur l'emploi.",
+              "src": ""
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement la hausse du salaire net par l'allègement des cotisations salariales et une meilleure association des salariés aux résultats, tout en veillant aux finances publiques.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant met habituellement en avant la compétitivité des entreprises et la maîtrise des comptes publics, et se montre réservé sur un coup de pouce au Smic qui pèserait sur l'emploi peu qualifié.",
+              "src": ""
+            },
+            "d": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement l'augmentation du salaire net par la baisse des charges et la désmicardisation, et s'oppose à un coup de pouce au Smic jugé coûteux pour les petites entreprises.",
+              "src": ""
+            },
+            "dn": {
+              "type": "lecture",
+              "texte": "Le courant propose habituellement d'exonérer de cotisations patronales les hausses de salaires consenties par les entreprises et de baisser la fiscalité sur l'énergie pour soutenir le pouvoir d'achat, plutôt qu'un coup de pouce imposé au Smic.",
+              "src": ""
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement la hausse du salaire net par une baisse massive des charges et des impôts de production, et rejette une augmentation administrée du Smic.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Économie Matin – Grogne sociale : vers une hausse anticipée du SMIC ?",
+              "u": "https://www.economiematin.fr/smic-15-euros-gouvernement-100-euros-syndicats-2026"
+            },
+            {
+              "t": "franceinfo – Une hausse du Smic mettra « les entreprises dans la nasse », alerte le Medef",
+              "u": "https://www.franceinfo.fr/economie/emploi/video-une-hausse-du-smic-mettra-les-entreprises-dans-la-nasse-alerte-le-medef_8250229.html"
+            },
+            {
+              "t": "Titrespresse (TF1) – « On veut un vrai électrochoc » : Marylise Léon demande une hausse de 100 euros",
+              "u": "https://www.titrespresse.com/26219032603/tf1-marylise-leon"
+            },
+            {
+              "t": "Titrespresse (RTL) – Le Smic à 1 700 euros : Manuel Bompard sur RTL",
+              "u": "https://www.titrespresse.com/22156422603/smic-manuel-bompard"
+            }
+          ]
+        },
+        {
           "id": "2026-10-23-encadrement-loyers-senat",
           "rubrique": "Logement",
           "titre": "Le Sénat prolonge de deux ans l'encadrement des loyers, sans le rendre permanent",
@@ -690,7 +774,7 @@
       "agenda": [
         {
           "d": "Ven. 23 oct.",
-          "t": "Emmanuel Macron reçoit les organisations lycéennes à 15 h ; Sébastien Lecornu à Limoges ; décision de Moody's sur la note de la France dans la soirée"
+          "t": "Syndicats reçus au ministère du Travail sur le pouvoir d'achat ; Emmanuel Macron reçoit les organisations lycéennes à 15 h ; Sébastien Lecornu à Limoges en fin de journée ; décision de Moody's sur la note de la France dans la soirée"
         },
         {
           "d": "Sam. 24 oct.",
