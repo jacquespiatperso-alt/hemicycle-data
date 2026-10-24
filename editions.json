@@ -105,7 +105,12 @@
               "t": "X – Message de Gabriel Attal",
               "u": "https://x.com/GabrielAttal/status/2113602416218128565"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://tv78.com/wp-content/uploads/2026/10/vignette-top-1-ligne-mettre-les-titres-en-blanc-23-1.png",
+            "credit": "TV78",
+            "alt": "Illustration de l'article de TV78"
+          }
         },
         {
           "id": "2026-10-24-acte-ii-manifestations",
@@ -225,7 +230,12 @@
               "t": "Europe 1 – Émeutes du 17 octobre : « Ces gens-là sont mus par la haine de notre pays », déplore Éric Zemmour",
               "u": "https://www.europe1.fr/societe/emeutes-du-17-octobre-ces-gens-la-sont-mus-par-la-haine-de-notre-pays-deplore-eric-zemmour-1161123"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.publicsenat.fr/app/uploads/2026/10/SIPA_01309542_000002-1200x630.jpg",
+            "credit": "Public Sénat",
+            "alt": "Illustration de l'article de Public Sénat"
+          }
         },
         {
           "id": "2026-10-24-secu-rejet-assemblee",
@@ -313,7 +323,12 @@
               "t": "LCP – Budget de la Sécu : la motion de rejet de LFI écartée, l'examen du texte lancé dans l'hémicycle",
               "u": "https://lcp.fr/actualites/budget-de-la-secu-la-motion-de-rejet-de-lfi-ecartee-l-examen-du-texte-lance-dans-l"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2026-10/rousseau%20an%2023%2010%2026.jpg?itok=8axIBVxt",
+            "credit": "LCP",
+            "alt": "Illustration de l'article de LCP"
+          }
         },
         {
           "id": "2026-10-24-congres-rn-orleans",
@@ -409,7 +424,12 @@
               "t": "RFI via Yahoo – Attentat à Trappes : Emmanuel Macron tente d'unir plutôt que de diviser, la gauche fustige le racisme décomplexé",
               "u": "https://fr.news.yahoo.com/attentat-%C3%A0-trappes-emmanuel-macron-214608140.html"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2025-12/Olivier%20Faure%20%C3%A0%20la%20sortie%20de%20Matignon%2C%20le%2022%20d%C3%A9cembre%202025.jpg?itok=9Ur3z2Kn",
+            "credit": "LCP",
+            "alt": "Illustration de l'article de LCP"
+          }
         },
         {
           "id": "2026-10-24-ukraine-abou-dhabi",
@@ -493,7 +513,12 @@
               "t": "Boursorama (AFP) – Suspension de l'aide à l'Ukraine : Le Pen joue l'apaisement",
               "u": "https://www.boursorama.com/actualite-economique/actualites/suspension-de-l-aide-a-l-ukraine-le-pen-joue-l-apaisement-ses-lieutenants-montent-au-front-880ec05f04cc722af57919e38b6e5a04"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://images.euronews.com/articles/stories/09/96/48/37/1200x675_cmsv2_abf92a7d-1f91-530a-99b7-7209fc7a8825-9964837.jpg",
+            "credit": "Euronews",
+            "alt": "La Russie annonce des négociations à Abou Dhabi avec l'Ukraine et les États-Unis"
+          }
         }
       ],
       "breves": [
