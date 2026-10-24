@@ -1,6 +1,566 @@
 {
-  "updated": "2026-10-23T12:13:00+02:00",
+  "updated": "2026-10-24T06:30:48+02:00",
   "editions": [
+    {
+      "date": "2026-10-24",
+      "label": "Samedi 24 octobre 2026",
+      "maj": "Mise à jour à 6 h 30",
+      "intro": "La France se réveille sous le choc de l'attentat de Trappes et La Verrière, qu'Emmanuel Macron qualifie de « terroriste et raciste ». C'est aussi le jour de l'« acte II » de la mobilisation, sous un dispositif de 70 000 policiers et gendarmes, avec un bras de fer à Paris sur le parcours du cortège syndical, tandis que le RN ouvre son congrès à Orléans face à une importante contre-manifestation. À l'Assemblée, le budget de la Sécu a été rejeté et part au Sénat dans sa version d'origine. À l'international : Moscou annonce des pourparlers avec Kyiv et Washington à Abou Dhabi en novembre.",
+      "stories": [
+        {
+          "id": "2026-10-24-attentat-trappes",
+          "rubrique": "Sécurité",
+          "titre": "Trappes et La Verrière : un mort et cinq blessés, Emmanuel Macron dénonce un « attentat terroriste et raciste »",
+          "chapo": "Un homme armé a tiré sur des passants vendredi matin dans deux communes des Yvelines. Le parquet national antiterroriste s'est saisi de l'enquête, avec la circonstance aggravante de racisme, et le chef de l'État s'est rendu sur place dans la soirée.",
+          "faits": [
+            "Vendredi 23 octobre, vers 10 heures selon le parquet national antiterroriste (PNAT), un homme a ouvert le feu sur des passants à Trappes puis à La Verrière (Yvelines), notamment près d'un centre de santé, d'une station-service et d'une pharmacie.",
+            "Selon le dernier bilan du PNAT, un homme a été tué près du square Louis-Pergaud, à Trappes, et cinq personnes ont été blessées ; une fillette de 12 ans touchée à La Verrière a été transportée à l'hôpital Necker, où son état a été stabilisé selon le maire de la commune.",
+            "Le suspect, Kévin T., 39 ans, a été interpellé à Coignières et placé en garde à vue ; le PNAT fait état de quatre condamnations, aujourd'hui réhabilitées. Plusieurs médias évoquent une arme de type Sten, un pistolet-mitrailleur de la Seconde Guerre mondiale, et le RAID est intervenu à son domicile de Plaisir.",
+            "L'enquête porte notamment sur des faits d'assassinat et de tentatives d'assassinat en relation avec une entreprise terroriste, aggravés par l'appartenance réelle ou supposée des victimes à une ethnie, une nation, une race ou une religion, ainsi que sur une association de malfaiteurs terroriste.",
+            "Venu à Trappes vendredi soir, Emmanuel Macron a dénoncé un « attentat terroriste et raciste », « un tournant dans la vie de notre République et de notre nation », et appelé à ne pas se diviser. Le maire de Trappes, Ali Rabeh, a mis en cause les discours qui imputent les maux du pays aux Arabo-musulmans."
+          ],
+          "enjeu": "Le chef de l'État parle d'un tournant, et l'enquête devra établir le parcours et les motivations du suspect. L'attaque relance le débat sur la responsabilité des discours politiques, à la veille du congrès du RN et d'une journée de manifestations sous haute surveillance.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant dénonce habituellement le racisme comme le produit de discriminations et d'un climat politique qu'il attribue à l'extrême droite et aux gouvernements successifs. Il appelle en général à une riposte antiraciste dans la rue et se méfie du renforcement des lois antiterroristes.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Jean-Luc Mélenchon (LFI) résume : « Le racisme tue ». Mathilde Panot (LFI) dit son « horreur » face à « l'attaque terroriste à motif raciste », et Fabien Roussel (PCF) juge que, « selon toute vraisemblance, c'est une attaque terroriste raciste ».",
+              "src": "Le JDD, 23 octobre 2026 ; L'Express, 23 octobre 2026"
+            },
+            "soc": {
+              "type": "declare",
+              "texte": "Olivier Faure (PS) écrit : « L'horreur une fois encore. Après Aubagne, Trappes », en soulignant la gravité des qualifications retenues par le PNAT. Il met en cause les théories d'extrême droite comme celle du « grand remplacement ».",
+              "src": "X, 23 octobre 2026 ; RFI, 23 octobre 2026"
+            },
+            "eco": {
+              "type": "declare",
+              "texte": "Marine Tondelier (Les Écologistes) estime que, si le mobile est confirmé, « c'est ce que l'on appelle un attentat raciste ». Elle ajoute : « Le racisme tue car la violence des mots précède toujours la violence des actes ».",
+              "src": "L'Express, 23 octobre 2026"
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "Gabriel Attal (Renaissance) estime que le tireur avait « un seul objectif : faire le maximum de victimes ». Le garde des Sceaux Gérald Darmanin (Renaissance) dénonce une « attaque ignoble ».",
+              "src": "X, 23 octobre 2026 ; Le JDD, 23 octobre 2026"
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant appelle habituellement, après un attentat, à l'unité nationale et au respect du travail de la justice. Il insiste en général sur la lutte contre toutes les formes de racisme et sur la cohésion entre les citoyens, quelles que soient leurs origines.",
+              "src": ""
+            },
+            "hor": {
+              "type": "declare",
+              "texte": "Édouard Philippe (Horizons) écrit que « l'horreur a frappé » et condamne « cet acte ignoble », sans se prononcer à ce stade sur le mobile.",
+              "src": "L'Express, 23 octobre 2026 ; Le JDD, 23 octobre 2026"
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Bruno Retailleau (LR) évoque une « violence terrifiante », sans se prononcer à ce stade sur le mobile. Le président du Sénat, Gérard Larcher (LR), dénonce un « drame inacceptable ».",
+              "src": "L'Express, 23 octobre 2026 ; Le JDD, 23 octobre 2026"
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Jordan Bardella (RN) condamne « cet acte barbare d'une gravité inouïe » et salue l'interpellation rapide du suspect. Marine Le Pen (RN) parle elle aussi d'« acte barbare » et estime que les motivations « devront être établies ».",
+              "src": "Le JDD, 23 octobre 2026 ; L'Express, 23 octobre 2026"
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant condamne en général ce type de violences en mettant l'accent sur l'ordre public et la fermeté pénale. Il récuse habituellement les accusations qui relient son discours sur l'immigration et l'identité aux passages à l'acte violents.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "TV78 – Fusillade à Trappes : Emmanuel Macron dénonce un « attentat terroriste et raciste » lors de son déplacement",
+              "u": "https://tv78.com/fusillade-a-trappes-emmanuel-macron-denonce-un-attentat-terroriste-et-raciste-lors-de-son-deplacement/"
+            },
+            {
+              "t": "Le JDD – Fusillade à Trappes : qui est Kévin T., le suspect de 39 ans déjà connu de la police ?",
+              "u": "https://www.lejdd.fr/Societe/fusillade-a-trappes-qui-est-kevin-t-le-suspect-de-39-ans-deja-connu-de-la-police-186786"
+            },
+            {
+              "t": "L'Express via Orange – Fusillade mortelle à Trappes : « acte barbare », « le racisme tue »... Les réactions de la classe politique",
+              "u": "https://actu.orange.fr/politique/fusillade-mortelle-a-trappes-acte-barbare-le-racisme-tue-les-reactions-de-la-classe-politique-l-express-via-6medias-CNT000002tmawH.html"
+            },
+            {
+              "t": "Le JDD – Attaque terroriste à Trappes : de Mélenchon à Bardella, la condamnation unanime",
+              "u": "https://www.lejdd.fr/politique/attaque-terroriste-a-trappes-de-melenchon-a-bardella-la-condamnation-unanime-186804"
+            },
+            {
+              "t": "RFI via Yahoo – Attentat à Trappes : Emmanuel Macron tente d'unir plutôt que de diviser, la gauche fustige le racisme décomplexé",
+              "u": "https://fr.news.yahoo.com/attentat-%C3%A0-trappes-emmanuel-macron-214608140.html"
+            },
+            {
+              "t": "franceinfo – Ce que l'on sait de l'attentat raciste à Trappes et La Verrière",
+              "u": "https://www.franceinfo.fr/societe/trappes/un-mort-et-plusieurs-blesses-un-suspect-arrete-le-parquet-antiterroriste-saisi-ce-que-l-on-sait-de-l-attaque-a-l-arme-a-feu-a-trappes-et-la-verriere_8250688.html"
+            },
+            {
+              "t": "X – Message d'Olivier Faure",
+              "u": "https://x.com/faureolivier/status/2113628901918322901"
+            },
+            {
+              "t": "X – Message de Gabriel Attal",
+              "u": "https://x.com/GabrielAttal/status/2113602416218128565"
+            }
+          ]
+        },
+        {
+          "id": "2026-10-24-acte-ii-manifestations",
+          "rubrique": "Libertés publiques",
+          "titre": "« Acte II » : 70 000 policiers et gendarmes, bras de fer à Paris sur le parcours du cortège syndical",
+          "chapo": "La mobilisation contre la vie chère reprend ce samedi sous un dispositif de sécurité sans précédent. À Paris, l'intersyndicale refuse le nouveau tracé imposé par la préfecture, le Conseil d'État est saisi par la gauche, et les lycéens reçus à l'Élysée appellent à continuer.",
+          "faits": [
+            "Le ministre de l'Intérieur Laurent Nuñez a annoncé vendredi le déploiement d'environ 70 000 policiers et gendarmes, avec le RAID, le GIGN et la BRI pour la garde de bâtiments, une vingtaine de blindés Centaure, quinze lanceurs d'eau et des hélicoptères ; il recense 2 513 gardes à vue le week-end dernier et 500 interpellations depuis lundi.",
+            "Vendredi soir, la préfecture de police a interdit le parcours Bastille-Nation du cortège syndical parisien et proposé un tracé entre la porte d'Italie et la porte de Vincennes ; l'intersyndicale d'Île-de-France le juge « inacceptable » et maintient un départ de Bastille, Karl Ghazi (CGT Paris) estimant le nouveau parcours « impossible à sécuriser ».",
+            "Les manifestations sont interdites samedi à Lyon, Marseille, Mulhouse, Nancy et Besançon ; celle de Strasbourg est autorisée. Après l'Adelico et le Syndicat de la magistrature jeudi, Les Écologistes, LFI, le PS, le PCF, L'Après, Debout et Génération.s ont déposé vendredi un référé-liberté au Conseil d'État contre la consigne présidentielle.",
+            "Emmanuel Macron a reçu vendredi une vingtaine de représentants lycéens pendant près de trois heures ; selon son entourage, il juge nécessaire une « refonte en profondeur de Parcoursup » et des « décisions concrètes » sont promises lundi. Nathanaël Combary (Renouveau lycéen) appelle toutefois à « continuer à se mobiliser ».",
+            "Depuis Limoges, où il a promis la reconstruction de l'hôtel de ville incendié, Sébastien Lecornu a affirmé vendredi soir que « le niveau de menace reste élevé », en visant l'ultragauche et la délinquance."
+          ],
+          "enjeu": "La journée dira si le pari sécuritaire de l'exécutif évite de nouvelles violences sans provoquer d'affrontements avec des cortèges interdits ou détournés, comme à Paris. En parallèle, le Conseil d'État doit dire si un président peut faire distinguer les manifestations selon leurs organisateurs, et la réunion de lundi à Matignon montrera ce que le gouvernement propose sur le fond.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement le droit de manifester sans autorisation préalable et dénonce les interdictions comme une répression du mouvement social. Il refuse en général la distinction entre cortèges syndicaux et autres, et appelle à poursuivre la mobilisation dans la rue.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "LFI et le PCF cosignent le référé-liberté contre une atteinte « grave et manifestement illégale » à la liberté de manifester. Manuel Bompard (LFI) reproche à Sébastien Lecornu de n'avoir pas abordé les revendications sociales lors de la réunion sur le maintien de l'ordre.",
+              "src": "Les Écologistes (communiqué commun), 23 octobre 2026 ; L'essentiel, 22 octobre 2026"
+            },
+            "soc": {
+              "type": "declare",
+              "texte": "Le PS cosigne le recours devant le Conseil d'État. Olivier Faure (PS) estime qu'« on ne peut pas traiter uniquement de manière sécuritaire un sujet d'abord politique » et réclame une réponse politique à la mobilisation.",
+              "src": "Les Écologistes (communiqué commun), 23 octobre 2026 ; La Provence, 22 octobre 2026"
+            },
+            "eco": {
+              "type": "declare",
+              "texte": "Les Écologistes, à l'initiative du référé, contestent l'interdiction de cortèges jugés « illégitimes » par le président et l'imposition systématique de parcours aux syndicats : une interdiction doit être « justifiée par des risques avérés, pas par l'identité de l'organisateur ».",
+              "src": "Les Écologistes, 23 octobre 2026"
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "Sébastien Lecornu (Renaissance) affirme que « le niveau de menace reste élevé » samedi et vise l'ultragauche et la délinquance. Maud Bregeon (Renaissance), porte-parole du gouvernement, assure que les interdictions sont décidées « au cas par cas ».",
+              "src": "L'essentiel, 23 octobre 2026 ; LCP, 22 octobre 2026"
+            },
+            "modem": {
+              "type": "declare",
+              "texte": "Marc Fesneau, président du groupe MoDem à l'Assemblée, a demandé mardi au gouvernement : « Comment entendez-vous garantir durablement la paix civile » et protéger les Français.",
+              "src": "Assemblée nationale, 20 octobre 2026"
+            },
+            "hor": {
+              "type": "declare",
+              "texte": "Édouard Philippe (Horizons) a réclamé des décisions pour le retour à l'ordre, estimant que « notre pays a besoin d'être commandé ». Le député Laurent Marcangeli (Horizons) a demandé quel dispositif était prévu samedi « pour éviter un acte II ».",
+              "src": "Europe 1, 18 octobre 2026 ; Assemblée nationale, 20 octobre 2026"
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Bruno Retailleau (LR) juge les mesures insuffisantes et réclame l'état d'urgence. Il demande aussi que soit « reconsidéré » le calendrier de l'élection présidentielle.",
+              "src": "Public Sénat, 22 octobre 2026"
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Guilhem Carayon, vice-président délégué de l'UDR, salue la limitation des cortèges : « Il était temps », et appelle à un « réarmement régalien » de l'État. Éric Ciotti (UDR) avait demandé mardi l'interdiction de toutes les manifestations du week-end.",
+              "src": "franceinfo, 22 octobre 2026 ; Assemblée nationale, 20 octobre 2026"
+            },
+            "ed": {
+              "type": "declare",
+              "texte": "Éric Zemmour (Reconquête) attribue les violences du 17 octobre à des casseurs « mus par la haine de notre pays et par la volonté de se venger de la colonisation » : « On sait qui c'est, on sait d'où ça vient ».",
+              "src": "Europe 1, 18 octobre 2026"
+            }
+          },
+          "sources": [
+            {
+              "t": "Public Sénat – Mobilisation du 24 octobre : Laurent Nuñez annonce le déploiement de « 70 000 policiers et gendarmes », dont plusieurs unités d'élite",
+              "u": "https://www.publicsenat.fr/actualites/territoires/mobilisation-du-24-octobre-laurent-nunez-annonce-le-deploiement-de-70-000-policiers-et-gendarmes-dont-plusieurs-unites-delite"
+            },
+            {
+              "t": "RTBF – Macron reçoit les lycéens qui appellent à « continuer à se mobiliser », 70 000 membres des forces de l'ordre déployés samedi",
+              "u": "https://www.rtbf.be/article/macron-recoit-les-lyceens-70-000-membres-des-forces-de-l-ordre-mobilises-samedi-11805191"
+            },
+            {
+              "t": "L'essentiel – Menace élevée en France : Lecornu cible l'ultragauche avant les manifestations",
+              "u": "https://www.lessentiel.lu/fr/story/crises-en-france-la-menace-reste-elevee-la-france-sur-les-dents-103644650"
+            },
+            {
+              "t": "Le Figaro via Shango – « Acte II » le 24 octobre : la préfecture interdit le parcours Bastille-Nation de la manifestation parisienne",
+              "u": "https://www.shango.media/le-figaro-acte-ii-le-24-octobre-la-prefecture-interdit-le-parcours-bastille-nation-de-la-manifestation-parisienne-demain-11978994"
+            },
+            {
+              "t": "franceinfo – Blindés, unités d'élite, 70 000 policiers et gendarmes… Laurent Nuñez détaille le dispositif de sécurité du 24 octobre",
+              "u": "https://www.franceinfo.fr/societe/manifestations/blindes-unites-d-elite-70-000-policiers-et-gendarmes-laurent-nunez-detaille-l-important-dispositif-de-securite-mobilise-pour-les-manifestations-du-24-octobre_8250754.html"
+            },
+            {
+              "t": "Les Écologistes – Les partis de gauche et écologiste déposent ensemble un référé-liberté auprès du Conseil d'État sur la liberté de manifester",
+              "u": "https://lesecologistes.fr/posts/74lngaWp7ExBgkxtgm4a1A/les-partis-de-gauche-et-ecologiste-deposent-ensemble-un-refere-liberte-aupres-du-conseil-d-etat-sur-la-liberte-de-manifester"
+            },
+            {
+              "t": "Public Sénat – Emmanuel Macron serre la vis sur les mobilisations : jusqu'à quel point peut-on restreindre la liberté de manifester ?",
+              "u": "https://www.publicsenat.fr/actualites/politique/emmanuel-macron-serre-la-vis-sur-les-mobilisations-jusqua-quel-point-peut-on-restreindre-la-liberte-de-manifester"
+            },
+            {
+              "t": "LCP – Emmanuel Macron souhaite interdire ce week-end les manifestations organisées par « des gens qui n'ont aucune légitimité pour cela »",
+              "u": "https://lcp.fr/actualites/emmanuel-macron-souhaite-interdire-ce-week-end-les-manifestations-organisees-par-des"
+            },
+            {
+              "t": "Titrespresse (La Provence) – Manifestations : « On ne peut pas traiter uniquement de manière sécuritaire un sujet d'abord politique », Olivier Faure",
+              "u": "https://www.titrespresse.com/26087022603/oliver-faure-ps"
+            },
+            {
+              "t": "franceinfo – Limitation des manifestations le 24 octobre : « Il était temps », réagit Guilhem Carayon (UDR)",
+              "u": "https://www.franceinfo.fr/politique/limitation-des-manifestations-le-24-octobre-il-etait-temps-reagit-guilhem-carayon-vice-president-delegue-de-l-udr-d-eric-ciotti-qui-appelle-a-un-rearmement-regalien-de-l-etat_8249521.html"
+            },
+            {
+              "t": "Assemblée nationale – Compte rendu de la première séance du mardi 20 octobre 2026 (questions au gouvernement)",
+              "u": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-mardi-20-octobre-2026"
+            },
+            {
+              "t": "Europe 1 – En direct – Émeutes du 17 octobre : les réactions de la classe politique après l'allocution d'Emmanuel Macron",
+              "u": "https://www.europe1.fr/societe/en-direct-emeutes-du-17-octobre-emmanuel-macron-sadressera-aux-francais-a-20-heures-1159713"
+            },
+            {
+              "t": "Europe 1 – Émeutes du 17 octobre : « Ces gens-là sont mus par la haine de notre pays », déplore Éric Zemmour",
+              "u": "https://www.europe1.fr/societe/emeutes-du-17-octobre-ces-gens-la-sont-mus-par-la-haine-de-notre-pays-deplore-eric-zemmour-1161123"
+            }
+          ]
+        },
+        {
+          "id": "2026-10-24-secu-rejet-assemblee",
+          "rubrique": "Budget",
+          "titre": "Budget de la Sécu : l'Assemblée rejette la partie recettes, le texte part au Sénat dans sa version initiale",
+          "chapo": "Par 115 voix contre 1, les députés ont rejeté vendredi la partie recettes du budget de la Sécurité sociale pour 2027, ce qui interrompt l'examen du texte. Le Sénat repartira de la copie du gouvernement, qui pourrait recourir au 49.3 ou aux ordonnances.",
+          "faits": [
+            "Vendredi 23 octobre, l'Assemblée nationale a rejeté la partie recettes du projet de loi de financement de la Sécurité sociale (PLFSS) pour 2027 par 115 voix contre 1 ; Renaissance, le MoDem et Horizons se sont majoritairement abstenus, les autres groupes ont voté contre, et la seule voix favorable est venue d'un député MoDem.",
+            "Faute de recettes adoptées, les députés ne peuvent pas examiner les dépenses : le texte est transmis au Sénat dans la version initiale du gouvernement, avec un examen à partir du 9 novembre.",
+            "Le gouvernement vise un déficit de la Sécurité sociale de 12,7 milliards d'euros en 2027, contre 21,8 milliards en 2026 ; selon le ministre des Comptes publics David Amiel, les votes des députés le portaient virtuellement à 24 milliards.",
+            "Parmi les mesures supprimées pendant les débats : la réduction des exonérations de cotisations patronales (3,7 milliards d'euros), la surtaxe sur les mutuelles (1,1 milliard) et la taxe sur les produits sucrés (300 millions) ; la suppression de la C3S, votée sur amendement RN, coûterait 5,5 milliards selon David Amiel.",
+            "Selon l'AFP, le gouvernement pourrait recourir à l'article 49.3 ou aux ordonnances, ce qui serait une première pour des ordonnances en matière budgétaire selon LCP."
+          ],
+          "enjeu": "Le rejet prive l'Assemblée de tout vote sur les dépenses de santé et de retraite, dont la revalorisation des pensions inférieure à l'inflation critiquée à gauche comme à droite. Le gouvernement doit maintenant trouver une majorité au Sénat puis en commission mixte paritaire, ou passer en force, à six mois de la présidentielle.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant rejette habituellement les budgets de la Sécurité sociale fondés sur des économies pour les assurés et les retraités. Il réclame en général un financement par les cotisations patronales et la fin des exonérations accordées aux entreprises.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Les députés LFI ont voté contre la partie recettes. À l'ouverture des débats, Hadrien Clouet (LFI) avait défendu une motion de rejet contre un « texte de classe », écartée par l'Assemblée.",
+              "src": "LCP, 23 octobre 2026 ; LCP, 20 octobre 2026"
+            },
+            "soc": {
+              "type": "declare",
+              "texte": "Sandrine Runel (PS) juge que le texte « n'apporte aucune recette à la hauteur des besoins » et le trouve « injuste dans ses choix » ; elle affirme que son groupe avait des recettes à proposer, toutes refusées par le bloc central.",
+              "src": "LCP, 23 octobre 2026 ; Sud Radio (AFP), 23 octobre 2026"
+            },
+            "eco": {
+              "type": "declare",
+              "texte": "Sandrine Rousseau (Les Écologistes) dénonce « un gouvernement dans une citadelle, enfermé, seul, isolé ». Son groupe avait fait adopter un départ anticipé à 62 ans pour les carrières de 42 ans.",
+              "src": "LCP, 23 octobre 2026 ; LCP, 22 octobre 2026"
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "David Amiel (Renaissance), ministre des Comptes publics, juge « très grave » le déficit virtuel issu des votes et appelle à ne pas « vivre dans une réalité virtuelle ». Les députés Renaissance se sont abstenus.",
+              "src": "Sud Radio (AFP), 23 octobre 2026"
+            },
+            "modem": {
+              "type": "declare",
+              "texte": "Cyrille Isaac-Sibille (MoDem) juge le projet du gouvernement « difficile, mais courageux » et qualifie le texte amendé par les députés d'« irresponsabilité folle ».",
+              "src": "LCP, 23 octobre 2026"
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement la maîtrise des comptes sociaux et le report de l'âge de départ, tout en se montrant réservé sur les hausses d'impôts. Ses députés se sont majoritairement abstenus sur la partie recettes.",
+              "src": ""
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Justine Gruet (LR) estime que « l'impératif de redressement des comptes sociaux n'est pas tenu ». Le rapporteur Thibault Bazin (LR) juge la responsabilité « partagée » et se félicite que le texte revienne en seconde lecture.",
+              "src": "LCP, 23 octobre 2026 ; Sud Radio (AFP), 23 octobre 2026"
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Joëlle Mélin (RN) demande « que les choses s'arrêtent là » et dénonce des « rustines » ; Christophe Bentz (RN) accuse le bloc central d'avoir déserté. Olivier Fayssat (UDR) dénonce une « trajectoire morbide ».",
+              "src": "LCP, 23 octobre 2026 ; Sud Radio (AFP), 23 octobre 2026"
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant met habituellement en avant la baisse des prélèvements et la lutte contre la fraude sociale pour équilibrer les comptes. Il se montre en général hostile aux hausses de cotisations comme aux taxes comportementales.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "LCP – Budget de la Sécu : l'Assemblée nationale rejette la partie « recettes », l'ensemble du texte va être transmis au Sénat",
+              "u": "https://lcp.fr/actualites/budget-de-la-secu-l-assemblee-nationale-rejette-la-partie-recettes-l-ensemble-du-texte"
+            },
+            {
+              "t": "Sud Radio (AFP) – L'Assemblée rejette à la quasi-unanimité le budget de la « Sécu », qui part au Sénat",
+              "u": "https://www.sudradio.fr/societe/lassemblee-rejette-a-la-quasi-unanimite-le-budget-de-la-secu-qui-part-au-senat"
+            },
+            {
+              "t": "La Gazette France (AFP) – L'Assemblée rejette à la quasi-unanimité le budget de la « Sécu », qui part au Sénat",
+              "u": "https://www.lagazettefrance.fr/article/l-assemblee-rejette-a-la-quasi-unanimite-le-budget-de-la-secu-qui-part-au-senat"
+            },
+            {
+              "t": "LCP – Budget de la Sécu : un amendement pour un départ en retraite à 62 ans voté lors des débats à l'Assemblée",
+              "u": "https://lcp.fr/actualites/budget-de-la-secu-un-amendement-pour-un-depart-en-retraite-a-62-ans-vote-lors-des-debats"
+            },
+            {
+              "t": "LCP – Budget de la Sécu : la motion de rejet de LFI écartée, l'examen du texte lancé dans l'hémicycle",
+              "u": "https://lcp.fr/actualites/budget-de-la-secu-la-motion-de-rejet-de-lfi-ecartee-l-examen-du-texte-lance-dans-l"
+            }
+          ]
+        },
+        {
+          "id": "2026-10-24-congres-rn-orleans",
+          "rubrique": "Présidentielle 2027",
+          "titre": "Le RN ouvre son congrès à Orléans, face à une importante contre-manifestation",
+          "chapo": "Le Rassemblement national réunit ses adhérents ce week-end à Orléans pour réélire Jordan Bardella et lancer dimanche la campagne présidentielle de Marine Le Pen. Plusieurs dizaines de milliers d'opposants sont attendus dans la rue ce samedi.",
+          "faits": [
+            "Le RN tient son XIXe congrès samedi 24 et dimanche 25 octobre à Orléans : la réélection de Jordan Bardella à la présidence du parti doit être prononcée samedi, avant un meeting de Marine Le Pen dimanche pour lancer sa campagne ; le parti attend 5 000 personnes samedi et 10 000 dimanche.",
+            "Condamnée en appel le 7 juillet à un an de prison sous bracelet électronique et 45 mois d'inéligibilité dont 30 avec sursis, Marine Le Pen n'est plus empêchée en théorie de se présenter, la cour ayant jugé que les mois d'inéligibilité déjà purgés avaient « réparé » le manquement.",
+            "Une cinquantaine d'organisations, dont des partis de gauche et des syndicats, appellent à manifester samedi matin contre « le racisme, le fascisme et l'impérialisme » ; le préfet du Loiret attend 20 000 à 30 000 personnes, dont 2 000 à 3 000 « éléments radicaux », et près de 3 000 membres des forces de l'ordre sont mobilisés.",
+            "Le parcours de la contre-manifestation a été modifié vendredi pour éviter le centre-ville, un « village antifasciste » est prévu de 13 heures à 22 heures, et la manifestation annoncée dimanche est interdite ; le maire Serge Grouard a fait arrêter les trams et interdit le stationnement en centre-ville.",
+            "Olivier Faure (PS), Bally Bagayoko (LFI), Sophie Binet (CGT) ainsi que les députés Clémentine Autain et Aymeric Caron sont attendus à Orléans."
+          ],
+          "enjeu": "À six mois du premier tour, prévu le 18 avril, le RN veut afficher sa force et son unité autour de Marine Le Pen, que les sondages placent parmi les favoris. Au lendemain de l'attentat de Trappes et dans un climat de violences urbaines, le déroulement du week-end à Orléans pèsera sur le récit de campagne de chacun.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant appelle habituellement à manifester contre l'extrême droite et voit dans le RN un adversaire des travailleurs immigrés comme du mouvement ouvrier. Il juge en général que le combat antifasciste passe par la rue et les luttes sociales plus que par les urnes.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Manuel Bompard (LFI) appelle à des « manifestations pacifiques et non violentes » à Orléans. Bally Bagayoko, maire LFI de Saint-Denis, doit prendre la parole au « village antifasciste » de l'après-midi.",
+              "src": "LCP, 22 octobre 2026 ; AFP (Bourse Direct), 20 octobre 2026"
+            },
+            "soc": {
+              "type": "declare",
+              "texte": "Olivier Faure (PS) est attendu à la contre-manifestation. Après l'attentat de Trappes, il a rappelé la tenue du congrès du RN et dénoncé les théories d'extrême droite comme celle du « grand remplacement ».",
+              "src": "LCP, 22 octobre 2026 ; RFI, 23 octobre 2026"
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant participe habituellement aux mobilisations contre l'extrême droite et met en avant la défense des libertés, de l'écologie et de l'égalité face au programme du RN. Il appelle en général à des rassemblements pacifiques et à l'union de la gauche pour 2027.",
+              "src": ""
+            },
+            "ren": {
+              "type": "lecture",
+              "texte": "Le courant combat habituellement le RN sur le terrain des idées, en contestant son programme économique et européen, tout en défendant son droit à se réunir. Il condamne en général toute violence visant un parti ou ses militants.",
+              "src": ""
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant s'oppose habituellement au RN au nom de l'attachement à l'Europe et à l'État de droit, tout en refusant les violences contre ses réunions. Il plaide en général pour un rassemblement des modérés face aux extrêmes.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant se pose habituellement en alternative au RN pour 2027 et critique la crédibilité de son programme. Il défend en général la liberté de réunion de tous les partis et la fermeté face aux violences.",
+              "src": ""
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Le sénateur LR du Loiret Hugues Saury a interrogé le gouvernement sur la sécurité du week-end, demandant si le centre d'Orléans devrait de nouveau être fermé face aux contre-manifestations annoncées.",
+              "src": "Public Sénat, 21 octobre 2026"
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Marine Le Pen (RN) juge « fou » que « cela ne scandalise plus personne » et dit ne pas avoir « d'inquiétudes ». Laurent Jacobelli (RN) assure : « Nous sommes sereins, nous avons des garanties du ministère de l'Intérieur ».",
+              "src": "franceinfo, 21 octobre 2026 ; RMC, 22 octobre 2026"
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant, concurrent du RN pour 2027, lui reproche habituellement une ligne jugée trop modérée sur l'immigration et l'identité. Il dénonce en général les contre-manifestations visant la droite et réclame la dissolution des groupes antifascistes.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "LCP – Congrès du RN à Orléans : la gauche appelle à une mobilisation massive contre le RN",
+              "u": "https://lcp.fr/actualites/congres-du-rn-a-orleans-la-gauche-appelle-a-une-mobilisation-massive-contre-le-rn-444156"
+            },
+            {
+              "t": "Public Sénat – Congrès du RN à Orléans : plusieurs dizaines de milliers de contre-manifestants attendus samedi, selon Laurent Nuñez",
+              "u": "https://www.publicsenat.fr/actualites/politique/congres-du-rn-a-orleans-plusieurs-dizaines-de-milliers-de-contre-manifestants-attendus-samedi-selon-laurent-nunez"
+            },
+            {
+              "t": "Bourse Direct (AFP) – Congrès du RN à Orléans : inquiétudes autour de la sécurité, des débordements redoutés",
+              "u": "https://www.boursedirect.fr/fr/actualites/categorie/politique/congres-du-rn-a-orleans-inquietudes-autour-de-la-securite-des-debordements-redoutes-afp-8e46e3fcc6ab9adefbf323a2870eccf195dbf464"
+            },
+            {
+              "t": "ici – Orléans : ce que l'on sait des mobilisations prévues contre le congrès du Rassemblement national",
+              "u": "https://www.ici.fr/centre-val-de-loire/loiret-45/orleans/congres-du-rassemblement-national-mobilisations-antifascistes-et-manifestation-interdite-a-orleans-ce-week-end-3896817"
+            },
+            {
+              "t": "L'essentiel – Menace élevée en France : Lecornu cible l'ultragauche avant les manifestations",
+              "u": "https://www.lessentiel.lu/fr/story/crises-en-france-la-menace-reste-elevee-la-france-sur-les-dents-103644650"
+            },
+            {
+              "t": "Public Sénat – Marine Le Pen condamnée à 1 an ferme sous bracelet électronique et à 45 mois d'inéligibilité, dont 30 avec sursis",
+              "u": "https://www.publicsenat.fr/actualites/politique/direct-suivez-le-delibere-du-proces-en-appel-de-marine-le-pen"
+            },
+            {
+              "t": "RFI via Yahoo – Attentat à Trappes : Emmanuel Macron tente d'unir plutôt que de diviser, la gauche fustige le racisme décomplexé",
+              "u": "https://fr.news.yahoo.com/attentat-%C3%A0-trappes-emmanuel-macron-214608140.html"
+            }
+          ]
+        },
+        {
+          "id": "2026-10-24-ukraine-abou-dhabi",
+          "rubrique": "International",
+          "titre": "Ukraine : Moscou annonce des pourparlers avec Kyiv et Washington à Abou Dhabi en novembre",
+          "chapo": "Le Kremlin a annoncé vendredi la reprise de négociations trilatérales avec l'Ukraine et les États-Unis aux Émirats arabes unis, dans la première moitié de novembre. Une participation européenne n'est pas exclue, selon Moscou.",
+          "faits": [
+            "Le porte-parole du Kremlin, Dmitri Peskov, a annoncé vendredi 23 octobre des pourparlers entre la Russie, l'Ukraine et les États-Unis à Abou Dhabi dans la première moitié de novembre ; Moscou propose de les tenir autour du 10 novembre.",
+            "Selon Dmitri Peskov, les discussions porteraient notamment sur les questions de sécurité des deux pays une fois un règlement trouvé ; interrogé sur une participation européenne, il a répondu qu'« on ne peut rien exclure a priori ».",
+            "Vladimir Poutine estime que les pourparlers doivent viser un accord définitif et non une trêve de courte durée ; Volodymyr Zelensky souhaite qu'ils aient lieu au plus tôt et juge réaliste un arrêt des combats sur la ligne de front actuelle, préalable à un cessez-le-feu.",
+            "La dernière rencontre entre délégations russe et ukrainienne remonte à février 2026, à Genève ; une réunion prévue en mars à Abou Dhabi avait été annulée après le déclenchement de la guerre opposant les États-Unis et Israël à l'Iran.",
+            "L'annonce suit la tournée de l'émissaire américain Steve Witkoff, qui a rencontré Volodymyr Zelensky et plusieurs dirigeants européens à Oslo, puis Vladimir Poutine à Saint-Pétersbourg le 21 octobre."
+          ],
+          "enjeu": "Après des mois de quasi-gel du processus, la reprise des pourparlers ouvre une fenêtre pour un cessez-le-feu, mais Moscou maintient sa revendication sur l'ensemble du Donbass. Pour Paris et les Européens, l'enjeu est de ne pas être tenus à l'écart d'un accord qui engage la sécurité du continent, alors que l'aide à Kyiv divise la campagne présidentielle française.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant condamne habituellement l'invasion russe tout en dénonçant le militarisme des grandes puissances et les marchandages entre Washington et Moscou. Il appelle en général à la solidarité entre travailleurs russes et ukrainiens plutôt qu'au soutien aux gouvernements.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Jean-Luc Mélenchon (LFI) plaide pour une issue négociée au conflit et juge « très imprudent » d'accepter que l'Ukraine mène des tirs en profondeur sur le territoire russe.",
+              "src": "Sud Radio (AFP), 4 septembre 2026"
+            },
+            "soc": {
+              "type": "declare",
+              "texte": "Raphaël Glucksmann (Place publique) a qualifié de « capitulation » et de « soumission » la promesse de Marine Le Pen de cesser l'aide à l'Ukraine, estimant qu'elle reviendrait à soumettre l'Europe à Vladimir Poutine.",
+              "src": "Journal du Net, 16 octobre 2026"
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement un soutien militaire et financier sans faille à l'Ukraine, des sanctions renforcées contre la Russie et l'utilisation des avoirs russes gelés au profit de Kyiv. Il réclame en général que l'Europe participe à toute négociation.",
+              "src": ""
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "Gabriel Attal (Renaissance) estime que couper l'aide à l'Ukraine, comme l'envisage le RN, « c'est laisser Vladimir Poutine gagner » et montrerait que la parole de la France ne vaut rien.",
+              "src": "Sud Radio (AFP), 4 septembre 2026"
+            },
+            "modem": {
+              "type": "declare",
+              "texte": "Jean-Noël Barrot (MoDem), ministre de l'Europe et des Affaires étrangères, a mis en garde contre une confrontation avec la Russie qui dépasse l'Ukraine ; son ministère défend le soutien à Kyiv, la pression sur Moscou et la préparation de négociations.",
+              "src": "LCI, 16 septembre 2026 ; Quai d'Orsay, 15 octobre 2026"
+            },
+            "hor": {
+              "type": "declare",
+              "texte": "Édouard Philippe (Horizons) a accusé le RN de vouloir « servir la Russie » en coupant l'aide à Kyiv, estimant qu'affaiblir l'Ukraine, « c'est menacer la sécurité de l'Europe et de la France ».",
+              "src": "La Gazette France (AFP), 4 septembre 2026"
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Bruno Retailleau (LR) a réservé à Kyiv, en mai, son premier déplacement international de candidat, présentant la guerre comme un enjeu de sécurité européenne ; il fait du soutien à l'Ukraine un marqueur face au RN.",
+              "src": "Europe 1, 27 mai 2026"
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Marine Le Pen (RN) promet, si elle est élue, de cesser sous six mois l'aide financière française à l'Ukraine, tout en maintenant la formation de soldats et d'éventuelles livraisons de matériel.",
+              "src": "AFP via Boursorama, 16 octobre 2026"
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant plaide habituellement pour une paix négociée rapidement en tenant compte des exigences russes, critique le coût de l'aide à Kyiv et les sanctions, et refuse toute implication militaire directe de la France.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Euronews – La Russie annonce des négociations à Abou Dhabi avec l'Ukraine et les États-Unis",
+              "u": "https://fr.euronews.com/2026/10/23/la-russie-annonce-des-negociations-a-abou-dhabi-avec-lukraine-et-les-etats-unis"
+            },
+            {
+              "t": "La DH (AFP) – Le Kremlin annonce des « négociations en novembre avec les États-Unis et l'Ukraine à Abou Dhabi »",
+              "u": "https://www.dhnet.be/actu/monde/2026/10/23/invasion-de-lukraine-le-kremlin-annonce-des-negociations-en-novembre-avec-les-etats-unis-et-lukraine-a-abou-dhabi-WZR447MOARENRC4ZCEDXUGHSNM/"
+            },
+            {
+              "t": "RFI via Yahoo – Volodymyr Zelensky se dit prêt à un gel du front",
+              "u": "https://fr.news.yahoo.com/volodymyr-zelensky-dit-pr%C3%AAt-%C3%A0-030843797.html"
+            },
+            {
+              "t": "Boursorama (AFP) – Suspension de l'aide à l'Ukraine : Le Pen joue l'apaisement",
+              "u": "https://www.boursorama.com/actualite-economique/actualites/suspension-de-l-aide-a-l-ukraine-le-pen-joue-l-apaisement-ses-lieutenants-montent-au-front-880ec05f04cc722af57919e38b6e5a04"
+            }
+          ]
+        }
+      ],
+      "breves": [
+        {
+          "titre": "Moody's maintient la note de la France, contre l'avis de la plupart des économistes",
+          "texte": "L'agence a laissé vendredi soir la note française à Aa3, avec une perspective négative, alors qu'un abaissement à A1 était largement attendu. Elle suppose l'adoption d'un budget 2027 réduisant le déficit et un apaisement des tensions sociales. Sébastien Lecornu y voit un signal montrant « qu'il existe un chemin » ; le taux à dix ans a clôturé vendredi à 5,01 %. Prochaine échéance : S&P le 27 novembre.",
+          "src": {
+            "t": "Boursorama (AFP) – Moody's laisse la situation s'éclaircir avant de se prononcer sur la note française",
+            "u": "https://www.boursorama.com/bourse/actualites/moody-s-laisse-la-situation-s-eclaircir-avant-de-se-prononcer-sur-la-note-francaise-ac1b80e40c12cf716c6c9eb73260e1e0"
+          }
+        },
+        {
+          "titre": "Limoges : Lecornu promet une mairie reconstruite « à l'identique »",
+          "texte": "En visite vendredi soir à Limoges, dont l'hôtel de ville a été incendié le 17 octobre, le Premier ministre a assuré que « l'État sera là » pour le reconstruire. Le maire Guillaume Guérin (LR), qui avait menacé de démissionner, réclamait un plan spécifique et un engagement écrit de l'État.",
+          "src": {
+            "t": "LCP – « La mairie de Limoges sera reconstruite » : Sébastien Lecornu répond au maire de la ville",
+            "u": "https://lcp.fr/actualites/la-mairie-de-limoges-sera-reconstruite-sebastien-lecornu-repond-au-maire-de-la-ville"
+          }
+        },
+        {
+          "titre": "Smic : le patronat met en garde contre une hausse anticipée",
+          "texte": "Le ministre du Travail Jean-Pierre Farandou a reçu vendredi syndicats et patronat sur le pouvoir d'achat. Le gouvernement envisage d'avancer de quelques semaines la revalorisation légale du 1er janvier, estimée à environ 15 euros net par mois ; le président du Medef, Patrick Martin, craint qu'« au motif d'acheter la paix sociale dans la rue, on va créer la pagaille dans les entreprises ».",
+          "src": {
+            "t": "Previssima – Smic : le gouvernement étudie un coup de pouce anticipé, le Medef craint un choc pour les entreprises",
+            "u": "https://www.previssima.fr/actualite/smic-le-gouvernement-etudie-un-coup-de-pouce-anticipe-le-medef-craint-un-choc-pour-les-entreprises.html"
+          }
+        },
+        {
+          "titre": "L'enseignement privé sous contrat rejoint la grève du 5 novembre",
+          "texte": "Les syndicats de l'enseignement privé sous contrat ont appelé vendredi à la grève le 5 novembre, journée de mobilisation interprofessionnelle pour laquelle la CGT appelle à « généraliser la grève ».",
+          "src": {
+            "t": "L'essentiel – Menace élevée en France : Lecornu cible l'ultragauche avant les manifestations",
+            "u": "https://www.lessentiel.lu/fr/story/crises-en-france-la-menace-reste-elevee-la-france-sur-les-dents-103644650"
+          }
+        }
+      ],
+      "agenda": [
+        {
+          "d": "Sam. 24 oct.",
+          "t": "« Acte II » de la mobilisation, cortège syndical parisien au départ de Bastille malgré l'interdiction du parcours ; congrès du RN à Orléans et réélection de Jordan Bardella ; contre-manifestation le matin"
+        },
+        {
+          "d": "Dim. 25 oct.",
+          "t": "Meeting de Marine Le Pen à Orléans pour le lancement de sa campagne présidentielle ; manifestation anti-RN interdite"
+        },
+        {
+          "d": "Lun. 26 oct.",
+          "t": "Sébastien Lecornu réunit organisations lycéennes, étudiantes, syndicales, patronales et élus, « décisions concrètes » attendues sur Parcoursup ; autonomie de la Corse en séance au Sénat"
+        },
+        {
+          "d": "Mar. 27 oct.",
+          "t": "Projet de loi « casseurs-payeurs » en séance au Sénat"
+        },
+        {
+          "d": "Jeu. 5 nov.",
+          "t": "Journée de grève et de manifestations interprofessionnelle ; la CGT appelle à généraliser la grève"
+        },
+        {
+          "d": "Lun. 9 nov.",
+          "t": "Début de l'examen du budget de la Sécu au Sénat, dans la version initiale du gouvernement"
+        },
+        {
+          "d": "Vers le 10 nov.",
+          "t": "Pourparlers Russie-Ukraine-États-Unis à Abou Dhabi, selon le Kremlin"
+        }
+      ]
+    },
     {
       "date": "2026-10-23",
       "label": "Vendredi 23 octobre 2026",
@@ -2241,185 +2801,6 @@
         {
           "d": "Mer. 21 oct.",
           "t": "Conseil des ministres"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-16",
-      "label": "Vendredi 16 octobre 2026",
-      "maj": "Mise à jour à 6 h 55",
-      "intro": "EXEMPLE FICTIF : édition de test. Au menu : les partenaires sociaux rouvrent le dossier de l'assurance chômage, la réforme de la formation des enseignants entre en application, et un plan de sobriété sur l'eau agricole fait débat.",
-      "stories": [
-        {
-          "id": "2026-10-16-assurance-chomage",
-          "rubrique": "Social",
-          "titre": "Assurance chômage : syndicats et patronat rouvrent la négociation",
-          "chapo": "Le gouvernement a transmis aux partenaires sociaux une lettre de cadrage qui demande de nouvelles économies sur l'indemnisation des demandeurs d'emploi.",
-          "faits": [
-            "La lettre de cadrage fixe un objectif d'économies de 2 milliards d'euros par an (chiffre fictif).",
-            "Les organisations ont trois mois pour aboutir à un accord.",
-            "À défaut d'accord, l'État pourra fixer les règles par décret."
-          ],
-          "enjeu": "La négociation teste la capacité des partenaires sociaux à garder la main sur l'assurance chômage face à un gouvernement qui veut réduire les dépenses et inciter au retour à l'emploi.",
-          "positions": {
-            "gr": {
-              "type": "declare",
-              "texte": "« Une nouvelle baisse des droits des chômeurs serait inacceptable. Nous la combattrons au Parlement et dans la rue. » (citation fictive)",
-              "src": "Exemple fictif : meeting, 15 octobre"
-            },
-            "g": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement le paritarisme et s'oppose aux réductions de durée ou de montant d'indemnisation décidées par l'exécutif.",
-              "src": ""
-            },
-            "c": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement les réformes visant à encourager la reprise d'emploi et la maîtrise des comptes de l'assurance chômage.",
-              "src": ""
-            },
-            "d": {
-              "type": "declare",
-              "texte": "« Le travail doit toujours payer davantage que l'inactivité. Cette négociation doit aller plus loin. » (citation fictive)",
-              "src": "Exemple fictif : entretien de presse, 16 octobre"
-            },
-            "dn": {
-              "type": "lecture",
-              "texte": "Le courant critique habituellement les baisses d'indemnisation pour les salariés ayant longtemps cotisé, tout en défendant un durcissement ciblé des contrôles.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "Exemple : lettre de cadrage du gouvernement",
-              "u": "https://example.org/hemicycle/lettre-cadrage-unedic"
-            },
-            {
-              "t": "Exemple : calendrier de la négociation",
-              "u": "https://example.org/hemicycle/calendrier-negociation"
-            }
-          ]
-        },
-        {
-          "id": "2026-10-16-formation-enseignants",
-          "rubrique": "Éducation",
-          "titre": "Formation des enseignants : le concours avancé à bac+3 entre en application",
-          "chapo": "Les premiers étudiants recrutés après la licence intègrent une formation rémunérée de deux ans. Le ministère espère enrayer la crise des recrutements.",
-          "faits": [
-            "Le concours de professeur des écoles et de professeur de collège et lycée se passe désormais en fin de licence.",
-            "Les lauréats suivent deux années de formation rémunérée avant leur titularisation.",
-            "Environ 3 000 postes n'avaient pas été pourvus lors de la dernière session (chiffre fictif)."
-          ],
-          "enjeu": "La réforme doit rendre le métier plus attractif. Ses détracteurs s'inquiètent du niveau disciplinaire et de la place de l'université dans la formation.",
-          "positions": {
-            "gr": {
-              "type": "lecture",
-              "texte": "Le courant demande habituellement une revalorisation salariale générale des enseignants, qu'il juge plus décisive que le calendrier du concours.",
-              "src": ""
-            },
-            "g": {
-              "type": "lecture",
-              "texte": "Le courant salue habituellement les pré-recrutements rémunérés, mais estime qu'ils ne suffiront pas à rendre le métier attractif sans revalorisation des salaires.",
-              "src": ""
-            },
-            "c": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement cette réforme comme un moyen d'ouvrir le métier aux étudiants qui y renonçaient faute de moyens.",
-              "src": ""
-            },
-            "d": {
-              "type": "lecture",
-              "texte": "Le courant insiste habituellement sur l'exigence disciplinaire et l'autorité des enseignants, et se montre attentif au niveau requis au concours.",
-              "src": ""
-            },
-            "dn": {
-              "type": "lecture",
-              "texte": "Le courant met habituellement l'accent sur la transmission des savoirs fondamentaux et l'autorité à l'école, et critique la gestion des recrutements.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "Exemple : présentation de la réforme",
-              "u": "https://example.org/hemicycle/reforme-formation"
-            }
-          ]
-        },
-        {
-          "id": "2026-10-16-eau-agricole",
-          "rubrique": "Environnement",
-          "titre": "Eau : un plan de sobriété pour l'irrigation agricole en concertation",
-          "chapo": "Le gouvernement soumet à concertation un plan qui fixerait des objectifs de réduction des prélèvements d'eau pour l'irrigation dans les bassins les plus touchés par la sécheresse.",
-          "faits": [
-            "Le plan vise une baisse de 10 % des prélèvements agricoles d'ici 2030 dans les bassins en déficit (chiffre fictif).",
-            "Il prévoit des aides pour les équipements d'irrigation économes.",
-            "La concertation avec les organisations agricoles et les associations dure jusqu'à fin novembre."
-          ],
-          "enjeu": "Le dossier oppose la sécurisation de la production agricole et la préservation de la ressource en eau, sur fond de sécheresses répétées et de conflits locaux autour des retenues d'eau.",
-          "positions": {
-            "gr": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement une gestion publique de l'eau et s'oppose aux grandes retenues réservées à quelques exploitations.",
-              "src": ""
-            },
-            "g": {
-              "type": "declare",
-              "texte": "« Ce plan va dans le bon sens, mais l'objectif reste trop timide face à l'urgence climatique. » (citation fictive)",
-              "src": "Exemple fictif : communiqué, 15 octobre"
-            },
-            "c": {
-              "type": "lecture",
-              "texte": "Le courant présente habituellement la sobriété comme une démarche concertée, combinant aides à l'investissement et objectifs fixés par bassin.",
-              "src": ""
-            },
-            "d": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement l'accès à l'eau des exploitations et le stockage, et s'oppose aux objectifs de réduction qu'il juge trop contraignants.",
-              "src": ""
-            },
-            "dn": {
-              "type": "declare",
-              "texte": "« La souveraineté alimentaire passe par l'accès à l'eau : il faut stocker l'eau l'hiver pour irriguer l'été. » (citation fictive)",
-              "src": "Exemple fictif : déplacement en région, 15 octobre"
-            }
-          },
-          "sources": [
-            {
-              "t": "Exemple : document de concertation",
-              "u": "https://example.org/hemicycle/plan-eau"
-            },
-            {
-              "t": "Exemple : données sur les prélèvements d'eau",
-              "u": "https://example.org/hemicycle/prelevements-eau"
-            }
-          ]
-        }
-      ],
-      "breves": [
-        {
-          "titre": "Assemblée : une commission d'enquête sur les transports régionaux",
-          "texte": "Les députés ont créé une commission d'enquête sur la qualité du service des trains régionaux (exemple fictif).",
-          "src": {
-            "t": "Exemple : communiqué de l'Assemblée",
-            "u": "https://example.org/hemicycle/commission-enquete-trains"
-          }
-        },
-        {
-          "titre": "Gouvernement : un comité interministériel sur la jeunesse",
-          "texte": "Un comité interministériel consacré à la jeunesse se réunira début novembre (exemple fictif).",
-          "src": {
-            "t": "Exemple : agenda du gouvernement",
-            "u": "https://example.org/hemicycle/comite-jeunesse"
-          }
-        }
-      ],
-      "agenda": [
-        {
-          "d": "Ven. 16 oct.",
-          "t": "Première séance de négociation sur l'assurance chômage (exemple)"
-        },
-        {
-          "d": "Lun. 19 oct.",
-          "t": "Début de l'examen du budget en commission des finances (exemple)"
         }
       ]
     }
