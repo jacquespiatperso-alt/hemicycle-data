@@ -93,7 +93,12 @@
               "t": "L'Info durable (AFP) – Violences : Retailleau dénonce une « convergence entre l'extrême gauche et des racailles »",
               "u": "https://www.linfodurable.fr/violences-retailleau-denonce-une-convergence-entre-lextreme-gauche-et-des-racailles-issues-de-59467"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://proxymedia.woopic.com/api/v1/images/2275%2Factu%2Farticles6medias%2F5d7%2F9a0%2F09f557e511b937fecc52a7761f%2FABACA_1024619_005-1.jpg?format=1200x630&facedetect=1&quality=85",
+            "credit": "L'Express (via Orange)",
+            "alt": "Illustration de l'article de L'Express (via Orange)"
+          }
         },
         {
           "id": "2026-10-25-trappes-enquete",
@@ -180,7 +185,12 @@
               "t": "L'Express (via Orange) – Fusillade mortelle à Trappes : les réactions de la classe politique",
               "u": "https://actu.orange.fr/politique/fusillade-mortelle-a-trappes-acte-barbare-le-racisme-tue-les-reactions-de-la-classe-politique-l-express-via-6medias-CNT000002tmawH.html"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://proxymedia.woopic.com/api/v1/images/2275%2Factu%2Farticles6medias%2Fb90%2Fa6e%2Fbd44698addfc92f645346afc67%2Ftrappes.jpg?format=1200x630&facedetect=1&quality=85",
+            "credit": "6Medias (via Orange)",
+            "alt": "Illustration de l'article de 6Medias (via Orange)"
+          }
         },
         {
           "id": "2026-10-25-rn-orleans-le-pen",
@@ -263,7 +273,12 @@
               "t": "La Libre (AFP) – Pour son premier meeting de campagne, Le Pen veut « insuffler de l'optimisme » dans un pays en crise",
               "u": "https://www.lalibre.be/dernieres-depeches/2026/10/25/pour-son-premier-meeting-de-campagne-le-pen-veut-insuffler-de-loptimisme-dans-un-pays-en-crise-QXFUPYUA7JB7ZIVYMIAHQRYFM4/"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://proxymedia.woopic.com/api/v1/images/2275%2Factu%2Fafp-news%2F540834e3-1ac5-441c-aa9b-7f189df05559.jpg?format=1200x630&facedetect=1&quality=85",
+            "credit": "AFP (via Orange)",
+            "alt": "Illustration de l'article de AFP (via Orange)"
+          }
         },
         {
           "id": "2026-10-25-bresil-second-tour",
@@ -342,7 +357,12 @@
               "t": "Wikipedia – 2026 Brazilian general election",
               "u": "https://en.wikipedia.org/wiki/2026_Brazilian_general_election"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.radiolac.ch/wp-content/uploads/2026/10/20261025011552193-1000x600.jpg",
+            "credit": "Radio Lac",
+            "alt": "Illustration de l'article de Radio Lac"
+          }
         }
       ],
       "breves": [
