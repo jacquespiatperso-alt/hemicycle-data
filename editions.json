@@ -1,6 +1,403 @@
 {
-  "updated": "2026-10-24T06:30:48+02:00",
+  "updated": "2026-10-25T06:32:00+01:00",
   "editions": [
+    {
+      "date": "2026-10-25",
+      "label": "Dimanche 25 octobre 2026",
+      "maj": "Mise à jour à 6 h 32",
+      "intro": "L'« acte II » de la mobilisation a réuni samedi entre 410 000 manifestants selon le gouvernement et 800 000 selon la CGT, avec près de 1 000 interpellations et des heurts en fin de cortège à Paris. L'enquête sur l'attentat de Trappes avance : le suspect aurait dit avoir visé des personnes en raison de leur couleur de peau, et les propos d'Emmanuel Macron sur une « première fois » suscitent la polémique. Réélu à 98,98 % à la tête du RN, Jordan Bardella passe ce dimanche la main à Marine Le Pen, qui lance sa campagne à Orléans. À l'international, le Brésil vote pour un second tour très serré entre Lula et Flávio Bolsonaro.",
+      "stories": [
+        {
+          "id": "2026-10-25-acte-ii-bilan",
+          "rubrique": "Social",
+          "titre": "« Acte II » : 410 000 à 800 000 manifestants, près de 1 000 interpellations et des heurts en fin de journée",
+          "chapo": "La deuxième journée de mobilisation contre la vie chère s'est tenue samedi sous un dispositif de 70 000 policiers et gendarmes. Les cortèges ont été moins nombreux que le 17 octobre, mais des affrontements ont éclaté en fin de journée à Paris, Grenoble, Bordeaux ou Lyon.",
+          "faits": [
+            "Le ministère de l'Intérieur a compté environ 410 000 manifestants en France, dont 110 000 à Paris ; la CGT en revendique près de 800 000, dont 250 000 dans la capitale.",
+            "À Paris, le cortège syndical est finalement parti à 14 heures de la porte d'Italie vers la porte de Vincennes, sur le parcours imposé par la préfecture ; à partir de 17 h 30, plus de 500 personnes ont affronté les forces de l'ordre sur le cours de Vincennes, dispersées au canon à eau et au gaz lacrymogène.",
+            "Laurent Nuñez a fait état samedi soir de près de 1 000 interpellations dans le pays ; à Paris, le parquet recensait 64 interpellations, dont 40 gardes à vue et six mineurs. Le ministre estime que « les cortèges se sont bien passés », tout en dénonçant la présence de « casseurs ».",
+            "Des heurts ont été signalés à Grenoble, où quelque 400 militants radicaux ont brisé des vitrines de banques, ainsi qu'à Bordeaux, Lyon, Lille, Nantes, Rennes et Marseille ; à Toulouse, un jeune homme de 20 ans a été grièvement blessé à la main. Des pillages ont été signalés, sans commune mesure avec ceux du 17 octobre selon Euronews.",
+            "La veille au soir, le Conseil d'État avait rejeté les recours de sept partis de gauche et d'associations contre la consigne présidentielle d'interdire « partout où on le peut » les rassemblements non syndicaux, estimant que ces propos ne révélaient pas une décision générale d'interdiction."
+          ],
+          "enjeu": "L'exécutif peut faire valoir que la journée n'a pas reproduit les violences du 17 octobre, tandis que la gauche et les syndicats y voient la preuve d'une mobilisation qui dure. La réunion de lundi à Matignon et la grève interprofessionnelle du 5 novembre diront si le mouvement s'essouffle ou s'élargit.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement l'extension des grèves et des manifestations jusqu'à la satisfaction des revendications salariales, et dénonce les interdictions de manifester et les interpellations comme une répression du mouvement social.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Jean-Luc Mélenchon (LFI), en tête du cortège parisien, appelle Emmanuel Macron à « céder », faute de quoi « il ne lui restera plus que la porte de sortie », et prévient que la mobilisation va « se répéter toutes les semaines ».",
+              "src": "Euronews et Yahoo Actualités, 24 octobre 2026"
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement les revendications syndicales sur les salaires et le pouvoir d'achat, défend la liberté de manifester contre les restrictions jugées excessives, et condamne les violences commises en marge des cortèges.",
+              "src": ""
+            },
+            "eco": {
+              "type": "declare",
+              "texte": "Marine Tondelier (Les Écologistes) accuse le gouvernement de mener « la stratégie du pourrissement » pour qu'on ne parle plus des revendications, et lance à Laurent Nuñez : « si c'était un test de détermination, nous l'avons remporté ! »",
+              "src": "Yahoo Actualités, 24 octobre 2026"
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "Le Premier ministre Sébastien Lecornu (Renaissance) avait prévenu à la veille de la journée que « le niveau de menace reste élevé », en visant l'ultragauche et la délinquance, tout en promettant des réponses sur le fond lundi.",
+              "src": "L'essentiel, 23 octobre 2026"
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement le dialogue avec les partenaires sociaux et l'apaisement, en distinguant les manifestants pacifiques des auteurs de violences, et soutient le maintien de l'ordre républicain.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant met habituellement l'accent sur l'autorité de l'État et la fermeté face aux violences urbaines, tout en appelant à des réponses concrètes sur le pouvoir d'achat et à la maîtrise des comptes publics.",
+              "src": ""
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Bruno Retailleau (LR) a dénoncé après le 17 octobre une « convergence entre l'extrême gauche et des racailles », réclamé l'état d'urgence et une loi « anti-casseurs », et jugé les couvre-feux insuffisants.",
+              "src": "AFP via L'Info durable, 19 octobre 2026"
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Depuis le congrès d'Orléans, Jordan Bardella (RN) a appelé ses militants au calme face à des adversaires qu'il accuse d'inciter à l'émeute, et a mis en cause LFI et Jean-Luc Mélenchon.",
+              "src": "AFP via Orange, 24 octobre 2026"
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant réclame habituellement une répression accrue des violences urbaines, qu'il relie à l'immigration, ainsi que l'interdiction des groupes d'ultragauche, et conteste la légitimité des mouvements portés par la gauche.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Euronews – Colère sociale en France, acte II : 1 000 interpellations en marge des cortèges",
+              "u": "https://fr.euronews.com/2026/10/24/france-acte-ii-de-la-colere-sociale-la-manifestation-contre-le-congres-du-rn-debute-a-orle"
+            },
+            {
+              "t": "L'Express (via Orange) – Mobilisation du 24 octobre : près de 800 000 manifestants selon la CGT, 410 000 selon le ministère de l'Intérieur",
+              "u": "https://actu.orange.fr/france/mobilisation-du-24-octobre-pres-de-800-000-manifestants-selon-la-cgt-410-000-selon-le-ministere-de-l-interieur-l-express-via-6medias-CNT000002tn8ty.html"
+            },
+            {
+              "t": "Yahoo Actualités – Manifestations du 24 octobre : Jean-Luc Mélenchon appelle Emmanuel Macron à « céder »",
+              "u": "https://fr.news.yahoo.com/manifestations-24-octobre-jean-luc-130747354.html"
+            },
+            {
+              "t": "L'Express (via Orange) – Interdiction de manifester : le Conseil d'État rejette les recours",
+              "u": "https://actu.orange.fr/politique/interdiction-de-manifester-le-conseil-d-etat-rejette-les-recours-apres-les-declarations-d-emmanuel-macron-l-express-via-6medias-CNT000002tmrXh.html"
+            },
+            {
+              "t": "L'Info durable (AFP) – Violences : Retailleau dénonce une « convergence entre l'extrême gauche et des racailles »",
+              "u": "https://www.linfodurable.fr/violences-retailleau-denonce-une-convergence-entre-lextreme-gauche-et-des-racailles-issues-de-59467"
+            }
+          ]
+        },
+        {
+          "id": "2026-10-25-trappes-enquete",
+          "rubrique": "Sécurité",
+          "titre": "Attentat de Trappes : le suspect aurait visé ses victimes selon leur couleur de peau, la « première fois » de Macron fait polémique",
+          "chapo": "La garde à vue du tireur présumé a été prolongée samedi et trois de ses proches ont été placés en garde à vue. Les propos du chef de l'État sur un acte sans précédent sont contestés jusque dans les rangs de la gauche.",
+          "faits": [
+            "Le parquet national antiterroriste (PNAT) a prolongé samedi la garde à vue de Kévin T., 39 ans, qui peut durer jusqu'à 96 heures ; trois membres de son entourage familial et amical, dont ses parents selon Le Parisien, ont aussi été placés en garde à vue.",
+            "Selon Le Monde, cité par 6Medias, le suspect aurait dit aux policiers vouloir « venger les commerçants » pillés le 17 octobre en visant des « Noirs » et des « Arabes ». Un pistolet-mitrailleur Sten a été saisi dans sa voiture et un dispositif de bouteilles de gaz relié à un minuteur a été découvert à son domicile de Plaisir.",
+            "L'homme tué à Trappes avait 26 ans et était, selon la presse, un espoir du MMA français ; cinq personnes ont été blessées, dont une fillette de 12 ans toujours « en urgence absolue » selon le PNAT.",
+            "Emmanuel Macron avait parlé vendredi de « la première fois qu'il y a un acte terroriste planifié pour tuer » des Français en raison de leur couleur de peau ou de leur religion supposée ; face aux critiques rappelant les attentats antisémites et antichrétiens, l'Élysée a précisé qu'il visait « le premier attentat raciste sur le fondement de la couleur de peau », et le président a écrit qu'« aucune douleur ne doit être hiérarchisée »."
+          ],
+          "enjeu": "L'enquête doit établir si le suspect a agi seul et s'il avait annoncé son projet. Au-delà, l'attentat ravive le débat sur l'effet des discours politiques sur l'immigration et l'islam, et la polémique sur les mots du président montre combien la mémoire des attentats reste un terrain sensible.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant dénonce habituellement le racisme comme le produit d'un climat politique et médiatique qu'il attribue à l'extrême droite et aux gouvernements successifs, et appelle à une mobilisation antiraciste dans la rue.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Jean-Luc Mélenchon (LFI) a réagi d'un « Le racisme tue » et parlé d'un « crime odieux » ; Manuel Bompard (LFI) souligne que le tireur a visé des passants « en fonction de leur couleur de peau ». Fabien Roussel (PCF) évoque « une attaque terroriste raciste ».",
+              "src": "LCP et L'Express, 23 octobre 2026"
+            },
+            "soc": {
+              "type": "declare",
+              "texte": "Olivier Faure (PS) met en cause ceux qui « banalisent le racisme et propagent l'idée du grand remplacement ». Le député Jérôme Guedj (PS) juge toutefois la déclaration présidentielle sur une « première fois » « factuellement fausse ».",
+              "src": "LCP, 23 octobre 2026 ; Blick, 24 octobre 2026"
+            },
+            "eco": {
+              "type": "declare",
+              "texte": "Marine Tondelier (Les Écologistes) parle d'« un attentat raciste » et estime que « le racisme tue car la violence des mots précède toujours la violence des actes ».",
+              "src": "LCP et L'Express, 23 octobre 2026"
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "Gabriel Attal (Renaissance), président du groupe Ensemble pour la République, a réagi : « La haine tue. La haine déchire notre pays. La haine doit cesser. »",
+              "src": "LCP, 23 octobre 2026"
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant appelle habituellement à l'unité nationale et au refus des amalgames après un attentat, en insistant sur la cohésion républicaine et la confiance dans l'enquête judiciaire.",
+              "src": ""
+            },
+            "hor": {
+              "type": "declare",
+              "texte": "Édouard Philippe (Horizons) écrit que « l'horreur a frappé » et que « le terrorisme doit être combattu sans relâche, avec une détermination absolue ».",
+              "src": "LCP et L'Express, 23 octobre 2026"
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Bruno Retailleau (LR) dénonce une « violence terrifiante ». L'eurodéputé François-Xavier Bellamy (LR) demande au président de ne pas nier « la réalité des larmes versées par la France » lors des précédents attentats.",
+              "src": "LCP, 23 octobre 2026 ; Blick, 24 octobre 2026"
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Marine Le Pen (RN) évoque « un acte barbare dont les motivations devront être établies ». Jordan Bardella (RN) conteste les propos du président : « ce n'est pas “la première fois” ». Éric Ciotti (UDR) parle d'« une abomination ».",
+              "src": "LCP, 23 octobre 2026 ; Blick, 24 octobre 2026"
+            },
+            "ed": {
+              "type": "declare",
+              "texte": "L'eurodéputée Sarah Knafo (Reconquête) reproche au président ses propos sur une « première fois » : « Soirée tragique où un président choisit ses morts ».",
+              "src": "Blick, 24 octobre 2026"
+            }
+          },
+          "sources": [
+            {
+              "t": "6Medias (via Orange) – Attentat à Trappes : le tireur présumé dit avoir ciblé des personnes selon leur couleur de peau, sa garde à vue prolongée",
+              "u": "https://actu.orange.fr/societe/fait-divers/attentat-a-trappes-le-tireur-presume-dit-avoir-cible-des-personnes-selon-leur-couleur-de-peau-sa-garde-a-vue-prolongee-6medias-CNT000002tn6hf.html"
+            },
+            {
+              "t": "Le JDD – Attentat de Trappes : trois proches du suspect en garde à vue, la sienne prolongée",
+              "u": "https://www.lejdd.fr/Societe/attentat-de-trappes-trois-proches-du-suspect-en-garde-a-vue-la-sienne-prolongee-186822"
+            },
+            {
+              "t": "Blick – Trappes : Macron provoque un tollé après ses propos sur l'attentat",
+              "u": "https://www.blick.ch/fr/monde/france/trappes-macron-provoque-un-tolle-apres-ses-propos-sur-lattentat/pgqsp3d"
+            },
+            {
+              "t": "LCP – « La haine doit cesser » : l'émotion de la classe politique après l'attaque dans les Yvelines",
+              "u": "https://lcp.fr/actualites/la-haine-doit-cesser-l-emotion-de-la-classe-politique-apres-l-attaque-dans-les-yvelines"
+            },
+            {
+              "t": "L'Express (via Orange) – Fusillade mortelle à Trappes : les réactions de la classe politique",
+              "u": "https://actu.orange.fr/politique/fusillade-mortelle-a-trappes-acte-barbare-le-racisme-tue-les-reactions-de-la-classe-politique-l-express-via-6medias-CNT000002tmawH.html"
+            }
+          ]
+        },
+        {
+          "id": "2026-10-25-rn-orleans-le-pen",
+          "rubrique": "Présidentielle 2027",
+          "titre": "Bardella réélu à 98,98 %, Marine Le Pen lance sa campagne ce dimanche à Orléans",
+          "chapo": "Le congrès du RN s'est déroulé samedi sans incident majeur, à distance d'une contre-manifestation restée calme. Marine Le Pen tient cet après-midi son premier grand meeting de campagne, à six mois du premier tour.",
+          "faits": [
+            "Seul candidat, Jordan Bardella a été réélu samedi président du Rassemblement national avec 98,98 % des voix, pour une participation d'environ 68 % ; le parti revendique 112 000 adhérents, contre 36 000 lors du congrès de 2022.",
+            "Au conseil national, élu par les adhérents, le député Jean-Philippe Tanguy arrive en tête, devant Louis Aliot, Sébastien Chenu, Julien Odoul et Laure Lavalette.",
+            "La contre-manifestation du matin a réuni 13 000 personnes selon les autorités et 26 000 selon les organisateurs, sans incident majeur, en présence notamment d'Olivier Faure, Clémentine Autain et Bally Bagayoko ; près de 3 000 policiers et gendarmes étaient mobilisés et les rassemblements restent interdits ce dimanche dans une grande partie de l'agglomération.",
+            "Marine Le Pen prend la parole ce dimanche à 15 heures au Co'Met d'Orléans, une salle de 10 000 places, après Jordan Bardella ; selon l'AFP, son discours sera centré sur la « renaissance » et vise à « insuffler un peu d'optimisme ». Les sondages la placent en tête, avec jusqu'à 38 % des intentions de vote au premier tour."
+          ],
+          "enjeu": "Le RN veut installer l'image d'un parti en ordre de marche et d'une candidate en position de gagner, au moment où le pays traverse une crise sociale et sécuritaire. Ses adversaires vont chercher à replacer le débat sur son programme et sur le climat créé, selon eux, par ses discours, au lendemain de l'attentat de Trappes.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant combat habituellement le RN comme un parti d'extrême droite, appelle à la mobilisation de rue contre ses meetings et considère que seule une politique de rupture sociale peut lui retirer son électorat populaire.",
+              "src": ""
+            },
+            "gr": {
+              "type": "lecture",
+              "texte": "Le courant présente habituellement le RN comme son principal adversaire, conteste son programme social et son discours sur l'immigration, et participe aux mobilisations antifascistes organisées lors de ses rassemblements.",
+              "src": ""
+            },
+            "soc": {
+              "type": "declare",
+              "texte": "Olivier Faure (PS), présent dans le cortège d'Orléans, estime que « la banalisation du racisme est inacceptable », au lendemain de l'attentat de Trappes.",
+              "src": "Euronews, 24 octobre 2026"
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant combat habituellement le RN sur les terrains de l'écologie, des libertés publiques et de l'accueil des étrangers, et appelle au rassemblement de la gauche pour lui faire barrage à la présidentielle.",
+              "src": ""
+            },
+            "ren": {
+              "type": "lecture",
+              "texte": "Le courant critique habituellement le programme économique et européen du RN, qu'il juge coûteux et dangereux pour la place de la France en Europe, et se présente comme le rempart central face aux extrêmes.",
+              "src": ""
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant s'oppose habituellement au RN au nom de l'engagement européen et du pluralisme, tout en défendant son droit à se réunir et en appelant à combattre ses idées par le débat plutôt que par la rue.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant conteste habituellement la crédibilité budgétaire du programme du RN et se pose en alternative de gouvernement à droite, en misant sur l'expérience et la stabilité.",
+              "src": ""
+            },
+            "d": {
+              "type": "lecture",
+              "texte": "Le courant dispute habituellement au RN l'électorat de droite sur la sécurité et l'immigration, en mettant en avant sa crédibilité de gouvernement et en critiquant le programme économique du RN.",
+              "src": ""
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Jordan Bardella (RN), réélu président, accuse LFI et Jean-Luc Mélenchon d'être prêts à subvertir les institutions et à refuser le résultat des urnes, et prévient que gouverner apportera des difficultés qui ne justifieront pas de renoncer aux promesses.",
+              "src": "AFP via La Libre, 25 octobre 2026"
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant reproche habituellement au RN d'avoir modéré ses positions sur l'immigration et l'identité, tout en appelant à l'union des droites pour l'emporter en 2027.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "AFP (via Orange) – Orléans : Bardella réélu au congrès du RN après une manifestation « antifasciste » sans heurts",
+              "u": "https://actu.orange.fr/france/orleans-bardella-reelu-au-congres-du-rn-apres-une-manifestation-quot-antifasciste-quot-sans-heurts-CNT000002tmrQT.html"
+            },
+            {
+              "t": "LCP – Jordan Bardella réélu à la tête du Rassemblement national",
+              "u": "https://lcp.fr/actualites/jordan-bardella-reelu-a-la-tete-du-rassemblement-national-444251"
+            },
+            {
+              "t": "LCP – Jean-Philippe Tanguy au plus haut, Mathieu Valet consacré : la popularité des cadres du RN testée par une élection interne",
+              "u": "https://lcp.fr/actualites/jean-philippe-tanguy-au-plus-haut-mathieu-valet-consacre-la-popularite-des-cadres-du-rn"
+            },
+            {
+              "t": "La Libre (AFP) – Pour son premier meeting de campagne, Le Pen veut « insuffler de l'optimisme » dans un pays en crise",
+              "u": "https://www.lalibre.be/dernieres-depeches/2026/10/25/pour-son-premier-meeting-de-campagne-le-pen-veut-insuffler-de-loptimisme-dans-un-pays-en-crise-QXFUPYUA7JB7ZIVYMIAHQRYFM4/"
+            }
+          ]
+        },
+        {
+          "id": "2026-10-25-bresil-second-tour",
+          "rubrique": "International",
+          "titre": "Brésil : second tour indécis entre Lula et Flávio Bolsonaro",
+          "chapo": "Les Brésiliens départagent ce dimanche le président sortant, Lula, et le fils aîné de Jair Bolsonaro, arrivé en tête du premier tour. Les derniers sondages donnent un écart dans la marge d'erreur.",
+          "faits": [
+            "Au premier tour, le 4 octobre, Flávio Bolsonaro (Parti libéral) a obtenu 47,0 % des voix contre 45,2 % pour Luiz Inácio Lula da Silva (Parti des travailleurs), alors que les sondages donnaient le président sortant en tête.",
+            "Les instituts Datafolha et Quaest, publiés samedi, créditent Flávio Bolsonaro de 51 % contre 49 % pour Lula, un écart dans la marge d'erreur ; les deux candidats ont mobilisé leurs partisans dans la rue à la veille du scrutin.",
+            "Lula brigue un quatrième mandat non consécutif. Son adversaire, soutenu par Donald Trump, défend un alignement sur Washington, la lutte contre la criminalité et une libéralisation de l'économie ; son père, Jair Bolsonaro, a été condamné en 2025 à 27 ans de prison pour la tentative de coup d'État.",
+            "Selon Le Grand Continent, aucun candidat arrivé deuxième au premier tour n'a remporté la présidentielle brésilienne depuis 1989. Les résultats sont attendus dans la nuit, heure de Paris."
+          ],
+          "enjeu": "Une victoire de Flávio Bolsonaro ferait basculer la première puissance d'Amérique latine dans le camp des dirigeants proches de Donald Trump, après la Colombie, le Chili et le Pérou. Pour la France et l'Europe, le scrutin pèse sur l'accord UE-Mercosur, la protection de l'Amazonie et la coopération climatique.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement les mouvements ouvriers et paysans latino-américains, tout en critiquant la politique de Lula, jugée trop conciliante avec les milieux d'affaires, et voit dans le bolsonarisme une menace autoritaire.",
+              "src": ""
+            },
+            "gr": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement Lula, présenté comme une figure de la gauche latino-américaine, et dénonce le bolsonarisme ainsi que l'influence des États-Unis sur la région.",
+              "src": ""
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement Lula et la gauche démocratique brésilienne, en mettant en avant la lutte contre la pauvreté, la protection de l'Amazonie et la défense des institutions face à la tentative de coup d'État.",
+              "src": ""
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant met habituellement en avant la protection de l'Amazonie et des peuples autochtones, s'inquiète d'un retour du bolsonarisme pour la déforestation et s'oppose à l'accord UE-Mercosur.",
+              "src": ""
+            },
+            "ren": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement un partenariat stratégique avec le Brésil, quel que soit son dirigeant, sur le climat et la gouvernance mondiale, tout en restant réservé sur l'accord UE-Mercosur en l'état.",
+              "src": ""
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant privilégie habituellement le respect du verdict des urnes et la stabilité démocratique, et plaide pour un dialogue entre l'Europe et l'Amérique latine sur le commerce et le climat.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement une diplomatie fondée sur les intérêts économiques et stratégiques de la France, attentive à la stabilité politique du Brésil et aux conditions de l'accord UE-Mercosur.",
+              "src": ""
+            },
+            "d": {
+              "type": "lecture",
+              "texte": "Le courant s'oppose habituellement à l'accord UE-Mercosur au nom de l'agriculture française et observe avec intérêt la poussée des droites en Amérique latine, sans prendre parti publiquement dans les élections étrangères.",
+              "src": ""
+            },
+            "dn": {
+              "type": "lecture",
+              "texte": "Le courant voit habituellement dans la progression des droites conservatrices à l'étranger une confirmation de ses thèmes sur la sécurité et la souveraineté, et s'oppose fermement à l'accord UE-Mercosur.",
+              "src": ""
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant affiche habituellement sa proximité avec les droites conservatrices et identitaires étrangères, dont le camp Bolsonaro, et salue leurs succès électoraux comme un mouvement de fond.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Radio Lac – Sondages : Flavio Bolsonaro devance Lula à la veille du second tour",
+              "u": "https://www.radiolac.ch/actualite/international/sondages-flavio-bolsonaro-devance-lula-a-la-veille-du-second-tour/"
+            },
+            {
+              "t": "Le Grand Continent – Au Brésil, Flavio Bolsonaro en tête du premier tour",
+              "u": "https://legrandcontinent.eu/fr/2026/10/04/au-bresil-flavio-bolsonaro-en-tete-du-premier-tour/"
+            },
+            {
+              "t": "Wikipedia – 2026 Brazilian general election",
+              "u": "https://en.wikipedia.org/wiki/2026_Brazilian_general_election"
+            }
+          ]
+        }
+      ],
+      "breves": [
+        {
+          "titre": "Le Conseil d'État rejette les recours contre la consigne de Macron sur les manifestations",
+          "texte": "Saisie par la LDH, le Syndicat de la magistrature, l'Adelico et sept partis de gauche, la juge des référés a estimé vendredi soir que les propos du président ne révélaient « pas l'existence d'une décision d'interdire toute manifestation » ni d'instruction aux préfets, qui doivent apprécier les risques au cas par cas.",
+          "src": {
+            "t": "L'Express (via Orange) – Interdiction de manifester : le Conseil d'État rejette les recours",
+            "u": "https://actu.orange.fr/politique/interdiction-de-manifester-le-conseil-d-etat-rejette-les-recours-apres-les-declarations-d-emmanuel-macron-l-express-via-6medias-CNT000002tmrXh.html"
+          }
+        },
+        {
+          "titre": "Lycéens : rendez-vous lundi à Matignon après la promesse d'une refonte de Parcoursup",
+          "texte": "Reçues vendredi trois heures à l'Élysée, les organisations lycéennes sont ressorties insatisfaites : l'Union syndicale lycéenne parle d'une réunion « avant tout symbolique, sans aucune mesure concrète ». Sébastien Lecornu les reçoit lundi avec les syndicats, le patronat et des élus.",
+          "src": {
+            "t": "CIDJ – Une « refonte » de Parcoursup annoncée",
+            "u": "https://www.cidj.com/s-orienter/avec-parcoursup/une-refonte-de-parcoursup-annoncee"
+          }
+        },
+        {
+          "titre": "Passage à l'heure d'hiver cette nuit",
+          "texte": "La France métropolitaine a reculé ses horloges d'une heure dans la nuit de samedi à dimanche. La suppression du changement d'heure, votée par le Parlement européen en mars 2019, reste bloquée faute d'accord des États membres au Conseil de l'UE.",
+          "src": {
+            "t": "LCP – Changement d'heure : pourquoi sa suppression, votée en 2019, reste bloquée",
+            "u": "https://lcp.fr/actualites/changement-d-heure-pourquoi-sa-suppression-votee-en-2019-reste-bloquee-444250"
+          }
+        }
+      ],
+      "agenda": [
+        {
+          "d": "Dim. 25 oct.",
+          "t": "Meeting de lancement de campagne de Marine Le Pen à 15 h au Co'Met d'Orléans ; second tour de la présidentielle au Brésil"
+        },
+        {
+          "d": "Lun. 26 oct.",
+          "t": "Sébastien Lecornu réunit organisations lycéennes, étudiantes, syndicales, patronales et élus à Matignon ; autonomie de la Corse en séance au Sénat"
+        },
+        {
+          "d": "Mar. 27 oct.",
+          "t": "Reprise de l'examen de la partie recettes du budget 2027 à l'Assemblée ; projet de loi « casseurs-payeurs » en séance au Sénat"
+        },
+        {
+          "d": "Jeu. 5 nov.",
+          "t": "Journée de grève et de manifestations interprofessionnelle ; la CGT appelle à généraliser la grève"
+        },
+        {
+          "d": "Lun. 9 nov.",
+          "t": "Début de l'examen du budget de la Sécu au Sénat, dans la version initiale du gouvernement"
+        },
+        {
+          "d": "Vers le 10 nov.",
+          "t": "Pourparlers Russie-Ukraine-États-Unis à Abou Dhabi, selon le Kremlin"
+        }
+      ]
+    },
     {
       "date": "2026-10-24",
       "label": "Samedi 24 octobre 2026",
@@ -2642,190 +3039,6 @@
         {
           "d": "Jeu. 5 nov.",
           "t": "Nouvelle journée de mobilisation annoncée"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-17",
-      "label": "Samedi 17 octobre 2026",
-      "maj": "Mise à jour à 6 h 55",
-      "intro": "EXEMPLE FICTIF : ce fichier sert à tester l'appli L'Hémicycle. Les sujets, chiffres et propos ci-dessous sont inventés et ne décrivent pas l'actualité réelle. Au menu : le budget 2027 entre en commission, l'encadrement des loyers revient au Parlement, et la régulation de l'installation des médecins divise toujours.",
-      "stories": [
-        {
-          "id": "2026-10-17-budget-commission",
-          "rubrique": "Budget",
-          "titre": "Budget 2027 : le projet de loi de finances entre en commission",
-          "chapo": "Les députés de la commission des finances commencent l'examen du budget de l'État pour 2027. Le gouvernement vise une réduction du déficit ; les oppositions contestent la répartition de l'effort.",
-          "faits": [
-            "La commission des finances examine à partir de lundi la première partie du texte, consacrée aux recettes.",
-            "Le gouvernement table sur un déficit public ramené à 4,6 % du PIB en 2027 (chiffre fictif).",
-            "Plus de 2 000 amendements ont été déposés en commission (chiffre fictif).",
-            "Le vote solennel en séance publique est attendu fin octobre."
-          ],
-          "enjeu": "Sans majorité absolue, le gouvernement doit trouver des voix au-delà du bloc central ou recourir au 49.3, au risque d'une motion de censure. Le débat porte sur l'équilibre entre économies sur les dépenses et hausses d'impôts ciblées.",
-          "positions": {
-            "gr": {
-              "type": "declare",
-              "texte": "« Ce budget fait payer les services publics et épargne les plus hauts revenus. Nous présenterons un contre-budget. » (citation fictive)",
-              "src": "Exemple fictif : conférence de presse du groupe, 16 octobre"
-            },
-            "g": {
-              "type": "lecture",
-              "texte": "Le courant demande habituellement une contribution accrue des plus hauts patrimoines et la préservation des crédits de la transition écologique, tout en se disant prêt à amender le texte.",
-              "src": ""
-            },
-            "c": {
-              "type": "declare",
-              "texte": "« Le redressement des comptes publics est une exigence. Nous sommes ouverts à tout amendement qui ne dégrade pas le déficit. » (citation fictive)",
-              "src": "Exemple fictif : entretien radio, 17 octobre"
-            },
-            "d": {
-              "type": "lecture",
-              "texte": "Le courant privilégie d'ordinaire les économies sur la dépense publique plutôt que les hausses d'impôts, et conditionne son soutien à l'absence de nouveaux prélèvements sur les ménages et les entreprises.",
-              "src": ""
-            },
-            "dn": {
-              "type": "lecture",
-              "texte": "Le courant met habituellement l'accent sur le pouvoir d'achat, notamment la baisse des taxes sur l'énergie, et propose de la financer par des économies sur d'autres postes de dépense.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "Exemple : dossier législatif du projet de loi de finances",
-              "u": "https://example.org/hemicycle/plf-2027"
-            },
-            {
-              "t": "Exemple : calendrier de la commission des finances",
-              "u": "https://example.org/hemicycle/commission-finances"
-            }
-          ]
-        },
-        {
-          "id": "2026-10-17-encadrement-loyers",
-          "rubrique": "Logement",
-          "titre": "Encadrement des loyers : une proposition de loi veut le rendre permanent",
-          "chapo": "Une proposition de loi transpartisane propose de pérenniser l'encadrement des loyers dans les villes volontaires. Les propriétaires bailleurs dénoncent une mesure qui découragerait l'investissement locatif.",
-          "faits": [
-            "Le dispositif est aujourd'hui expérimental et limité aux collectivités qui en font la demande.",
-            "Une vingtaine de villes l'appliquent selon le texte (chiffre fictif).",
-            "La proposition de loi doit être examinée en commission des affaires économiques le 4 novembre (date fictive)."
-          ],
-          "enjeu": "Le texte oppose deux lectures de la crise du logement : protéger les locataires face à la hausse des loyers, ou relancer l'offre en rassurant les investisseurs. Le gouvernement n'a pas encore arrêté sa position.",
-          "positions": {
-            "gr": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement l'encadrement des loyers et plaide pour son extension obligatoire à toutes les zones tendues, voire pour un gel des loyers.",
-              "src": ""
-            },
-            "g": {
-              "type": "declare",
-              "texte": "« L'encadrement a fait ses preuves là où il est appliqué. Il est temps d'en faire un outil durable pour les maires qui le souhaitent. » (citation fictive)",
-              "src": "Exemple fictif : tribune d'élus locaux, 15 octobre"
-            },
-            "c": {
-              "type": "lecture",
-              "texte": "Le courant est habituellement partagé : il préfère laisser le choix aux collectivités et demande une évaluation des effets sur l'offre avant toute pérennisation.",
-              "src": ""
-            },
-            "d": {
-              "type": "declare",
-              "texte": "« Encadrer les loyers, c'est raréfier les logements à louer. La priorité est de construire davantage. » (citation fictive)",
-              "src": "Exemple fictif : communiqué, 16 octobre"
-            },
-            "dn": {
-              "type": "lecture",
-              "texte": "Le courant se montre habituellement réservé sur l'encadrement et met en avant l'allègement des normes et de la fiscalité pour les petits propriétaires.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "Exemple : texte de la proposition de loi",
-              "u": "https://example.org/hemicycle/ppl-loyers"
-            },
-            {
-              "t": "Exemple : bilan de l'expérimentation",
-              "u": "https://example.org/hemicycle/bilan-encadrement"
-            }
-          ]
-        },
-        {
-          "id": "2026-10-17-deserts-medicaux",
-          "rubrique": "Santé",
-          "titre": "Déserts médicaux : la régulation de l'installation des médecins revient au Sénat",
-          "chapo": "Le Sénat reprend l'examen d'un texte qui limiterait l'installation de nouveaux médecins dans les zones déjà bien dotées. Les syndicats de médecins libéraux y sont opposés.",
-          "faits": [
-            "Le texte prévoit qu'un médecin ne puisse s'installer en zone bien dotée qu'en remplacement d'un départ.",
-            "Près de 6 millions de patients n'auraient pas de médecin traitant (chiffre fictif).",
-            "Plusieurs syndicats de médecins appellent à une journée de mobilisation le 22 octobre (date fictive)."
-          ],
-          "enjeu": "La mesure divise au sein même de plusieurs groupes : faut-il contraindre l'installation pour réduire les inégalités d'accès aux soins, ou s'en tenir aux incitations au risque que la situation perdure ?",
-          "positions": {
-            "gr": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement une régulation de l'installation et le développement de centres de santé publics avec des médecins salariés.",
-              "src": ""
-            },
-            "g": {
-              "type": "lecture",
-              "texte": "Le courant est habituellement favorable à la régulation, qu'il présente comme une mesure d'égalité territoriale, en complément de la formation de davantage de médecins.",
-              "src": ""
-            },
-            "c": {
-              "type": "declare",
-              "texte": "« La contrainte seule ne fera pas venir de médecins. Nous préférons renforcer les incitations et le travail en équipe. » (citation fictive)",
-              "src": "Exemple fictif : déclaration en séance, 16 octobre"
-            },
-            "d": {
-              "type": "lecture",
-              "texte": "Le courant est habituellement opposé à la coercition à l'installation et privilégie les aides financières et la simplification administrative pour les praticiens.",
-              "src": ""
-            },
-            "dn": {
-              "type": "declare",
-              "texte": "« Il faut former beaucoup plus de médecins et mieux rémunérer ceux qui s'installent dans les territoires oubliés. » (citation fictive)",
-              "src": "Exemple fictif : entretien télévisé, 15 octobre"
-            }
-          },
-          "sources": [
-            {
-              "t": "Exemple : dossier législatif au Sénat",
-              "u": "https://example.org/hemicycle/regulation-installation"
-            }
-          ]
-        }
-      ],
-      "breves": [
-        {
-          "titre": "Collectivités : le congrès des maires approche",
-          "texte": "Les maires se réuniront en novembre à Paris. Les finances locales et la sécurité devraient dominer les échanges (exemple fictif).",
-          "src": {
-            "t": "Exemple : programme du congrès",
-            "u": "https://example.org/hemicycle/congres-maires"
-          }
-        },
-        {
-          "titre": "Sénat : une mission d'information sur l'intelligence artificielle",
-          "texte": "Une mission transpartisane rendra ses conclusions au printemps sur l'usage de l'IA dans les services publics (exemple fictif).",
-          "src": {
-            "t": "Exemple : communiqué du Sénat",
-            "u": "https://example.org/hemicycle/mission-ia"
-          }
-        }
-      ],
-      "agenda": [
-        {
-          "d": "Lun. 19 oct.",
-          "t": "Début de l'examen du budget en commission des finances (exemple)"
-        },
-        {
-          "d": "Mar. 20 oct.",
-          "t": "Questions au gouvernement à l'Assemblée nationale"
-        },
-        {
-          "d": "Mer. 21 oct.",
-          "t": "Conseil des ministres"
         }
       ]
     }
