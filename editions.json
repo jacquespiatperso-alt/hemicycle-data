@@ -1,6 +1,479 @@
 {
-  "updated": "2026-10-25T06:32:00+01:00",
+  "updated": "2026-10-26T06:28:00+01:00",
   "editions": [
+    {
+      "date": "2026-10-26",
+      "label": "Lundi 26 octobre 2026",
+      "maj": "Mise à jour à 6 h 28",
+      "intro": "Les organisations lycéennes et étudiantes sont reçues cet après-midi à Matignon, avant des annonces attendues sur Parcoursup. À Orléans, Marine Le Pen a lancé sa campagne en promettant une « Renaissance pour la France », dans un congrès marqué par des incidents. Les députés reprennent mardi la partie recettes du budget, tandis que le Sénat ouvre le dossier de l'autonomie corse. À l'international, Lula est réélu de justesse au Brésil et son adversaire conteste le résultat.",
+      "stories": [
+        {
+          "id": "2026-10-26-lyceens-matignon",
+          "rubrique": "Éducation",
+          "titre": "Lycéens et étudiants reçus à Matignon, le gouvernement promet des annonces sur Parcoursup en fin de journée",
+          "chapo": "Après l'Élysée vendredi, les organisations lycéennes et étudiantes sont attendues ce lundi à 14 h 30 chez Sébastien Lecornu. Les ministres de l'Éducation et de l'Enseignement supérieur doivent ensuite présenter des mesures, alors que le mouvement entamé fin septembre ne faiblit pas.",
+          "faits": [
+            "Le Premier ministre reçoit ce lundi à partir de 14 h 30, rue de Varenne, les organisations lycéennes et étudiantes, dont Renouveau lycéen et Les Lycéens!, avant une conférence de presse d'Édouard Geffray (Éducation nationale) et de Philippe Baptiste (Enseignement supérieur) en fin d'après-midi.",
+            "Vendredi 23 octobre, Emmanuel Macron avait reçu ces organisations pendant environ trois heures à l'Élysée ; selon les participants, il a évoqué une « refonte » de Parcoursup mais s'est dit opposé à sa suppression. L'Union syndicale lycéenne a jugé la rencontre « avant tout symbolique, sans aucune mesure concrète ».",
+            "Les organisations réclament la fin de Parcoursup, davantage de moyens et de places à l'université ; les syndicats étudiants demandent 250 000 places supplémentaires, quand les présidents d'université en proposent 2 000.",
+            "Selon des sources de l'exécutif citées par Europe 1, les annonces pourraient porter sur le remplacement des enseignants, le bâti scolaire, les horaires, les effectifs par classe et Parcoursup, et passer par des amendements au budget 2027 ; la consultation en ligne ouverte du 5 au 23 octobre a recueilli plus de 100 000 contributions.",
+            "La concertation sur Parcoursup a été fragilisée la semaine dernière par le départ du Snes-FSU, de la CGT et de l'Unsa, qui a dénoncé un « simulacre de concertation »."
+          ],
+          "enjeu": "Le gouvernement cherche à détacher la colère lycéenne de la mobilisation contre la vie chère avant la grève interprofessionnelle du 5 novembre. Les organisations jugeront les annonces sur un point : l'avenir de Parcoursup, que l'exécutif veut réformer sans l'abandonner.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement les mobilisations lycéennes et étudiantes, réclame l'abandon de toute sélection à l'entrée de l'université et appelle à la convergence avec les grèves salariales.",
+              "src": ""
+            },
+            "gr": {
+              "type": "lecture",
+              "texte": "Le courant réclame habituellement la suppression de Parcoursup, un plan massif de création de places et de recrutement d'enseignants, et soutient les blocages comme moyen de pression légitime.",
+              "src": ""
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement une réforme profonde de Parcoursup, plus de transparence dans les choix des formations et un effort budgétaire pour l'école et l'université.",
+              "src": ""
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement les revendications de moyens pour l'éducation, critique la sélection à l'université et demande une meilleure prise en compte de la parole des jeunes.",
+              "src": ""
+            },
+            "ren": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement Parcoursup comme outil d'orientation à améliorer, avec plus de transparence et d'accompagnement des élèves, plutôt que sa suppression.",
+              "src": ""
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant met habituellement en avant l'orientation, la réduction des inégalités territoriales d'accès au supérieur et le dialogue avec les organisations de jeunesse.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement le maintien d'un système d'affectation sélectif et transparent, et met en garde contre des annonces coûteuses en pleine discussion budgétaire.",
+              "src": ""
+            },
+            "d": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement la sélection au mérite, critique les blocages de lycées et refuse que le gouvernement cède à la rue sur l'organisation de l'enseignement supérieur.",
+              "src": ""
+            },
+            "dn": {
+              "type": "lecture",
+              "texte": "Le courant critique habituellement Parcoursup comme une plateforme opaque et anxiogène, tout en condamnant les blocages et en réclamant le retour de l'ordre dans les établissements.",
+              "src": ""
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant dénonce habituellement une politisation des lycéens par l'extrême gauche, condamne les blocages et prône le retour à l'autorité et à la transmission des savoirs.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Europe 1 – Des organisations lycéennes et étudiantes reçues lundi à Matignon, les ministres prendront ensuite la parole",
+              "u": "https://www.europe1.fr/politique/des-organisations-lyceennes-et-etudiantes-recues-lundi-a-matignon-les-ministres-de-leducation-et-de-lenseignement-prendront-ensuite-la-parole-1181604"
+            },
+            {
+              "t": "CIDJ – Une « refonte » de Parcoursup annoncée",
+              "u": "https://www.cidj.com/s-orienter/avec-parcoursup/une-refonte-de-parcoursup-annoncee-par-emmanuel-macron"
+            },
+            {
+              "t": "Le Singulier (AFP) – Parcoursup sous pression, l'exécutif promet des retouches sans renoncer à la plateforme",
+              "u": "https://lesinguliersete.fr/parcoursup-sous-pression-lexecutif-promet-des-retouches-sans-renoncer-a-la-plateforme/"
+            }
+          ]
+        },
+        {
+          "id": "2026-10-26-le-pen-orleans",
+          "rubrique": "Présidentielle 2027",
+          "titre": "À Orléans, Marine Le Pen promet une « Renaissance pour la France » et désigne Bardella comme futur Premier ministre",
+          "chapo": "Devant environ 8 500 militants au Zénith, la candidate du RN a lancé dimanche sa campagne sur un ton optimiste, sans annonces chiffrées. Le congrès a été marqué par l'interruption du discours de Jordan Bardella et l'expulsion de journalistes.",
+          "faits": [
+            "Marine Le Pen a prononcé dimanche 25 octobre son premier grand discours de campagne devant environ 8 500 personnes selon les organisateurs, sous le slogan « Renaissance pour la France », en promettant une transition sans « rupture brutale ».",
+            "Elle propose un « gouvernement d'union nationale » dirigé par Jordan Bardella, l'inscription dans la Constitution du principe de « communauté nationale », un recours accru au référendum, la proportionnelle avec prime majoritaire, la « tolérance zéro » en matière de sécurité et une part fiscale entière dès le deuxième enfant.",
+            "Le discours de Jordan Bardella a été interrompu par des militants de l'UEJF déployant une banderole contre l'antisémitisme ; l'UEJF dit qu'ils ont été sortis « très violemment » et annonce une plainte, tandis que le RN accuse ces militants d'avoir frappé son service d'ordre. Des journalistes de Mediapart ont quitté les lieux, estimant que leur sécurité « n'était plus assurée ».",
+            "Samedi, 13 000 à 26 000 personnes selon les sources ont manifesté à Orléans contre le congrès, sous la protection de 3 000 policiers et gendarmes ; dimanche, une centaine de militants antifascistes ont été tenus à distance.",
+            "Éric Ciotti (UDR) a ouvert le meeting en appelant les élus LR à « revenir à la maison ». Marine Le Pen attend toujours la décision de la Cour de cassation sur sa condamnation en appel du 7 juillet."
+          ],
+          "enjeu": "Le RN veut installer l'image d'une candidate rassembleuse et prête à gouverner, à six mois du scrutin. Ses adversaires chercheront à ramener le débat sur le programme et sur les incidents du congrès, tandis que la décision de la Cour de cassation reste la grande inconnue de sa candidature.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant appelle habituellement à combattre le RN dans la rue et par la grève, et rejette toute stratégie de front républicain avec les partis du centre et de la droite.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Bally Bagayoko (LFI), maire de Saint-Denis, a défendu sa présence à la manifestation d'Orléans en affirmant que « le droit de manifester existe en tant que tel ».",
+              "src": "France Inter, 22 octobre 2026"
+            },
+            "soc": {
+              "type": "declare",
+              "texte": "Olivier Faure (PS), présent au cortège d'Orléans, s'inquiète de « la banalisation de l'extrême droite » ; Raphaël Glucksmann, candidat de son camp, juge que le combat doit se mener dans les urnes contre le projet de Marine Le Pen.",
+              "src": "Public Sénat, 24 octobre 2026"
+            },
+            "eco": {
+              "type": "declare",
+              "texte": "Marine Tondelier (Les Écologistes), candidate à la présidentielle, a défilé samedi à Orléans contre le congrès du RN, aux côtés des syndicats et des autres partis de gauche.",
+              "src": "Public Sénat, 24 octobre 2026"
+            },
+            "ren": {
+              "type": "lecture",
+              "texte": "Le courant oppose habituellement au RN le sérieux budgétaire et l'ancrage européen, et présente son programme économique comme dangereux pour les finances publiques et le pouvoir d'achat.",
+              "src": ""
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant dénonce habituellement le projet du RN comme contraire aux valeurs démocratiques et européennes, tout en refusant la diabolisation de ses électeurs.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant critique habituellement le manque de chiffrage du programme du RN et se pose en alternative de gouvernement crédible au centre et à droite.",
+              "src": ""
+            },
+            "d": {
+              "type": "lecture",
+              "texte": "Le courant refuse habituellement toute alliance avec le RN, conteste sa crédibilité économique et revendique une ligne de fermeté sur la sécurité et l'immigration.",
+              "src": ""
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Marine Le Pen (RN) veut « concevoir et construire la France de demain » plutôt que « refaire la France d'avant » ; Jordan Bardella promet d'utiliser tous les moyens légaux pour rétablir l'ordre, et Louis Aliot (RN) avait imputé par avance à Olivier Faure et Marine Tondelier la responsabilité d'éventuelles violences.",
+              "src": "Europe 1 et L'essentiel, 25 octobre 2026"
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant revendique habituellement une ligne plus radicale que le RN sur l'immigration et l'identité, et reproche à Marine Le Pen une normalisation qui affadirait son projet.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Public Sénat – À Orléans, l'éloge du beau de Marine Le Pen tranche avec les échauffourées en tribune et l'expulsion de journalistes",
+              "u": "https://www.publicsenat.fr/actualites/politique/a-orleans-leloge-du-beau-de-marine-le-pen-tranche-avec-les-echauffourees-en-tribune-et-lexpulsion-de-journalistes"
+            },
+            {
+              "t": "Europe 1 – Congrès du RN à Orléans : ce qu'il faut retenir du premier discours de campagne de Marine Le Pen",
+              "u": "https://www.europe1.fr/politique/congres-du-rn-a-orleans-ce-quil-faut-retenir-du-premier-discours-de-campagne-de-marine-le-pen-1181118"
+            },
+            {
+              "t": "L'essentiel – Meeting d'Orléans : Marine Le Pen veut incarner une « renaissance » de la France",
+              "u": "https://www.lessentiel.lu/fr/story/france-marine-le-pen-promet-une-renaissance-sans-rupture-brutale-103656328"
+            },
+            {
+              "t": "Public Sénat – Manifestation contre le RN à Orléans : un « aveu de faiblesse » pour la gauche ?",
+              "u": "https://www.publicsenat.fr/actualites/politique/manifestation-contre-le-rn-a-orleans-un-aveu-de-faiblesse-pour-la-gauche-ou-un-echec-de-la-dediabolisation-de-marine-le-pen"
+            }
+          ]
+        },
+        {
+          "id": "2026-10-26-budget-recettes-reprise",
+          "rubrique": "Budget",
+          "titre": "Budget 2027 : les députés reprennent mardi la partie recettes, vote solennel repoussé au 3 novembre",
+          "chapo": "Après le rejet du budget de la Sécu vendredi, l'Assemblée retrouve le projet de loi de finances avec plus de 2 600 amendements en souffrance. Un rejet de la partie recettes enverrait le texte au Sénat dans la version du gouvernement.",
+          "faits": [
+            "L'examen de la première partie du projet de loi de finances reprend mardi 27 octobre ; il reste 43 articles sur 58 et plus de 2 600 amendements. Le vote solennel, initialement prévu le 20 octobre, est fixé au mardi 3 novembre.",
+            "Le budget de la Sécurité sociale a été rejeté le 23 octobre à la quasi-unanimité lors du vote sur sa partie recettes ; le Sénat l'examinera à partir du 9 novembre dans sa version initiale.",
+            "Lors de la première semaine, les députés ont notamment rejeté l'abaissement du plafond de l'abattement de 10 % sur les pensions et la plupart des économies demandées aux collectivités. Selon le ministre David Amiel, ces débats ont « mené à une dégradation du déficit public de 10 milliards d'euros ».",
+            "Le gouvernement vise un déficit public de 5 % du PIB en 2027, contre 5,4 % en 2026. Passé le 17 décembre, fin du délai de 70 jours, il pourrait mettre le budget en œuvre par ordonnance."
+          ],
+          "enjeu": "Sans majorité, l'exécutif doit choisir entre laisser filer un débat qui creuse le déficit, recourir au 49.3 au risque d'une censure, ou miser sur le Sénat. La date du 3 novembre, deux jours avant la grève interprofessionnelle, place le budget au cœur de la contestation sociale.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant rejette habituellement tout budget d'austérité et réclame une forte hausse des salaires financée par la taxation des profits et des grandes fortunes.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Éric Coquerel (LFI), président de la commission des Finances, constate que le budget suscite un fort intérêt chez les citoyens qu'il rencontre en circonscription, à rebours du désintérêt observé dans l'hémicycle.",
+              "src": "AFP via MoneyVox, 23 octobre 2026"
+            },
+            "soc": {
+              "type": "declare",
+              "texte": "Sandrine Runel (PS), cheffe de file sur le budget de la Sécu, regrette qu'aucun responsable du gouvernement ou du bloc central ne lui ait proposé de compromis cette année.",
+              "src": "AFP via MoneyVox, 23 octobre 2026"
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement une fiscalité accrue sur les hauts patrimoines et les activités polluantes, et s'oppose aux coupes dans les budgets de la transition écologique et des collectivités.",
+              "src": ""
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "David Amiel (Renaissance), ministre des Comptes publics, alerte sur l'envolée du déficit provoquée par les amendements adoptés, chiffrée à 10 milliards d'euros après la première semaine.",
+              "src": "LCP, 20 octobre 2026"
+            },
+            "modem": {
+              "type": "declare",
+              "texte": "Marc Fesneau (MoDem), président de groupe, s'inquiète du désintérêt des parlementaires pour un texte qui reste « quand même le nerf de la guerre ».",
+              "src": "AFP via MoneyVox, 23 octobre 2026"
+            },
+            "hor": {
+              "type": "declare",
+              "texte": "Laurent Marcangeli (Horizons), président de groupe, regrette le « gros trou au centre » et déplore que des amendements tombent faute de députés pour les défendre.",
+              "src": "AFP via MoneyVox, 23 octobre 2026"
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Philippe Juvin (LR), rapporteur général, met en garde contre les amendements qui creusent le déficit et risquent d'inquiéter les marchés, et plaide pour un recours rapide au 49.3.",
+              "src": "AFP via MoneyVox, 23 octobre 2026"
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Jean-Philippe Tanguy (RN) estime que « le gouvernement a complètement lâché le débat » et que la majorité se désintéresse encore plus que d'habitude de l'examen.",
+              "src": "AFP via MoneyVox, 23 octobre 2026"
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant prône habituellement des baisses massives d'impôts et de dépenses publiques, financées par la réduction de l'immigration et des aides sociales qui lui sont liées.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "LCP – Budget de l'État : après avoir largement détricoté le projet du gouvernement, l'Assemblée appuie sur pause",
+              "u": "https://lcp.fr/actualites/budget-de-l-etat-apres-avoir-largement-detricote-le-projet-du-gouvernement-l-assemblee"
+            },
+            {
+              "t": "NosParlementaires – Date du vote du budget 2027 : le 3 novembre, pas le 20 octobre",
+              "u": "https://nosparlementaires.fr/actualites/budget-2027-calendrier-assemblee-cinq-semaines"
+            },
+            {
+              "t": "MoneyVox (AFP) – « Tout le monde s'en fout » : à l'Assemblée, le grand spleen des députés pour le budget 2027",
+              "u": "https://www.moneyvox.fr/votre-argent/actualites/110961/tout-le-monde-s-en-fout-a-assemblee-le-grand-spleen-des-deputes-pour-le-budget-2027"
+            },
+            {
+              "t": "Le Club des juristes – Le budget de la Sécurité sociale pour 2027 rejeté par l'Assemblée nationale",
+              "u": "https://www.leclubdesjuristes.com/en-bref/budget-2027-le-budget-de-la-securite-sociale-pour-2027-rejete-par-lassemblee-nationale-18022/"
+            }
+          ]
+        },
+        {
+          "id": "2026-10-26-corse-senat",
+          "rubrique": "Institutions",
+          "titre": "Autonomie de la Corse : la réforme constitutionnelle arrive au Sénat, dont la majorité a vidé le texte en commission",
+          "chapo": "Le projet de loi constitutionnelle adopté par l'Assemblée en juin est inscrit cet après-midi en séance au Sénat. La commission des lois en a retiré la notion de « communauté », et l'issue du vote reste incertaine.",
+          "faits": [
+            "Le projet de loi constitutionnelle « pour une Corse autonome au sein de la République » est inscrit à l'ordre du jour du Sénat ce lundi 26 octobre à 16 h 30. La séance repart du texte voté par l'Assemblée nationale en juin.",
+            "Le 22 octobre, la commission des lois a adopté, à titre indicatif, sept amendements de sa présidente et rapporteure Muriel Jourda (LR) supprimant notamment la notion de « communauté », le « lien singulier à la terre » et le principe de « non-régression sociale et environnementale ».",
+            "Le texte reconnaît un statut d'autonomie à la Corse, dont le contenu relèvera d'une loi organique, en excluant les domaines régaliens. Le Conseil d'État avait recommandé en juillet 2025 de retirer la notion de « communauté ».",
+            "Pour aboutir, la réforme doit être votée dans les mêmes termes par les deux chambres, puis approuvée par référendum ou par les trois cinquièmes du Parlement réuni en Congrès."
+          ],
+          "enjeu": "Un vote conforme du Sénat paraît hors de portée : toute modification imposera une nouvelle lecture et rend très difficile une adoption avant la présidentielle. Pour les élus nationalistes, un échec serait vécu comme une rupture de la promesse faite à l'île.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant reconnaît habituellement le droit des peuples à disposer d'eux-mêmes, mais se méfie d'une autonomie qui renforcerait les notables locaux plutôt que les travailleurs de l'île.",
+              "src": ""
+            },
+            "gr": {
+              "type": "lecture",
+              "texte": "Le courant se dit habituellement ouvert au principe de l'autonomie, à condition d'y inscrire des garanties sociales et une clause de non-régression environnementale.",
+              "src": ""
+            },
+            "soc": {
+              "type": "declare",
+              "texte": "Le groupe PS du Sénat, présidé par Patrick Kanner, veut inscrire l'autonomie dans la Constitution sous une forme moins restrictive que celle de la rapporteure, Éric Kerrouche défendant des amendements ; Mickaël Vallet (PS) y voit au contraire une « fuite en avant ».",
+              "src": "Public Sénat, 22 octobre 2026"
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement l'autonomie de la Corse et la décentralisation, en demandant des garanties sur la protection du littoral et de l'environnement.",
+              "src": ""
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "François Patriat (Renaissance), président des sénateurs macronistes, prévenait que si le PS et LR s'opposent au texte au Sénat, « c'est plié ».",
+              "src": "Public Sénat, 16 juin 2026"
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement la décentralisation et une plus grande différenciation territoriale, tout en restant attaché à l'unité de la République.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant se montre habituellement prudent sur les réformes constitutionnelles territoriales, en insistant sur l'indivisibilité de la République et la clarté des compétences.",
+              "src": ""
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Muriel Jourda (LR), rapporteure, met en garde contre une « présomption de différence de situation » ; Jean-Jacques Panunzi (LR, Corse-du-Sud) jugeait le terme de « communauté » « pas satisfaisant ».",
+              "src": "Public Sénat, 22 octobre 2026"
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Marine Le Pen (RN) jugeait le texte « dangereux parce qu'il crée une rupture avec la France », son groupe plaidant plutôt pour une « préférence régionale » pour l'emploi et le logement.",
+              "src": "Public Sénat, 16 juin 2026"
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant s'oppose habituellement à toute autonomie régionale inscrite dans la Constitution, au nom de l'unité et de l'indivisibilité de la nation.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Public Sénat – Autonomie de la Corse : malgré le détricotage du texte en commission, le vote reste incertain au Sénat",
+              "u": "https://www.publicsenat.fr/actualites/parlementaire/autonomie-de-la-corse-malgre-le-detricotage-du-texte-en-commission-le-vote-de-la-reforme-constitutionnelle-reste-incertain-au-senat"
+            },
+            {
+              "t": "Public Sénat – Autonomie de la Corse : « Ni un saut dans le vide, ni un grand soir », Françoise Gatel tente de rassurer un Sénat sceptique",
+              "u": "https://www.publicsenat.fr/actualites/parlementaire/autonomie-de-la-corse-ni-un-saut-dans-le-vide-ni-un-grand-soir-francoise-gatel-tente-de-rassurer-un-senat-sceptique-sur-la-reforme-constitutionnelle"
+            },
+            {
+              "t": "Public Sénat – Autonomie de la Corse : la réforme constitutionnelle va-t-elle s'échouer au Sénat ?",
+              "u": "https://www.publicsenat.fr/actualites/politique/autonomie-de-la-corse-la-reforme-constitutionnelle-va-t-elle-sechouer-au-senat"
+            },
+            {
+              "t": "Sénat – Ordre du jour de la séance publique",
+              "u": "https://www.senat.fr/ordre-du-jour/ordre-du-jour.html"
+            }
+          ]
+        },
+        {
+          "id": "2026-10-26-bresil-lula-reelu",
+          "rubrique": "International",
+          "titre": "Brésil : Lula réélu avec 51,8 % des voix, Flávio Bolsonaro réclame l'annulation du scrutin",
+          "chapo": "Devancé au premier tour, le président sortant l'emporte de justesse et décroche un quatrième mandat inédit. Son adversaire conteste la prolongation du vote décidée par la justice électorale dans certains bureaux.",
+          "faits": [
+            "Selon des résultats quasi définitifs, Luiz Inácio Lula da Silva obtient 51,76 % des voix contre 48,24 % à Flávio Bolsonaro, soit environ 4,4 millions de voix d'avance selon le Tribunal supérieur électoral.",
+            "Au premier tour, le 4 octobre, Flávio Bolsonaro était arrivé en tête avec 47,03 % contre 45,16 % ; c'est la première fois depuis la fin de la dictature militaire qu'un candidat renverse ainsi le résultat au second tour, selon l'AFP.",
+            "Après des perturbations des transports à São Paulo et Salvador, le juge Cristiano Zanin a prolongé le vote de deux heures dans certains bureaux ; Flávio Bolsonaro y voit une décision favorable à Lula et demande l'annulation des résultats.",
+            "À 80 ans, Lula entame un mandat qui doit s'achever en 2030. Interrogé sur le scrutin, Donald Trump, proche de la famille Bolsonaro, s'est contenté d'un « On observe »."
+          ],
+          "enjeu": "La contestation du résultat ravive le souvenir de l'assaut contre les institutions brésiliennes de janvier 2023. Pour l'Europe et la France, la réélection de Lula conforte un partenaire engagé sur le climat et favorable à l'accord UE-Mercosur, que contestent les agriculteurs français.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant voit habituellement dans la gauche brésilienne un rempart contre l'extrême droite, tout en critiquant les compromis de Lula avec l'agro-industrie et les milieux d'affaires.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Jean-Luc Mélenchon (LFI) avait appelé avant le second tour à soutenir Lula, estimant que « la victoire de Lula sera la victoire du peuple ».",
+              "src": "Blog de Jean-Luc Mélenchon, 23 octobre 2026"
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant salue habituellement les victoires de la gauche latino-américaine et la défense de la démocratie face aux contestations électorales, tout en restant vigilant sur l'accord UE-Mercosur.",
+              "src": ""
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant met habituellement en avant l'enjeu de la protection de l'Amazonie et soutient les gouvernements qui luttent contre la déforestation, en s'opposant à l'accord UE-Mercosur.",
+              "src": ""
+            },
+            "ren": {
+              "type": "lecture",
+              "texte": "Le courant met habituellement en avant le partenariat stratégique franco-brésilien, notamment sur le climat et la défense, et le respect des résultats électoraux.",
+              "src": ""
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant insiste habituellement sur le respect des processus démocratiques et sur le dialogue entre l'Union européenne et l'Amérique latine.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant privilégie habituellement une lecture réaliste des relations avec le Brésil, partenaire commercial important, tout en défendant les intérêts agricoles français.",
+              "src": ""
+            },
+            "d": {
+              "type": "lecture",
+              "texte": "Le courant se montre habituellement critique envers Lula et sa diplomatie jugée complaisante envers Moscou et Pékin, et s'oppose à l'accord UE-Mercosur au nom des agriculteurs.",
+              "src": ""
+            },
+            "dn": {
+              "type": "lecture",
+              "texte": "Le courant s'oppose habituellement à l'accord UE-Mercosur et dénonce le libre-échange, tout en entretenant des liens avec la droite nationaliste brésilienne.",
+              "src": ""
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant affiche habituellement sa proximité avec la famille Bolsonaro et dénonce la gauche brésilienne, accusée de laxisme et de dérives autoritaires.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "AFP (via Orange) – Brésil : Lula décroche un quatrième mandat, Bolsonaro veut l'annulation du scrutin",
+              "u": "https://actu.orange.fr/monde/contre-toute-attente-lula-decroche-un-quatrieme-mandat-inedit-le-bresil-reste-a-gauche-CNT000002tnoSO.html"
+            },
+            {
+              "t": "Entrevue – Brésil : Lula réélu président avec 51,8 % des voix face à Flávio Bolsonaro",
+              "u": "https://entrevue.fr/international/bresil-lula-reelu-president-avec-518-des-voix-face-a-flavio-bolsonaro/"
+            },
+            {
+              "t": "France 24 – Brésil : Lula réélu président, Flavio Bolsonaro va demander l'annulation des élections",
+              "u": "https://www.france24.com/fr/am%C3%A9riques/20261026-bresil-victoire-lula-quatrieme-mandat-flavio-bolsonaro"
+            }
+          ]
+        }
+      ],
+      "breves": [
+        {
+          "titre": "Trappes : la garde à vue du suspect suspendue pour raisons psychiatriques",
+          "texte": "Le parquet national antiterroriste a annoncé dimanche que Kevin T., 39 ans, soupçonné d'avoir tiré sur des passants vendredi à Trappes et La Verrière (un mort, cinq blessés), était placé en observation dans l'unité psychiatrique de la préfecture de police pour 48 heures au plus. Quatre proches restaient entendus.",
+          "src": {
+            "t": "Euronews – Attentat raciste de Trappes : le principal suspect transféré en unité psychiatrique",
+            "u": "https://www.euronews.com/2026/10/25/suspected-trappes-gunman-moved-to-police-psychiatric-unit"
+          }
+        },
+        {
+          "titre": "« Casseurs-payeurs » et protection de l'enfance au Sénat cette semaine",
+          "texte": "Les sénateurs examinent à partir de mardi le texte sur l'indemnisation des dégâts commis dans l'espace public et le recouvrement auprès des auteurs, puis le projet de loi sur la protection de l'enfance, dont le vote solennel est prévu le 3 novembre.",
+          "src": {
+            "t": "Sénat – Ordre du jour de la séance publique",
+            "u": "https://www.senat.fr/ordre-du-jour/ordre-du-jour.html"
+          }
+        },
+        {
+          "titre": "Le budget de la Sécu part au Sénat dans sa version initiale",
+          "texte": "Rejeté vendredi par les députés lors du vote sur sa partie recettes, le projet de loi de financement de la Sécurité sociale sera examiné par le Sénat à partir du 9 novembre dans la version du gouvernement ; le vote solennel prévu mardi à l'Assemblée n'a plus d'objet.",
+          "src": {
+            "t": "Le Club des juristes – Le budget de la Sécurité sociale pour 2027 rejeté par l'Assemblée nationale",
+            "u": "https://www.leclubdesjuristes.com/en-bref/budget-2027-le-budget-de-la-securite-sociale-pour-2027-rejete-par-lassemblee-nationale-18022/"
+          }
+        }
+      ],
+      "agenda": [
+        {
+          "d": "Lun. 26 oct.",
+          "t": "Organisations lycéennes et étudiantes reçues à Matignon à 14 h 30, puis conférence de presse d'Édouard Geffray et Philippe Baptiste ; autonomie de la Corse au Sénat à 16 h 30"
+        },
+        {
+          "d": "Mar. 27 oct.",
+          "t": "Reprise de la partie recettes du budget 2027 à l'Assemblée ; texte « casseurs-payeurs » et protection de l'enfance au Sénat"
+        },
+        {
+          "d": "Mer. 28 oct.",
+          "t": "Questions au gouvernement au Sénat"
+        },
+        {
+          "d": "Jeu. 29 oct.",
+          "t": "Journée réservée aux propositions de loi de La France insoumise à l'Assemblée"
+        },
+        {
+          "d": "Mar. 3 nov.",
+          "t": "Vote solennel sur la partie recettes du budget à l'Assemblée et sur la protection de l'enfance au Sénat"
+        },
+        {
+          "d": "Jeu. 5 nov.",
+          "t": "Journée de grève et de manifestations interprofessionnelle"
+        },
+        {
+          "d": "Lun. 9 nov.",
+          "t": "Début de l'examen du budget de la Sécu au Sénat"
+        }
+      ]
+    },
     {
       "date": "2026-10-25",
       "label": "Dimanche 25 octobre 2026",
@@ -2764,297 +3237,6 @@
         {
           "d": "Mar. 27 oct.",
           "t": "Date limite pour le vote du budget de la Sécurité sociale à l'Assemblée ; reprise du budget de l'État ; « casseurs-payeurs » au Sénat"
-        },
-        {
-          "d": "Jeu. 5 nov.",
-          "t": "Nouvelle journée de mobilisation annoncée"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-19",
-      "label": "Lundi 19 octobre 2026",
-      "maj": "Mise à jour à 17 h 40",
-      "intro": "Deux jours après la mobilisation du 17 octobre contre la vie chère, marquée par des pillages et des attaques contre des mairies, le pays fait les comptes. Au menu : le bilan de la journée et le débat sur les responsabilités, la réponse de l'exécutif (couvre-feux localisés, aides aux commerçants, enquête parlementaire réclamée), le vote décisif de mardi sur le budget 2027, et la tournée d'Emmanuel Macron dans le Golfe pour sécuriser l'approvisionnement en carburant.",
-      "stories": [
-        {
-          "id": "2026-10-19-mobilisation-17-octobre",
-          "rubrique": "Société",
-          "titre": "Mobilisation du 17 octobre : des centaines de milliers de manifestants, des violences dans plusieurs villes",
-          "chapo": "La journée nationale contre la vie chère, portée notamment par le mouvement lycéen, d'anciens gilets jaunes et des syndicats, a rassemblé des centaines de milliers de personnes. En marge des cortèges, des pillages et des attaques contre des bâtiments publics ont eu lieu dans plusieurs grandes villes.",
-          "faits": [
-            "Les organisateurs revendiquent environ 800 000 manifestants, le ministère de l'Intérieur en a compté 550 000.",
-            "Selon le dernier bilan du ministère de l'Intérieur, près de 2 400 personnes ont été interpellées et environ un millier de policiers et gendarmes blessés.",
-            "La mairie de Limoges a été en partie détruite par un incendie, des casseurs sont entrés dans les mairies de Marseille, Lille et Angers, l'office du tourisme de Lyon a brûlé et la résidence du préfet de Gironde a été saccagée.",
-            "Le ministre du Commerce, Serge Papin, estime à environ 3 000 le nombre de commerces touchés, un chiffre encore en cours d'évaluation.",
-            "Le mouvement lycéen, à l'origine de la mobilisation, dénonce depuis septembre les classes surchargées, les professeurs non remplacés et la pression de Parcoursup ; une nouvelle journée est annoncée pour le 5 novembre."
-          ],
-          "enjeu": "Le débat porte sur la responsabilité des violences : groupes organisés d'ultragauche et pillards pour le gouvernement et la droite, défaillances du maintien de l'ordre pour une partie de la gauche. Derrière, la question de fond reste celle de la vie chère et des inquiétudes de la jeunesse, à six mois de la présidentielle.",
-          "positions": {
-            "gr": {
-              "type": "declare",
-              "texte": "Manuel Bompard (LFI) accuse le gouvernement de chercher le désordre plutôt que de répondre aux revendications, et reproche aux chaînes de télévision de montrer les violences plus que l'ampleur des cortèges.",
-              "src": "LCP, 17 octobre 2026"
-            },
-            "g": {
-              "type": "declare",
-              "texte": "Emmanuel Grégoire (PS), maire de Paris, condamne les violences « avec la plus grande fermeté » et appelle au calme, tout en rappelant qu'il faut entendre les colères et permettre qu'elles s'expriment pacifiquement.",
-              "src": "LCP, 17 octobre 2026"
-            },
-            "c": {
-              "type": "declare",
-              "texte": "Le Premier ministre Sébastien Lecornu affirme que le gouvernement ne se laissera pas intimider et attribue l'organisation des violences à des groupes d'ultragauche ; Gabriel Attal (Renaissance) parle de pillages indignes et d'une provocation envers l'autorité de l'État.",
-              "src": "LCP, 17 octobre 2026"
-            },
-            "d": {
-              "type": "declare",
-              "texte": "Bruno Retailleau (LR) réclame « la force implacable de l'État » et estime que ceux qui ont agressé les forces de l'ordre doivent aller en prison.",
-              "src": "LCP, 17 octobre 2026"
-            },
-            "dn": {
-              "type": "declare",
-              "texte": "Marine Le Pen (RN) estime que des revendications sociales légitimes ont été prises en otage par l'extrême gauche et accuse LFI de légitimer la violence ; Jordan Bardella (RN) promet, s'il gouverne, le principe du « casseur-payeur ».",
-              "src": "LCP, 17 octobre 2026"
-            }
-          },
-          "sources": [
-            {
-              "t": "LCP : soutien aux policiers ou critiques du maintien de l'ordre, les responsables politiques se divisent",
-              "u": "https://lcp.fr/actualites/manifestations-du-17-octobre-soutien-aux-policiers-ou-critiques-du-maintien-de-l-ordre"
-            },
-            {
-              "t": "ici : près de 2 400 interpellations et un millier de policiers et gendarmes blessés",
-              "u": "https://www.ici.fr/infos/faits-divers-justice/mobilisation-du-17-octobre-1-800-interpellations-en-france-indique-le-ministre-de-l-interieur-laurent-nunez-6459330"
-            },
-            {
-              "t": "Public Sénat : après les violences, les maires font front devant leurs mairies",
-              "u": "https://www.publicsenat.fr/actualites/politique/apres-les-violences-du-17-octobre-les-maires-font-front-devant-leurs-mairies"
-            },
-            {
-              "t": "Café pédagogique : lycéens mobilisés, ce qu'ils disent",
-              "u": "https://www.cafepedagogique.net/2026/10/01/lyceens-mobilises-ce-quils-disent-ce-quon-leur-repond/"
-            }
-          ]
-        },
-        {
-          "id": "2026-10-19-reponse-executif-violences",
-          "rubrique": "Sécurité",
-          "titre": "Après les violences : couvre-feux localisés, aides aux commerçants et appels à une commission d'enquête",
-          "chapo": "Emmanuel Macron s'est adressé aux Français dimanche soir. Ce lundi, Sébastien Lecornu a annoncé des couvre-feux très localisés et un soutien aux commerces pillés. Au Parlement, plusieurs groupes réclament des comptes sur la préparation de la journée.",
-          "faits": [
-            "Dimanche à 20 h, Emmanuel Macron a dit sa « colère » et sa « honte », exclu l'état d'urgence, permis aux préfets d'interdire certains rassemblements et demandé au ministre de l'Intérieur « toute la transparence » sur le déroulé de la journée.",
-            "Lundi, le Premier ministre a demandé aux préfets d'instaurer dès le soir des couvre-feux partiels et très localisés, en lien avec les maires ; il n'exclut pas l'état d'urgence « si c'est utile ».",
-            "L'État prendra en charge à 100 % le chômage partiel des commerces sinistrés à partir de mardi, et un fonds spécifique doit aider les commerçants à rouvrir.",
-            "L'Association des maires de France a appelé les élus à se rassembler lundi devant leurs mairies ; Jordan Bardella et Marine Le Pen ont fait savoir qu'ils ne participeraient pas à la réunion des chefs de parti prévue à Matignon.",
-            "Mardi, la présidente de l'Assemblée, Yaël Braun-Pivet, réunit les présidents de groupe au sujet d'une éventuelle commission d'enquête ; la proposition de loi dite « casseurs-payeurs » arrive au Sénat le 27 octobre."
-          ],
-          "enjeu": "L'exécutif doit à la fois rétablir l'ordre, rassurer les commerçants et les maires, et expliquer pourquoi l'ampleur des violences n'a pas été anticipée. L'opposition se divise entre ceux qui demandent plus de fermeté (état d'urgence, couvre-feu) et ceux qui veulent d'abord une enquête sur la gestion du maintien de l'ordre.",
-          "positions": {
-            "gr": {
-              "type": "declare",
-              "texte": "Jean-Luc Mélenchon (LFI) attribue le chaos parisien à un « commandement aberrant » de la police, qui aurait provoqué la dispersion des cortèges, et demande à ses soutiens de rester à l'écart des pillages.",
-              "src": "LCP, 17 octobre 2026"
-            },
-            "g": {
-              "type": "declare",
-              "texte": "Au Sénat, Patrick Kanner (PS) demande un débat avec le gouvernement et la transformation de la mission sur l'ordre public en commission d'enquête ; Guy Benarroche (Les Écologistes) annonce que son groupe demandera aussi une commission d'enquête et s'interroge sur le déploiement des forces de l'ordre.",
-              "src": "Public Sénat, 18 octobre 2026"
-            },
-            "c": {
-              "type": "declare",
-              "texte": "Emmanuel Macron juge que rien ne justifie ces violences, distingue les manifestants contre la vie chère des « factieux » et des pillards, et affirme que les auteurs de destructions devront payer et les pilleurs rembourser.",
-              "src": "Allocution du président de la République, 18 octobre 2026 (Public Sénat)"
-            },
-            "d": {
-              "type": "declare",
-              "texte": "Bruno Retailleau (LR) réclame l'état d'urgence immédiat et un couvre-feu ; la sénatrice LR Catherine Dumas soutient une commission d'enquête et juge qu'un « mot fort » ne suffit pas.",
-              "src": "Public Sénat, 18 octobre 2026"
-            },
-            "dn": {
-              "type": "declare",
-              "texte": "Edwige Diaz (RN) s'oppose à une commission d'enquête, qu'elle présente comme une diversion, met en cause LFI et le bloc central, et demande d'appliquer les lois et sanctions existantes.",
-              "src": "Public Sénat, 18 octobre 2026"
-            }
-          },
-          "sources": [
-            {
-              "t": "Public Sénat : Macron exprime sa « colère » et sa « honte » et promet « toute la transparence »",
-              "u": "https://www.publicsenat.fr/actualites/politique/violences-du-17-octobre-macron-exprime-sa-colere-et-sa-honte-et-promet-toute-la-transparence"
-            },
-            {
-              "t": "Public Sénat : au Sénat, l'heure des comptes pour le gouvernement",
-              "u": "https://www.publicsenat.fr/actualites/politique/violences-du-17-octobre-au-senat-lheure-des-comptes-pour-le-gouvernement"
-            },
-            {
-              "t": "Le JDD : Sébastien Lecornu demande aux préfets des couvre-feux localisés",
-              "u": "https://www.lejdd.fr/politique/violences-urbaines-sebastien-lecornu-demande-aux-prefets-de-declencher-un-certain-nombre-de-couvre-feux-localises-186438"
-            },
-            {
-              "t": "Made in Marseille : chômage partiel à 100 % pour les commerces sinistrés",
-              "u": "https://madeinmarseille.net/actualite/212970-sebastien-lecornu-annonce-le-chomage-partiel-a-100-pour-les-commerces-sinistres/"
-            }
-          ]
-        },
-        {
-          "id": "2026-10-19-budget-vote-recettes",
-          "rubrique": "Budget",
-          "titre": "Budget 2027 : vote à haut risque mardi sur la partie « recettes »",
-          "chapo": "Les députés votent mardi sur la première partie du projet de loi de finances, consacrée aux recettes. Le texte arrive très remanié et avec de nombreux articles non examinés. S'il est rejeté, le budget part au Sénat dans la version du gouvernement.",
-          "faits": [
-            "Le gouvernement vise un déficit public de 5 % du PIB en 2027 ; la commission des finances avait rejeté la partie recettes le 9 octobre (31 voix contre 3).",
-            "En séance, les députés ont supprimé l'article qui fixait la trajectoire de déficit et le rabot sur l'abattement fiscal des retraités (1,4 milliard d'euros d'économies attendues).",
-            "Ils ont doublé, à 15 000 euros par an, le plafond des heures supplémentaires défiscalisées, contre l'avis du gouvernement.",
-            "Avant le vote, il restait 51 articles sur 58 et plus de 2 800 amendements pour une seule journée de séance, ce lundi.",
-            "Calendrier : vote sur le budget de la Sécurité sociale le 27 octobre, vote sur l'ensemble du budget de l'État le 17 novembre."
-          ],
-          "enjeu": "Sans majorité, le gouvernement Lecornu doit éviter un rejet qui ferait partir le texte au Sénat sans les modifications de l'Assemblée. Le recours au 49.3 exposerait l'exécutif à une motion de censure. Le fond du débat reste le partage de l'effort entre impôts et économies.",
-          "positions": {
-            "gr": {
-              "type": "declare",
-              "texte": "Aurélien Le Coq (LFI) qualifie le projet de « budget de violence sociale » et prévient que son groupe déposera une motion de censure si le gouvernement recourt au 49.3.",
-              "src": "LCP, 9 et 12 octobre 2026"
-            },
-            "g": {
-              "type": "declare",
-              "texte": "Boris Vallaud, président du groupe PS, dit ne voir aucune main tendue du Premier ministre ; la députée PS Estelle Mercier reproche au gouvernement de refuser de faire contribuer davantage les plus aisés.",
-              "src": "NosParlementaires, d'après les débats du 13 octobre 2026"
-            },
-            "c": {
-              "type": "declare",
-              "texte": "Paul Midy (Renaissance) estime qu'il vaut mieux un budget imparfait que pas de budget ; le ministre des Comptes publics David Amiel s'est opposé au doublement du plafond des heures supplémentaires, jugeant déraisonnable d'aller au-delà du plafond actuel.",
-              "src": "LCP, 9 octobre 2026 ; NosParlementaires, 15 octobre 2026"
-            },
-            "d": {
-              "type": "declare",
-              "texte": "Philippe Juvin (LR), rapporteur général du budget, juge la copie issue de la commission « pas satisfaisante » ; son groupe dénonce une surenchère fiscale et demande davantage d'économies sur la dépense.",
-              "src": "LCP, 9 octobre 2026"
-            },
-            "dn": {
-              "type": "declare",
-              "texte": "Jean-Philippe Tanguy (RN) refuse de voter des hausses d'impôts ; son groupe a choisi de ne pas rejeter le texte d'emblée pour défendre ses amendements, la baisse de l'indexation des pensions restant pour lui une ligne rouge.",
-              "src": "LCP, 9 et 12 octobre 2026"
-            }
-          },
-          "sources": [
-            {
-              "t": "LCP : les députés rejettent en commission la partie recettes",
-              "u": "https://lcp.fr/actualites/budget-2027-les-deputes-rejettent-en-commission-la-partie-recettes-du-projet-de-loi-de"
-            },
-            {
-              "t": "LCP : le gouvernement sur un fil à la veille des débats",
-              "u": "https://lcp.fr/actualites/budget-2027-le-gouvernement-sur-un-fil-a-la-veille-de-l-ouverture-des-debats-a-l"
-            },
-            {
-              "t": "NosParlementaires : vote mardi 20 octobre, texte inachevé",
-              "u": "https://nosparlementaires.fr/actualites/budget-2027-calendrier-assemblee-cinq-semaines"
-            },
-            {
-              "t": "Assemblée nationale : dossier législatif du PLF 2027",
-              "u": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PLF_2027"
-            }
-          ]
-        },
-        {
-          "id": "2026-10-19-carburants-golfe",
-          "rubrique": "Énergie",
-          "titre": "Carburants : Emmanuel Macron en tournée dans le Golfe pour sécuriser l'approvisionnement",
-          "chapo": "Le chef de l'État se rend du 19 au 21 octobre au Koweït, aux Émirats arabes unis, à Bahreïn et au Qatar. Objectif : obtenir des volumes de gazole et de pétrole, alors que le conflit dans le Golfe fait grimper les prix à la pompe, l'une des causes de la colère du 17 octobre.",
-          "faits": [
-            "La tournée commence lundi au Koweït et se termine par une visite d'État au Qatar les 20 et 21 octobre ; des dirigeants de TotalEnergies et d'Engie accompagnent le président.",
-            "Les livraisons venues du Golfe sont perturbées par le blocage du détroit d'Ormuz, lié à la crise entre les États-Unis et l'Iran.",
-            "Le 7 octobre, le gouvernement a annoncé la mise sur le marché de 10 millions de barils de gazole issus des stocks stratégiques, de novembre à janvier, pour une baisse attendue de 12 à 18 centimes par litre.",
-            "L'aide de 100 euros par mois aux « grands rouleurs » est prolongée jusqu'à fin 2026 et élargie, et 100 000 foyers supplémentaires deviennent éligibles au chèque énergie."
-          ],
-          "enjeu": "Le gouvernement mise sur l'approvisionnement et des aides ciblées plutôt que sur une baisse générale des taxes, jugée trop coûteuse en plein débat budgétaire. Les oppositions réclament des mesures plus directes sur les prix, chacune avec ses outils.",
-          "positions": {
-            "gr": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement le blocage des prix des carburants et une taxation des profits des compagnies pétrolières, jugeant les aides ciblées insuffisantes.",
-              "src": ""
-            },
-            "g": {
-              "type": "lecture",
-              "texte": "Le courant plaide d'ordinaire pour des aides ciblées sur les ménages modestes et ruraux, comme un chèque énergie renforcé, et pour accélérer la sortie de la dépendance au pétrole.",
-              "src": ""
-            },
-            "c": {
-              "type": "declare",
-              "texte": "Emmanuel Macron attribue la hausse des prix au conflit dans le golfe Persique, auquel la France ne participe pas, et présente sa tournée comme un moyen de sécuriser l'approvisionnement en carburant et en gaz.",
-              "src": "Allocution du président de la République, 18 octobre 2026 (Public Sénat)"
-            },
-            "d": {
-              "type": "lecture",
-              "texte": "Le courant demande habituellement une baisse de la fiscalité sur l'énergie financée par des économies sur la dépense publique, et soutient la sécurisation des approvisionnements.",
-              "src": ""
-            },
-            "dn": {
-              "type": "lecture",
-              "texte": "Le courant réclame d'ordinaire une baisse de la TVA sur les carburants et l'énergie, au nom du pouvoir d'achat, mesure que le gouvernement a jusqu'ici refusée.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "Boursorama : Macron dans quatre pays du Golfe du 19 au 21 octobre",
-              "u": "https://www.boursorama.com/actualite-economique/actualites/macron-dans-quatre-pays-du-golfe-du-19-au-21-octobre-pour-securiser-des-approvisionnements-energetiques-37f5c43832ff034808c71ea3c06871cd"
-            },
-            {
-              "t": "Public Sénat : les mesures de Sébastien Lecornu auront-elles un impact sur les prix ?",
-              "u": "https://www.publicsenat.fr/actualites/politique/prix-du-carburant-les-mesures-annoncees-par-sebastien-lecornu-auront-elles-vraiment-un-impact-sur-les-prix"
-            },
-            {
-              "t": "La finance pour tous : des mesures pour faire baisser les prix à la pompe",
-              "u": "https://www.lafinancepourtous.com/2026/10/09/carburant-des-mesures-pour-faire-baisser-les-prix-a-la-pompe/"
-            }
-          ]
-        }
-      ],
-      "breves": [
-        {
-          "titre": "Présidentielle 2027 : Marine Le Pen en tête, trois candidats au coude-à-coude derrière",
-          "texte": "Selon l'Elabe publié le 17 octobre, Marine Le Pen (RN) obtient 31 à 33,5 % des intentions de vote ; Édouard Philippe (Horizons), Raphaël Glucksmann (Place publique, désigné lors de la primaire du 11 octobre) et Jean-Luc Mélenchon (LFI) se tiennent entre 13,5 et 16,5 %. Près de la moitié des sondés peuvent encore changer d'avis. Premier tour le 18 avril 2027.",
-          "src": {
-            "t": "Toute l'Europe : présidentielle 2027, l'état des sondages",
-            "u": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-marine-le-pen-largement-en-tete-dans-les-sondages-a-six-mois-du-premier-tour-trois-candidats-au-coude-a-coude-pour-la-deuxieme-place/"
-          }
-        },
-        {
-          "titre": "Limoges : le maire met en cause l'État",
-          "texte": "Après l'incendie qui a ravagé une partie de sa mairie, le maire de Limoges, Guillaume Guérin, estime que l'État est en partie responsable de ce qui s'est passé samedi, faute d'une protection policière suffisante.",
-          "src": {
-            "t": "Public Sénat : « L'État est responsable en partie », déclare le maire de Limoges",
-            "u": "https://www.publicsenat.fr/actualites/societe/letat-est-responsable-en-partie-de-ce-quil-sest-passe-samedi-a-limoges-declare-le-maire-de-la-ville"
-          }
-        },
-        {
-          "titre": "Les maires rassemblés devant leurs mairies",
-          "texte": "À l'appel de l'Association des maires de France, des élus se sont rassemblés lundi midi devant leur hôtel de ville, notamment à Paris, Bordeaux et Lille. Les maires de Paris, Lyon et Marseille doivent être reçus par le Premier ministre.",
-          "src": {
-            "t": "Public Sénat : les maires font front devant leurs mairies",
-            "u": "https://www.publicsenat.fr/actualites/politique/apres-les-violences-du-17-octobre-les-maires-font-front-devant-leurs-mairies"
-          }
-        }
-      ],
-      "agenda": [
-        {
-          "d": "Lun. 19 oct.",
-          "t": "Emmanuel Macron au Koweït, début de sa tournée dans le Golfe ; premiers couvre-feux localisés"
-        },
-        {
-          "d": "Mar. 20 oct.",
-          "t": "Vote solennel à l'Assemblée sur la partie recettes du budget 2027 ; chômage partiel à 100 % pour les commerces sinistrés"
-        },
-        {
-          "d": "Mar. 20 oct.",
-          "t": "Yaël Braun-Pivet réunit les présidents de groupe sur une éventuelle commission d'enquête"
-        },
-        {
-          "d": "Mar. 20 – mer. 21 oct.",
-          "t": "Visite d'État d'Emmanuel Macron au Qatar"
-        },
-        {
-          "d": "Mar. 27 oct.",
-          "t": "Proposition de loi « casseurs-payeurs » au Sénat ; vote du budget de la Sécurité sociale à l'Assemblée"
         },
         {
           "d": "Jeu. 5 nov.",
