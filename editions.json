@@ -85,7 +85,12 @@
               "t": "Le Singulier (AFP) – Parcoursup sous pression, l'exécutif promet des retouches sans renoncer à la plateforme",
               "u": "https://lesinguliersete.fr/parcoursup-sous-pression-lexecutif-promet-des-retouches-sans-renoncer-a-la-plateforme/"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://static.europe1.fr/var/europe1/storage/styles/image_750_422/public/media/image/2026/10/25/21/080_hl_bandre_3357874_1_6ade69db257a6.jpg?itok=suFdAbim",
+            "credit": "Europe 1",
+            "alt": "Illustration de l'article de Europe 1"
+          }
         },
         {
           "id": "2026-10-26-le-pen-orleans",
@@ -169,7 +174,12 @@
               "t": "Public Sénat – Manifestation contre le RN à Orléans : un « aveu de faiblesse » pour la gauche ?",
               "u": "https://www.publicsenat.fr/actualites/politique/manifestation-contre-le-rn-a-orleans-un-aveu-de-faiblesse-pour-la-gauche-ou-un-echec-de-la-dediabolisation-de-marine-le-pen"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.publicsenat.fr/app/uploads/2026/10/SIPA_01310096_000006-scaled.jpg",
+            "credit": "Public Sénat",
+            "alt": "Illustration de l'article de Public Sénat"
+          }
         },
         {
           "id": "2026-10-26-budget-recettes-reprise",
@@ -252,7 +262,12 @@
               "t": "Le Club des juristes – Le budget de la Sécurité sociale pour 2027 rejeté par l'Assemblée nationale",
               "u": "https://www.leclubdesjuristes.com/en-bref/budget-2027-le-budget-de-la-securite-sociale-pour-2027-rejete-par-lassemblee-nationale-18022/"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2026-10/Examen%20du%20budget%2C%20le%2016%20octobre%202026.jpg?itok=4gjX-Ox0",
+            "credit": "LCP",
+            "alt": "Illustration de l'article de LCP"
+          }
         },
         {
           "id": "2026-10-26-corse-senat",
@@ -335,7 +350,12 @@
               "t": "Sénat – Ordre du jour de la séance publique",
               "u": "https://www.senat.fr/ordre-du-jour/ordre-du-jour.html"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.publicsenat.fr/app/uploads/2026/10/SIPA_01309034_000018-scaled.jpg",
+            "credit": "Public Sénat",
+            "alt": "Illustration de l'article de Public Sénat"
+          }
         },
         {
           "id": "2026-10-26-bresil-lula-reelu",
@@ -414,7 +434,12 @@
               "t": "France 24 – Brésil : Lula réélu président, Flavio Bolsonaro va demander l'annulation des élections",
               "u": "https://www.france24.com/fr/am%C3%A9riques/20261026-bresil-victoire-lula-quatrieme-mandat-flavio-bolsonaro"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://proxymedia.woopic.com/api/v1/images/2275%2Factu%2Fafp-news%2F9a26c0a5-dac4-40a7-9097-e3928634618e.jpg?format=1200x630&facedetect=1&quality=85",
+            "credit": "AFP (via Orange)",
+            "alt": "Illustration de l'article de AFP (via Orange)"
+          }
         }
       ],
       "breves": [
