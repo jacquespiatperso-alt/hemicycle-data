@@ -89,7 +89,12 @@
               "t": "Le Figaro – Autonomie de la Corse : le Sénat rejette la réforme constitutionnelle, les autonomistes quittent les négociations",
               "u": "https://www.lefigaro.fr/politique/autonomie-de-la-corse-le-senat-rejette-la-reforme-constitutionnelle-les-autonomistes-quittent-les-negociations-20261027"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.corsenetinfos.corsica/photo/art/grande/98504930-68695244.jpg?v=1793056630",
+            "credit": "Corse Net Infos",
+            "alt": "Illustration de l'article de Corse Net Infos"
+          }
         },
         {
           "id": "2026-10-27-lyceens-annonces",
@@ -177,7 +182,12 @@
               "t": "Anadolu – Classes plafonnées à 28 élèves, Parcoursup remplacé en 2028 : l'Union étudiante juge les annonces insuffisantes",
               "u": "https://www.aa.com.tr/fr/politique/france-classes-plafonn%C3%A9es-%C3%A0-28-%C3%A9l%C3%A8ves-parcoursup-remplac%C3%A9-en-2028-l-union-%C3%A9tudiante-juge-les-annonces-insuffisantes/4101748"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.publicsenat.fr/app/uploads/2026/10/SIPA_01302640_000011-1200x630.jpg",
+            "credit": "Public Sénat",
+            "alt": "Illustration de l'article de Public Sénat"
+          }
         },
         {
           "id": "2026-10-27-macron-marseille-ordre-public",
@@ -260,7 +270,12 @@
               "t": "CNews – Sébastien Chenu : « La gauche ne peut pas s'empêcher de tenter la récupération politique »",
               "u": "https://www.cnews.fr/videos/france/2026-10-24/sebastien-chenu-la-gauche-ne-peut-pas-sempecher-de-tenter-la-recuperation"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.publicsenat.fr/app/uploads/2026/10/SIPA_ap23069810_000012-1200x630.jpg",
+            "credit": "Public Sénat",
+            "alt": "Illustration de l'article de Public Sénat"
+          }
         },
         {
           "id": "2026-10-27-trappes-garde-a-vue",
@@ -343,7 +358,12 @@
               "t": "franceinfo – « Il y a une certaine impunité envers les mouvements d'extrême droite qui ne peut plus durer », déclare Marine Tondelier",
               "u": "https://franceinfo.fr/politique/je-pense-qu-il-y-a-quand-meme-une-certaine-impunite-envers-les-mouvements-d-extreme-droite-qui-ne-peut-plus-durer-declare-marine-tondelier-secretaire-nationale-des-ecologistes-et-candidate-a-l-election-presidentielle_8253919.html"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://static-content.rtbf.be/article/image/1920x1080/8/a/6/1d50ee20ddfa4156b027e9fb41794989.jpg",
+            "credit": "RTBF",
+            "alt": "Fusillade raciste à Trappes : le suspect reconnait les faits mais \"conteste le caractère raciste de ses crimes\""
+          }
         },
         {
           "id": "2026-10-27-bresil-trump-lula",
@@ -422,7 +442,12 @@
               "t": "Anadolu – Brésil : Mélenchon et Sánchez saluent la réélection de Lula",
               "u": "https://www.aa.com.tr/fr/politique/br%C3%A9sil-m%C3%A9lenchon-et-s%C3%A1nchez-saluent-la-r%C3%A9%C3%A9lection-de-lula/4101035"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.dhnet.be/resizer/v2/7VMUDRERRBCZFHIRPIT3OFNCE4.png?auth=e26ec744f03e936804ed79e7aebfa711f3f6ad9ee4d8768a59ebacc7229c4737&width=1200&height=630&quality=85&smart=true",
+            "credit": "La DH (AFP)",
+            "alt": "Illustration de l'article de La DH (AFP)"
+          }
         }
       ],
       "breves": [
