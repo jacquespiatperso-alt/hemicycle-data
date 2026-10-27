@@ -1,6 +1,495 @@
 {
-  "updated": "2026-10-26T06:28:00+01:00",
+  "updated": "2026-10-27T06:28:00+01:00",
   "editions": [
+    {
+      "date": "2026-10-27",
+      "label": "Mardi 27 octobre 2026",
+      "maj": "Mise à jour à 6 h 28",
+      "intro": "Dans la nuit, le Sénat a rejeté la réforme constitutionnelle sur l'autonomie de la Corse, et les autonomistes quittent le processus engagé en 2022. Le gouvernement a présenté ses réponses au mouvement lycéen, dont le remplacement de Parcoursup en 2028, sans éteindre les appels à manifester. À Marseille, Emmanuel Macron reconnaît un défaut d'anticipation et prévient que samedi sera « à risque », tandis que le suspect de l'attentat de Trappes conteste tout mobile raciste. À l'international, Donald Trump qualifie de « truquée » la réélection de Lula au Brésil.",
+      "stories": [
+        {
+          "id": "2026-10-27-corse-rejet-senat",
+          "rubrique": "Institutions",
+          "titre": "Autonomie de la Corse : le Sénat rejette la réforme constitutionnelle, les autonomistes quittent le processus de Beauvau",
+          "chapo": "Après avoir réécrit le texte en supprimant la notion de « communauté », les sénateurs l'ont rejeté par 181 voix contre 134. Les élus nationalistes ont claqué la porte des discussions engagées en 2022.",
+          "faits": [
+            "Dans la nuit de lundi à mardi, le Sénat a rejeté l'ensemble du projet de loi constitutionnelle « pour une Corse autonome au sein de la République » par 181 voix contre 134. Ont voté contre à la fois les opposants à toute réforme et ceux qui refusaient la version réécrite par la majorité sénatoriale.",
+            "Un amendement de la rapporteure Muriel Jourda (LR) a remplacé la « communauté » et le « lien singulier à la terre » par un « patrimoine historique, linguistique et culturel singulier » ; un amendement de Jean-Jacques Panunzi (LR) a ensuite retiré le pouvoir législatif accordé à la collectivité de Corse, adopté par 191 voix contre 123 selon Corse Net Infos.",
+            "Après le vote sur la « communauté », le sénateur Paul-Toussaint Parigi (Femu a Corsica) a annoncé le retrait des autonomistes du processus de Beauvau et quitté l'hémicycle ; le Parti de la nation corse a lui aussi retiré son soutien.",
+            "La ministre de la Décentralisation, Françoise Gatel, a jugé la version sénatoriale « un leurre » et annoncé que le gouvernement contacterait les élus corses dès mardi.",
+            "Le texte avait été validé par l'Assemblée de Corse en 2024 puis adopté par l'Assemblée nationale en juin 2026 ; une révision constitutionnelle exige un vote conforme des deux chambres, puis un référendum ou trois cinquièmes des voix au Congrès."
+          ],
+          "enjeu": "Une adoption avant la présidentielle paraît désormais hors de portée, et le départ des autonomistes prive l'exécutif de ses interlocuteurs sur l'île. Le dossier corse devient un sujet de campagne, entre les défenseurs de l'autonomie et ceux qui y voient une atteinte à l'unité de la République.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant aborde habituellement la question corse sous l'angle social, du coût de la vie et du logement, et se méfie autant des réformes institutionnelles venues de Paris que des projets portés par les notables locaux.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Cécile Cukierman (PCF), présidente du groupe communiste au Sénat, a expliqué que son groupe s'opposait au texte sur la méthode, sur le fond et sur le flou de la future loi organique.",
+              "src": "Corse Net Infos, 27 octobre 2026"
+            },
+            "soc": {
+              "type": "declare",
+              "texte": "Patrick Kanner (PS), président des sénateurs socialistes, accuse la droite d'avoir bloqué un processus mûri de longue date ; il avait plaidé pour une formulation plus consensuelle que celle du gouvernement mais moins restrictive que celle de la rapporteure LR.",
+              "src": "Public Sénat, 26 octobre 2026"
+            },
+            "eco": {
+              "type": "declare",
+              "texte": "Guy Benaroche (Les Écologistes) a indiqué que son groupe voterait le texte s'il n'était pas dénaturé, et a critiqué l'amendement Panunzi qui supprime le pouvoir législatif de la collectivité.",
+              "src": "Corse Net Infos, 27 octobre 2026"
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "Benjamin Huin, sénateur Renaissance du Haut-Rhin, reproche à la droite de ne pas faire confiance aux territoires : « Les masques tombent ».",
+              "src": "Le Figaro (AFP), 27 octobre 2026"
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant, attaché à la décentralisation et à l'expérimentation, soutient habituellement une autonomie encadrée de la Corse, à condition qu'elle préserve l'unité de la République.",
+              "src": ""
+            },
+            "hor": {
+              "type": "declare",
+              "texte": "Cédric Chevalier, sénateur de la Marne du groupe Les Indépendants, où siègent les élus Horizons, s'est opposé à la notion de « communauté » et a soutenu l'amendement Jourda, en conditionnant son vote final à l'évolution du texte.",
+              "src": "Corse Net Infos, 27 octobre 2026"
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Bruno Retailleau (LR) estime que le texte initial revenait à « constitutionnaliser le communautarisme » et rejette toute double souveraineté populaire ; la rapporteure Muriel Jourda conteste que son groupe ait mis fin au processus.",
+              "src": "Public Sénat, 26 octobre 2026"
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Franck Giletti (RN), sénateur du Var, s'est opposé à tout pouvoir législatif qui romprait l'égalité entre territoires et a présenté le projet alternatif de son parti pour l'île.",
+              "src": "Corse Net Infos, 27 octobre 2026"
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant s'oppose habituellement à toute autonomie de la Corse, qu'il présente comme une menace pour l'unité nationale et une concession aux nationalistes.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Public Sénat – Autonomie de la Corse : au Sénat, les débats s'enlisent sur la notion de « communauté corse »",
+              "u": "https://www.publicsenat.fr/actualites/parlementaire/autonomie-de-la-corse-au-senat-les-debats-senlisent-sur-la-notion-de-communaute-corse"
+            },
+            {
+              "t": "Corse Net Infos – Autonomie de la Corse : le Sénat rejette le texte qu'il a complètement détricoté",
+              "u": "https://www.corsenetinfos.corsica/Autonomie-de-la-Corse-Le-Senat-rejette-le-texte-qu-il-a-completement-detricote-_a93365.html"
+            },
+            {
+              "t": "Sud Radio (AFP) – Statut de la Corse : le Sénat rejette la réforme, le camp autonomiste claque la porte",
+              "u": "https://www.sudradio.fr/societe/statut-de-la-corse-le-senat-rejette-la-reforme-le-camp-autonomiste-claque-la-porte"
+            },
+            {
+              "t": "Le Figaro – Autonomie de la Corse : le Sénat rejette la réforme constitutionnelle, les autonomistes quittent les négociations",
+              "u": "https://www.lefigaro.fr/politique/autonomie-de-la-corse-le-senat-rejette-la-reforme-constitutionnelle-les-autonomistes-quittent-les-negociations-20261027"
+            }
+          ]
+        },
+        {
+          "id": "2026-10-27-lyceens-annonces",
+          "rubrique": "Éducation",
+          "titre": "Parcoursup remplacé en 2028, 28 élèves par classe de seconde : les annonces du gouvernement ne stoppent pas le mouvement lycéen",
+          "chapo": "Après la rencontre à Matignon, Édouard Geffray et Philippe Baptiste ont présenté une série de mesures sur l'orientation, les effectifs et le bâti scolaire. Les organisations lycéennes y voient une première étape et maintiennent les mobilisations du 31 octobre et du 5 novembre.",
+          "faits": [
+            "Parcoursup sera aménagé pour la prochaine campagne (motif de refus communiqué sur demande, lettres de motivation justifiées, algorithmes plus transparents), puis remplacé en 2028 ; la mention du lycée d'origine sera supprimée à cette date.",
+            "Les classes de seconde seront plafonnées à 28 élèves dès la rentrée 2027 dans la moitié la moins favorisée des lycées, puis partout en 2028 ; 836 suppressions de postes prévues sont annulées par amendement au budget et 500 postes créés.",
+            "Le gouvernement annonce 15 000 places supplémentaires dans le supérieur, surtout en BTS et IUT, 4 milliards d'euros de prêts bonifiés aux collectivités pour rénover collèges et lycées, 1 milliard pour les universités et l'indexation des bourses sur l'inflation.",
+            "Les Lycéens ! et Renouveau lycéen jugent que le gouvernement a répondu à « une partie » des revendications ; l'Union étudiante trouve les mesures insuffisantes et rappelle sa demande de 250 000 places.",
+            "Un débat sans vote obligatoire sur l'avenir de l'orientation vers le supérieur aura lieu mercredi à 17 h à l'Assemblée nationale."
+          ],
+          "enjeu": "L'exécutif parie sur des mesures concrètes pour détacher les lycéens de la contestation sociale avant le 5 novembre. Plusieurs annonces passent par le budget 2027, dont l'adoption reste incertaine, et le calendrier de 2028 laisse la décision finale sur Parcoursup au prochain quinquennat.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement la mobilisation lycéenne, réclame la suppression de toute sélection à l'université et appelle à l'étendre vers une grève générale.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Aurélie Trouvé (LFI) estime que les annonces montrent que le mouvement paie et doit continuer ; elle juge Parcoursup « une horreur », réclame son abrogation immédiate et regrette que le débat de mercredi ne soit pas suivi d'un vote.",
+              "src": "LCP, 26 octobre 2026"
+            },
+            "soc": {
+              "type": "declare",
+              "texte": "Raphaël Glucksmann, candidat soutenu par le PS et Place publique, propose de remplacer la plateforme après une concertation avec les acteurs de l'éducation.",
+              "src": "LCP, 26 octobre 2026"
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement la fin de la sélection à l'entrée de l'université, davantage de moyens pour les lycées et un plan d'urgence pour rénover des bâtiments scolaires vétustes.",
+              "src": ""
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "Gabriel Attal (Renaissance) met en avant un renforcement de l'accompagnement des candidats plutôt que la suppression de la plateforme.",
+              "src": "LCP, 26 octobre 2026"
+            },
+            "modem": {
+              "type": "declare",
+              "texte": "Marc Fesneau (Les Démocrates) reconnaît les dysfonctionnements de Parcoursup, mais veut conserver un outil de sélection à l'entrée de l'université et dit espérer que le débat évite « la démagogie ».",
+              "src": "LCP, 26 octobre 2026"
+            },
+            "hor": {
+              "type": "declare",
+              "texte": "Édouard Philippe (Horizons), Premier ministre lors de la création de Parcoursup, reconnaît les dysfonctionnements du dispositif.",
+              "src": "LCP, 26 octobre 2026"
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Bruno Retailleau (LR) défend une nouvelle plateforme fondée sur une sélection au mérite.",
+              "src": "LCP, 26 octobre 2026"
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Maxime Michelet (UDR) souhaite une refonte complète de la procédure et un accès à l'université fondé sur le baccalauréat ; il indique que son camp abrogerait la réforme Blanquer du lycée.",
+              "src": "LCP, 26 octobre 2026"
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement la sélection au mérite, le rétablissement d'un baccalauréat exigeant et le retour aux fondamentaux, et critique le recours aux blocages de lycées.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Public Sénat – Parcoursup, effectif des classes, emplois du temps : les réponses du gouvernement à la mobilisation lycéenne",
+              "u": "https://www.publicsenat.fr/actualites/education/parcoursup-effectif-des-classes-emplois-du-temps-les-reponses-du-gouvernement-a-la-mobilisation-lyceenne"
+            },
+            {
+              "t": "Public Sénat – Le gouvernement a répondu à « une partie » des revendications, selon les syndicats lycéens",
+              "u": "https://www.publicsenat.fr/actualites/education/le-gouvernement-a-repondu-a-une-partie-des-revendications-selon-les-syndicats-lyceens-qui-appellent-a-poursuivre-le-mouvement"
+            },
+            {
+              "t": "LCP – Réforme de Parcoursup : LFI demande un vote à l'issue du débat prévu mercredi à l'Assemblée",
+              "u": "https://lcp.fr/actualites/reforme-de-parcoursup-lfi-demande-un-vote-a-l-issue-du-debat-prevu-mercredi-a-l"
+            },
+            {
+              "t": "LCP – Manifestations lycéennes : le gouvernement annonce un débat sur l'avenir de Parcoursup à l'Assemblée nationale",
+              "u": "https://lcp.fr/actualites/manifestations-lyceennes-le-gouvernement-annonce-un-debat-sur-l-avenir-de-parcoursup-a-l"
+            },
+            {
+              "t": "Anadolu – Classes plafonnées à 28 élèves, Parcoursup remplacé en 2028 : l'Union étudiante juge les annonces insuffisantes",
+              "u": "https://www.aa.com.tr/fr/politique/france-classes-plafonn%C3%A9es-%C3%A0-28-%C3%A9l%C3%A8ves-parcoursup-remplac%C3%A9-en-2028-l-union-%C3%A9tudiante-juge-les-annonces-insuffisantes/4101748"
+            }
+          ]
+        },
+        {
+          "id": "2026-10-27-macron-marseille-ordre-public",
+          "rubrique": "Sécurité",
+          "titre": "À Marseille, Emmanuel Macron reconnaît un défaut d'anticipation le 17 octobre et prévient que samedi sera « à risque »",
+          "chapo": "En visite surprise dans la ville touchée par les violences du 17 octobre, le chef de l'État a écarté pour l'instant l'état d'urgence et annoncé que les cortèges resteraient tenus hors des centres-villes.",
+          "faits": [
+            "Lundi 26 octobre, Emmanuel Macron s'est rendu à l'hôtel de ville de Marseille, endommagé le 17 octobre, puis à la préfecture, aux côtés du maire Benoît Payan (divers gauche).",
+            "Il a reconnu que « on n'avait pas du tout anticipé ce qui s'est passé », tant la mobilisation de l'ultragauche que la délinquance qui a suivi, et que les effectifs de police n'étaient « pas dûment proportionnés ».",
+            "Il a jugé que l'ordre public avait tenu le week-end dernier, tout en relevant environ 80 commerces touchés, et prévenu que « samedi prochain est encore un samedi à risque » ; de nouvelles manifestations sont prévues le 31 octobre et le 5 novembre.",
+            "Le chef de l'État a écarté pour l'instant l'état d'urgence réclamé par une partie de la droite, sans l'exclure, et annoncé que les parcours des manifestations autorisées resteraient hors des centres-villes ; il a promis le soutien de l'État aux commerçants et aux collectivités les plus touchés."
+          ],
+          "enjeu": "En reprenant la main sur l'ordre public, Emmanuel Macron s'expose directement, alors que la crise sociale pèse sur l'exécutif à six mois de la présidentielle. Le samedi 31 octobre, veille de la Toussaint, servira de test pour la stratégie des cortèges tenus à l'écart des centres-villes.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant dénonce habituellement la répression des manifestations et les interdictions préfectorales, et voit dans les violences la conséquence de la politique sociale du gouvernement.",
+              "src": ""
+            },
+            "gr": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement le droit de manifester partout, y compris en centre-ville, critique la doctrine de maintien de l'ordre et appelle à répondre d'abord aux revendications sociales.",
+              "src": ""
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant condamne habituellement les pillages tout en réclamant une réponse politique aux revendications sur la vie chère, et critique le manque d'anticipation de l'État.",
+              "src": ""
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement le droit de manifester et la désescalade dans le maintien de l'ordre, et s'oppose au recours à l'état d'urgence contre des mouvements sociaux.",
+              "src": ""
+            },
+            "ren": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement l'action du président et des forces de l'ordre, en insistant sur la fermeté contre les casseurs et le respect du droit de manifester.",
+              "src": ""
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant appelle habituellement à l'apaisement et au dialogue social, tout en soutenant la fermeté de l'État face aux violences.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant met habituellement l'accent sur l'autorité de l'État et la protection des commerçants, et se montre critique sur la gestion de crise de l'exécutif.",
+              "src": ""
+            },
+            "d": {
+              "type": "lecture",
+              "texte": "Le courant réclame habituellement une fermeté accrue, des sanctions rapides contre les casseurs, et une partie de ses responsables a demandé l'instauration de l'état d'urgence.",
+              "src": ""
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Sébastien Chenu (RN) accuse La France insoumise d'avoir « banalisé la violence et encouragé les émeutes ».",
+              "src": "CNews, 24 octobre 2026"
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant réclame habituellement l'état d'urgence, l'interdiction des manifestations à risque et des peines sévères contre les émeutiers.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Public Sénat – Mobilisations sociales : « Samedi prochain est encore un samedi à risque », estime Emmanuel Macron, depuis Marseille",
+              "u": "https://www.publicsenat.fr/actualites/politique/mobilisations-sociales-samedi-prochain-est-encore-un-samedi-a-risque-estime-emmanuel-macron-depuis-marseille"
+            },
+            {
+              "t": "Orange (AFP) – Maintien de l'ordre : Macron monte en première ligne",
+              "u": "https://actu.orange.fr/france/maintien-de-l-ordre-macron-monte-en-premiere-ligne-CNT000002toq5t.html"
+            },
+            {
+              "t": "La Libre (AFP) – Macron juge que samedi prochain sera « à risque », les tracés des manifestations seront hors des centres-villes",
+              "u": "https://www.lalibre.be/international/europe/2026/10/26/macron-juge-que-samedi-prochain-sera-a-risque-les-traces-des-manifestations-seront-hors-des-centres-villes-ZY77W4FHEZDQPD7ZIRLUIO4564/"
+            },
+            {
+              "t": "CNews – Sébastien Chenu : « La gauche ne peut pas s'empêcher de tenter la récupération politique »",
+              "u": "https://www.cnews.fr/videos/france/2026-10-24/sebastien-chenu-la-gauche-ne-peut-pas-sempecher-de-tenter-la-recuperation"
+            }
+          ]
+        },
+        {
+          "id": "2026-10-27-trappes-garde-a-vue",
+          "rubrique": "Justice",
+          "titre": "Attentat de Trappes : le suspect reconnaît les faits mais conteste leur caractère raciste, sa garde à vue a repris",
+          "chapo": "Le procureur antiterroriste Olivier Christen a fait le point lundi soir. Il a démenti la présence de tracts politiques dans le véhicule du suspect, alors que l'attaque nourrit une vive polémique entre LFI et le RN.",
+          "faits": [
+            "Kévin T., 39 ans, soupçonné d'avoir tiré vendredi 23 octobre sur des passants à Trappes et La Verrière (Yvelines), faisant un mort, un homme de 26 ans, et cinq blessés graves, « ne conteste pas la matérialité des faits » mais conteste leur caractère raciste, selon le parquet national antiterroriste.",
+            "Suspendue dimanche pour un examen psychiatrique, sa garde à vue a repris lundi après-midi, un psychiatre ayant conclu à l'absence de « décompensation aiguë » ; elle peut durer jusqu'à jeudi 0 h 36. Les gardes à vue de quatre proches, dont ses parents, ont été levées.",
+            "Le procureur a indiqué qu'aucun tract de parti politique n'avait été retrouvé dans son véhicule, contrairement à ce qu'avaient rapporté certains médias. Inconnu des services de renseignement, le suspect a quatre condamnations de droit commun anciennes, la dernière en 2012.",
+            "L'avocat de la famille de la victime, Yassine Bouzrou, s'interroge sur la surveillance du suspect, décrit comme détenteur d'armes, et n'exclut pas d'engager la responsabilité de l'État."
+          ],
+          "enjeu": "La qualification terroriste et le mobile raciste seront au cœur de l'enquête, et des suites qu'elle donnera à la garde à vue d'ici jeudi. Sur le plan politique, l'attaque a ouvert un affrontement sur la responsabilité des discours publics, à six mois de la présidentielle.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant dénonce habituellement le racisme et l'islamophobie comme produits d'un climat politique, et appelle à la mobilisation antiraciste dans la rue.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Jean-Luc Mélenchon (LFI) a réagi en affirmant que « le racisme tue » ; Bally Bagayoko (LFI), maire de Saint-Denis, accuse l'extrême droite d'avoir installé un climat favorable aux attaques racistes.",
+              "src": "AFP, 23 octobre 2026"
+            },
+            "soc": {
+              "type": "declare",
+              "texte": "Olivier Faure (PS) a dénoncé les théories d'extrême droite comme celle du « grand remplacement », en rappelant sa présence le même jour à Orléans face au congrès du RN.",
+              "src": "AFP, 23 octobre 2026"
+            },
+            "eco": {
+              "type": "declare",
+              "texte": "Marine Tondelier (Les Écologistes) estime qu'il existe « une certaine impunité envers les mouvements d'extrême droite qui ne peut plus durer ».",
+              "src": "franceinfo, 26 octobre 2026"
+            },
+            "ren": {
+              "type": "lecture",
+              "texte": "Le courant met habituellement en avant l'unité nationale, la confiance dans l'enquête judiciaire et la fermeté contre toutes les formes de terrorisme.",
+              "src": ""
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant appelle habituellement à l'unité et à la retenue dans les réactions politiques, en laissant la justice établir les mobiles.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant insiste habituellement sur la réponse pénale, la sécurité et le refus de toute récupération politique d'un drame.",
+              "src": ""
+            },
+            "d": {
+              "type": "lecture",
+              "texte": "Le courant condamne habituellement les attaques terroristes quelle qu'en soit l'inspiration, réclame la fermeté pénale et met en garde contre l'exploitation politique des faits divers.",
+              "src": ""
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Sébastien Chenu (RN) rejette toute responsabilité de son parti et dénonce une « récupération politique indigne » de la part de LFI.",
+              "src": "franceinfo, 26 octobre 2026"
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant condamne habituellement les violences tout en récusant tout lien entre ses positions sur l'immigration et des passages à l'acte individuels.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "RTBF – Fusillade raciste à Trappes : le suspect reconnaît les faits mais « conteste le caractère raciste de ses crimes »",
+              "u": "https://www.rtbf.be/article/fusillade-raciste-a-trappes-le-suspect-reconnait-les-faits-mais-conteste-le-caractere-raciste-de-ses-crimes-11806300"
+            },
+            {
+              "t": "franceinfo – Attentat raciste à Trappes : Sébastien Chenu rejette toute responsabilité du RN et dénonce une « récupération politique indigne » de LFI",
+              "u": "https://www.franceinfo.fr/politique/front-national/attentat-raciste-dans-les-yvelines-sebastien-chenu-rejette-toute-responsabilite-du-rn-et-denonce-une-recuperation-politique-indigne-de-lfi_8253883.html"
+            },
+            {
+              "t": "Yahoo Actualités (AFP) – Attentat à Trappes : Emmanuel Macron tente d'unir, la gauche fustige le racisme décomplexé",
+              "u": "https://fr.news.yahoo.com/attentat-%C3%A0-trappes-emmanuel-macron-214608140.html"
+            },
+            {
+              "t": "franceinfo – « Il y a une certaine impunité envers les mouvements d'extrême droite qui ne peut plus durer », déclare Marine Tondelier",
+              "u": "https://franceinfo.fr/politique/je-pense-qu-il-y-a-quand-meme-une-certaine-impunite-envers-les-mouvements-d-extreme-droite-qui-ne-peut-plus-durer-declare-marine-tondelier-secretaire-nationale-des-ecologistes-et-candidate-a-l-election-presidentielle_8253919.html"
+            }
+          ]
+        },
+        {
+          "id": "2026-10-27-bresil-trump-lula",
+          "rubrique": "International",
+          "titre": "Brésil : Trump dénonce une élection « truquée », le parti de Bolsonaro reconnaît pourtant la victoire de Lula",
+          "chapo": "Au lendemain du second tour, le président américain met en cause le scrutin, alors que l'Union européenne et la France ont félicité Lula. Flávio Bolsonaro renonce à demander l'annulation mais vise désormais la candidature du président réélu.",
+          "faits": [
+            "Devant la presse à Washington, Donald Trump a jugé que l'élection brésilienne « ressemblait à une autre élection truquée », qualifiant le scrutin de « tellement corrompu ».",
+            "Le Parti libéral de Flávio Bolsonaro a reconnu le résultat proclamé par le Tribunal supérieur électoral, qui crédite Lula de 51,76 % des voix ; le candidat a renoncé à demander l'annulation, mais entend contester la candidature de Lula pour « abus de pouvoir » économique et politique.",
+            "Le président du Tribunal supérieur électoral, Kassio Nunes Marques, nommé par Jair Bolsonaro, a estimé que la prolongation du vote dans certains bureaux n'avait pas modifié le résultat.",
+            "L'Union européenne, la France, l'Espagne, la Chine et la Russie ont félicité Lula ; Emmanuel Macron a appelé à faire vivre l'amitié entre les deux pays au service d'un « monde plus juste »."
+          ],
+          "enjeu": "La mise en cause du scrutin par Washington ouvre une période de tension entre les États-Unis et le premier pays d'Amérique latine. Pour la France, la réélection de Lula conforte un partenaire sur le climat, mais relance aussi le débat sur l'accord UE-Mercosur, que contestent les agriculteurs français.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant se montre habituellement critique envers les gouvernements de gauche jugés trop conciliants avec le capital, tout en dénonçant les ingérences des États-Unis en Amérique latine.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Jean-Luc Mélenchon (LFI) salue la victoire de Lula : « Vive Lula, vive le Brésil de la dignité », estimant qu'il « a battu l'extrême droite et les ingérences étrangères ».",
+              "src": "Anadolu, 26 octobre 2026"
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant salue habituellement les victoires de la gauche démocratique en Amérique latine et défend le respect des résultats électoraux face aux contestations.",
+              "src": ""
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant voit habituellement en Lula un allié pour la protection de l'Amazonie et le climat, tout en s'opposant à l'accord UE-Mercosur.",
+              "src": ""
+            },
+            "ren": {
+              "type": "lecture",
+              "texte": "Le courant met habituellement en avant le partenariat stratégique franco-brésilien, sur le climat comme sur la défense, et le respect des résultats électoraux.",
+              "src": ""
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement le multilatéralisme et le respect des processus démocratiques, et soutient le dialogue avec le Brésil sur le climat.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant insiste habituellement sur la stabilité des partenariats internationaux de la France et sur le respect des institutions électorales.",
+              "src": ""
+            },
+            "d": {
+              "type": "lecture",
+              "texte": "Le courant se montre habituellement réservé envers Lula, critique sa proximité avec certains régimes, et s'oppose à l'accord UE-Mercosur au nom des agriculteurs français.",
+              "src": ""
+            },
+            "dn": {
+              "type": "lecture",
+              "texte": "Le courant s'oppose habituellement à l'accord UE-Mercosur et prône une diplomatie fondée sur les intérêts nationaux, avec une certaine réserve envers les gouvernements de gauche latino-américains.",
+              "src": ""
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant manifeste habituellement sa proximité avec la droite brésilienne et les positions de Donald Trump, et rejette l'accord UE-Mercosur.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "La DH (AFP) – Trump fustige une élection « truquée » au Brésil après la victoire surprise de Lula",
+              "u": "https://www.dhnet.be/dernieres-depeches/2026/10/26/bresil-la-reelection-de-lula-saluee-dans-le-monde-contestee-par-bolsonaro-XX3LR7A2YJHMFDZJPUOW6CKJYA/"
+            },
+            {
+              "t": "Boursorama (AFP) – Brésil : le parti de Flavio Bolsonaro reconnaît la victoire surprise de Lula",
+              "u": "https://www.boursorama.com/actualite-economique/actualites/bresil-le-parti-de-flavio-bolsonaro-reconnait-la-victoire-surprise-de-lula-7216763653c64b0c9a6cf072c9ce8901"
+            },
+            {
+              "t": "Anadolu – Brésil : Mélenchon et Sánchez saluent la réélection de Lula",
+              "u": "https://www.aa.com.tr/fr/politique/br%C3%A9sil-m%C3%A9lenchon-et-s%C3%A1nchez-saluent-la-r%C3%A9%C3%A9lection-de-lula/4101035"
+            }
+          ]
+        }
+      ],
+      "breves": [
+        {
+          "titre": "Budget 2027 : les députés reprennent la partie recettes",
+          "texte": "L'examen de la première partie du projet de loi de finances reprend ce mardi à l'Assemblée, avec 43 articles et plus de 2 600 amendements restants. Plusieurs mesures annoncées pour les lycées doivent passer par des amendements du gouvernement. Le vote solennel est prévu le 3 novembre.",
+          "src": {
+            "t": "NosParlementaires – Date du vote du budget 2027 : le 3 novembre, pas le 20 octobre",
+            "u": "https://nosparlementaires.fr/actualites/budget-2027-calendrier-assemblee-cinq-semaines"
+          }
+        },
+        {
+          "titre": "Sondage Odoxa : Le Pen et Mélenchon profitent de la colère sociale",
+          "texte": "Selon un baromètre Odoxa pour Public Sénat réalisé les 21 et 22 octobre, 74 % des Français citent spontanément Marine Le Pen comme bénéficiaire de la crise, devant Jean-Luc Mélenchon (32 %). Édouard Philippe recule à 24 % d'adhésion (−3) et 83 % des sondés jugent Emmanuel Macron « mauvais président », un record. 68 % estiment le mouvement lycéen justifié.",
+          "src": {
+            "t": "Public Sénat – Sondage : Le Pen et Mélenchon, grands bénéficiaires de la colère sociale",
+            "u": "https://www.publicsenat.fr/actualites/politique/sondage-le-pen-et-melenchon-grands-beneficiaires-de-la-colere-sociale"
+          }
+        },
+        {
+          "titre": "Carburants : le plafonnement coûte environ 500 millions d'euros à TotalEnergies",
+          "texte": "Le PDG Patrick Pouyanné a chiffré à « 500 millions d'euros ou plus » d'ici la fin de l'année le coût du plafonnement des prix dans les stations du groupe (1,99 € le litre de sans-plomb, 2,25 € le gazole), un « choix délibéré » selon lui.",
+          "src": {
+            "t": "Public Sénat – Plafonnement des prix à la pompe : la facture s'élève environ « à 500 millions d'euros » pour TotalEnergies",
+            "u": "https://www.publicsenat.fr/actualites/economie/exclu-plafonnement-des-prix-a-la-pompe-la-facture-seleve-environ-a-500-millions-deuros-pour-totalenergies-revele-patrick-pouyanne-sur-public-senat"
+          }
+        },
+        {
+          "titre": "Alexandre Ouizille pressenti pour diriger la campagne de Raphaël Glucksmann",
+          "texte": "Selon Public Sénat, le sénateur PS de l'Oise, déjà directeur de la communication de Raphaël Glucksmann pendant la primaire remportée le 11 octobre, doit devenir son directeur de campagne pour la présidentielle ; l'annonce est attendue dans les prochains jours.",
+          "src": {
+            "t": "Public Sénat – Le sénateur PS Alexandre Ouizille, bientôt directeur de campagne de Raphaël Glucksmann",
+            "u": "https://www.publicsenat.fr/actualites/politique/info-public-senat-le-senateur-ps-alexandre-ouizille-bientot-directeur-de-campagne-de-raphael-glucksmann-pour-la-presidentielle"
+          }
+        }
+      ],
+      "agenda": [
+        {
+          "d": "Mar. 27 oct.",
+          "t": "Reprise de la partie recettes du budget 2027 à l'Assemblée ; le gouvernement reprend contact avec les élus corses ; texte « casseurs-payeurs » au Sénat"
+        },
+        {
+          "d": "Mer. 28 oct.",
+          "t": "Débat sur l'avenir de Parcoursup à l'Assemblée à 17 h ; questions au gouvernement au Sénat"
+        },
+        {
+          "d": "Jeu. 29 oct.",
+          "t": "Journée réservée aux propositions de loi de La France insoumise à l'Assemblée ; réunion sur le bâti scolaire avec les élus locaux ; fin au plus tard de la garde à vue du suspect de Trappes"
+        },
+        {
+          "d": "Sam. 31 oct.",
+          "t": "Nouvelle journée de mobilisation lycéenne et sociale"
+        },
+        {
+          "d": "Mar. 3 nov.",
+          "t": "Vote solennel sur la partie recettes du budget à l'Assemblée et sur la protection de l'enfance au Sénat"
+        },
+        {
+          "d": "Jeu. 5 nov.",
+          "t": "Journée de grève et de manifestations interprofessionnelle"
+        },
+        {
+          "d": "Lun. 9 nov.",
+          "t": "Début de l'examen du budget de la Sécu au Sénat"
+        }
+      ]
+    },
     {
       "date": "2026-10-26",
       "label": "Lundi 26 octobre 2026",
@@ -2964,308 +3453,6 @@
         {
           "d": "Jeu. 5 nov.",
           "t": "Journée de mobilisation intersyndicale"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-20",
-      "label": "Mardi 20 octobre 2026",
-      "maj": "Mise à jour à 6 h 27",
-      "intro": "Trois jours après la mobilisation du 17 octobre, l'exécutif tente de reprendre la main. Au menu : les premiers couvre-feux à Paris, Lyon, Lille et Nice, et l'aveu d'une « perte de contrôle » par le ministre de l'Intérieur ; la commission d'enquête que Yaël Braun-Pivet propose ce mardi aux présidents de groupe ; un budget de l'État mis entre parenthèses, tandis que celui de la Sécurité sociale arrive dans l'hémicycle ; et les syndicats attendus mercredi à Matignon, alors qu'un « acte II » est annoncé samedi.",
-      "stories": [
-        {
-          "id": "2026-10-20-couvre-feux-failles",
-          "rubrique": "Sécurité",
-          "titre": "Premiers couvre-feux et « perte de contrôle » reconnue : l'exécutif tente de reprendre la main",
-          "chapo": "Des couvre-feux partiels sont entrés en vigueur lundi soir dans plusieurs grandes villes. Le ministre de l'Intérieur, dont la démission a été refusée, admet des failles dans la gestion de la journée du 17 octobre.",
-          "faits": [
-            "Lundi, à l'issue d'une cellule interministérielle de crise, le Premier ministre Sébastien Lecornu a demandé aux préfets des couvre-feux « localisés » et « partiels » ; il écarte pour l'heure l'état d'urgence, qu'il se dit prêt à décréter « si c'est nécessaire ».",
-            "À Paris, la préfecture de police interdit toute présence de 23 h à 6 h autour de la place de la République et des Halles ; à Lyon, une partie de la Presqu'île est sous couvre-feu de 20 h à 6 h ; dans le Nord (Lille, Douai, Denain, Wattignies) et à Nice, les couvre-feux visent les mineurs, à Nice jusqu'au 26 octobre.",
-            "Sur France Inter, Laurent Nuñez a reconnu un « manque d'anticipation » et une « perte de contrôle » dans certaines villes, avec environ 60 000 policiers et gendarmes mobilisés samedi ; il avait présenté sa démission dimanche, refusée par Emmanuel Macron.",
-            "Selon le ministre de la Justice Gérald Darmanin, 2 331 gardes à vue ont eu lieu pendant le week-end ; le ministre du Commerce Serge Papin compte « au moins 3 000 » commerces touchés.",
-            "Le gouvernement a demandé à Vinted, Amazon, eBay, Leboncoin, Meta et TikTok de retirer les annonces de revente d'objets pillés ; un fonds exceptionnel doit financer la reconstruction des équipements publics détruits."
-          ],
-          "enjeu": "L'exécutif doit montrer qu'il peut rétablir l'ordre sans recourir à l'état d'urgence, que réclame une partie de la droite. La reconnaissance de failles par le ministre de l'Intérieur ouvre aussi le débat sur la doctrine de maintien de l'ordre, à six mois de la présidentielle.",
-          "positions": {
-            "gr": {
-              "type": "declare",
-              "texte": "Jean-Luc Mélenchon (LFI) estime que le gouvernement est seul responsable des violences, qu'il juge prévisibles, met en cause Laurent Nuñez et qualifie de « crime » l'incendie de la mairie de Limoges. Le sénateur Fabien Gay (PCF) reproche à l'État d'avoir réprimé des manifestants pacifiques tout en laissant faire les pilleurs.",
-              "src": "LCP, 18 octobre 2026 ; Public Sénat, 19 octobre 2026"
-            },
-            "g": {
-              "type": "declare",
-              "texte": "Marine Tondelier (Les Écologistes) juge les couvre-feux « lourds de conséquences » et demande au gouvernement de rendre compte de ses décisions opérationnelles. Le PS veut « refonder une doctrine du maintien de l'ordre respectueuse des libertés fondamentales » et renoncer aux équipements mutilants.",
-              "src": "AFP (Boursorama), 19 octobre 2026 ; LCP, 19 octobre 2026"
-            },
-            "c": {
-              "type": "declare",
-              "texte": "Sébastien Lecornu dit sa détermination « totale » à rétablir l'ordre, juge les couvre-feux plus adaptés que l'état d'urgence et accuse l'ultragauche de vouloir semer le désordre jusqu'à la présidentielle. Gabriel Attal (Renaissance) estime que la réponse du gouvernement n'est « pas à la hauteur de la situation ».",
-              "src": "AFP (Boursorama et 20 minutes), 19 octobre 2026"
-            },
-            "d": {
-              "type": "declare",
-              "texte": "Bruno Retailleau (LR), qui avait réclamé dimanche l'état d'urgence, dénonce une « convergence » entre extrême gauche et « racailles » et propose d'abaisser à quinze ans la majorité pénale pour les crimes et délits les plus graves.",
-              "src": "Public Sénat, 19 octobre 2026 ; AFP (Boursorama), 19 octobre 2026"
-            },
-            "dn": {
-              "type": "declare",
-              "texte": "Jordan Bardella (RN) dénonce une « faillite sécuritaire et politique sans précédent », promet de « rétablir la sécurité et l'ordre par tous les moyens légaux » et accuse LFI d'une « responsabilité morale ». Éric Ciotti (UDR), maire de Nice, a instauré avec le préfet un couvre-feu pour les mineurs.",
-              "src": "Sud Radio, 19 octobre 2026 ; AFP (Boursorama), 19 octobre 2026"
-            }
-          },
-          "sources": [
-            {
-              "t": "AFP (Boursorama) : violences du week-end, le gouvernement reconnaît des failles, Lecornu annonce des couvre-feux localisés",
-              "u": "https://www.boursorama.com/actualite-economique/actualites-amp/violences-du-week-end-le-gouvernement-reconnait-des-failles-lecornu-annonce-des-couvre-feux-localises-36fd018af015dce033a167660a152dd6"
-            },
-            {
-              "t": "Yahoo Actualités : un couvre-feu dans certains quartiers de Paris à partir de 23 h",
-              "u": "https://fr.news.yahoo.com/sport/violences-17-octobre-couvre-feu-174149162.html"
-            },
-            {
-              "t": "Public Sénat : pourquoi l'état d'urgence est écarté par le gouvernement",
-              "u": "https://www.publicsenat.fr/actualites/politique/violences-du-17-octobre-pourquoi-letat-durgence-est-ecarte-par-le-gouvernement"
-            },
-            {
-              "t": "LCP : qui propose quoi sur le maintien de l'ordre ?",
-              "u": "https://lcp.fr/actualites/violences-du-17-octobre-qui-propose-quoi-sur-le-maintien-de-l-ordre-444073"
-            },
-            {
-              "t": "Nice Premium : couvre-feu pour les mineurs à Nice jusqu'au 26 octobre",
-              "u": "https://www.nicepremium.fr/actualites/violences-urbaines-le-prefet-des-alpes-maritimes-et-eric-ciotti-instaurent-un-couvre-feu-a-nice-jusquau-26-octobre/"
-            }
-          ]
-        },
-        {
-          "id": "2026-10-20-commission-enquete",
-          "rubrique": "Institutions",
-          "titre": "Violences du 17 octobre : le Parlement veut des comptes, une commission d'enquête proposée ce mardi",
-          "chapo": "Yaël Braun-Pivet soumet aujourd'hui aux présidents de groupe la création d'une commission d'enquête. Au Sénat, la gauche réclame la même chose et un débat dans l'hémicycle.",
-          "faits": [
-            "La présidente de l'Assemblée, Yaël Braun-Pivet, propose ce mardi en conférence des présidents une commission d'enquête sur les débordements, le mode opératoire des « groupuscules violents » et la stratégie de maintien de l'ordre ; sa création reste à acter.",
-            "Elle porterait sur le degré d'anticipation, le dimensionnement et la doctrine du maintien de l'ordre, ainsi que sur d'« éventuels dysfonctionnements ».",
-            "Au Sénat, socialistes, communistes et écologistes demandent une commission d'enquête ; Patrick Kanner (PS) réclame aussi un débat au titre de l'article 50-1 de la Constitution, qui peut donner lieu à un vote sans engager la responsabilité du gouvernement.",
-            "La mission d'information du Sénat sur le maintien de l'ordre présente son rapport mercredi 21 octobre ; les sénateurs LR prévoient d'entendre des représentants des forces de l'ordre la semaine prochaine."
-          ],
-          "enjeu": "Le contrôle parlementaire doit établir ce qui a failli le 17 octobre : renseignement, effectifs ou doctrine. Le périmètre retenu, plutôt tourné vers les casseurs ou vers la conduite du maintien de l'ordre, sera lui-même un sujet de désaccord entre groupes.",
-          "positions": {
-            "gr": {
-              "type": "declare",
-              "texte": "Les sénateurs communistes réclament une commission d'enquête. Pour Fabien Gay (PCF), Emmanuel Macron « porte une lourde responsabilité » ; il s'oppose à la proposition de loi « casseurs-payeurs », qui selon lui restreindrait fortement la liberté de manifester.",
-              "src": "Public Sénat, 19 octobre 2026"
-            },
-            "g": {
-              "type": "declare",
-              "texte": "Patrick Kanner (PS) demande une commission d'enquête et un débat 50-1, en prévenant que « la réponse à une crise sociale ne peut se limiter à une réponse sécuritaire ». Mélanie Vogel (Les Écologistes) interroge la responsabilité politique du ministère de l'Intérieur et déplore un manque d'anticipation.",
-              "src": "Public Sénat, 19 octobre 2026"
-            },
-            "c": {
-              "type": "declare",
-              "texte": "Yaël Braun-Pivet (Renaissance) veut faire « toute la lumière » sur les scènes de chaos et de pillages pour éviter qu'elles se reproduisent. Le sénateur Franck Dhersin (Horizons) se montre réservé face au recours systématique à ce type de procédure.",
-              "src": "LCP, 18 octobre 2026 ; Public Sénat, 19 octobre 2026"
-            },
-            "d": {
-              "type": "declare",
-              "texte": "Mathieu Darnaud, président des sénateurs LR, déclare : « Nous attendons enfin des actes et non des paroles ». Son groupe entend auditionner des représentants des forces de l'ordre pour tirer les enseignements de la journée.",
-              "src": "Public Sénat, 19 octobre 2026"
-            },
-            "dn": {
-              "type": "declare",
-              "texte": "Edwige Diaz, présidente du groupe RN au Sénat, estime qu'« on n'a pas besoin d'une commission d'enquête ». Marine Le Pen (RN) reproche au gouvernement de déplorer les événements « sans parvenir à les prévenir, à les contrôler ou même à les gérer ».",
-              "src": "Public Sénat, 19 octobre 2026 ; LCP, 18 octobre 2026"
-            }
-          },
-          "sources": [
-            {
-              "t": "Public Sénat : commission d'enquête, débat « 50-1 », auditions… le Parlement exige des explications",
-              "u": "https://www.publicsenat.fr/actualites/parlementaire/violences-urbaines-commission-denquete-debat-50-1-auditions-le-parlement-exige-des-explications-apres-la-journee-chaotique-du-17-octobre"
-            },
-            {
-              "t": "LCP : Yaël Braun-Pivet veut une commission d'enquête sur les débordements et le maintien de l'ordre",
-              "u": "https://lcp.fr/actualites/violences-du-17-octobre-yael-braun-pivet-veut-une-commission-d-enquete-sur-les"
-            },
-            {
-              "t": "LCP : Marine Le Pen et Édouard Philippe accusent LFI, Jean-Luc Mélenchon charge le gouvernement",
-              "u": "https://lcp.fr/actualites/violences-du-17-octobre-marine-le-pen-et-edouard-philippe-accusent-lfi-jean-luc"
-            },
-            {
-              "t": "Public Sénat : Fabien Gay, « Les pillards sont l'ennemi du mouvement social »",
-              "u": "https://www.publicsenat.fr/emission/bonjour-chez-vous/fabien-gay-les-pillards-sont-lennemi-du-mouvement-social-e0"
-            }
-          ]
-        },
-        {
-          "id": "2026-10-20-budget-pause-secu",
-          "rubrique": "Budget",
-          "titre": "Budget : le vote des recettes reporté, la Sécurité sociale arrive dans l'hémicycle",
-          "chapo": "Faute d'avoir achevé l'examen des recettes, l'Assemblée met le budget de l'État en pause. Elle ouvre cet après-midi le débat sur le budget de la Sécurité sociale, dont la mesure phare est la désindexation de la plupart des retraites.",
-          "faits": [
-            "Le vote solennel sur la partie recettes du budget de l'État, prévu ce mardi, est reporté : un peu plus de 2 600 amendements restaient à examiner quand les débats ont été suspendus lundi à minuit ; l'examen doit reprendre le 27 octobre.",
-            "Le ministre des Comptes publics David Amiel estime que la première semaine de débats a dégradé le déficit de 10 milliards d'euros ; le gouvernement vise 5 % du PIB en 2027, contre 5,4 % en 2026.",
-            "Le budget de la Sécurité sociale, rejeté en commission, est examiné en séance à partir de cet après-midi dans sa version initiale ; il vise un déficit de 12,7 milliards d'euros en 2027, contre 21,8 milliards en 2026.",
-            "Le texte ne revaloriserait selon l'inflation que les pensions jusqu'à environ 1 260 euros, soit un tiers des retraités ; il gèle aussi les allocations familiales (1,1 milliard d'euros attendus selon LCP).",
-            "L'Assemblée a jusqu'au 27 octobre pour se prononcer sur le budget de la Sécurité sociale et jusqu'au 17 novembre sur celui de l'État ; au-delà des délais constitutionnels, le gouvernement pourrait recourir aux ordonnances."
-          ],
-          "enjeu": "Sans majorité, le gouvernement risque un rejet des recettes, qui enverrait le texte au Sénat, et un détricotage du budget de la Sécu. L'usage du 49.3, au risque d'une censure, ou des ordonnances revient dans le débat.",
-          "positions": {
-            "gr": {
-              "type": "declare",
-              "texte": "Hadrien Clouet (LFI) conteste le seuil de revalorisation des pensions : « On ne vit pas bien avec 1 265 euros », rappelant que le seuil de pauvreté est de 1 337 euros. LFI a voté en commission la suppression de la désindexation des retraites.",
-              "src": "LCP, 12 et 16 octobre 2026"
-            },
-            "g": {
-              "type": "declare",
-              "texte": "Sandrine Runel (PS) annonce l'opposition de son groupe à « toute forme de gel » des pensions, estimant que « l'argent est ailleurs ». Estelle Mercier (PS) reproche au gouvernement un « tabou absolu » sur la contribution des plus riches.",
-              "src": "LCP, 16 septembre 2026 ; NosParlementaires, 13 octobre 2026"
-            },
-            "c": {
-              "type": "declare",
-              "texte": "David Amiel, ministre des Comptes publics, alerte sur une dégradation du déficit de 10 milliards d'euros après une semaine de débats. Paul Midy (Renaissance) défend l'idée qu'il vaut mieux un budget imparfait que pas de budget.",
-              "src": "LCP, 20 octobre 2026 ; LCP, 9 octobre 2026"
-            },
-            "d": {
-              "type": "declare",
-              "texte": "Thibault Bazin (LR), rapporteur général du budget de la Sécu, juge que la commission a « tiré à blanc » en rejetant le texte. Justine Gruet (LR) réclame « de vraies économies sur la dépense publique », jusqu'à 20 milliards d'euros supplémentaires.",
-              "src": "LCP, 16 octobre 2026 ; LCP, 12 octobre 2026"
-            },
-            "dn": {
-              "type": "declare",
-              "texte": "Jean-Philippe Tanguy (RN) décrit un budget « qui ne fait pas d'économies ». Joëlle Mélin (RN) estime que le budget de la Sécu « va faire encore payer les Français », notamment avec la taxe sur les produits sucrés.",
-              "src": "Le Courrier des stratèges, 13 octobre 2026 ; LCP, 12 octobre 2026"
-            }
-          },
-          "sources": [
-            {
-              "t": "LCP : après avoir commencé à détricoter le projet, l'Assemblée passe au budget de la Sécu",
-              "u": "https://lcp.fr/actualites/budget-de-l-etat-apres-avoir-commence-a-detricoter-le-projet-du-gouvernement-l-assemblee"
-            },
-            {
-              "t": "LCP : le vote prévu mardi va être reporté",
-              "u": "https://lcp.fr/actualites/budget-2027-le-marathon-de-la-partie-recettes-loin-d-etre-termine-le-vote-prevu-demain-a"
-            },
-            {
-              "t": "LCP : budget de la Sécu rejeté en commission, examiné à partir de mardi dans l'hémicycle",
-              "u": "https://lcp.fr/actualites/budget-de-la-secu-rejete-en-commission-par-les-deputes-le-texte-sera-examine-a-partir-de"
-            },
-            {
-              "t": "LCP : les cinq points qui concentrent les tensions sur le budget de la Sécu",
-              "u": "https://lcp.fr/actualites/coup-d-envoi-du-budget-de-la-secu-en-commission-les-cinq-points-qui-concentrent-les"
-            },
-            {
-              "t": "MoneyVox : ce que change le projet de budget 2027 de la Sécu",
-              "u": "https://www.moneyvox.fr/retraite/actualites/110888/pension-de-retraite-desindexee-aides-caf-rabotees-ce-que-change-le-projet-de-budget-2027-de-la-secu"
-            }
-          ]
-        },
-        {
-          "id": "2026-10-20-syndicats-matignon",
-          "rubrique": "Social",
-          "titre": "Syndicats attendus mercredi à Matignon, un « acte II » annoncé samedi",
-          "chapo": "Chargé par Emmanuel Macron de réunir partis, syndicats et élus, Sébastien Lecornu reçoit les organisations syndicales mercredi matin. Les initiateurs du 17 octobre appellent déjà à de nouvelles journées.",
-          "faits": [
-            "Sébastien Lecornu reçoit les syndicats mercredi matin à Matignon ; Emmanuel Macron lui a demandé dimanche de réunir partis, syndicats, collectivités et parlementaires.",
-            "Jordan Bardella a fait savoir que ni lui ni Marine Le Pen ne participeraient à la réunion des chefs de parti ; le RN y sera « très certainement » représenté par un vice-président.",
-            "La coordination à l'origine du 17 octobre annonce un « acte II » le samedi 24 octobre, puis des mobilisations le 31 octobre et le 5 novembre.",
-            "La CGT condamne la « stratégie du chaos » qu'elle prête au gouvernement et appelle à poursuivre une mobilisation pacifique ; le président du Medef, Patrick Martin, juge « grand temps que le pays se ressaisisse »."
-          ],
-          "enjeu": "Le gouvernement cherche à rouvrir le dialogue social sur la vie chère et la mobilisation lycéenne sans paraître céder sous la pression. Les syndicats, eux, veulent des annonces concrètes, alors que de nouvelles journées sont déjà annoncées.",
-          "positions": {
-            "gr": {
-              "type": "declare",
-              "texte": "Fabien Gay (PCF) juge qu'Emmanuel Macron a pris la parole « pour ne rien dire » et distingue les manifestants pacifiques des pillards. Jean-Luc Mélenchon (LFI) demande l'indemnisation immédiate des commerçants pillés et une réponse à la colère sociale.",
-              "src": "Public Sénat, 19 octobre 2026 ; LCP, 18 octobre 2026"
-            },
-            "g": {
-              "type": "declare",
-              "texte": "Le maire de Paris Emmanuel Grégoire (PS) relie les violences au « pourrissement » du mouvement social, qu'il impute au gouvernement. Raphaël Glucksmann (Place publique) craint que Marine Le Pen soit « la bénéficiaire du chaos ».",
-              "src": "20 minutes (AFP), 19 octobre 2026 ; Sud Radio, 19 octobre 2026"
-            },
-            "c": {
-              "type": "declare",
-              "texte": "La porte-parole du gouvernement Maud Brégeon estime que les Français « sauront faire la part des choses ». Édouard Philippe (Horizons) regrette l'absence de décisions concrètes du président et juge que « notre pays a besoin d'être commandé ».",
-              "src": "Sud Radio, 19 octobre 2026 ; 20 minutes (AFP), 19 octobre 2026"
-            },
-            "d": {
-              "type": "declare",
-              "texte": "Face à la crise lycéenne, Bruno Retailleau (LR) plaide pour « une sélection à l'université ». Il défend une nouvelle doctrine qui protège les manifestants pacifiques tout en assumant « la répression ferme des violences ».",
-              "src": "Public Sénat, 14 octobre 2026 ; LCP, 19 octobre 2026"
-            },
-            "dn": {
-              "type": "declare",
-              "texte": "Jordan Bardella (RN), qui boycotte la réunion des chefs de parti avec Marine Le Pen, appelle au vote contestataire : « le meilleur moyen de protester, c'est de voter ».",
-              "src": "Sud Radio, 19 octobre 2026"
-            }
-          },
-          "sources": [
-            {
-              "t": "20 minutes (AFP) : les syndicats conviés à Matignon mercredi matin",
-              "u": "https://www.20min.ch/fr/story/crises-en-france-les-syndicats-convies-a-matignon-mercredi-matin-103644663"
-            },
-            {
-              "t": "Maritima : des couvre-feux et un acte II annoncé par les gilets jaunes",
-              "u": "https://maritima.fr/actualites/faits-divers/marseille/16233/direct-des-couvres-feu-pour-ce-soir-et-un-acte-ii-annonce-par-les-gilets-jaunes"
-            },
-            {
-              "t": "Sud Radio : face aux violences, le RN cherche à capitaliser sur l'image du parti de l'ordre",
-              "u": "https://www.sudradio.fr/societe/presidentielle-face-aux-violences-le-rn-cherche-a-capitaliser-sur-limage-du-parti-de-lordre"
-            },
-            {
-              "t": "Public Sénat : crise lycéenne, Bruno Retailleau veut « une sélection à l'université »",
-              "u": "https://www.publicsenat.fr/actualites/politique/crise-lyceenne-bruno-retailleau-veut-une-selection-a-luniversite"
-            }
-          ]
-        }
-      ],
-      "breves": [
-        {
-          "titre": "Macron poursuit sa tournée dans le Golfe",
-          "texte": "Arrivé lundi au Koweït, Emmanuel Macron doit se rendre aux Émirats, à Bahreïn puis au Qatar d'ici mercredi pour obtenir des engagements sur des volumes de diesel et de pétrole. Un expert de l'Ifri, Francis Perrin, n'attend pas d'effet immédiat sur les prix. La France consomme environ 600 000 barils de diesel par jour, dont près de la moitié importée.",
-          "src": {
-            "t": "Connaissance des Énergies (AFP) : Macron cherche dans le Golfe du pétrole et du diesel supplémentaires",
-            "u": "https://www.connaissancedesenergies.org/afp/macron-en-tournee-dans-le-golfe-apres-un-week-end-de-chaos-en-france-261019"
-          }
-        },
-        {
-          "titre": "Commerces pillés : les premières aides",
-          "texte": "Le chômage partiel des commerces sinistrés est pris en charge à 100 % à partir de ce mardi, et un fonds spécifique doit couvrir leurs besoins de trésorerie. Les représentants du commerce évoquent des « centaines de millions d'euros » de dégâts ; l'U2P n'a vu « rien de concret » à l'issue de la réunion avec le ministre.",
-          "src": {
-            "t": "Public Sénat : « au moins 3 000 » commerces touchés",
-            "u": "https://www.publicsenat.fr/actualites/economie/pillages-au-moins-3-000-commerces-touchees-pour-des-centaines-de-millions-deuros-de-degats"
-          }
-        },
-        {
-          "titre": "Réseaux sociaux : faut-il couper ?",
-          "texte": "Gabriel Attal (Renaissance) a relancé l'idée d'un blocage « temporaire, ciblé » des réseaux sociaux dans les territoires touchés. Le sénateur Mickaël Vallet (PS) ne l'exclut pas face à des appels explicites à la violence, avec un cadre juridique strict ; Matignon annonce 200 enquêteurs pour exploiter les images diffusées en ligne.",
-          "src": {
-            "t": "Public Sénat : après les pillages, faut-il couper les réseaux sociaux ?",
-            "u": "https://www.publicsenat.fr/actualites/politique/apres-les-pillages-du-17-octobre-faut-il-couper-les-reseaux-sociaux"
-          }
-        }
-      ],
-      "agenda": [
-        {
-          "d": "Mar. 20 oct.",
-          "t": "Conférence des présidents à l'Assemblée : proposition d'une commission d'enquête ; début de l'examen du budget de la Sécurité sociale en séance"
-        },
-        {
-          "d": "Mar. 20 – mer. 21 oct.",
-          "t": "Emmanuel Macron aux Émirats, à Bahreïn et au Qatar"
-        },
-        {
-          "d": "Mer. 21 oct.",
-          "t": "Syndicats reçus à Matignon ; rapport de la mission d'information du Sénat sur le maintien de l'ordre"
-        },
-        {
-          "d": "Sam. 24 oct.",
-          "t": "« Acte II » annoncé par la coordination du 17 octobre"
-        },
-        {
-          "d": "Mar. 27 oct.",
-          "t": "Date limite pour le vote du budget de la Sécurité sociale à l'Assemblée ; reprise du budget de l'État ; « casseurs-payeurs » au Sénat"
-        },
-        {
-          "d": "Jeu. 5 nov.",
-          "t": "Nouvelle journée de mobilisation annoncée"
         }
       ]
     }
