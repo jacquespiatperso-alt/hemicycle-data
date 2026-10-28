@@ -1,6 +1,506 @@
 {
-  "updated": "2026-10-27T06:28:00+01:00",
+  "updated": "2026-10-28T06:29:46+01:00",
   "editions": [
+    {
+      "date": "2026-10-28",
+      "label": "Mercredi 28 octobre 2026",
+      "maj": "Mise à jour à 6 h 29",
+      "intro": "Quatre jours après l'attentat de Trappes, l'Assemblée a rendu hommage à la victime avant une séance houleuse, et Sébastien Lecornu promet d'accélérer le projet de loi contre le racisme. Le Sénat a adopté le cœur du texte « casseurs-payeurs », tandis que les députés ont voté de justesse, contre l'avis du gouvernement, une taxation des multinationales sur leurs bénéfices réalisés en France. Parcoursup est débattu ce mercredi à l'Assemblée, sur fond de mobilisation maintenue. À l'international, les législatives israéliennes ne dégagent pas de majorité claire.",
+      "stories": [
+        {
+          "id": "2026-10-28-trappes-assemblee",
+          "rubrique": "Société",
+          "titre": "Attentat de Trappes : minute de silence et vive passe d'armes à l'Assemblée, Lecornu promet d'inscrire vite le projet de loi contre le racisme",
+          "chapo": "Quatre jours après les tirs qui ont tué Pengo Bossio Wangi, les députés ont rendu hommage à la victime avant une séance de questions au gouvernement très tendue. La gauche a mis en cause le climat politique et médiatique, le Premier ministre a dénoncé une « récupération politique ».",
+          "faits": [
+            "Mardi 27 octobre, l'Assemblée nationale a observé une minute de silence en hommage à Pengo Bossio Wangi, 26 ans, tué le 23 octobre lors des tirs à Trappes et La Verrière (Yvelines), en présence du maire de Trappes, Ali Rabeh, et de la famille de la victime.",
+            "Lors des questions au gouvernement, Sébastien Lecornu a parlé d'« un attentat terroriste raciste » et annoncé que le projet de loi de cohésion républicaine contre le racisme serait inscrit « rapidement » à l'ordre du jour ; le ministre de l'Intérieur, Laurent Nuñez, a indiqué que les services de renseignement surveillent les mouvements d'ultradroite.",
+            "L'intervention de Sébastien Chenu, nouveau président du groupe RN, a provoqué le départ de plusieurs députés de gauche de l'hémicycle.",
+            "Le RN a annoncé poursuivre Le Monde en diffamation : le quotidien avait évoqué des tracts du parti dans le véhicule du suspect, ce que le parquet national antiterroriste a démenti lundi (« Aucun tract d'un parti politique n'a été découvert »).",
+            "L'enquête est ouverte pour assassinat et tentatives d'assassinat en relation avec une entreprise terroriste, avec la circonstance aggravante du mobile raciste ; la garde à vue du suspect, Kévin T., peut durer jusqu'à jeudi 0 h 36."
+          ],
+          "enjeu": "L'exécutif cherche à afficher une réponse ferme au racisme tout en appelant à l'unité, alors que la gauche lie l'attentat à la banalisation de certains discours et que le RN conteste toute mise en cause. Le calendrier du projet de loi annoncé et les suites judiciaires, attendues d'ici jeudi, seront suivis de près à six mois de la présidentielle.",
+          "positions": {
+            "eg": {
+              "type": "declare",
+              "texte": "Le NPA dénonce un attentat raciste, met en cause des responsables d'extrême droite, une partie du gouvernement et certains médias, et appelle à un front unitaire contre le racisme ainsi qu'à rejoindre les mobilisations des 31 octobre et 5 novembre.",
+              "src": "NPA, communiqué du 25 octobre 2026"
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Nadège Abomangoli (LFI) reproche aux médias d'offrir aux discours de haine une « libre antenne sans contradiction » ; Soumya Bourouaha (PCF) met en cause un climat qui fabrique « l'ennemi de l'intérieur ».",
+              "src": "LCP, 27 octobre 2026"
+            },
+            "soc": {
+              "type": "declare",
+              "texte": "Dieynaba Diop (PS) alerte, lors des questions au gouvernement, sur la diffusion du racisme à la télévision et sur ses effets dans la société.",
+              "src": "LCP, 27 octobre 2026"
+            },
+            "eco": {
+              "type": "declare",
+              "texte": "Cyrielle Chatelain (Les Écologistes) accuse les dirigeants du RN de continuer à présenter Trappes comme un « foyer djihadiste », réclame un hommage national et critique les propos passés d'Aurore Bergé sur le « grand remplacement ».",
+              "src": "LCP, 27 octobre 2026"
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "Sébastien Lecornu (Renaissance) qualifie les faits d'« attentat terroriste raciste », promet d'inscrire rapidement le projet de loi contre le racisme et reproche à LFI une récupération qui, selon lui, fait le jeu de l'extrême droite.",
+              "src": "LCP, 27 octobre 2026"
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant appelle habituellement, après un attentat, à l'unité nationale et au refus de toute instrumentalisation, et défend le travail des forces de l'ordre et de la justice antiterroriste.",
+              "src": ""
+            },
+            "hor": {
+              "type": "declare",
+              "texte": "Édouard Philippe (Horizons) a réagi au soir de l'attaque en écrivant que « l'horreur a frappé », sans se prononcer à ce stade sur le mobile.",
+              "src": "L'Express, 23 octobre 2026"
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Bruno Retailleau (LR) a dénoncé au soir de l'attaque une « violence terrifiante », sans évoquer à ce stade un mobile raciste.",
+              "src": "L'Express, 23 octobre 2026"
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Sébastien Chenu (RN) condamne une « épouvantable tuerie terroriste », dénonce une « récupération politicarde » et des informations erronées ; le parti poursuit Le Monde en diffamation.",
+              "src": "LCP, 27 octobre 2026"
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant condamne habituellement les violences et rejette toute mise en cause de ses idées dans ce type de passage à l'acte, qu'il présente comme une instrumentalisation politique.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "LCP – Attentat de Trappes : la gauche interpelle le gouvernement, Lecornu dénonce une « récupération politique »",
+              "u": "https://lcp.fr/actualites/attentat-de-trappes-la-gauche-interpelle-le-gouvernement-lecornu-denonce-une"
+            },
+            {
+              "t": "LCP – Attentat de Trappes : le Rassemblement national poursuit le journal Le Monde en diffamation",
+              "u": "https://lcp.fr/actualites/attentat-de-trappes-le-rassemblement-national-poursuit-le-journal-le-monde-en"
+            },
+            {
+              "t": "Public Sénat – Attentat à Trappes : « Pour la première fois, on a eu un crime de masse raciste » estime Aurore Bergé",
+              "u": "https://www.publicsenat.fr/actualites/politique/attentat-a-trappes-pour-la-premiere-fois-on-a-eu-un-crime-de-masse-raciste-estime-aurore-berge"
+            },
+            {
+              "t": "L'Express (via Orange) – Fusillade mortelle à Trappes : les réactions de la classe politique",
+              "u": "https://actu.orange.fr/politique/fusillade-mortelle-a-trappes-acte-barbare-le-racisme-tue-les-reactions-de-la-classe-politique-l-express-via-6medias-CNT000002tmawH.html"
+            },
+            {
+              "t": "NPA – Trappes et La Verrière : le racisme tue encore une fois",
+              "u": "https://npa-lanticapitaliste.org/communique/trappes-et-la-verriere-le-racisme-tue-encore-une-fois"
+            }
+          ]
+        },
+        {
+          "id": "2026-10-28-casseurs-payeurs-senat",
+          "rubrique": "Sécurité",
+          "titre": "« Casseurs-payeurs » : le Sénat adopte la responsabilité civile solidaire des participants à une manifestation violente",
+          "chapo": "Relancé après les violences du 17 octobre, le projet de loi a franchi mardi soir sa première étape dans l'hémicycle du Luxembourg. La majorité de droite et du centre défend une réponse ferme, la gauche dénonce une atteinte au droit de manifester.",
+          "faits": [
+            "Le Sénat a entamé mardi 27 octobre l'examen du projet de loi « casseurs-payeurs » et adopté dans la soirée son article 1er, cœur du dispositif.",
+            "Le texte crée une responsabilité civile solidaire pour ceux qui ont « sciemment participé » à un groupement formé pour commettre des violences ou qui sont restés dans un rassemblement après deux sommations, même sans preuve qu'ils aient eux-mêmes causé les dégâts ; le montant est plafonné à 10 000 euros par personne, les amendements pour le porter à 20 000 ou 30 000 euros ayant été rejetés.",
+            "Les personnes présentes pour un « motif légitime », comme les observateurs ou les secouristes, sont exemptées ; un amendement du gouvernement qui limitait cette exemption aux journalistes professionnels a été rejeté.",
+            "À l'initiative des rapporteurs, la provocation directe à un attroupement armé passe d'un à trois ans de prison, et la participation à une manifestation interdite devient un délit puni de six mois et 7 500 euros d'amende.",
+            "L'article 4, qui permettrait de prélever les sommes dues sur les allocations familiales, les aides au logement ou le RSA, pourrait être débattu ce mercredi."
+          ],
+          "enjeu": "Le texte arrive en pleine mobilisation sociale, à quelques jours des manifestations du 31 octobre et du 5 novembre, ce qui renforce sa portée politique. Sa conformité à la Constitution est discutée : le ministre de l'Intérieur fait valoir l'avis favorable du Conseil d'État, une partie de la gauche le juge largement inconstitutionnel. Le projet devra ensuite être examiné par l'Assemblée nationale.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement le droit de manifester sans restriction et voit dans ce type de texte une criminalisation des mouvements sociaux et des quartiers populaires.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Fabien Gay (PCF) dénonce un « programme sécuritaire » et rappelle les « milliers » d'interpellations depuis le début du mouvement ; Mathilde Panot (LFI) y voit « une arme de répression massive contre toutes les mobilisations ».",
+              "src": "Public Sénat, 21 et 27 octobre 2026"
+            },
+            "soc": {
+              "type": "declare",
+              "texte": "Marie-Pierre de La Gontrie (PS) juge le texte porteur d'« une menace pour les libertés fondamentales de réunion, d'expression et de manifestation ».",
+              "src": "Public Sénat, 27 octobre 2026"
+            },
+            "eco": {
+              "type": "declare",
+              "texte": "Mélanie Vogel (Les Écologistes) parle d'« un signal politique désastreux en plein mouvement social » et estime que le texte « désigne des payeurs de substitution » au lieu de régler le problème des casseurs.",
+              "src": "Public Sénat, 27 octobre 2026"
+            },
+            "ren": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement un renforcement des sanctions contre les violences commises en marge des manifestations, tout en insistant sur la protection du droit de manifester pacifiquement.",
+              "src": ""
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement une réponse ferme aux violences urbaines, en veillant à la proportionnalité des sanctions et à la solidité juridique des textes.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement une ligne d'autorité sur l'ordre public et la mise à contribution financière des auteurs de dégradations.",
+              "src": ""
+            },
+            "d": {
+              "type": "declare",
+              "texte": "David Margueritte (LR), rapporteur, voit dans le texte une « réponse ferme, claire et opérationnelle » ; Gérard Larcher (LR) estime qu'en cas de non-paiement « il ne faut rien s'interdire, y compris sur les prestations sociales ».",
+              "src": "Public Sénat, 21 et 27 octobre 2026"
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Edwige Diaz (RN) défend le texte face aux objections constitutionnelles et veut aller plus loin : relèvement du plafond, exclusion du logement social des foyers dont un membre est condamné pour émeute, saisie possible de l'AAH.",
+              "src": "Public Sénat, 27 octobre 2026"
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant réclame habituellement une fermeté maximale contre les casseurs, avec des sanctions financières et pénales alourdies et l'expulsion des étrangers condamnés.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Public Sénat – Projet de loi « casseurs-payeurs » : le Sénat adopte le nouveau régime de responsabilité civile solidaire",
+              "u": "https://www.publicsenat.fr/actualites/parlementaire/projet-de-loi-casseurs-payeurs-le-senat-adopte-le-nouveau-regime-de-responsabilite-civile-solidaire-pour-les-participants-a-une-manifestation-violente"
+            },
+            {
+              "t": "Public Sénat – Loi « casseurs-payeurs » : que contient le texte examiné au Sénat ?",
+              "u": "https://www.publicsenat.fr/actualites/parlementaire/loi-casseurs-payeurs-que-contient-le-texte-examine-au-senat"
+            },
+            {
+              "t": "Public Sénat – Loi « casseurs-payeurs » : après les violences du 17 octobre, le Sénat durcit le texte",
+              "u": "https://www.publicsenat.fr/actualites/politique/loi-casseurs-payeurs-apres-les-violences-du-17-octobre-le-senat-durcit-le-texte"
+            }
+          ]
+        },
+        {
+          "id": "2026-10-28-budget-multinationales",
+          "rubrique": "Budget",
+          "titre": "Budget 2027 : contre l'avis du gouvernement, les députés votent l'imposition des multinationales sur leurs bénéfices réalisés en France",
+          "chapo": "À deux voix près, l'Assemblée a adopté dans la nuit un amendement communiste visant l'« optimisation fiscale agressive ». Le gouvernement et le rapporteur général jugent le dispositif contraire aux conventions fiscales.",
+          "faits": [
+            "Dans la nuit de mardi à mercredi, les députés ont adopté par 74 voix contre 72 un amendement de Nicolas Sansu (GDR), défendu par Emmanuel Maurel, qui vise à imposer les entreprises sur « la part des bénéfices mondiaux réellement réalisés en France » plutôt que sur les bénéfices qu'elles y déclarent.",
+            "Emmanuel Maurel a avancé le chiffre de 36 milliards d'euros qui échapperaient selon lui à l'impôt par ce biais.",
+            "Un amendement voisin de Jean-Philippe Tanguy (RN) a été rejeté par 110 voix contre 59 ; celui d'Éric Coquerel (LFI) n'a pas été adopté, faute de majorité, à 72 voix contre 72.",
+            "Le rapporteur général Philippe Juvin (LR) et le ministre de l'Économie Roland Lescure s'y sont opposés, estimant que la France ne peut imposer que les entreprises établies sur son sol, sauf stipulation des conventions fiscales.",
+            "L'examen de la partie recettes du projet de loi de finances se poursuit ; le vote solennel est prévu le 3 novembre."
+          ],
+          "enjeu": "Le vote illustre la fragilité de la majorité dans l'hémicycle, mais la mesure a peu de chances de survivre : la partie recettes risque d'être rejetée, le Sénat doit encore se prononcer, et un recours au 49.3 ou aux ordonnances reprendrait le texte du gouvernement. La présidente de l'Assemblée, Yaël Braun-Pivet, a d'ailleurs appelé l'exécutif à utiliser le 49.3 « dans les prochains jours ».",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement la taxation des profits des grands groupes et dénonce l'évasion fiscale, qu'il présente comme un transfert de richesses au détriment des salariés.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Nicolas Sansu (PCF), auteur de l'amendement adopté, et Emmanuel Maurel (GDR) veulent imposer les bénéfices réellement réalisés en France ; Éric Coquerel (LFI) défendait un dispositif proche, écarté à égalité de voix.",
+              "src": "LCP, 27 octobre 2026"
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement les mesures contre l'optimisation fiscale des multinationales et une imposition minimale effective des grands groupes.",
+              "src": ""
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement une fiscalité plus juste sur les grandes entreprises et les plus hauts patrimoines, et la lutte contre les transferts artificiels de bénéfices.",
+              "src": ""
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "Roland Lescure (Renaissance), ministre de l'Économie, juge l'idée « très mauvaise », estime que ces amendements traitent les multinationales en délinquantes et préfère renégocier les conventions fiscales.",
+              "src": "LCP, 27 octobre 2026"
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant se dit habituellement favorable à la lutte contre l'optimisation fiscale, mais privilégie une action coordonnée au niveau européen et international plutôt que des mesures nationales isolées.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant met habituellement en garde contre les hausses d'impôts sur les entreprises et leurs effets sur l'attractivité, et donne la priorité à la baisse des dépenses publiques.",
+              "src": ""
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Philippe Juvin (LR), rapporteur général, s'y oppose : selon lui, le droit fiscal et les traités ne permettent d'imposer que les entreprises situées en France, sauf si les conventions fiscales le prévoient.",
+              "src": "LCP, 27 octobre 2026"
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Jean-Philippe Tanguy (RN) défendait son propre amendement contre l'optimisation fiscale des multinationales, rejeté par 110 voix contre 59.",
+              "src": "LCP, 27 octobre 2026"
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement la baisse des impôts et des charges des entreprises françaises, tout en dénonçant la concurrence fiscale jugée déloyale de grands groupes étrangers.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "LCP – Budget 2027 : l'Assemblée vote un dispositif pour contrer « l'optimisation fiscale agressive » des multinationales",
+              "u": "https://lcp.fr/actualites/budget-2027-l-assemblee-vote-un-dispositif-pour-contrer-l-optimisation-fiscale-agressive"
+            },
+            {
+              "t": "LCP – Présidentielle : Yaël Braun-Pivet plaide pour un « candidat unique » du centre et de la droite",
+              "u": "https://lcp.fr/actualites/presidentielle-yael-braun-pivet-plaide-pour-un-candidat-unique-du-centre-et-de-la-droite"
+            },
+            {
+              "t": "NosParlementaires – Date du vote du budget 2027 : le 3 novembre",
+              "u": "https://nosparlementaires.fr/actualites/budget-2027-calendrier-assemblee-cinq-semaines"
+            }
+          ]
+        },
+        {
+          "id": "2026-10-28-parcoursup-debat",
+          "rubrique": "Éducation",
+          "titre": "Parcoursup : débat sans vote à l'Assemblée ce mercredi, les annonces chiffrées, la mobilisation maintenue",
+          "chapo": "Deux jours après les mesures présentées aux lycéens et aux étudiants, les députés débattent ce mercredi de l'avenir de l'orientation vers le supérieur. Le coût des annonces se précise, et les organisations de jeunesse maintiennent leur appel à manifester samedi.",
+          "faits": [
+            "Les députés débattent ce mercredi à 17 h de l'avenir de l'orientation vers l'enseignement supérieur ; ce débat n'est pas suivi d'un vote, comme le réclamait La France insoumise.",
+            "Selon le chiffrage de Public Sénat, les annonces représentent environ 350 millions d'euros en 2027, dont près de 100 millions pour l'annulation des 836 suppressions de postes et les créations d'emplois, 12 millions pour 300 postes d'infirmiers et de psychologues et 37 millions pour l'indexation des bourses, plus un milliard d'euros de prêts bonifiés aux régions pour le bâti scolaire.",
+            "Le ministre des Comptes publics, David Amiel, a indiqué que ces mesures devraient être compensées par des économies ailleurs ; l'association des régions juge les prêts « très en deçà » de ses attentes.",
+            "La Fage, l'Union étudiante, l'Unef et l'Union syndicale lycéenne jugent les annonces insuffisantes, réclament dix mesures chiffrées à 10 milliards d'euros et appellent à manifester samedi 31 octobre puis à rejoindre la grève du 5 novembre.",
+            "L'ancien ministre Jean-Michel Blanquer a défendu Parcoursup, auquel il attribue une baisse de l'échec en première année d'environ 60 % à près de 50 %."
+          ],
+          "enjeu": "Le gouvernement espère que le débat et le chiffrage de ses mesures apaiseront la mobilisation, mais leur financement dépend d'un budget dont l'adoption reste incertaine. Les organisations de jeunesse comptent peser sur la journée du 31 octobre, première grande date depuis les annonces.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement la poursuite de la mobilisation lycéenne et étudiante, réclame la fin de toute sélection à l'université et appelle à l'élargir à une grève générale.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Clémence Guetté (LFI) qualifie Jean-Michel Blanquer de « l'un des principaux artisans de la destruction de l'enseignement supérieur » et réclame davantage de places ; Pierre Ouzoulias (PCF) estime qu'« on ne peut pas supprimer Parcoursup, on a besoin d'un logiciel ».",
+              "src": "LCP et Public Sénat, 27 octobre 2026"
+            },
+            "soc": {
+              "type": "declare",
+              "texte": "Colombe Brossel (PS) juge que « le gouvernement a craqué l'allumette et veut maintenant utiliser l'extincteur » et parle de demi-mesures.",
+              "src": "Public Sénat, 27 octobre 2026"
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement la fin de la sélection à l'entrée de l'université, davantage de moyens pour les lycées et un plan d'urgence pour la rénovation des bâtiments scolaires.",
+              "src": ""
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "David Amiel (Renaissance), ministre des Comptes publics, indique que les mesures devront être « financées par des efforts supplémentaires » ailleurs dans le budget.",
+              "src": "TF1, cité par Public Sénat, 27 octobre 2026"
+            },
+            "modem": {
+              "type": "declare",
+              "texte": "Marc Fesneau (Les Démocrates) reconnaît les dysfonctionnements de Parcoursup mais veut conserver un outil de sélection à l'entrée de l'université.",
+              "src": "LCP, 26 octobre 2026"
+            },
+            "hor": {
+              "type": "declare",
+              "texte": "Édouard Philippe (Horizons), Premier ministre lors de la création de Parcoursup, reconnaît les dysfonctionnements du dispositif.",
+              "src": "LCP, 26 octobre 2026"
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Max Brisson (LR) qualifie les annonces de « bricolage » et estime que le vrai problème est la réforme du « bac Blanquer ».",
+              "src": "Public Sénat, 27 octobre 2026"
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Maxime Michelet (UDR) souhaite une refonte complète de la procédure et un accès à l'université fondé sur le baccalauréat.",
+              "src": "LCP, 26 octobre 2026"
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement la sélection au mérite, un baccalauréat exigeant et le retour aux fondamentaux, et critique le blocage des lycées.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Public Sénat – Quel coût pour l'État, après les annonces en faveur des lycéens et des étudiants ?",
+              "u": "https://www.publicsenat.fr/actualites/education/quel-cout-pour-letat-apres-les-annonces-en-faveur-des-lyceens-et-des-etudiants"
+            },
+            {
+              "t": "LCP – Malgré les annonces du gouvernement, les organisations lycéennes et étudiantes veulent continuer la mobilisation",
+              "u": "https://lcp.fr/actualites/malgre-les-annonces-du-gouvernement-les-organisations-lyceennes-et-etudiantes-veulent"
+            },
+            {
+              "t": "Public Sénat – Annonces du gouvernement aux revendications lycéennes : « C'est du bricolage », selon le sénateur LR Max Brisson",
+              "u": "https://www.publicsenat.fr/actualites/education/annonces-du-gouvernement-aux-revendications-lyceennes-cest-du-bricolage-selon-le-senateur-lr-max-brisson"
+            },
+            {
+              "t": "LCP – Parcoursup : Blanquer défie ses détracteurs de citer un pays qui fait mieux",
+              "u": "https://lcp.fr/actualites/parcoursup-blanquer-defie-ses-detracteurs-de-citer-un-pays-qui-fait-mieux-444347"
+            },
+            {
+              "t": "LCP – Réforme de Parcoursup : LFI demande un vote à l'issue du débat prévu mercredi à l'Assemblée",
+              "u": "https://lcp.fr/actualites/reforme-de-parcoursup-lfi-demande-un-vote-a-l-issue-du-debat-prevu-mercredi-a-l"
+            }
+          ]
+        },
+        {
+          "id": "2026-10-28-israel-legislatives",
+          "rubrique": "International",
+          "titre": "Israël : participation record aux législatives, Netanyahou et Eisenkot au coude-à-coude, aucun bloc majoritaire en vue",
+          "chapo": "Pour le premier scrutin depuis le 7 octobre 2023, les Israéliens se sont massivement rendus aux urnes. Les estimations placent les deux blocs à égalité et les premiers résultats partiels donnent l'avantage au camp du Premier ministre sortant, sans majorité.",
+          "faits": [
+            "Les Israéliens ont voté mardi 27 octobre pour renouveler les 120 sièges de la Knesset ; la participation a atteint 77,7 %, son plus haut niveau depuis 1999.",
+            "Les sondages de sortie des urnes ont d'abord donné le bloc d'opposition mené par l'ancien chef d'état-major Gadi Eisenkot (Yashar) légèrement en tête, puis les deux blocs à égalité à 51 sièges ; le Likoud reste le premier parti, mais en recul, et les deux listes arabes progresseraient à 17 à 19 sièges.",
+            "Selon des résultats partiels portant sur 32,5 % des voix, publiés vers 5 h heure locale, le bloc de Benyamin Nétanyahou obtiendrait 59 sièges et celui d'Eisenkot 46, la majorité étant fixée à 61 ; ces chiffres peuvent encore évoluer.",
+            "Benyamin Nétanyahou veut « un gouvernement de droite fort » et exclut l'appui des partis arabes ; Gadi Eisenkot affirme que « le peuple a choisi le changement », promet une commission d'enquête indépendante sur le 7 octobre et exclut lui aussi une alliance avec le parti arabe Raam.",
+            "Chaque camp a accusé l'autre de vouloir contester ou « voler » l'élection ; la commission électorale dit n'avoir relevé aucune manipulation systématique. Les résultats officiels sont attendus le 4 novembre."
+          ],
+          "enjeu": "Sans majorité nette, des semaines de tractations s'annoncent, avec le risque d'un nouveau scrutin. L'issue pèsera sur la suite à Gaza, la question des deux États, que la France défend, et la confrontation avec l'Iran.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement la cause palestinienne, dénonce la guerre menée à Gaza et réclame la fin de toute coopération militaire avec Israël, quel que soit le gouvernement en place.",
+              "src": ""
+            },
+            "gr": {
+              "type": "lecture",
+              "texte": "Le courant dénonce habituellement la politique du gouvernement Nétanyahou, réclame des sanctions contre Israël et la pleine reconnaissance des droits des Palestiniens.",
+              "src": ""
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement la solution à deux États, critique la présence de ministres d'extrême droite dans la coalition sortante et se montre attentif aux forces israéliennes favorables à une reprise du dialogue.",
+              "src": ""
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement le respect du droit international, la solution à deux États et des sanctions contre la colonisation en Cisjordanie.",
+              "src": ""
+            },
+            "ren": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement à la fois la sécurité d'Israël et la solution à deux États, ligne de la diplomatie française qui a reconnu l'État de Palestine en 2025, et attend les résultats officiels avant de commenter un scrutin étranger.",
+              "src": ""
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement une ligne multilatéraliste : sécurité d'Israël, droits des Palestiniens et solution à deux États négociée.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant insiste habituellement sur le droit d'Israël à se défendre face au Hamas, tout en défendant la perspective de deux États.",
+              "src": ""
+            },
+            "d": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement le soutien à Israël face au terrorisme et à la menace iranienne, et s'est montré réservé sur la reconnaissance de l'État de Palestine.",
+              "src": ""
+            },
+            "dn": {
+              "type": "lecture",
+              "texte": "Le courant affiche habituellement son soutien à Israël dans la lutte contre le Hamas et l'islamisme, tout en revendiquant une diplomatie française indépendante.",
+              "src": ""
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant affiche habituellement un soutien marqué à Israël, présenté comme un rempart face à l'islamisme.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "RTBF – Législatives en Israël : le bloc de Benjamin Netanyahou prend de l'avance dans les premiers résultats partiels",
+              "u": "https://www.rtbf.be/article/elections-legislatives-en-israel-le-bloc-de-benjamin-netanyahu-prend-de-l-avance-dans-les-premiers-resultats-partiels-11806908"
+            },
+            {
+              "t": "RTBF – Législatives en Israël : participation record, Netanyahu et Eisenkot au coude-à-coude selon les premières estimations",
+              "u": "https://www.rtbf.be/article/elections-legislatives-en-israel-le-likoud-de-netanyahu-premier-parti-mais-le-bloc-d-opposition-serait-legerement-en-tete-11806843"
+            },
+            {
+              "t": "Watson (ATS) – Israël : Eisenkot et Netanyahu donnés à égalité",
+              "u": "https://www.watson.ch/fr/international/politique/455661293-israel-eisenkot-et-netanyahu-donnes-a-egalite"
+            },
+            {
+              "t": "20 minutes (Suisse) – Netanyahu se prépare à contester les résultats, selon Eisenkot",
+              "u": "https://www.20min.ch/fr/story/elections-en-israel-netanyahu-se-prepare-a-contester-les-resultats-selon-son-rival-103657344"
+            },
+            {
+              "t": "franceinfo – Législatives en Israël : le bloc de l'opposition légèrement en tête, mais sans majorité, selon les sondages de sortie des urnes",
+              "u": "https://www.franceinfo.fr/monde/israel/elections-legislatives-en-israel/legislatives-en-israel-le-bloc-de-l-opposition-a-benyamin-netanyahou-donne-legerement-en-tete-mais-sans-majorite-selon-des-sondages-a-la-sortie-des-urnes_8256454.html"
+            }
+          ]
+        }
+      ],
+      "breves": [
+        {
+          "titre": "Présidentielle : Yaël Braun-Pivet plaide pour un candidat unique du centre et de la droite",
+          "texte": "Dans Le Figaro, la présidente de l'Assemblée nationale appelle à désigner « le plus vite » possible un candidat commun du socle central, quelles qu'en soient les modalités, primaire comprise. Elle cite Gérard Larcher comme recours possible et dit vouloir éviter un duel entre Marine Le Pen et Jean-Luc Mélenchon. Elle demande aussi au gouvernement de recourir au 49.3 sur le budget plutôt qu'aux ordonnances.",
+          "src": {
+            "t": "LCP – Présidentielle : Yaël Braun-Pivet plaide pour un « candidat unique » du centre et de la droite",
+            "u": "https://lcp.fr/actualites/presidentielle-yael-braun-pivet-plaide-pour-un-candidat-unique-du-centre-et-de-la-droite"
+          }
+        },
+        {
+          "titre": "Protection de l'enfance : le gouvernement veut rétablir l'imprescriptibilité au Sénat",
+          "texte": "La commission des lois du Sénat a supprimé l'imprescriptibilité des crimes sexuels sur mineurs votée par l'Assemblée, au motif de ne pas « déstabiliser le droit pénal ». Aurore Bergé annonce un amendement du gouvernement pour la rétablir lors de l'examen en séance du projet de loi, attendu à partir de ce mercredi. Le vote solennel est prévu le 3 novembre.",
+          "src": {
+            "t": "Public Sénat – Protection de l'enfance : Aurore Bergé défendra un amendement pour rétablir l'imprescriptibilité",
+            "u": "https://www.publicsenat.fr/actualites/societe/protection-de-lenfance-aurore-berge-defendra-un-amendement-pour-retablir-limprescriptibilite-des-crimes-sexuels-sur-mineurs"
+          }
+        },
+        {
+          "titre": "Gazole : les stocks stratégiques mis en vente à partir d'aujourd'hui",
+          "texte": "Les premières ventes à prix coûtant de 10 millions de barils de gazole issus des stocks stratégiques doivent intervenir ce 28 octobre auprès des distributeurs. Le gouvernement promet une baisse de 12 à 18 centimes par litre à la pompe dès le 1er novembre, jusqu'à fin janvier, avec une publication hebdomadaire des volumes et des baisses répercutées.",
+          "src": {
+            "t": "Connaissance des Énergies (AFP) – Le gouvernement promet une baisse du gazole dès le 1er novembre",
+            "u": "https://www.connaissancedesenergies.org/afp/le-gouvernement-assure-que-les-prix-du-gazole-baisseront-des-le-1er-novembre-261012"
+          }
+        },
+        {
+          "titre": "Sondage Odoxa : 83 % des Français jugent Emmanuel Macron mauvais président",
+          "texte": "Selon le baromètre Odoxa pour Public Sénat et la presse régionale, réalisé les 21 et 22 octobre auprès de 1 005 personnes, 16 % des Français jugent Emmanuel Macron bon président, un niveau inédit dans ce baromètre. Sébastien Lecornu recueille 25 % d'opinions favorables. Face aux violences du 17 octobre, 67 % disent ressentir d'abord de la colère.",
+          "src": {
+            "t": "Public Sénat – Sondage : 83 % des Français jugent qu'Emmanuel Macron est un mauvais président, un record",
+            "u": "https://www.publicsenat.fr/actualites/politique/sondage-83-des-francais-jugent-quemmanuel-macron-est-un-mauvais-president-un-record"
+          }
+        }
+      ],
+      "agenda": [
+        {
+          "d": "Mer. 28 oct.",
+          "t": "Débat sur l'avenir de Parcoursup à l'Assemblée à 17 h ; suite du texte « casseurs-payeurs » et début de la protection de l'enfance au Sénat ; premières ventes de gazole des stocks stratégiques"
+        },
+        {
+          "d": "Jeu. 29 oct.",
+          "t": "Journée réservée aux propositions de loi de La France insoumise à l'Assemblée ; fin au plus tard de la garde à vue du suspect de Trappes"
+        },
+        {
+          "d": "Sam. 31 oct.",
+          "t": "Journée de mobilisation lycéenne, étudiante et sociale, cortèges hors des centres-villes"
+        },
+        {
+          "d": "Dim. 1er nov.",
+          "t": "Baisse attendue du prix du gazole à la pompe"
+        },
+        {
+          "d": "Mar. 3 nov.",
+          "t": "Vote solennel sur la partie recettes du budget à l'Assemblée et sur la protection de l'enfance au Sénat"
+        },
+        {
+          "d": "Mer. 4 nov.",
+          "t": "Résultats officiels des législatives israéliennes"
+        },
+        {
+          "d": "Jeu. 5 nov.",
+          "t": "Journée de grève et de manifestations interprofessionnelle"
+        },
+        {
+          "d": "Lun. 9 nov.",
+          "t": "Début de l'examen du budget de la Sécu au Sénat"
+        }
+      ]
+    },
     {
       "date": "2026-10-27",
       "label": "Mardi 27 octobre 2026",
@@ -3177,307 +3677,6 @@
         {
           "d": "Jeu. 5 nov.",
           "t": "Journée de grève et de manifestations interprofessionnelle ; la CGT appelle à la grève générale"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-21",
-      "label": "Mercredi 21 octobre 2026",
-      "maj": "Mise à jour à 6 h 27",
-      "intro": "Quatre jours après le 17 octobre, Sébastien Lecornu reçoit ce matin les cinq syndicats représentatifs, avant les partis jeudi, et prépare un « acte II » samedi sous haute surveillance. L'Assemblée a lancé sa commission d'enquête sur les violences et le maintien de l'ordre. Le budget de la Sécurité sociale est entré dans l'hémicycle sous l'alerte de la Cour des comptes. Et la sécurité de la campagne présidentielle s'invite dans le débat, entre date du second tour et ingérences étrangères.",
-      "stories": [
-        {
-          "id": "2026-10-21-samedi-syndicats",
-          "rubrique": "Sécurité",
-          "titre": "Syndicats à Matignon ce matin, manifestations « à risque » interdites samedi : le gouvernement durcit le ton",
-          "chapo": "Après un face-à-face tendu avec les députés mardi, le Premier ministre reçoit les syndicats ce mercredi. Le ministre de l'Intérieur demande aux préfets d'interdire les cortèges jugés à risque lors de l'« acte II » annoncé samedi.",
-          "faits": [
-            "Sébastien Lecornu reçoit ce mercredi matin la CFDT, la CGT, FO, la CFTC et la CFE-CGC, en présence de Laurent Nuñez, pour parler de la sécurisation des cortèges et des réponses aux lycéens ; les syndicats maintiennent leur journée de mobilisation du 5 novembre.",
-            "Dans un télégramme du 19 octobre révélé par Le JDD, Laurent Nuñez demande aux préfets d'interdire les manifestations revendicatives « susceptibles de troubler l'ordre public » prévues samedi 24 octobre, après dialogue avec les organisateurs, et d'éloigner les cortèges autorisés des bâtiments publics et des rues commerçantes.",
-            "Aux questions au gouvernement mardi, le Premier ministre a jugé le dispositif du 17 octobre « trop statique et pas assez mobile », promis un déploiement « massif » samedi et dénoncé un « schéma insurrectionnel » de groupuscules d'ultragauche ; il a démenti tout « renseignement politique ».",
-            "Les couvre-feux ont été reconduits mardi soir : à Paris autour de République et des Halles (23 h – 6 h), sur la Presqu'île de Lyon (21 h – 6 h), et pour les mineurs dans le centre de Marseille à partir de 22 h, au moins jusqu'à vendredi.",
-            "Selon le ministre de la Justice Gérald Darmanin, 123 personnes ont été incarcérées depuis le week-end et une cinquantaine d'informations judiciaires ouvertes."
-          ],
-          "enjeu": "Le gouvernement veut éviter un nouveau samedi de violences sans paraître restreindre le droit de manifester, que les syndicats entendent exercer le 5 novembre. Le rendez-vous de Matignon dira si l'exécutif ouvre un volet social, que réclament syndicats et gauche, ou s'en tient à l'ordre public.",
-          "positions": {
-            "gr": {
-              "type": "declare",
-              "texte": "Mathilde Panot (LFI) accuse le Premier ministre de faire porter à son mouvement la responsabilité des violences pour masquer son bilan : « Quand il ne vous reste que la répression, c'est le signe qu'il faut partir ». Manuel Bompard (LFI) l'accuse de « manipuler les services de renseignement ».",
-              "src": "LCP, 20 octobre 2026 ; L'Express, 20 octobre 2026"
-            },
-            "g": {
-              "type": "declare",
-              "texte": "Boris Vallaud (PS) réclame une réponse politique à la crise, au-delà du maintien de l'ordre. Olivier Faure (PS) veut « refonder une doctrine du maintien de l'ordre respectueuse des libertés fondamentales » ; Marine Tondelier (Les Écologistes) plaide pour une doctrine de dialogue et de désescalade.",
-              "src": "Brut, 20 octobre 2026 ; LCP, 19 octobre 2026"
-            },
-            "c": {
-              "type": "declare",
-              "texte": "Sébastien Lecornu estime que « le retour à l'ordre est le préalable de tout » et promet un dispositif renforcé samedi. Laurent Nuñez demande aux préfets une réponse « extrêmement rapide et ferme » et des interdictions ciblées, au cas par cas.",
-              "src": "Brut, 20 octobre 2026 ; Le JDD, 20 octobre 2026"
-            },
-            "d": {
-              "type": "declare",
-              "texte": "Bruno Retailleau (LR) demande une doctrine qui protège les manifestants pacifiques tout en assumant « la répression ferme des violences, l'interpellation des casseurs et l'usage de la force légitime », et refuse qu'un policier soit présumé fautif avant examen des faits.",
-              "src": "LCP, 19 octobre 2026"
-            },
-            "dn": {
-              "type": "declare",
-              "texte": "Jordan Bardella (RN) dénonce l'« incompétence » du gouvernement et juge que le mouvement de Jean-Luc Mélenchon porte une responsabilité dans les violences. Marine Le Pen (RN) estime que les revendications sociales ont été « prises en otage par l'extrême gauche ».",
-              "src": "CNews, cité par Le JDD, 20 octobre 2026 ; AFP, 17 octobre 2026"
-            }
-          },
-          "sources": [
-            {
-              "t": "L'essentiel (AFP) – Lecornu reçoit les syndicats avant de nouvelles manifestations",
-              "u": "https://www.lessentiel.lu/fr/story/crises-en-france-lecornu-recoit-les-syndicats-avant-de-nouvelles-manifestations-103644650"
-            },
-            {
-              "t": "Le JDD – Nuñez ordonne aux préfets d'interdire les manifestations à risque prévues samedi",
-              "u": "https://www.lejdd.fr/Societe/apres-les-emeutes-du-17-octobre-nunez-ordonne-aux-prefets-dinterdire-les-manifestations-a-risque-prevues-samedi-186534"
-            },
-            {
-              "t": "LCP – « Votre camp, c'est le camp de la honte » : Lecornu et Panot s'affrontent dans l'hémicycle",
-              "u": "https://lcp.fr/actualites/votre-camp-c-est-le-camp-de-la-honte-et-nous-vous-combattrons-sebastien-lecornu-et"
-            },
-            {
-              "t": "Brut – Passage mouvementé de Sébastien Lecornu devant l'Assemblée nationale",
-              "u": "https://www.brut.media/fr/articles/passage-mouvemente-de-sebastien-lecornu-devant-l-assemblee-nationale-ce-mardi-20-octobre"
-            },
-            {
-              "t": "Tribune de Lyon – Le couvre-feu reconduit à Lyon pour la nuit du 20 au 21 octobre",
-              "u": "https://tribunedelyon.fr/societe/couvre-feu-reconduit-lyon-nuit-du-20-au-21-octobre/"
-            },
-            {
-              "t": "LCP – Violences du 17 octobre : qui propose quoi sur le maintien de l'ordre ?",
-              "u": "https://lcp.fr/actualites/violences-du-17-octobre-qui-propose-quoi-sur-le-maintien-de-l-ordre-444073"
-            }
-          ]
-        },
-        {
-          "id": "2026-10-21-commission-enquete",
-          "rubrique": "Institutions",
-          "titre": "Violences du 17 octobre : l'Assemblée lance sa commission d'enquête, la gauche veut y inclure la mobilisation lycéenne",
-          "chapo": "La commission des lois de l'Assemblée a obtenu mardi les pouvoirs d'une commission d'enquête sur les violences et le maintien de l'ordre. Ses travaux doivent démarrer dans les prochains jours.",
-          "faits": [
-            "Mardi matin, la conférence des présidents a approuvé le principe proposé par Yaël Braun-Pivet ; dans la soirée, la commission des lois a voté pour se doter des pouvoirs d'une commission d'enquête, présidée par Vincent Caure (Ensemble pour la République).",
-            "Le périmètre couvre la préparation des pouvoirs publics, le renseignement, l'information des maires par les préfectures, le déroulé du week-end, les ingérences étrangères, le rôle des réseaux sociaux, l'organisation des auteurs de violences, le dispositif de maintien de l'ordre et la réponse pénale.",
-            "La création devient définitive sauf opposition avant ce mercredi 15 h ; trois rapporteurs doivent être désignés et des conclusions sont envisagées avant la fin de l'année, selon LCP.",
-            "Au Sénat, la commission des lois a annoncé lundi soir une mission d'information sur ces violences et les failles du maintien de l'ordre."
-          ],
-          "enjeu": "La commission devra établir les responsabilités entre exécutif, services de renseignement et groupes violents, à six mois de la présidentielle. Sa publicité, son calendrier et l'inclusion ou non des semaines de mobilisation lycéenne qui ont précédé le 17 octobre font déjà débat.",
-          "positions": {
-            "gr": {
-              "type": "declare",
-              "texte": "Ugo Bernalicis (LFI) prévient : « Si c'est pour refaire une commission d'enquête Benalla bis, c'est pas la peine », et demande des travaux publics et menés sereinement. Elsa Faucillon (groupe GDR, communistes et ultramarins) veut que le périmètre couvre les semaines précédentes, dont la mobilisation lycéenne.",
-              "src": "LCP, 20 octobre 2026"
-            },
-            "g": {
-              "type": "declare",
-              "texte": "Hervé Saulignac (PS) met en garde contre un calendrier trop long : « Rien ne serait pire que d'arriver au 20 décembre ». Pouria Amirshahi (groupe Écologiste et social) demande d'élargir la période étudiée pour ne pas « invisibiliser » la mobilisation lycéenne.",
-              "src": "LCP, 20 octobre 2026"
-            },
-            "c": {
-              "type": "declare",
-              "texte": "Yaël Braun-Pivet (Renaissance) veut « faire la lumière sur les débordements, les méthodes des groupuscules violents et la stratégie de maintien de l'ordre » : « Il ne faut pas que cela se reproduise ». Vincent Caure (EPR) pose « le principe premier » de la « publicité des travaux ».",
-              "src": "LCP, 20 octobre 2026"
-            },
-            "d": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement les forces de l'ordre et attend d'une telle enquête qu'elle établisse les responsabilités de l'exécutif dans l'anticipation des violences et celles des groupes qui les ont organisées, plutôt qu'elle ne mette en cause l'action des policiers.",
-              "src": ""
-            },
-            "dn": {
-              "type": "lecture",
-              "texte": "Le courant met habituellement en avant les failles du gouvernement en matière d'ordre public et la responsabilité de l'extrême gauche, et se montre favorable aux enquêtes qui pointent ces deux aspects, tout en défendant l'action des policiers et gendarmes.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "LCP – Violences et maintien de l'ordre le 17 octobre : l'Assemblée lance une commission d'enquête",
-              "u": "https://lcp.fr/actualites/violences-et-maintien-de-l-ordre-le-17-octobre-l-assemblee-lance-une-commission-d"
-            },
-            {
-              "t": "LCP – L'Assemblée approuve la création de la commission d'enquête proposée par Yaël Braun-Pivet",
-              "u": "https://lcp.fr/actualites/info-lcp-17-octobre-l-assemblee-nationale-approuve-la-creation-de-la-commission-d"
-            },
-            {
-              "t": "Public Sénat – « Le président de la République n'a apporté aucune solution, aucun cap », déplore Hervé Marseille",
-              "u": "https://www.publicsenat.fr/actualites/politique/apres-les-violences-urbaines-et-les-pillages-du-17-octobre-le-president-de-la-republique-na-apporte-aucune-solution-aucun-cap-deplore-herve-marseille"
-            }
-          ]
-        },
-        {
-          "id": "2026-10-21-plfss-hemicycle",
-          "rubrique": "Budget",
-          "titre": "Budget de la Sécu : l'examen lancé dans l'hémicycle, la Cour des comptes juge la situation « hautement périlleuse »",
-          "chapo": "Les députés ont rejeté mardi la motion de rejet de LFI et commencé l'examen du budget de la Sécurité sociale pour 2027. Le même jour, la Cour des comptes a mis en doute les économies annoncées.",
-          "faits": [
-            "La motion de rejet préalable déposée par LFI a été repoussée par 259 voix contre 128 ; les groupes de gauche l'ont soutenue, les autres ont choisi de débattre du texte, qui avait été rejeté en commission la semaine dernière.",
-            "Le gouvernement vise un déficit de la Sécurité sociale de 12,7 milliards d'euros en 2027, contre 21,8 milliards attendus en 2026 ; le texte chiffre les économies à 8,7 milliards. Les modifications votées en commission auraient porté le déficit à environ 21,4 milliards, selon le rapporteur général Thibault Bazin.",
-            "La Cour des comptes juge plusieurs économies incertaines (arrêts maladie, allocation de rentrée scolaire, produits de santé) et qualifie d'« intenable » la trajectoire de la dette de l'Acoss, dont le plafond d'endettement passerait à 85 milliards d'euros.",
-            "L'examen en séance doit se poursuivre jusqu'au 27 octobre, avec notamment le gel des pensions au-delà de 1 260 euros, supprimé en commission."
-          ],
-          "enjeu": "Sans majorité, le gouvernement doit trouver des compromis sur les retraites et les économies de santé sans laisser filer un déficit que la Cour des comptes juge déjà difficile à tenir. Le débat se déroule en pleine crise sociale, ce qui pèse sur les mesures touchant les ménages.",
-          "positions": {
-            "gr": {
-              "type": "declare",
-              "texte": "Hadrien Clouet (LFI) dénonce un « ultime texte de braquage » de la Sécurité sociale et un « texte de classe », citant 600 millions d'euros d'économies sur l'allocation de rentrée scolaire. Édouard Bénard (PCF) dénonce un « double racket » des comptes de la Sécu et du porte-monnaie des assurés.",
-              "src": "LCP, 20 octobre 2026"
-            },
-            "g": {
-              "type": "declare",
-              "texte": "Béatrice Bellay (PS) dénonce une « nouvelle violence sociale » et les groupes socialiste et écologiste ont voté la motion de rejet. Les deux groupes avaient obtenu en commission, avec d'autres, la suppression du gel des pensions.",
-              "src": "LCP, 20 octobre 2026 ; LCP, 16 octobre 2026"
-            },
-            "c": {
-              "type": "declare",
-              "texte": "La ministre de la Santé Stéphanie Rist appelle à la « lucidité » et à un « compromis » pour « tenir la promesse d'une Sécurité sociale pour les générations futures ». Annie Vidal (EPR) refuse de renvoyer le texte « à l'expéditeur » sans débat.",
-              "src": "LCP, 20 octobre 2026"
-            },
-            "d": {
-              "type": "declare",
-              "texte": "Le rapporteur général Thibault Bazin (Droite républicaine) relativise le rejet en commission, qui a « tiré à blanc », tout en chiffrant à plus de 21 milliards le déficit qui résulterait des votes de la commission. Son groupe a voté la suppression du gel des pensions.",
-              "src": "LCP, 16 octobre 2026"
-            },
-            "dn": {
-              "type": "declare",
-              "texte": "Christophe Bentz (RN) juge le texte « très mauvais » et « très injuste », mais son groupe a refusé la motion de rejet pour débattre du budget et tenter de « limiter les dégâts ».",
-              "src": "LCP, 20 octobre 2026"
-            }
-          },
-          "sources": [
-            {
-              "t": "LCP – Budget de la Sécu : la motion de rejet de LFI écartée, l'examen lancé dans l'hémicycle",
-              "u": "https://lcp.fr/actualites/budget-de-la-secu-la-motion-de-rejet-de-lfi-ecartee-l-examen-du-texte-lance-dans-l"
-            },
-            {
-              "t": "Public Sénat – « Une situation hautement périlleuse » : la Cour des comptes alerte sur le trou de la Sécu",
-              "u": "https://www.publicsenat.fr/actualites/sante/une-situation-hautement-perilleuse-pour-la-cour-des-comptes-la-france-ne-peut-plus-differer-les-efforts-pour-resorber-le-trou-de-la-secu"
-            },
-            {
-              "t": "LCP – Budget de la Sécu : rejeté en commission, le texte examiné à partir de mardi dans l'hémicycle",
-              "u": "https://lcp.fr/actualites/budget-de-la-secu-rejete-en-commission-par-les-deputes-le-texte-sera-examine-a-partir-de"
-            },
-            {
-              "t": "Assemblée nationale – Dossier législatif PLFSS 2027",
-              "u": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PLFSS_2027"
-            }
-          ]
-        },
-        {
-          "id": "2026-10-21-campagne-securite",
-          "rubrique": "Présidentielle 2027",
-          "titre": "Sécurité de la campagne : partis convoqués jeudi à Matignon, Retailleau veut déplacer le second tour",
-          "chapo": "Le Premier ministre réunit jeudi les partis pour parler notamment de la sécurité de la présidentielle. Bruno Retailleau demande de changer la date du second tour, et le ministre de l'Intérieur alerte sur les ingérences étrangères.",
-          "faits": [
-            "Dans une lettre de deux pages envoyée mardi, Sébastien Lecornu invite les partis à Matignon jeudi 22 octobre ; il y écrit qu'« aucun désaccord, aucune colère, aucune ambition politique ne peut justifier le recours à la violence ». LFI et les Écologistes iront, le RN se fera représenter.",
-            "Bruno Retailleau (LR) demande de déplacer le second tour, fixé au 2 mai 2027, au lendemain du 1er-Mai ; le premier tour est prévu le 18 avril. Les dates relèvent d'un décret, mais la Constitution impose un second tour quatorze jours après le premier et une élection dans une fenêtre précise avant la fin du mandat, le 14 mai.",
-            "Au Sénat, qui a entamé mardi l'examen du projet de loi contre les ingérences étrangères, Laurent Nuñez a indiqué que près d'une centaine d'opérations numériques étrangères visant la présidentielle ont été détectées depuis l'été, contre 25 lors des élections de 2024.",
-            "Le texte triple les peines pour la diffusion de fausses informations en période électorale, jusqu'à trois ans de prison et 45 000 euros d'amende."
-          ],
-          "enjeu": "À six mois du scrutin, l'exécutif veut associer les partis à la sécurisation de la campagne, mais la réunion s'annonce tendue. La question du calendrier électoral et celle des ingérences étrangères touchent à la sincérité du scrutin.",
-          "positions": {
-            "gr": {
-              "type": "declare",
-              "texte": "Jean-Luc Mélenchon (LFI) juge la réunion « très étrange » et annonce que LFI s'y rendra : « On va y aller, on va te pourrir la réunion ». Il accuse le Premier ministre de faire porter à son mouvement la responsabilité des violences.",
-              "src": "AFP (France 24), 20 octobre 2026"
-            },
-            "g": {
-              "type": "declare",
-              "texte": "Marine Tondelier (Les Écologistes) ira à Matignon mais regrette qu'« à aucun moment, en deux pages », la lettre du Premier ministre ne parle de « comment on sort de la crise sociale ». La gauche lie sécurité de la campagne et réponse aux revendications sociales.",
-              "src": "AFP (Orange), 20 octobre 2026"
-            },
-            "c": {
-              "type": "declare",
-              "texte": "Sébastien Lecornu dénonce « un agenda de bordélisation de l'ultragauche jusqu'à l'élection présidentielle ». Laurent Nuñez prévient qu'« à six mois de l'élection présidentielle, la France aurait tort de se croire à l'abri » des ingérences étrangères.",
-              "src": "AFP (La Libre), 20 octobre 2026 ; Public Sénat, 20 octobre 2026"
-            },
-            "d": {
-              "type": "declare",
-              "texte": "Bruno Retailleau (LR) demande au gouvernement de changer la date du second tour, qu'il juge « mauvaise » : « Peu de 1er mai se passent calmement ». Il estime qu'« il serait encore temps » de modifier le calendrier.",
-              "src": "BFMTV, 19 octobre 2026, cité par Public Sénat et le Journal du Net"
-            },
-            "dn": {
-              "type": "declare",
-              "texte": "Jordan Bardella (RN) raille un « conseil de classe » où « le proviseur Lecornu » demande aux partis d'être clairs sur la violence, et affirme que LFI « nourrit la violence ». Marine Le Pen et lui se feront représenter jeudi.",
-              "src": "AFP (Orange), 20 octobre 2026"
-            }
-          },
-          "sources": [
-            {
-              "t": "Orange (AFP) – Partis invités à Matignon : « on va te pourrir la réunion », dit Mélenchon à Lecornu",
-              "u": "https://actu.orange.fr/politique/partis-invites-a-matignon-apres-les-violences-quot-on-va-y-aller-on-va-te-pourrir-la-reunion-quot-dit-melenchon-a-lecornu-CNT000002thcq3.html"
-            },
-            {
-              "t": "La Libre (AFP) – Lecornu réunira les partis politiques jeudi",
-              "u": "https://www.lalibre.be/international/europe/2026/10/20/tensions-en-france-lecornu-reunira-les-partis-politiques-jeudi-3CDFFGMK6BGZNJHOIGLDRXMZ7Q/"
-            },
-            {
-              "t": "Public Sénat – Violences du 17 octobre : peut-on déplacer la date du second tour de l'élection présidentielle ?",
-              "u": "https://www.publicsenat.fr/actualites/politique/violences-du-17-octobre-peut-on-deplacer-la-date-du-second-tour-de-lelection-presidentielle"
-            },
-            {
-              "t": "Journal du Net – Bruno Retailleau demande au gouvernement de changer la date du second tour",
-              "u": "https://www.journaldunet.com/business/action-publique/1556849-bruno-retailleau-demande-au-gouvernement-de-changer-la-date-du-second-tour-de-la-presidentielle/"
-            },
-            {
-              "t": "Public Sénat – La présidentielle déjà ciblée par une centaine d'opérations d'ingérences étrangères",
-              "u": "https://www.publicsenat.fr/actualites/international/la-presidentielle-deja-ciblee-par-une-centaine-doperations-numeriques-dingerences-etrangeres-depuis-cet-ete-indique-laurent-nunez"
-            }
-          ]
-        }
-      ],
-      "breves": [
-        {
-          "titre": "Commerces pillés : prêts à taux zéro dès vendredi",
-          "texte": "Roland Lescure et David Amiel ont annoncé des prêts à taux zéro jusqu'à 50 000 euros, gérés par Bpifrance et disponibles dès vendredi, ainsi que l'étalement des charges fiscales et sociales des entreprises touchées. Le président du Medef, Patrick Martin, juge que l'État « a été défaillant » sur l'indemnisation.",
-          "src": {
-            "t": "L'essentiel (AFP) – Lecornu reçoit les syndicats avant de nouvelles manifestations",
-            "u": "https://www.lessentiel.lu/fr/story/crises-en-france-lecornu-recoit-les-syndicats-avant-de-nouvelles-manifestations-103644650"
-          }
-        },
-        {
-          "titre": "Gazole : Macron revient du Golfe avec des volumes supplémentaires",
-          "texte": "En tournée dans le Golfe, Emmanuel Macron a obtenu environ 295 000 tonnes de gazole supplémentaires par mois en octobre et novembre, en provenance des Émirats arabes unis, de Bahreïn et de l'Arabie saoudite, selon l'AFP.",
-          "src": {
-            "t": "L'essentiel (AFP) – Lecornu reçoit les syndicats avant de nouvelles manifestations",
-            "u": "https://www.lessentiel.lu/fr/story/crises-en-france-lecornu-recoit-les-syndicats-avant-de-nouvelles-manifestations-103644650"
-          }
-        },
-        {
-          "titre": "Mairie de Limoges : un suspect interpellé",
-          "texte": "Un homme fiché S a été interpellé mardi matin par le RAID dans l'enquête sur l'incendie de l'hôtel de ville de Limoges, dont la partie ancienne a été quasi entièrement détruite. La sous-direction antiterroriste a été saisie ; son rôle reste à déterminer, selon le parquet de Limoges.",
-          "src": {
-            "t": "Public Sénat – Incendie de la mairie de Limoges : qu'est-ce que l'ultragauche ?",
-            "u": "https://www.publicsenat.fr/actualites/politique/incendie-de-la-mairie-de-limoges-quest-ce-que-lultragauche-mouvance-dont-le-suspect-arrete-serait-issu"
-          }
-        }
-      ],
-      "agenda": [
-        {
-          "d": "Mer. 21 oct.",
-          "t": "Syndicats reçus à Matignon ; création définitive de la commission d'enquête de l'Assemblée sauf opposition avant 15 h"
-        },
-        {
-          "d": "Jeu. 22 oct.",
-          "t": "Partis politiques reçus à Matignon, notamment sur la sécurité de la campagne présidentielle"
-        },
-        {
-          "d": "Ven. 23 oct.",
-          "t": "Sébastien Lecornu attendu à Limoges ; prêts à taux zéro ouverts aux commerces touchés"
-        },
-        {
-          "d": "Sam. 24 oct.",
-          "t": "« Acte II » de la mobilisation, sous dispositif policier renforcé"
-        },
-        {
-          "d": "Mar. 27 oct.",
-          "t": "Fin prévue de l'examen du budget de la Sécurité sociale en première lecture à l'Assemblée"
-        },
-        {
-          "d": "Jeu. 5 nov.",
-          "t": "Journée de mobilisation intersyndicale"
         }
       ]
     }
