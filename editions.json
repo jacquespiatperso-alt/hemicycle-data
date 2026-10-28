@@ -93,7 +93,12 @@
               "t": "NPA – Trappes et La Verrière : le racisme tue encore une fois",
               "u": "https://npa-lanticapitaliste.org/communique/trappes-et-la-verriere-le-racisme-tue-encore-une-fois"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2026-10/Attentat%20de%20Trappes%20lors%20des%20QAG%2C%20S%C3%A9bastien%20Lecornu%20d%C3%A9nonce%20une%20s%C3%A9ance%20%C3%A0%20l%27ambiance%20particuli%C3%A8rement%20naus%C3%A9abonde.jpg?itok=M7IO9-OP",
+            "credit": "LCP",
+            "alt": "Illustration de l'article de LCP"
+          }
         },
         {
           "id": "2026-10-28-casseurs-payeurs-senat",
@@ -173,7 +178,12 @@
               "t": "Public Sénat – Loi « casseurs-payeurs » : après les violences du 17 octobre, le Sénat durcit le texte",
               "u": "https://www.publicsenat.fr/actualites/politique/loi-casseurs-payeurs-apres-les-violences-du-17-octobre-le-senat-durcit-le-texte"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.publicsenat.fr/app/uploads/2026/10/SIPA_01307858_000065-scaled.jpg",
+            "credit": "Public Sénat",
+            "alt": "Illustration de l'article de Public Sénat"
+          }
         },
         {
           "id": "2026-10-28-budget-multinationales",
@@ -253,7 +263,12 @@
               "t": "NosParlementaires – Date du vote du budget 2027 : le 3 novembre",
               "u": "https://nosparlementaires.fr/actualites/budget-2027-calendrier-assemblee-cinq-semaines"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2026-10/Budget%20%20Emmanuel%20Maurel%20sur%20la%20modification%20de%20l%E2%80%99assiette%20d%E2%80%99impo%CC%82t%20sur%20les%20socie%CC%81te%CC%81s%20des%20multinationales.jpg?itok=7ePpowjT",
+            "credit": "LCP",
+            "alt": "Illustration de l'article de LCP"
+          }
         },
         {
           "id": "2026-10-28-parcoursup-debat",
@@ -341,7 +356,12 @@
               "t": "LCP – Réforme de Parcoursup : LFI demande un vote à l'issue du débat prévu mercredi à l'Assemblée",
               "u": "https://lcp.fr/actualites/reforme-de-parcoursup-lfi-demande-un-vote-a-l-issue-du-debat-prevu-mercredi-a-l"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.publicsenat.fr/app/uploads/2026/10/SIPA_01310318_000021-scaled.jpg",
+            "credit": "Public Sénat",
+            "alt": "Illustration de l'article de Public Sénat"
+          }
         },
         {
           "id": "2026-10-28-israel-legislatives",
@@ -429,7 +449,12 @@
               "t": "franceinfo – Législatives en Israël : le bloc de l'opposition légèrement en tête, mais sans majorité, selon les sondages de sortie des urnes",
               "u": "https://www.franceinfo.fr/monde/israel/elections-legislatives-en-israel/legislatives-en-israel-le-bloc-de-l-opposition-a-benyamin-netanyahou-donne-legerement-en-tete-mais-sans-majorite-selon-des-sondages-a-la-sortie-des-urnes_8256454.html"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://static-content.rtbf.be/article/image/1920x1080/a/d/5/ef47403e372cb307e7ddf26effcb7fbd.jpg",
+            "credit": "RTBF",
+            "alt": "Élections législatives en Israël : le bloc de Benjamin Netanyahou prend de l’avance dans les premiers résultats partiels"
+          }
         }
       ],
       "breves": [
