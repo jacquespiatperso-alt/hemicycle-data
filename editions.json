@@ -267,7 +267,12 @@
               "t": "Sénat – Dossier législatif : protection des enfants",
               "u": "https://www.senat.fr/dossier-legislatif/pjl25-911.html"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.publicsenat.fr/app/uploads/2026/10/FFFFFFFFFFFF.png",
+            "credit": "Public Sénat",
+            "alt": "Illustration de l'article de Public Sénat"
+          }
         },
         {
           "id": "2026-10-29-espagne-collision-trains",
