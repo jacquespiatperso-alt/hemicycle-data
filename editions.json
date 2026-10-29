@@ -252,12 +252,12 @@
           },
           "sources": [
             {
-              "t": "Public Sénat – Protection de l'enfance : le Sénat rétablit l'imprescriptibilité des crimes sexuels sur mineurs",
-              "u": "https://www.publicsenat.fr/actualites/parlementaire/protection-de-lenfance-le-senat-retablit-limprescriptibilite-des-crimes-sexuels-sur-mineurs"
-            },
-            {
               "t": "Public Sénat – Protection de l'enfance : au Sénat, les rapporteures rejettent l'imprescriptibilité pour ne pas « déstabiliser le droit pénal »",
               "u": "https://www.publicsenat.fr/actualites/parlementaire/protection-de-lenfance-au-senat-les-rapporteures-rejettent-limprescriptibilite-pour-ne-pas-destabiliser-le-droit-penal"
+            },
+            {
+              "t": "Public Sénat – Protection de l'enfance : le Sénat rétablit l'imprescriptibilité des crimes sexuels sur mineurs",
+              "u": "https://www.publicsenat.fr/actualites/parlementaire/protection-de-lenfance-le-senat-retablit-limprescriptibilite-des-crimes-sexuels-sur-mineurs"
             },
             {
               "t": "Sud Radio – Le Sénat approuve l'imprescriptibilité des crimes sexuels commis sur les mineurs",
@@ -267,12 +267,7 @@
               "t": "Sénat – Dossier législatif : protection des enfants",
               "u": "https://www.senat.fr/dossier-legislatif/pjl25-911.html"
             }
-          ],
-          "image": {
-            "u": "https://www.publicsenat.fr/app/uploads/2026/10/FFFFFFFFFFFF.png",
-            "credit": "Public Sénat",
-            "alt": "Illustration de l'article de Public Sénat"
-          }
+          ]
         },
         {
           "id": "2026-10-29-espagne-collision-trains",
