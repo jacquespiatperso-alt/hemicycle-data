@@ -89,7 +89,12 @@
               "t": "LCP – Parcoursup : suppression, remplacement, réforme... Le débat aura lieu cet après-midi à l'Assemblée nationale",
               "u": "https://lcp.fr/actualites/parcoursup-suppression-remplacement-reforme-le-debat-aura-lieu-cet-apres-midi-a-l"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2026-10/S%C3%A9bastien%20Lecornu%20le%2028%20octobre%202026%20.jpg?itok=hrgkYLZ2",
+            "credit": "LCP",
+            "alt": "Illustration de l'article de LCP"
+          }
         },
         {
           "id": "2026-10-29-niche-lfi-acetamipride",
@@ -173,7 +178,12 @@
               "t": "Coordination rurale – Niche parlementaire LFI : les députés qui défendent l'agriculture doivent être au rendez-vous",
               "u": "https://www.coordinationrurale.fr/lactualite/niche-parlementaire-lfi-les-deputes-qui-defendent-lagriculture-doivent-etre-au-rendez-vous/"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2025-02/harvest-harvester-teamwork-harvesting-soybean-agriculture-1367693-pxhere.com%20%281%29.jpg?itok=0Ajw6Fis",
+            "credit": "LCP",
+            "alt": "Illustration de l'article de LCP"
+          }
         },
         {
           "id": "2026-10-29-imprescriptibilite-senat",
@@ -257,7 +267,12 @@
               "t": "Sénat – Dossier législatif : protection des enfants",
               "u": "https://www.senat.fr/dossier-legislatif/pjl25-911.html"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.publicsenat.fr/app/uploads/2026/10/FFFFFFFFFFFF.png",
+            "credit": "Public Sénat",
+            "alt": "Illustration de l'article de Public Sénat"
+          }
         },
         {
           "id": "2026-10-29-espagne-collision-trains",
@@ -341,7 +356,12 @@
               "t": "L'Express – Espagne : une collision entre deux trains à grande vitesse fait plusieurs dizaines de morts près de Tolède",
               "u": "https://actu.orange.fr/monde/espagne-une-collision-entre-deux-trains-a-grande-vitesse-fait-plusieurs-dizaines-de-morts-et-de-nombreux-blesses-dans-la-region-de-tolede-l-express-via-6medias-CNT000002tqy7c.html"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.franceinfo.fr/pictures/0cub5ODVVjH0qGZNQXdTC2MJEgo/0x70:2000x1195/1500x843/2026/10/28/6ae1d5a38f9d6760186614.jpg",
+            "credit": "franceinfo",
+            "alt": "Deux trains à grande vitesse sont entrés en collision sur la ligne entre Madrid et Séville (Espagne), le 28 octobre 2026."
+          }
         }
       ],
       "breves": [
