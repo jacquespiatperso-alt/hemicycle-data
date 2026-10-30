@@ -89,7 +89,12 @@
               "t": "Socialmag – AESH : l'Assemblée vote leur accès à la fonction publique, le Sénat doit encore se prononcer",
               "u": "https://www.socialmag.news/29/10/2026/aesh-assemblee-vote-statut-fonctionnaire-senat-octobre-2026/"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.handicap.fr/static/contenu/img3/aesh-la-titularisation-est-votee-a-l-assemblee-39899.webp",
+            "credit": "Handicap.fr",
+            "alt": "une adulte aide un enfant dans une classe"
+          }
         },
         {
           "id": "2026-10-30-primaire-attal",
@@ -177,7 +182,12 @@
               "t": "Europe 1 – Présidentielle 2027 : François Bayrou souhaite une primaire du « PS jusqu'aux gaullistes »",
               "u": "https://www.europe1.fr/politique/presidentielle-2027-francois-bayrou-souhaite-une-primaire-du-ps-jusquaux-gaullistes-pour-eviter-un-duel-melenchon-le-pen-1006772"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2026-09/AFP__20260903__C78K3HV__v1__HighRes__France2027PoliticsElectionRenaissance.jpg?itok=ETdbUVUt",
+            "credit": "LCP",
+            "alt": "Illustration de l'article de LCP"
+          }
         },
         {
           "id": "2026-10-30-acte-iii-macron-jeunes",
@@ -264,7 +274,12 @@
               "t": "LCP – Malgré les annonces du gouvernement, les organisations lycéennes et étudiantes veulent continuer la mobilisation",
               "u": "https://lcp.fr/actualites/malgre-les-annonces-du-gouvernement-les-organisations-lyceennes-et-etudiantes-veulent"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2026-10/macron%2028%2010%2026.jpg?itok=KKHd48pr",
+            "credit": "LCP",
+            "alt": "Illustration de l'article de LCP"
+          }
         },
         {
           "id": "2026-10-30-contribution-emeutes-assurance",
@@ -336,7 +351,12 @@
               "t": "Public Sénat – Taxe « émeutes » : ce qu'il faut savoir sur la hausse des cotisations d'assurance en 2027",
               "u": "https://www.publicsenat.fr/actualites/politique/taxe-emeutes-ce-quil-faut-savoir-sur-la-hausse-des-cotisations-dassurance-en-2027"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.publicsenat.fr/app/uploads/2026/10/SIPA_sipausa30579610_000007-1200x630.jpg",
+            "credit": "Public Sénat",
+            "alt": "Illustration de l'article de Public Sénat"
+          }
         },
         {
           "id": "2026-10-30-lagarde-bce-depart",
@@ -419,7 +439,12 @@
               "t": "L'Express via Orange – Christine Lagarde va quitter la présidence de la Banque centrale européenne en février 2027",
               "u": "https://actu.orange.fr/politique/christine-lagarde-va-quitter-la-presidence-de-la-banque-centrale-europeenne-en-fevrier-2027-l-express-via-6medias-CNT000002ts85w.html"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2026-10/christine%20lagarde%20x.jpg?itok=p_g8dbyb",
+            "credit": "LCP",
+            "alt": "Illustration de l'article de LCP"
+          }
         }
       ],
       "breves": [
