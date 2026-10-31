@@ -93,7 +93,12 @@
               "t": "Europe 1 – En direct, acte III : le préfet de police de Paris va faire appel",
               "u": "https://europe1.fr/societe/en-direct-en-direct-acte-iii-les-parcours-de-la-cgt-et-des-gilets-jaunes-interdits-par-la-prefecture-de-police-1194750"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.publicsenat.fr/app/uploads/2026/10/manif-scaled-e1793376862349-1200x630.jpg",
+            "credit": "Public Sénat",
+            "alt": "Illustration de l'article de Public Sénat"
+          }
         },
         {
           "id": "2026-10-31-pib-exit-tax",
@@ -177,7 +182,12 @@
               "t": "Assemblée nationale – Compte rendu de la première séance du vendredi 30 octobre 2026",
               "u": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-vendredi-30-octobre-2026"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2026-10/Eva%20Sas.jpg?itok=nf3d7ioo",
+            "credit": "LCP",
+            "alt": "Illustration de l'article de LCP"
+          }
         },
         {
           "id": "2026-10-31-commission-17-octobre",
@@ -256,7 +266,12 @@
               "t": "20 Minutes (AFP) – Violences du 17 octobre : la corapporteure Horizons de la commission d'enquête démissionne",
               "u": "https://fr.news.yahoo.com/sport/violences-17-octobre-corapporteure-horizons-112807595.html"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2024-02/firmin%20le%20bodo%20assemblee%2012%20decembre%202023.jpg?itok=gRdbvCvP",
+            "credit": "LCP",
+            "alt": "Illustration de l'article de LCP"
+          }
         },
         {
           "id": "2026-10-31-israel-resultats",
@@ -335,7 +350,12 @@
               "t": "The Times of Israël – La diplomatie française gardera son « cap », quel que soit le résultat des élections en Israël",
               "u": "https://fr.timesofisrael.com/la-diplomatie-francaise-gardera-son-cap-quel-que-soit-le-resultat-des-elections-en-israel/"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://proxymedia.woopic.com/api/v1/images/2275%2Factu%2Farticles6medias%2F4f5%2Fbb6%2F9800ebc6149b26576d49e9d24f%2FBenyamin-Netanyahou-980x450.jpg?format=1200x630&facedetect=1&quality=85",
+            "credit": "L'Express via Orange",
+            "alt": "Illustration de l'article de L'Express via Orange"
+          }
         }
       ],
       "breves": [
