@@ -97,7 +97,12 @@
               "t": "Le Singulier – Un gendarme touché par un cocktail molotov à Paris, des responsables politiques réclament des comptes",
               "u": "https://lesinguliersete.fr/un-gendarme-touche-par-un-cocktail-molotov-a-paris-des-responsables-politiques-reclament-des-comptes/"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://images.euronews.com/articles/stories/09/97/48/87/1200x675_cmsv2_444d96fe-1958-5b89-8825-2ae8cdbd2705-9974887.jpg",
+            "credit": "Euronews",
+            "alt": "Acte III de la colère sociale en France : participation en baisse, tensions dans les grandes villes"
+          }
         },
         {
           "id": "2026-11-01-rentree-blocages",
@@ -176,7 +181,12 @@
               "t": "LCP – Lycées : Emmanuel Macron appelle à la reprise des cours dans le « calme » à la rentrée lundi",
               "u": "https://lcp.fr/actualites/lycees-emmanuel-macron-appelle-a-la-reprise-des-cours-dans-le-calme-a-la-rentree-lundi"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.franceinfo.fr/pictures/duvFaUwMpDtRY8B8gIsz6WQipyk/0x53:1024x629/1500x843/2026/10/31/6ae5ee95523bd762061970.jpg",
+            "credit": "franceinfo",
+            "alt": "Les leaders lycéens et étudiants Marius Mesnil, Sabrine Kharbach, Suzanne Nijdam et Manon Moret, le 26 octobre 2026, à Paris."
+          }
         },
         {
           "id": "2026-11-01-petition-cnews",
@@ -255,7 +265,12 @@
               "t": "Élections 2027 – Supprimer CNews : une pétition dépasse les 300 000 signatures",
               "u": "https://elections2027.com/article/2026-10-31-supprimer-cnews-une-petition-depasse-les-300-000-signatures"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2026-10/AFP__20261017__HL_BOHIER_3341390__v1__HighRes__FranceIllustrationMicroCnewsParis.jpg?itok=i2PkigbD",
+            "credit": "LCP",
+            "alt": "Illustration de l'article de LCP"
+          }
         },
         {
           "id": "2026-11-01-gaz-treve-hivernale",
@@ -339,7 +354,12 @@
               "t": "MoneyVox – Facture d'électricité : de nouvelles heures creuses en novembre 2026 pour 9,3 millions de consommateurs",
               "u": "https://www.moneyvox.fr/energie/actualites/110970/facture-electricite-de-nouvelles-heures-creuses-en-novembre-2026-pour-9-3-millions-de-consommateurs"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://proxymedia.woopic.com/api/v1/images/2275%2Factu%2Farticles6medias%2F855%2Fae9%2Fd5673c28d2c4bde8a13f85c107%2Fpexels-mateusz-feliksik-1896604-13422435-980x450.jpg?format=1200x630&facedetect=1&quality=85",
+            "credit": "L'Express",
+            "alt": "Illustration de l'article de L'Express"
+          }
         },
         {
           "id": "2026-11-01-midterms-etats-unis",
@@ -419,7 +439,12 @@
               "t": "20 minutes – Élections de mi-mandat : Trump face à la fébrilité de son camp républicain",
               "u": "https://www.20min.ch/fr/story/resultats-des-midterms-fin-de-campagne-febrile-pour-trump-103659195"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.touteleurope.eu/wp-content/uploads/2026/10/United_States_House_of_Representatives_chamber.jpg",
+            "credit": "Toute l'Europe",
+            "alt": "Illustration de l'article de Toute l'Europe"
+          }
         }
       ],
       "breves": [
