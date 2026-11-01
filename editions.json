@@ -1,6 +1,468 @@
 {
-  "updated": "2026-10-31T06:43:00+01:00",
+  "updated": "2026-11-01T06:31:00+01:00",
   "editions": [
+    {
+      "date": "2026-11-01",
+      "label": "Dimanche 1er novembre 2026",
+      "maj": "Mise à jour à 6 h 31",
+      "intro": "L'acte III de la mobilisation contre la vie chère a réuni 320 000 manifestants selon le ministère de l'Intérieur, près de 500 000 selon les organisations de jeunesse, sur un parcours parisien finalement imposé par le Conseil d'État, et s'est achevé par des heurts et un gendarme touché par un cocktail Molotov. À la veille de la rentrée, lycéens et étudiants appellent à bloquer leurs établissements mardi et jeudi. Une pétition demandant la fermeture de CNews dépasse les 300 000 signatures sur le site de l'Assemblée, et ce 1er novembre ouvre la trêve hivernale avec une nouvelle hausse du gaz. À l'étranger, les États-Unis votent mardi pour leurs élections de mi-mandat.",
+      "stories": [
+        {
+          "id": "2026-11-01-acte-iii-bilan",
+          "rubrique": "Social",
+          "titre": "Acte III : 320 000 manifestants selon l'Intérieur, un parcours parisien imposé par le Conseil d'État et un gendarme touché par un cocktail Molotov",
+          "chapo": "La troisième journée de mobilisation contre la vie chère a rassemblé moins de monde que les deux précédentes, selon les chiffres officiels. Les cortèges se sont déroulés dans le calme pour l'essentiel, mais des heurts ont éclaté en fin de journée à Paris, Lyon, Marseille, Bordeaux et Toulouse.",
+          "faits": [
+            "Le ministère de l'Intérieur a compté 320 000 manifestants en France, dont 70 000 à Paris selon la préfecture de police, contre 410 000 le 24 octobre et 550 000 le 17 octobre ; l'intersyndicale jeunesse (Union étudiante, Fage, Unef, USL) revendique près de 500 000 participants, dont 200 000 à Paris.",
+            "Saisi en appel par le ministère de l'Intérieur, le Conseil d'État a annulé la décision du tribunal administratif qui autorisait le parcours Bastille-Nation, jugeant l'interdiction « ni inadaptée ni disproportionnée » ; le cortège parisien a suivi le trajet imposé, de la porte de Bagnolet à la porte de Charenton.",
+            "Vers 17 h, près de la porte de Charenton, deux gendarmes mobiles ont été touchés par un cocktail Molotov ; l'un d'eux, dont la tenue a pris feu, est légèrement blessé et n'a pas cessé son service, et Laurent Nuñez parle de « tentative de meurtre ».",
+            "Le ministère a recensé 565 interpellations à 21 h, contre 768 en fin de journée le 24 octobre ; des affrontements ont aussi eu lieu place Jean-Macé à Lyon, place de la Victoire à Bordeaux, à Marseille, à Toulouse, à Rennes et à Nantes.",
+            "Les couvre-feux de 23 h à 6 h autour de République et de Châtelet sont maintenus jusqu'à lundi matin ; selon la CCI, 600 des 2 500 commerces touchés lors des journées précédentes n'ont pas rouvert."
+          ],
+          "enjeu": "La décrue de la participation officielle et le calme relatif des cortèges peuvent conforter la stratégie de fermeté du gouvernement, tandis que les organisateurs dénoncent une entrave au droit de manifester. L'agression du gendarme relance le débat sur l'ultragauche, que le ministre désigne comme responsable des violences. La grève interprofessionnelle du 5 novembre dira si le mouvement s'essouffle ou s'élargit.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement la mobilisation contre la vie chère, dénonce les interdictions de parcours comme une atteinte au droit de manifester et appelle à étendre le mouvement vers une grève générale reconductible.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Jean-Luc Mélenchon (LFI), présent dans le cortège parisien, salue une foule « aussi disciplinée » que la semaine précédente malgré les stations de métro fermées, et avertit Emmanuel Macron : « Il devra céder ou partir ».",
+              "src": "BFMTV, 31 octobre 2026"
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement les revendications salariales et de pouvoir d'achat portées par les syndicats, défend le droit de manifester et condamne les violences contre les forces de l'ordre comme contre les manifestants.",
+              "src": ""
+            },
+            "eco": {
+              "type": "declare",
+              "texte": "Marine Tondelier (Les Écologistes), présente à Lille, voit dans ces rassemblements « le dernier échauffement » avant la grève du 5 novembre, tout en prévenant qu'« il n'y a pas d'automaticité » à une victoire de la gauche.",
+              "src": "Europe 1, 31 octobre 2026"
+            },
+            "ren": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement le gouvernement dans le maintien de l'ordre, condamne les violences et met en avant les mesures déjà annoncées pour les lycéens et le pouvoir d'achat, en appelant au dialogue avec les syndicats.",
+              "src": ""
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement le droit de manifester et l'ordre public à la fois, condamne les violences et plaide pour une sortie de crise par la négociation avec les partenaires sociaux et les organisations de jeunesse.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant met habituellement l'accent sur l'autorité de l'État et la fermeté face aux casseurs, soutient les interdictions de parcours décidées par les préfets et met en garde contre des concessions coûteuses pour les finances publiques.",
+              "src": ""
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Bruno Retailleau (LR) juge l'attaque contre le gendarme « insupportable » : « Celui qui a fait ça doit en répondre. Il s'agit d'une tentative de meurtre. »",
+              "src": "Europe 1, 31 octobre 2026"
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Marine Le Pen (RN) qualifie les images d'« insupportables » et demande que les auteurs soient « retrouvés et condamnés avec la plus grande sévérité » ; Éric Ciotti (UDR) demande combien de temps le gouvernement refusera de qualifier ces groupes d'extrême gauche de « forces terroristes ».",
+              "src": "Europe 1 et Le Singulier, 31 octobre 2026"
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant dénonce habituellement les violences de l'extrême gauche en marge des manifestations, réclame la dissolution des groupes impliqués et une réponse pénale sévère, et critique un mouvement qu'il juge politisé.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Euronews – Acte III de la colère sociale en France : participation importante mais en baisse",
+              "u": "https://fr.euronews.com/2026/10/31/acte-iii-de-la-colere-sociale-en-france-une-situation-globalement-calme-premieres-tensions"
+            },
+            {
+              "t": "Europe 1 – Mobilisation du 31 octobre : près d'un demi-million de manifestants selon l'intersyndicale jeunesse, 320 000 selon le ministère de l'Intérieur",
+              "u": "https://www.europe1.fr/societe/en-direct-mobilisation-du-31-octobre-pres-dun-demi-million-de-personnes-ont-manifeste-a-annonce-lintersyndicale-jeunesse-contre-320000-personnes-selon-le-ministere-de-linterieur-1196982"
+            },
+            {
+              "t": "20 Minutes – Manifestations du 31 octobre : « Une tentative de meurtre »… Ciblés par un cocktail Molotov, deux gendarmes prennent feu",
+              "u": "https://fr.news.yahoo.com/sport/manifestations-31-octobre-tentative-meurtre-194040212.html"
+            },
+            {
+              "t": "BFMTV – « Il devra céder ou partir » : Jean-Luc Mélenchon avertit Emmanuel Macron après la manifestation du 31 octobre",
+              "u": "https://fr.news.yahoo.com/devra-ceder-partir-jean-luc-214639958.html"
+            },
+            {
+              "t": "Trait d'Union (AFP) – Manifestation du 31 octobre : le Conseil d'État annule la décision du tribunal administratif de Paris",
+              "u": "https://www.traitdunion.com.ar/2026/10/31/manifestation-du-31-octobre-le-conseil-detat-annule-la-decision-du-tribunal-administratif-de-paris-le-parcours-bastillenation-est-interdit/"
+            },
+            {
+              "t": "Le Singulier – Un gendarme touché par un cocktail molotov à Paris, des responsables politiques réclament des comptes",
+              "u": "https://lesinguliersete.fr/un-gendarme-touche-par-un-cocktail-molotov-a-paris-des-responsables-politiques-reclament-des-comptes/"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-01-rentree-blocages",
+          "rubrique": "Éducation",
+          "titre": "Rentrée lundi : l'exécutif espère des lycées rouverts, les organisations de jeunesse appellent à bloquer mardi et jeudi",
+          "chapo": "Les vacances de la Toussaint s'achèvent sans accord entre le gouvernement et le mouvement lycéen et étudiant. L'Union syndicale lycéenne et l'Union étudiante appellent à des assemblées générales dès lundi, puis à des blocages les 3 et 5 novembre.",
+          "faits": [
+            "L'Union syndicale lycéenne (USL) et l'Union étudiante appellent à tenir des assemblées générales lundi 2 novembre, jour de la rentrée, puis à bloquer lycées et universités mardi 3 et jeudi 5 novembre, et à rejoindre ce jour-là la grève interprofessionnelle.",
+            "Elles réclament l'abrogation de Parcoursup, davantage de professeurs et de moyens, et un plan national de rénovation du bâti ; le président de l'USL, Ryad Rani, demande « des conditions de dignité » pour étudier, et la secrétaire générale de l'Unef, Manon Moret, estime que le gouvernement n'a toujours pas répondu concrètement.",
+            "Le gouvernement a annoncé le 26 octobre le remplacement de Parcoursup pour la campagne 2028, un plafond de 28 élèves par classe de seconde, l'annulation de 836 suppressions de postes et 15 000 places supplémentaires dans le supérieur ; un comité de réforme doit rendre ses premières recommandations courant novembre.",
+            "Invité de HugoDécrypte le 28 octobre, Emmanuel Macron a dit souhaiter qu'« à la rentrée, après les vacances de la Toussaint, les lycées puissent rouvrir » et appelé à « revenir au calme des deux côtés »."
+          ],
+          "enjeu": "La première semaine de rentrée dira si les annonces du gouvernement ont désamorcé le mouvement ou si les blocages reprennent à l'échelle d'avant les vacances. La jonction avec la grève du 5 novembre peut redonner de l'ampleur à la mobilisation, au moment où l'Assemblée vote sur la partie recettes du budget, qui porte une partie des mesures promises.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement les blocages lycéens et étudiants, réclame la fin de toute sélection à l'entrée de l'université et appelle à la convergence avec la grève des salariés.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Aurélie Trouvé (LFI) estime que les annonces du gouvernement montrent que le mouvement paie et qu'il doit continuer ; elle juge Parcoursup « une horreur » et réclame son abrogation immédiate.",
+              "src": "LCP, 26 octobre 2026"
+            },
+            "soc": {
+              "type": "declare",
+              "texte": "Colombe Brossel (PS) juge que « le gouvernement a craqué l'allumette et veut maintenant utiliser l'extincteur » et qualifie les annonces de demi-mesures.",
+              "src": "Public Sénat, 27 octobre 2026"
+            },
+            "eco": {
+              "type": "declare",
+              "texte": "Jean-Claude Raux (Les Écologistes) défend un droit d'accès au premier cycle pour tout bachelier, avec une priorité dans son académie, et dénonce une « pénurie organisée » de places.",
+              "src": "Le Singulier, 28 octobre 2026"
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "Violette Spillebout (EPR) plaide pour « une refonte complète de l'orientation » et reconnaît une crise de confiance autour d'un dispositif anxiogène, en demandant davantage de transparence.",
+              "src": "LCP, 28 octobre 2026"
+            },
+            "modem": {
+              "type": "declare",
+              "texte": "Marc Fesneau (Les Démocrates) reconnaît les dysfonctionnements de Parcoursup mais veut conserver un outil de sélection à l'entrée de l'université, en espérant que le débat évite « la démagogie ».",
+              "src": "LCP, 26 octobre 2026"
+            },
+            "hor": {
+              "type": "declare",
+              "texte": "Philippe Fait (Horizons) défend la méritocratie républicaine et prévient qu'une sélection supprimée à l'entrée de l'université reviendrait plus tard sous une forme qu'il juge plus brutale.",
+              "src": "Le Singulier, 28 octobre 2026"
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Max Brisson (LR) qualifie les annonces du gouvernement de « bricolage » et estime que le vrai problème tient à la réforme du « bac Blanquer ».",
+              "src": "Public Sénat, 27 octobre 2026"
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Roger Chudeau (RN) veut remettre les épreuves du bac au centre en supprimant le contrôle continu et réduire le nombre de formations proposées dans le supérieur.",
+              "src": "LCP, 28 octobre 2026"
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant condamne habituellement les blocages d'établissements, défend un baccalauréat exigeant fondé sur des examens nationaux et une sélection au mérite, et dénonce une politisation des lycéens.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "franceinfo – L'Union syndicale lycéenne et l'Union étudiante appellent à bloquer lycées et universités mardi et jeudi",
+              "u": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/l-union-syndicale-lyceenne-et-l-union-etudiante-appellent-a-bloquer-lycees-et-universites-mardi-et-jeudi_8261864.html"
+            },
+            {
+              "t": "BFMTV – Colère sociale : les syndicats lycéens et étudiants appellent à bloquer les lycées et universités mardi et jeudi",
+              "u": "https://www.shango.media/bfm-tv-colere-sociale-les-syndicats-lyceens-et-etudiants-appellent-a-bloquer-les-lycees-et-universites-mardi-et-jeudi-12003894"
+            },
+            {
+              "t": "LCP – Lycées : Emmanuel Macron appelle à la reprise des cours dans le « calme » à la rentrée lundi",
+              "u": "https://lcp.fr/actualites/lycees-emmanuel-macron-appelle-a-la-reprise-des-cours-dans-le-calme-a-la-rentree-lundi"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-01-petition-cnews",
+          "rubrique": "Médias",
+          "titre": "La pétition pour « supprimer CNews » dépasse les 300 000 signatures sur le site de l'Assemblée",
+          "chapo": "Déposée en juin, la pétition a pris son essor après l'attentat raciste de Trappes et de La Verrière. Elle n'a aucun effet juridique direct : seule l'Arcom peut retirer à la chaîne sa convention de diffusion.",
+          "faits": [
+            "Déposée le 10 juin 2026 par Lucas Massoni sur la plateforme de pétitions de l'Assemblée nationale, la pétition demande le « retrait immédiat de la convention TNT » de CNews et la fermeture de la chaîne du groupe Bolloré.",
+            "Elle a passé 100 000 signatures jeudi, 200 000 vendredi et 300 000 samedi 31 octobre, un essor lié selon LCP à l'attentat raciste du 24 octobre à Trappes et à La Verrière, qui a fait un mort et sept blessés.",
+            "Son auteur affirme que la chaîne a fait l'objet de 27 mises en garde ou mises en demeure de l'Arcom et de 630 000 euros d'amendes depuis 2019.",
+            "Au-delà de 500 000 signatures issues d'au moins 30 départements ou collectivités d'outre-mer, la conférence des présidents peut décider d'un débat en séance, sans vote ni conséquence législative automatique ; seule l'Arcom peut retirer une convention de diffusion."
+          ],
+          "enjeu": "La pétition pose la question de la régulation des chaînes d'information et de la frontière entre opinion et respect des obligations de pluralisme fixées par l'Arcom. Elle divise la classe politique entre ceux qui y voient une réponse aux discours de haine et ceux qui y voient une atteinte à la liberté d'expression, à six mois de la présidentielle.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant dénonce habituellement la concentration des médias entre les mains de grands groupes privés et la place qu'il juge faite aux idées d'extrême droite, et réclame la nationalisation ou le démantèlement de ces groupes.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Thomas Portes (LFI) estime que la chaîne a, depuis des années, « mis une cible dans le dos des musulmans ».",
+              "src": "LCP, 31 octobre 2026"
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement une loi anti-concentration des médias, l'indépendance des rédactions et un contrôle plus strict du pluralisme par l'Arcom, plutôt que la fermeture d'une chaîne par le pouvoir politique.",
+              "src": ""
+            },
+            "eco": {
+              "type": "declare",
+              "texte": "Benjamin Lucas-Lundy (groupe Écologiste et social) oppose les défenseurs de la République au « camp de la haine, du racisme, de CNews, du RN » ; avec Léa Balage El Mariky (Les Écologistes), il demande le retrait des accréditations des médias du groupe Bolloré à l'Assemblée.",
+              "src": "LCP, 31 octobre 2026"
+            },
+            "ren": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement l'indépendance de l'Arcom et le respect des obligations de pluralisme par les chaînes, tout en refusant qu'une décision politique ou une pétition décide de l'existence d'un média.",
+              "src": ""
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant plaide habituellement pour le pluralisme et la régulation des médias par une autorité indépendante, et met en garde contre la polarisation du débat public.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement la liberté de la presse et le rôle de l'Arcom, et se montre réservé face aux appels à fermer un média, qu'il juge contraires à l'État de droit.",
+              "src": ""
+            },
+            "d": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement la liberté d'expression et le pluralisme des opinions, et voit dans les appels à fermer une chaîne une tentation de censure portée par la gauche.",
+              "src": ""
+            },
+            "dn": {
+              "type": "lecture",
+              "texte": "Le courant dénonce habituellement les appels à fermer CNews comme une volonté de censure d'un média qu'il juge pluraliste, et critique l'Arcom lorsqu'elle sanctionne les chaînes du groupe Bolloré.",
+              "src": ""
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement CNews comme un espace de liberté face à des médias qu'il juge alignés à gauche, et dénonce la pétition comme une entreprise de censure.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "LCP – « Supprimer CNews » : une pétition demandant la « fermeture » de la chaîne du groupe Bolloré dépasse les 300 000 signatures sur le site de l'Assemblée",
+              "u": "https://lcp.fr/actualites/supprimer-cnews-une-petition-demandant-la-fermeture-de-la-chaine-du-groupe-bollore"
+            },
+            {
+              "t": "La DH – CNews, « une machine à propagande » ? La pétition contre la chaîne atteint les 250 000 signatures",
+              "u": "https://www.dhnet.be/medias/television/2026/10/31/cnews-une-machine-a-propagande-la-petition-contre-la-chaine-atteint-les-250-000-signatures-7W2T3SXW6ZDW5F5GTLKASWXDWU/"
+            },
+            {
+              "t": "Élections 2027 – Supprimer CNews : une pétition dépasse les 300 000 signatures",
+              "u": "https://elections2027.com/article/2026-10-31-supprimer-cnews-une-petition-depasse-les-300-000-signatures"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-01-gaz-treve-hivernale",
+          "rubrique": "Énergie",
+          "titre": "1er novembre : le gaz augmente de 6,6 %, la trêve hivernale commence et les stocks de gazole doivent faire baisser les prix",
+          "chapo": "Le prix repère du gaz connaît une nouvelle hausse, portée par les marchés de gros depuis le début de la guerre dans le Golfe. Le même jour s'ouvre la trêve hivernale et entre en vigueur l'obligation de répercuter à la pompe la baisse liée aux stocks stratégiques.",
+          "faits": [
+            "Selon la Commission de régulation de l'énergie (CRE), le prix repère du gaz passe de 182,88 à 194,90 euros TTC le mégawattheure, soit +6,6 %, environ 12 euros de plus en novembre pour les quelque 6 millions de ménages aux offres indexées ; les offres à prix fixe, environ 40 % des clients, ne bougent pas.",
+            "La CRE estime que la facture annuelle de 2026 sera supérieure d'environ 11 % à celle de 2025, soit quelque 135 euros ; le prix de gros européen TTF est passé de 31,47 euros le MWh le 27 février à 82,76 euros pour les contrats de novembre.",
+            "La trêve hivernale court jusqu'au 31 mars 2027 : les expulsions locatives et les coupures de gaz ou d'électricité dans la résidence principale sont suspendues, même si les fournisseurs peuvent réduire la puissance électrique, sauf pour les bénéficiaires du chèque énergie.",
+            "Un décret du 23 octobre oblige les distributeurs ayant acheté des stocks stratégiques de gazole à répercuter une baisse sur le gazole et le fioul domestique dès le 1er novembre ; le gouvernement l'estime à 12 à 18 centimes par litre, et une aide carburant de 100 euros reste ouverte jusqu'au 31 décembre sous conditions de revenus.",
+            "Les retraites complémentaires Agirc-Arrco sont revalorisées de 1,4 %, et les plages d'heures creuses de 9,3 millions de clients d'électricité commencent à être modifiées."
+          ],
+          "enjeu": "La hausse du gaz tombe au début de la saison de chauffe et en pleine mobilisation contre la vie chère, ce qui place le coût de l'énergie au centre des revendications. Le gouvernement mise sur les stocks de gazole et des aides ciblées, quand une partie de l'opposition réclame une baisse des taxes ou un retour à des tarifs réglementés.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant réclame habituellement la gratuité des premiers volumes d'énergie, l'interdiction des coupures toute l'année et la nationalisation des fournisseurs d'énergie sans indemnisation.",
+              "src": ""
+            },
+            "gr": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement le blocage des prix de l'énergie, le retour à des tarifs réglementés du gaz et de l'électricité et l'interdiction permanente des coupures pour impayés.",
+              "src": ""
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant plaide habituellement pour un bouclier tarifaire ciblé sur les ménages modestes, une hausse du chèque énergie et un effort sur la rénovation des logements.",
+              "src": ""
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant met habituellement en avant la sortie des énergies fossiles, la rénovation thermique des logements et des aides ciblées sur les ménages précaires plutôt que des baisses générales de prix.",
+              "src": ""
+            },
+            "ren": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement des aides ciblées, comme l'aide carburant et le chèque énergie, et la mobilisation des stocks stratégiques, en refusant un bouclier généralisé jugé trop coûteux pour les finances publiques.",
+              "src": ""
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement des mesures ciblées sur les ménages modestes et les gros rouleurs, et insiste sur la protection des plus fragiles pendant l'hiver.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant privilégie habituellement des aides ciblées et la maîtrise de la dépense publique, et met en garde contre des baisses de taxes non financées.",
+              "src": ""
+            },
+            "d": {
+              "type": "lecture",
+              "texte": "Le courant réclame habituellement une baisse de la fiscalité sur l'énergie et les carburants, en particulier pour les classes moyennes et les habitants des zones rurales.",
+              "src": ""
+            },
+            "dn": {
+              "type": "lecture",
+              "texte": "Le courant réclame habituellement une baisse de la TVA sur l'énergie et les carburants et la sortie du marché européen de l'électricité, qu'il tient pour responsable de la hausse des factures.",
+              "src": ""
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant réclame habituellement une forte baisse des taxes sur l'énergie et les carburants et critique les règles européennes de fixation des prix.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "L'Express – Prix de l'énergie, découverts bancaires, heures creuses… Tout ce qui change au 1er novembre 2026",
+              "u": "https://actu.orange.fr/france/prix-de-l-energie-decouverts-bancaires-heures-creuses-tout-ce-qui-change-au-1er-novembre-2026-l-express-via-6medias-CNT000002tpeXe.html"
+            },
+            {
+              "t": "Connaissance des énergies (AFP) – France : le prix de référence du gaz augmentera de 6,6 % au 1er novembre",
+              "u": "https://www.connaissancedesenergies.org/afp/france-le-prix-de-reference-du-gaz-augmentera-de-66-au-1er-novembre-261012"
+            },
+            {
+              "t": "Selectra – Ce qui change en novembre 2026 : aide carburant, gaz, trêve hivernale, crédit",
+              "u": "https://selectra.info/energie/actualites/marche/ce-qui-change-novembre-2026-aide-carburant-credit"
+            },
+            {
+              "t": "MoneyVox – Facture d'électricité : de nouvelles heures creuses en novembre 2026 pour 9,3 millions de consommateurs",
+              "u": "https://www.moneyvox.fr/energie/actualites/110970/facture-electricite-de-nouvelles-heures-creuses-en-novembre-2026-pour-9-3-millions-de-consommateurs"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-01-midterms-etats-unis",
+          "rubrique": "International",
+          "titre": "États-Unis : à deux jours des élections de mi-mandat, les démocrates en tête des sondages et l'administration Trump multiplie les recours",
+          "chapo": "Les Américains renouvellent mardi toute la Chambre des représentants et 35 sièges du Sénat. Plus de 49 millions d'électeurs ont déjà voté par anticipation.",
+          "faits": [
+            "Le scrutin du mardi 3 novembre porte sur les 435 sièges de la Chambre des représentants, où les républicains détiennent 218 sièges contre 214, et sur 35 des 100 sièges du Sénat, où ils en ont 53 ; les démocrates doivent gagner au moins quatre sièges dans chaque chambre pour y devenir majoritaires.",
+            "Selon un sondage Reuters/Ipsos réalisé du 16 au 19 octobre, 47 % des électeurs inscrits comptent voter démocrate pour la Chambre, contre 35 % pour les républicains.",
+            "Plus de 49 millions d'Américains ont déjà voté, selon l'Election Lab de l'université de Floride, contre près de 46 millions à la même période en 2022.",
+            "Le ministère de la Justice a poursuivi une trentaine d'États et le district de Columbia pour obtenir des listes électorales non expurgées, et attaqué la Californie pour empêcher le dépouillement de plus de 20 000 bulletins ; un juge fédéral lui a ordonné vendredi de cesser de menacer de poursuites les responsables électoraux californiens.",
+            "Donald Trump tient ce dimanche des meetings au Kansas et dans l'Iowa."
+          ],
+          "enjeu": "Une Chambre ou un Sénat démocrate compliquerait l'adoption des lois et du budget, ouvrirait des enquêtes parlementaires sur l'administration Trump et pourrait bloquer certaines nominations. Pour la France et l'Europe, l'issue pèse sur la politique commerciale américaine, le soutien à l'Ukraine et l'avenir de l'Otan.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant dénonce habituellement l'impérialisme américain sous les présidences républicaines comme démocrates, et ne voit pas dans l'alternance au Congrès de changement de fond pour les travailleurs.",
+              "src": ""
+            },
+            "gr": {
+              "type": "lecture",
+              "texte": "Le courant critique habituellement la politique de Donald Trump, défend une diplomatie française indépendante des États-Unis et la sortie du commandement intégré de l'Otan.",
+              "src": ""
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant s'inquiète habituellement des atteintes de l'administration Trump à l'État de droit et au processus électoral, et souhaite un rééquilibrage au Congrès favorable au multilatéralisme et au soutien à l'Ukraine.",
+              "src": ""
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant critique habituellement la politique climatique et migratoire de Donald Trump et défend l'autonomie stratégique européenne face aux États-Unis.",
+              "src": ""
+            },
+            "ren": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement une relation transatlantique solide mais une Europe plus autonome sur la défense et le commerce, quel que soit le résultat des élections américaines.",
+              "src": ""
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant plaide habituellement pour une Europe unie et souveraine face aux États-Unis, attachée au multilatéralisme et au soutien à l'Ukraine.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant met habituellement en avant le réarmement européen et la nécessité de ne plus dépendre des choix politiques américains pour la sécurité du continent.",
+              "src": ""
+            },
+            "d": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement l'alliance avec les États-Unis et une Europe de la défense, tout en s'opposant aux droits de douane américains qui frappent l'agriculture et l'industrie françaises.",
+              "src": ""
+            },
+            "dn": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement une politique étrangère centrée sur la souveraineté nationale, observe avec intérêt la ligne de Donald Trump sur l'immigration et critique les droits de douane qui touchent les producteurs français.",
+              "src": ""
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant affiche habituellement sa proximité avec le camp de Donald Trump sur l'immigration et les questions de société, et dénonce une presse qu'il juge hostile aux républicains américains.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Boursorama (Reuters) – USA/Midterms : la campagne pour le contrôle du Congrès entre dans sa dernière ligne droite",
+              "u": "https://www.boursorama.com/actualite-economique/actualites/usa-midterms-la-campagne-pour-le-controle-du-congres-entre-dans-sa-derniere-ligne-droite-c83107718341b6659750ab4d9c4c646e"
+            },
+            {
+              "t": "Toute l'Europe – Midterms : tout savoir sur les élections américaines du 3 novembre",
+              "u": "https://www.touteleurope.eu/l-ue-dans-le-monde/midterms-tout-savoir-sur-les-elections-americaines-du-3-novembre/"
+            },
+            {
+              "t": "20 minutes – Élections de mi-mandat : Trump face à la fébrilité de son camp républicain",
+              "u": "https://www.20min.ch/fr/story/resultats-des-midterms-fin-de-campagne-febrile-pour-trump-103659195"
+            }
+          ]
+        }
+      ],
+      "breves": [
+        {
+          "titre": "Hommage national après l'attentat de Trappes : la présence de Sébastien Lecornu contestée",
+          "texte": "Annoncé le 28 octobre, l'hommage national aux victimes de l'attentat raciste de Trappes et de La Verrière n'a toujours ni date ni lieu. Me Yassine Bouzrou, avocat de cinq parties civiles, juge sur RTL que sa présidence par le Premier ministre est « une insulte » et conteste aussi la participation d'Aurore Bergé. Le maire de La Verrière, Nicolas Dainville, demande que les victimes de sa commune y aient toute leur place.",
+          "src": {
+            "t": "La Clé publique – Attentat de Trappes : la présidence de Lecornu contestée",
+            "u": "https://laclepublique.fr/yvelines/articles/2026/2026-10-29-hommage-national-trappes/"
+          }
+        },
+        {
+          "titre": "Découverts et paiements fractionnés : de nouvelles règles au 20 novembre",
+          "texte": "À partir du 20 novembre, les banques devront analyser la solvabilité de leurs clients avant d'accorder un découvert, y compris de moins de 200 euros ou d'un mois au plus. Les paiements en trois ou quatre fois de moins de 90 jours deviennent des crédits à la consommation, avec obligation d'information et d'évaluation de la solvabilité. Les autorisations existantes ne sont pas automatiquement remises en cause.",
+          "src": {
+            "t": "L'Express – Tout ce qui change au 1er novembre 2026",
+            "u": "https://actu.orange.fr/france/prix-de-l-energie-decouverts-bancaires-heures-creuses-tout-ce-qui-change-au-1er-novembre-2026-l-express-via-6medias-CNT000002tpeXe.html"
+          }
+        }
+      ],
+      "agenda": [
+        {
+          "d": "Dim. 1er nov.",
+          "t": "Début de la trêve hivernale ; hausse de 6,6 % du prix repère du gaz ; Donald Trump en meeting au Kansas et dans l'Iowa"
+        },
+        {
+          "d": "Lun. 2 nov.",
+          "t": "Rentrée scolaire après les vacances de la Toussaint ; assemblées générales lycéennes et étudiantes"
+        },
+        {
+          "d": "Mar. 3 nov.",
+          "t": "Vote solennel de l'Assemblée sur la partie recettes du budget 2027 ; audition de Laurent Nuñez par la commission d'enquête sur le 17 octobre ; blocages de lycées et d'universités ; élections de mi-mandat aux États-Unis"
+        },
+        {
+          "d": "Mer. 4 nov.",
+          "t": "Israël : remise des résultats officiels des législatives au président Isaac Herzog"
+        },
+        {
+          "d": "Jeu. 5 nov.",
+          "t": "Grève interprofessionnelle et manifestations, rejointes par les organisations de jeunesse"
+        }
+      ]
+    },
     {
       "date": "2026-10-31",
       "label": "Samedi 31 octobre 2026",
@@ -2852,423 +3314,6 @@
         {
           "d": "Lun. 9 nov.",
           "t": "Début de l'examen du budget de la Sécu au Sénat"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-25",
-      "label": "Dimanche 25 octobre 2026",
-      "maj": "Mise à jour à 6 h 32",
-      "intro": "L'« acte II » de la mobilisation a réuni samedi entre 410 000 manifestants selon le gouvernement et 800 000 selon la CGT, avec près de 1 000 interpellations et des heurts en fin de cortège à Paris. L'enquête sur l'attentat de Trappes avance : le suspect aurait dit avoir visé des personnes en raison de leur couleur de peau, et les propos d'Emmanuel Macron sur une « première fois » suscitent la polémique. Réélu à 98,98 % à la tête du RN, Jordan Bardella passe ce dimanche la main à Marine Le Pen, qui lance sa campagne à Orléans. À l'international, le Brésil vote pour un second tour très serré entre Lula et Flávio Bolsonaro.",
-      "stories": [
-        {
-          "id": "2026-10-25-acte-ii-bilan",
-          "rubrique": "Social",
-          "titre": "« Acte II » : 410 000 à 800 000 manifestants, près de 1 000 interpellations et des heurts en fin de journée",
-          "chapo": "La deuxième journée de mobilisation contre la vie chère s'est tenue samedi sous un dispositif de 70 000 policiers et gendarmes. Les cortèges ont été moins nombreux que le 17 octobre, mais des affrontements ont éclaté en fin de journée à Paris, Grenoble, Bordeaux ou Lyon.",
-          "faits": [
-            "Le ministère de l'Intérieur a compté environ 410 000 manifestants en France, dont 110 000 à Paris ; la CGT en revendique près de 800 000, dont 250 000 dans la capitale.",
-            "À Paris, le cortège syndical est finalement parti à 14 heures de la porte d'Italie vers la porte de Vincennes, sur le parcours imposé par la préfecture ; à partir de 17 h 30, plus de 500 personnes ont affronté les forces de l'ordre sur le cours de Vincennes, dispersées au canon à eau et au gaz lacrymogène.",
-            "Laurent Nuñez a fait état samedi soir de près de 1 000 interpellations dans le pays ; à Paris, le parquet recensait 64 interpellations, dont 40 gardes à vue et six mineurs. Le ministre estime que « les cortèges se sont bien passés », tout en dénonçant la présence de « casseurs ».",
-            "Des heurts ont été signalés à Grenoble, où quelque 400 militants radicaux ont brisé des vitrines de banques, ainsi qu'à Bordeaux, Lyon, Lille, Nantes, Rennes et Marseille ; à Toulouse, un jeune homme de 20 ans a été grièvement blessé à la main. Des pillages ont été signalés, sans commune mesure avec ceux du 17 octobre selon Euronews.",
-            "La veille au soir, le Conseil d'État avait rejeté les recours de sept partis de gauche et d'associations contre la consigne présidentielle d'interdire « partout où on le peut » les rassemblements non syndicaux, estimant que ces propos ne révélaient pas une décision générale d'interdiction."
-          ],
-          "enjeu": "L'exécutif peut faire valoir que la journée n'a pas reproduit les violences du 17 octobre, tandis que la gauche et les syndicats y voient la preuve d'une mobilisation qui dure. La réunion de lundi à Matignon et la grève interprofessionnelle du 5 novembre diront si le mouvement s'essouffle ou s'élargit.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement l'extension des grèves et des manifestations jusqu'à la satisfaction des revendications salariales, et dénonce les interdictions de manifester et les interpellations comme une répression du mouvement social.",
-              "src": ""
-            },
-            "gr": {
-              "type": "declare",
-              "texte": "Jean-Luc Mélenchon (LFI), en tête du cortège parisien, appelle Emmanuel Macron à « céder », faute de quoi « il ne lui restera plus que la porte de sortie », et prévient que la mobilisation va « se répéter toutes les semaines ».",
-              "src": "Euronews et Yahoo Actualités, 24 octobre 2026"
-            },
-            "soc": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement les revendications syndicales sur les salaires et le pouvoir d'achat, défend la liberté de manifester contre les restrictions jugées excessives, et condamne les violences commises en marge des cortèges.",
-              "src": ""
-            },
-            "eco": {
-              "type": "declare",
-              "texte": "Marine Tondelier (Les Écologistes) accuse le gouvernement de mener « la stratégie du pourrissement » pour qu'on ne parle plus des revendications, et lance à Laurent Nuñez : « si c'était un test de détermination, nous l'avons remporté ! »",
-              "src": "Yahoo Actualités, 24 octobre 2026"
-            },
-            "ren": {
-              "type": "declare",
-              "texte": "Le Premier ministre Sébastien Lecornu (Renaissance) avait prévenu à la veille de la journée que « le niveau de menace reste élevé », en visant l'ultragauche et la délinquance, tout en promettant des réponses sur le fond lundi.",
-              "src": "L'essentiel, 23 octobre 2026"
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement le dialogue avec les partenaires sociaux et l'apaisement, en distinguant les manifestants pacifiques des auteurs de violences, et soutient le maintien de l'ordre républicain.",
-              "src": ""
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant met habituellement l'accent sur l'autorité de l'État et la fermeté face aux violences urbaines, tout en appelant à des réponses concrètes sur le pouvoir d'achat et à la maîtrise des comptes publics.",
-              "src": ""
-            },
-            "d": {
-              "type": "declare",
-              "texte": "Bruno Retailleau (LR) a dénoncé après le 17 octobre une « convergence entre l'extrême gauche et des racailles », réclamé l'état d'urgence et une loi « anti-casseurs », et jugé les couvre-feux insuffisants.",
-              "src": "AFP via L'Info durable, 19 octobre 2026"
-            },
-            "dn": {
-              "type": "declare",
-              "texte": "Depuis le congrès d'Orléans, Jordan Bardella (RN) a appelé ses militants au calme face à des adversaires qu'il accuse d'inciter à l'émeute, et a mis en cause LFI et Jean-Luc Mélenchon.",
-              "src": "AFP via Orange, 24 octobre 2026"
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant réclame habituellement une répression accrue des violences urbaines, qu'il relie à l'immigration, ainsi que l'interdiction des groupes d'ultragauche, et conteste la légitimité des mouvements portés par la gauche.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "Euronews – Colère sociale en France, acte II : 1 000 interpellations en marge des cortèges",
-              "u": "https://fr.euronews.com/2026/10/24/france-acte-ii-de-la-colere-sociale-la-manifestation-contre-le-congres-du-rn-debute-a-orle"
-            },
-            {
-              "t": "L'Express (via Orange) – Mobilisation du 24 octobre : près de 800 000 manifestants selon la CGT, 410 000 selon le ministère de l'Intérieur",
-              "u": "https://actu.orange.fr/france/mobilisation-du-24-octobre-pres-de-800-000-manifestants-selon-la-cgt-410-000-selon-le-ministere-de-l-interieur-l-express-via-6medias-CNT000002tn8ty.html"
-            },
-            {
-              "t": "Yahoo Actualités – Manifestations du 24 octobre : Jean-Luc Mélenchon appelle Emmanuel Macron à « céder »",
-              "u": "https://fr.news.yahoo.com/manifestations-24-octobre-jean-luc-130747354.html"
-            },
-            {
-              "t": "L'Express (via Orange) – Interdiction de manifester : le Conseil d'État rejette les recours",
-              "u": "https://actu.orange.fr/politique/interdiction-de-manifester-le-conseil-d-etat-rejette-les-recours-apres-les-declarations-d-emmanuel-macron-l-express-via-6medias-CNT000002tmrXh.html"
-            },
-            {
-              "t": "L'Info durable (AFP) – Violences : Retailleau dénonce une « convergence entre l'extrême gauche et des racailles »",
-              "u": "https://www.linfodurable.fr/violences-retailleau-denonce-une-convergence-entre-lextreme-gauche-et-des-racailles-issues-de-59467"
-            }
-          ],
-          "image": {
-            "u": "https://proxymedia.woopic.com/api/v1/images/2275%2Factu%2Farticles6medias%2F5d7%2F9a0%2F09f557e511b937fecc52a7761f%2FABACA_1024619_005-1.jpg?format=1200x630&facedetect=1&quality=85",
-            "credit": "L'Express (via Orange)",
-            "alt": "Illustration de l'article de L'Express (via Orange)"
-          }
-        },
-        {
-          "id": "2026-10-25-trappes-enquete",
-          "rubrique": "Sécurité",
-          "titre": "Attentat de Trappes : le suspect aurait visé ses victimes selon leur couleur de peau, la « première fois » de Macron fait polémique",
-          "chapo": "La garde à vue du tireur présumé a été prolongée samedi et trois de ses proches ont été placés en garde à vue. Les propos du chef de l'État sur un acte sans précédent sont contestés jusque dans les rangs de la gauche.",
-          "faits": [
-            "Le parquet national antiterroriste (PNAT) a prolongé samedi la garde à vue de Kévin T., 39 ans, qui peut durer jusqu'à 96 heures ; trois membres de son entourage familial et amical, dont ses parents selon Le Parisien, ont aussi été placés en garde à vue.",
-            "Selon Le Monde, cité par 6Medias, le suspect aurait dit aux policiers vouloir « venger les commerçants » pillés le 17 octobre en visant des « Noirs » et des « Arabes ». Un pistolet-mitrailleur Sten a été saisi dans sa voiture et un dispositif de bouteilles de gaz relié à un minuteur a été découvert à son domicile de Plaisir.",
-            "L'homme tué à Trappes avait 26 ans et était, selon la presse, un espoir du MMA français ; cinq personnes ont été blessées, dont une fillette de 12 ans toujours « en urgence absolue » selon le PNAT.",
-            "Emmanuel Macron avait parlé vendredi de « la première fois qu'il y a un acte terroriste planifié pour tuer » des Français en raison de leur couleur de peau ou de leur religion supposée ; face aux critiques rappelant les attentats antisémites et antichrétiens, l'Élysée a précisé qu'il visait « le premier attentat raciste sur le fondement de la couleur de peau », et le président a écrit qu'« aucune douleur ne doit être hiérarchisée »."
-          ],
-          "enjeu": "L'enquête doit établir si le suspect a agi seul et s'il avait annoncé son projet. Au-delà, l'attentat ravive le débat sur l'effet des discours politiques sur l'immigration et l'islam, et la polémique sur les mots du président montre combien la mémoire des attentats reste un terrain sensible.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant dénonce habituellement le racisme comme le produit d'un climat politique et médiatique qu'il attribue à l'extrême droite et aux gouvernements successifs, et appelle à une mobilisation antiraciste dans la rue.",
-              "src": ""
-            },
-            "gr": {
-              "type": "declare",
-              "texte": "Jean-Luc Mélenchon (LFI) a réagi d'un « Le racisme tue » et parlé d'un « crime odieux » ; Manuel Bompard (LFI) souligne que le tireur a visé des passants « en fonction de leur couleur de peau ». Fabien Roussel (PCF) évoque « une attaque terroriste raciste ».",
-              "src": "LCP et L'Express, 23 octobre 2026"
-            },
-            "soc": {
-              "type": "declare",
-              "texte": "Olivier Faure (PS) met en cause ceux qui « banalisent le racisme et propagent l'idée du grand remplacement ». Le député Jérôme Guedj (PS) juge toutefois la déclaration présidentielle sur une « première fois » « factuellement fausse ».",
-              "src": "LCP, 23 octobre 2026 ; Blick, 24 octobre 2026"
-            },
-            "eco": {
-              "type": "declare",
-              "texte": "Marine Tondelier (Les Écologistes) parle d'« un attentat raciste » et estime que « le racisme tue car la violence des mots précède toujours la violence des actes ».",
-              "src": "LCP et L'Express, 23 octobre 2026"
-            },
-            "ren": {
-              "type": "declare",
-              "texte": "Gabriel Attal (Renaissance), président du groupe Ensemble pour la République, a réagi : « La haine tue. La haine déchire notre pays. La haine doit cesser. »",
-              "src": "LCP, 23 octobre 2026"
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant appelle habituellement à l'unité nationale et au refus des amalgames après un attentat, en insistant sur la cohésion républicaine et la confiance dans l'enquête judiciaire.",
-              "src": ""
-            },
-            "hor": {
-              "type": "declare",
-              "texte": "Édouard Philippe (Horizons) écrit que « l'horreur a frappé » et que « le terrorisme doit être combattu sans relâche, avec une détermination absolue ».",
-              "src": "LCP et L'Express, 23 octobre 2026"
-            },
-            "d": {
-              "type": "declare",
-              "texte": "Bruno Retailleau (LR) dénonce une « violence terrifiante ». L'eurodéputé François-Xavier Bellamy (LR) demande au président de ne pas nier « la réalité des larmes versées par la France » lors des précédents attentats.",
-              "src": "LCP, 23 octobre 2026 ; Blick, 24 octobre 2026"
-            },
-            "dn": {
-              "type": "declare",
-              "texte": "Marine Le Pen (RN) évoque « un acte barbare dont les motivations devront être établies ». Jordan Bardella (RN) conteste les propos du président : « ce n'est pas “la première fois” ». Éric Ciotti (UDR) parle d'« une abomination ».",
-              "src": "LCP, 23 octobre 2026 ; Blick, 24 octobre 2026"
-            },
-            "ed": {
-              "type": "declare",
-              "texte": "L'eurodéputée Sarah Knafo (Reconquête) reproche au président ses propos sur une « première fois » : « Soirée tragique où un président choisit ses morts ».",
-              "src": "Blick, 24 octobre 2026"
-            }
-          },
-          "sources": [
-            {
-              "t": "6Medias (via Orange) – Attentat à Trappes : le tireur présumé dit avoir ciblé des personnes selon leur couleur de peau, sa garde à vue prolongée",
-              "u": "https://actu.orange.fr/societe/fait-divers/attentat-a-trappes-le-tireur-presume-dit-avoir-cible-des-personnes-selon-leur-couleur-de-peau-sa-garde-a-vue-prolongee-6medias-CNT000002tn6hf.html"
-            },
-            {
-              "t": "Le JDD – Attentat de Trappes : trois proches du suspect en garde à vue, la sienne prolongée",
-              "u": "https://www.lejdd.fr/Societe/attentat-de-trappes-trois-proches-du-suspect-en-garde-a-vue-la-sienne-prolongee-186822"
-            },
-            {
-              "t": "Blick – Trappes : Macron provoque un tollé après ses propos sur l'attentat",
-              "u": "https://www.blick.ch/fr/monde/france/trappes-macron-provoque-un-tolle-apres-ses-propos-sur-lattentat/pgqsp3d"
-            },
-            {
-              "t": "LCP – « La haine doit cesser » : l'émotion de la classe politique après l'attaque dans les Yvelines",
-              "u": "https://lcp.fr/actualites/la-haine-doit-cesser-l-emotion-de-la-classe-politique-apres-l-attaque-dans-les-yvelines"
-            },
-            {
-              "t": "L'Express (via Orange) – Fusillade mortelle à Trappes : les réactions de la classe politique",
-              "u": "https://actu.orange.fr/politique/fusillade-mortelle-a-trappes-acte-barbare-le-racisme-tue-les-reactions-de-la-classe-politique-l-express-via-6medias-CNT000002tmawH.html"
-            }
-          ],
-          "image": {
-            "u": "https://proxymedia.woopic.com/api/v1/images/2275%2Factu%2Farticles6medias%2Fb90%2Fa6e%2Fbd44698addfc92f645346afc67%2Ftrappes.jpg?format=1200x630&facedetect=1&quality=85",
-            "credit": "6Medias (via Orange)",
-            "alt": "Illustration de l'article de 6Medias (via Orange)"
-          }
-        },
-        {
-          "id": "2026-10-25-rn-orleans-le-pen",
-          "rubrique": "Présidentielle 2027",
-          "titre": "Bardella réélu à 98,98 %, Marine Le Pen lance sa campagne ce dimanche à Orléans",
-          "chapo": "Le congrès du RN s'est déroulé samedi sans incident majeur, à distance d'une contre-manifestation restée calme. Marine Le Pen tient cet après-midi son premier grand meeting de campagne, à six mois du premier tour.",
-          "faits": [
-            "Seul candidat, Jordan Bardella a été réélu samedi président du Rassemblement national avec 98,98 % des voix, pour une participation d'environ 68 % ; le parti revendique 112 000 adhérents, contre 36 000 lors du congrès de 2022.",
-            "Au conseil national, élu par les adhérents, le député Jean-Philippe Tanguy arrive en tête, devant Louis Aliot, Sébastien Chenu, Julien Odoul et Laure Lavalette.",
-            "La contre-manifestation du matin a réuni 13 000 personnes selon les autorités et 26 000 selon les organisateurs, sans incident majeur, en présence notamment d'Olivier Faure, Clémentine Autain et Bally Bagayoko ; près de 3 000 policiers et gendarmes étaient mobilisés et les rassemblements restent interdits ce dimanche dans une grande partie de l'agglomération.",
-            "Marine Le Pen prend la parole ce dimanche à 15 heures au Co'Met d'Orléans, une salle de 10 000 places, après Jordan Bardella ; selon l'AFP, son discours sera centré sur la « renaissance » et vise à « insuffler un peu d'optimisme ». Les sondages la placent en tête, avec jusqu'à 38 % des intentions de vote au premier tour."
-          ],
-          "enjeu": "Le RN veut installer l'image d'un parti en ordre de marche et d'une candidate en position de gagner, au moment où le pays traverse une crise sociale et sécuritaire. Ses adversaires vont chercher à replacer le débat sur son programme et sur le climat créé, selon eux, par ses discours, au lendemain de l'attentat de Trappes.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant combat habituellement le RN comme un parti d'extrême droite, appelle à la mobilisation de rue contre ses meetings et considère que seule une politique de rupture sociale peut lui retirer son électorat populaire.",
-              "src": ""
-            },
-            "gr": {
-              "type": "lecture",
-              "texte": "Le courant présente habituellement le RN comme son principal adversaire, conteste son programme social et son discours sur l'immigration, et participe aux mobilisations antifascistes organisées lors de ses rassemblements.",
-              "src": ""
-            },
-            "soc": {
-              "type": "declare",
-              "texte": "Olivier Faure (PS), présent dans le cortège d'Orléans, estime que « la banalisation du racisme est inacceptable », au lendemain de l'attentat de Trappes.",
-              "src": "Euronews, 24 octobre 2026"
-            },
-            "eco": {
-              "type": "lecture",
-              "texte": "Le courant combat habituellement le RN sur les terrains de l'écologie, des libertés publiques et de l'accueil des étrangers, et appelle au rassemblement de la gauche pour lui faire barrage à la présidentielle.",
-              "src": ""
-            },
-            "ren": {
-              "type": "lecture",
-              "texte": "Le courant critique habituellement le programme économique et européen du RN, qu'il juge coûteux et dangereux pour la place de la France en Europe, et se présente comme le rempart central face aux extrêmes.",
-              "src": ""
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant s'oppose habituellement au RN au nom de l'engagement européen et du pluralisme, tout en défendant son droit à se réunir et en appelant à combattre ses idées par le débat plutôt que par la rue.",
-              "src": ""
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant conteste habituellement la crédibilité budgétaire du programme du RN et se pose en alternative de gouvernement à droite, en misant sur l'expérience et la stabilité.",
-              "src": ""
-            },
-            "d": {
-              "type": "lecture",
-              "texte": "Le courant dispute habituellement au RN l'électorat de droite sur la sécurité et l'immigration, en mettant en avant sa crédibilité de gouvernement et en critiquant le programme économique du RN.",
-              "src": ""
-            },
-            "dn": {
-              "type": "declare",
-              "texte": "Jordan Bardella (RN), réélu président, accuse LFI et Jean-Luc Mélenchon d'être prêts à subvertir les institutions et à refuser le résultat des urnes, et prévient que gouverner apportera des difficultés qui ne justifieront pas de renoncer aux promesses.",
-              "src": "AFP via La Libre, 25 octobre 2026"
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant reproche habituellement au RN d'avoir modéré ses positions sur l'immigration et l'identité, tout en appelant à l'union des droites pour l'emporter en 2027.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "AFP (via Orange) – Orléans : Bardella réélu au congrès du RN après une manifestation « antifasciste » sans heurts",
-              "u": "https://actu.orange.fr/france/orleans-bardella-reelu-au-congres-du-rn-apres-une-manifestation-quot-antifasciste-quot-sans-heurts-CNT000002tmrQT.html"
-            },
-            {
-              "t": "LCP – Jordan Bardella réélu à la tête du Rassemblement national",
-              "u": "https://lcp.fr/actualites/jordan-bardella-reelu-a-la-tete-du-rassemblement-national-444251"
-            },
-            {
-              "t": "LCP – Jean-Philippe Tanguy au plus haut, Mathieu Valet consacré : la popularité des cadres du RN testée par une élection interne",
-              "u": "https://lcp.fr/actualites/jean-philippe-tanguy-au-plus-haut-mathieu-valet-consacre-la-popularite-des-cadres-du-rn"
-            },
-            {
-              "t": "La Libre (AFP) – Pour son premier meeting de campagne, Le Pen veut « insuffler de l'optimisme » dans un pays en crise",
-              "u": "https://www.lalibre.be/dernieres-depeches/2026/10/25/pour-son-premier-meeting-de-campagne-le-pen-veut-insuffler-de-loptimisme-dans-un-pays-en-crise-QXFUPYUA7JB7ZIVYMIAHQRYFM4/"
-            }
-          ],
-          "image": {
-            "u": "https://proxymedia.woopic.com/api/v1/images/2275%2Factu%2Fafp-news%2F540834e3-1ac5-441c-aa9b-7f189df05559.jpg?format=1200x630&facedetect=1&quality=85",
-            "credit": "AFP (via Orange)",
-            "alt": "Illustration de l'article de AFP (via Orange)"
-          }
-        },
-        {
-          "id": "2026-10-25-bresil-second-tour",
-          "rubrique": "International",
-          "titre": "Brésil : second tour indécis entre Lula et Flávio Bolsonaro",
-          "chapo": "Les Brésiliens départagent ce dimanche le président sortant, Lula, et le fils aîné de Jair Bolsonaro, arrivé en tête du premier tour. Les derniers sondages donnent un écart dans la marge d'erreur.",
-          "faits": [
-            "Au premier tour, le 4 octobre, Flávio Bolsonaro (Parti libéral) a obtenu 47,0 % des voix contre 45,2 % pour Luiz Inácio Lula da Silva (Parti des travailleurs), alors que les sondages donnaient le président sortant en tête.",
-            "Les instituts Datafolha et Quaest, publiés samedi, créditent Flávio Bolsonaro de 51 % contre 49 % pour Lula, un écart dans la marge d'erreur ; les deux candidats ont mobilisé leurs partisans dans la rue à la veille du scrutin.",
-            "Lula brigue un quatrième mandat non consécutif. Son adversaire, soutenu par Donald Trump, défend un alignement sur Washington, la lutte contre la criminalité et une libéralisation de l'économie ; son père, Jair Bolsonaro, a été condamné en 2025 à 27 ans de prison pour la tentative de coup d'État.",
-            "Selon Le Grand Continent, aucun candidat arrivé deuxième au premier tour n'a remporté la présidentielle brésilienne depuis 1989. Les résultats sont attendus dans la nuit, heure de Paris."
-          ],
-          "enjeu": "Une victoire de Flávio Bolsonaro ferait basculer la première puissance d'Amérique latine dans le camp des dirigeants proches de Donald Trump, après la Colombie, le Chili et le Pérou. Pour la France et l'Europe, le scrutin pèse sur l'accord UE-Mercosur, la protection de l'Amazonie et la coopération climatique.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement les mouvements ouvriers et paysans latino-américains, tout en critiquant la politique de Lula, jugée trop conciliante avec les milieux d'affaires, et voit dans le bolsonarisme une menace autoritaire.",
-              "src": ""
-            },
-            "gr": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement Lula, présenté comme une figure de la gauche latino-américaine, et dénonce le bolsonarisme ainsi que l'influence des États-Unis sur la région.",
-              "src": ""
-            },
-            "soc": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement Lula et la gauche démocratique brésilienne, en mettant en avant la lutte contre la pauvreté, la protection de l'Amazonie et la défense des institutions face à la tentative de coup d'État.",
-              "src": ""
-            },
-            "eco": {
-              "type": "lecture",
-              "texte": "Le courant met habituellement en avant la protection de l'Amazonie et des peuples autochtones, s'inquiète d'un retour du bolsonarisme pour la déforestation et s'oppose à l'accord UE-Mercosur.",
-              "src": ""
-            },
-            "ren": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement un partenariat stratégique avec le Brésil, quel que soit son dirigeant, sur le climat et la gouvernance mondiale, tout en restant réservé sur l'accord UE-Mercosur en l'état.",
-              "src": ""
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant privilégie habituellement le respect du verdict des urnes et la stabilité démocratique, et plaide pour un dialogue entre l'Europe et l'Amérique latine sur le commerce et le climat.",
-              "src": ""
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement une diplomatie fondée sur les intérêts économiques et stratégiques de la France, attentive à la stabilité politique du Brésil et aux conditions de l'accord UE-Mercosur.",
-              "src": ""
-            },
-            "d": {
-              "type": "lecture",
-              "texte": "Le courant s'oppose habituellement à l'accord UE-Mercosur au nom de l'agriculture française et observe avec intérêt la poussée des droites en Amérique latine, sans prendre parti publiquement dans les élections étrangères.",
-              "src": ""
-            },
-            "dn": {
-              "type": "lecture",
-              "texte": "Le courant voit habituellement dans la progression des droites conservatrices à l'étranger une confirmation de ses thèmes sur la sécurité et la souveraineté, et s'oppose fermement à l'accord UE-Mercosur.",
-              "src": ""
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant affiche habituellement sa proximité avec les droites conservatrices et identitaires étrangères, dont le camp Bolsonaro, et salue leurs succès électoraux comme un mouvement de fond.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "Radio Lac – Sondages : Flavio Bolsonaro devance Lula à la veille du second tour",
-              "u": "https://www.radiolac.ch/actualite/international/sondages-flavio-bolsonaro-devance-lula-a-la-veille-du-second-tour/"
-            },
-            {
-              "t": "Le Grand Continent – Au Brésil, Flavio Bolsonaro en tête du premier tour",
-              "u": "https://legrandcontinent.eu/fr/2026/10/04/au-bresil-flavio-bolsonaro-en-tete-du-premier-tour/"
-            },
-            {
-              "t": "Wikipedia – 2026 Brazilian general election",
-              "u": "https://en.wikipedia.org/wiki/2026_Brazilian_general_election"
-            }
-          ],
-          "image": {
-            "u": "https://www.radiolac.ch/wp-content/uploads/2026/10/20261025011552193-1000x600.jpg",
-            "credit": "Radio Lac",
-            "alt": "Illustration de l'article de Radio Lac"
-          }
-        }
-      ],
-      "breves": [
-        {
-          "titre": "Le Conseil d'État rejette les recours contre la consigne de Macron sur les manifestations",
-          "texte": "Saisie par la LDH, le Syndicat de la magistrature, l'Adelico et sept partis de gauche, la juge des référés a estimé vendredi soir que les propos du président ne révélaient « pas l'existence d'une décision d'interdire toute manifestation » ni d'instruction aux préfets, qui doivent apprécier les risques au cas par cas.",
-          "src": {
-            "t": "L'Express (via Orange) – Interdiction de manifester : le Conseil d'État rejette les recours",
-            "u": "https://actu.orange.fr/politique/interdiction-de-manifester-le-conseil-d-etat-rejette-les-recours-apres-les-declarations-d-emmanuel-macron-l-express-via-6medias-CNT000002tmrXh.html"
-          }
-        },
-        {
-          "titre": "Lycéens : rendez-vous lundi à Matignon après la promesse d'une refonte de Parcoursup",
-          "texte": "Reçues vendredi trois heures à l'Élysée, les organisations lycéennes sont ressorties insatisfaites : l'Union syndicale lycéenne parle d'une réunion « avant tout symbolique, sans aucune mesure concrète ». Sébastien Lecornu les reçoit lundi avec les syndicats, le patronat et des élus.",
-          "src": {
-            "t": "CIDJ – Une « refonte » de Parcoursup annoncée",
-            "u": "https://www.cidj.com/s-orienter/avec-parcoursup/une-refonte-de-parcoursup-annoncee"
-          }
-        },
-        {
-          "titre": "Passage à l'heure d'hiver cette nuit",
-          "texte": "La France métropolitaine a reculé ses horloges d'une heure dans la nuit de samedi à dimanche. La suppression du changement d'heure, votée par le Parlement européen en mars 2019, reste bloquée faute d'accord des États membres au Conseil de l'UE.",
-          "src": {
-            "t": "LCP – Changement d'heure : pourquoi sa suppression, votée en 2019, reste bloquée",
-            "u": "https://lcp.fr/actualites/changement-d-heure-pourquoi-sa-suppression-votee-en-2019-reste-bloquee-444250"
-          }
-        }
-      ],
-      "agenda": [
-        {
-          "d": "Dim. 25 oct.",
-          "t": "Meeting de lancement de campagne de Marine Le Pen à 15 h au Co'Met d'Orléans ; second tour de la présidentielle au Brésil"
-        },
-        {
-          "d": "Lun. 26 oct.",
-          "t": "Sébastien Lecornu réunit organisations lycéennes, étudiantes, syndicales, patronales et élus à Matignon ; autonomie de la Corse en séance au Sénat"
-        },
-        {
-          "d": "Mar. 27 oct.",
-          "t": "Reprise de l'examen de la partie recettes du budget 2027 à l'Assemblée ; projet de loi « casseurs-payeurs » en séance au Sénat"
-        },
-        {
-          "d": "Jeu. 5 nov.",
-          "t": "Journée de grève et de manifestations interprofessionnelle ; la CGT appelle à généraliser la grève"
-        },
-        {
-          "d": "Lun. 9 nov.",
-          "t": "Début de l'examen du budget de la Sécu au Sénat, dans la version initiale du gouvernement"
-        },
-        {
-          "d": "Vers le 10 nov.",
-          "t": "Pourparlers Russie-Ukraine-États-Unis à Abou Dhabi, selon le Kremlin"
         }
       ]
     }
