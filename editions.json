@@ -84,7 +84,12 @@
               "t": "BFMTV (via Shango) – Colère sociale : Marine Tondelier condamne les violences des émeutiers contre les policiers",
               "u": "https://www.shango.media/bfm-tv-colere-sociale-marine-tondelier-condamne-les-violences-des-emeutiers-contre-les-policiers-12008424"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2024-12/9356947651_929369f46d_k.jpg?itok=75gMeP79",
+            "credit": "LCP",
+            "alt": "Illustration de l'article de LCP"
+          }
         },
         {
           "id": "2026-11-02-pompier-pennes-mirabeau",
@@ -164,7 +169,12 @@
               "t": "L'essentiel (AFP) – Un sapeur-pompier visé par balle aux Pennes-Mirabeau : le tireur remis à la justice",
               "u": "https://www.lessentiel.lu/fr/story/pres-de-marseille-un-pompier-grievement-blesse-par-balle-lors-d-une-intervention-103660309"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.boursorama.com/static/i/content/images/0/0/5/005ca094b4a879269d125afafc0e9e93-1200x800.jpg",
+            "credit": "Boursorama (AFP)",
+            "alt": "Des voitures de police bloquent l'accès à une zone commerciale où un sapeur-pompier a été « très grièvement blessé par balle » aux Pennes-Mirabeau, près de Marseille, le 1er novembre 2026 ( AFP / Justine Meddah )"
+          }
         },
         {
           "id": "2026-11-02-budget-vote-recettes",
@@ -248,7 +258,12 @@
               "t": "LCP – « L'économie française est à l'arrêt » et « ira dans le mur » sans un « redressement budgétaire », alerte Roland Lescure",
               "u": "https://lcp.fr/actualites/l-economie-francaise-est-a-l-arret-et-ira-dans-le-mur-sans-un-redressement-budgetaire"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2026-10/Eva%20Sas.jpg?itok=nf3d7ioo",
+            "credit": "LCP",
+            "alt": "Illustration de l'article de LCP"
+          }
         },
         {
           "id": "2026-11-02-philippe-primaire-polony",
@@ -331,7 +346,12 @@
               "t": "L'Express (via Orange) – Les trois infos à retenir ce dimanche 1er novembre",
               "u": "https://actu.orange.fr/france/les-trois-infos-a-retenir-ce-dimanche-1er-novembre-l-express-via-6medias-CNT000002tuXVR.html"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2026-11/Capture%20d%E2%80%99e%CC%81cran%202026-11-01%20a%CC%80%2020.56.56.png?itok=bLAsTtXB",
+            "credit": "LCP",
+            "alt": "Illustration de l'article de LCP"
+          }
         },
         {
           "id": "2026-11-02-midterms-veille",
@@ -406,7 +426,12 @@
               "t": "Toute l'Europe – Midterms : tout savoir sur les élections américaines du 3 novembre",
               "u": "https://www.touteleurope.eu/l-ue-dans-le-monde/midterms-tout-savoir-sur-les-elections-americaines-du-3-novembre/"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://proxymedia.woopic.com/api/v1/images/2275%2Factu%2Farticles6medias%2F604%2Feab%2F5f7ef5fd34c9d62cb694569c0b%2Ftrumpmidterms0111.jpg?format=1200x630&facedetect=1&quality=85",
+            "credit": "L'Express (via Orange)",
+            "alt": "Illustration de l'article de L'Express (via Orange)"
+          }
         }
       ],
       "breves": [
