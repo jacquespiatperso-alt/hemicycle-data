@@ -89,7 +89,12 @@
               "t": "Europe 1 – Budget 2027 : Lecornu et le PS se confrontent, le RN veut aller « au débat »",
               "u": "https://www.europe1.fr/politique/budget-2027-lecornu-et-le-ps-se-confrontent-le-rn-veut-aller-au-debat-1145681"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2025-07/Assembl%C3%A9e%20nationale%20ext%C3%A9rieur.jpg?itok=cY4dvXO2",
+            "credit": "LCP",
+            "alt": "Illustration de l'article de LCP"
+          }
         },
         {
           "id": "2026-11-03-lycees-blocages-semaine",
@@ -173,7 +178,12 @@
               "t": "BFMTV (via Shango) – Colère sociale : Marine Tondelier condamne les violences des émeutiers contre les policiers",
               "u": "https://www.shango.media/bfm-tv-colere-sociale-marine-tondelier-condamne-les-violences-des-emeutiers-contre-les-policiers-12008424"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2026-11/Capture%20d%27%C3%A9cran%202026-11-02%20093153.png?itok=8LJdYZgI",
+            "credit": "LCP",
+            "alt": "Illustration de l'article de LCP"
+          }
         },
         {
           "id": "2026-11-03-pompiers-mobilises",
@@ -256,7 +266,12 @@
               "t": "L'essentiel (AFP) – Un sapeur-pompier visé par balle aux Pennes-Mirabeau : le tireur remis à la justice",
               "u": "https://www.lessentiel.lu/fr/story/pres-de-marseille-un-pompier-grievement-blesse-par-balle-lors-d-une-intervention-103660309"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://images.euronews.com/articles/stories/09/97/67/41/1200x675_cmsv2_4b804b13-d765-56f8-a642-e8ca0cd90afc-9976741.jpg",
+            "credit": "Euronews",
+            "alt": "France : les pompiers mobilisés au lendemain de l'agression par balle d'un de leurs collègues"
+          }
         },
         {
           "id": "2026-11-03-belgique-de-wever-demission",
@@ -335,7 +350,12 @@
               "t": "La Libre – Coulisses : durant le kern nocturne, Bart De Wever a proposé de réduire le salaire des ministres tous les mois en l'absence de budget",
               "u": "https://www.lalibre.be/belgique/politique-belge/2026/11/02/coulisses-durant-le-kern-nocturne-bart-de-wever-a-propose-de-reduire-le-salaire-des-ministres-tous-les-mois-en-labsence-de-budget-GZZEAMEVWVAELHFBOYAFLARMCY/"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.lavenir.net/resizer/v2/J3WJH6PDRJEMNOGKZNNOQSG7JY.jpg?auth=c2ff9a46bf2842eecc663a8b87390f90083c3c945bf9a6be9c76647273e7b820&width=1200&height=630&quality=85&focal=855%2C570",
+            "credit": "L'Avenir",
+            "alt": "Illustration de l'article de L'Avenir"
+          }
         }
       ],
       "breves": [
