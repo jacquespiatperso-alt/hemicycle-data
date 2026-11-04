@@ -79,7 +79,12 @@
               "t": "LCP – Budget : la proposition d'Éric Coquerel au gouvernement pour répondre aux revendications lycéennes et étudiantes",
               "u": "https://lcp.fr/actualites/budget-la-proposition-d-eric-coquerel-au-gouvernement-pour-repondre-aux-revendications"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2026-11/Assemble%CC%81e%20nationale.jpg?itok=ZxIZ74y5",
+            "credit": "LCP",
+            "alt": "Illustration de l'article de LCP"
+          }
         },
         {
           "id": "2026-11-04-jeunesse-greve-jeudi",
@@ -153,7 +158,12 @@
               "t": "Public Sénat – La CGT appelle à une grève générale le 5 novembre à l'issue de la réunion à Matignon",
               "u": "https://www.publicsenat.fr/actualites/politique/la-cgt-appelle-a-une-greve-generale-le-5-novembre-a-lissue-de-la-reunion-a-matignon-des-syndicats"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.franceinfo.fr/pictures/f_5U8e3muT6UM21bUN3-jRuPU10/0x60:1171x719/1500x843/2026/11/03/6aea459290278058783599.jpg",
+            "credit": "franceinfo",
+            "alt": "Mouvement lycéen : les blocages, un point de crispation pour les mobilisés à deux jours de la grève nationale"
+          }
         },
         {
           "id": "2026-11-04-nunez-17-octobre-echec",
@@ -231,7 +241,12 @@
               "t": "LCP – Violences du 17 octobre : la commission d'enquête de l'Assemblée commencera ses travaux",
               "u": "https://lcp.fr/actualites/violences-du-17-octobre-la-commission-d-enquete-de-l-assemblee-commencera-ses-travaux"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2026-11/Laurent%20Nu%C3%B1ez%20le%203%20novembre%202026.jpg?itok=BakHuVgZ",
+            "credit": "LCP",
+            "alt": "Illustration de l'article de LCP"
+          }
         },
         {
           "id": "2026-11-04-livret-a-plafond",
@@ -305,7 +320,12 @@
               "t": "HuffPost – La France insoumise applaudit (presque) cette annonce de Sébastien Lecornu sur le Livret A",
               "u": "https://fr.news.yahoo.com/sport/france-insoumise-applaudit-presque-annonce-193104381.html"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2026-11/Epargne%20S%C3%A9bastien%20Lecornu%20annonce%20un%20rel%C3%A8vement%20du%20plafond%20du%20Livret%20A.jpg?itok=6TCUNVCv",
+            "credit": "LCP",
+            "alt": "Illustration de l'article de LCP"
+          }
         },
         {
           "id": "2026-11-04-petition-cnews-750000",
@@ -375,7 +395,12 @@
               "t": "LCP – Pétition contre CNews : vers l'organisation d'un débat plus large sur la liberté d'expression",
               "u": "https://lcp.fr/actualites/petition-contre-cnews-vers-l-organisation-d-un-debat-plus-large-sur-la-liberte-d"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.publicsenat.fr/app/uploads/2026/11/SIPA_01312813_000002-scaled.jpg",
+            "credit": "Public Sénat",
+            "alt": "Illustration de l'article de Public Sénat"
+          }
         },
         {
           "id": "2026-11-04-midterms-democrates-congres",
@@ -449,7 +474,12 @@
               "t": "France 24 – Midterms en direct : avec des conquêtes historiques, les démocrates s'emparent du Sénat",
               "u": "https://www.france24.com/fr/am%C3%A9riques/20261103-en-direct-etats-unis-midterms-elections-mi-mandat-congres-gouverneurs-trump-democrates-republicains"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://image.20min.ch/2026/11/04/b6ba7754-691e-435c-98d2-34344fc677f7.jpg?auto=format%2Ccompress%2Cenhance&fit=max&w=1200&h=1200&rect=0%2C0%2C1024%2C682&s=7da816894600812f742a1ade5c3e0734",
+            "credit": "20 minutes",
+            "alt": "Illustration de l'article de 20 minutes"
+          }
         }
       ],
       "breves": [
