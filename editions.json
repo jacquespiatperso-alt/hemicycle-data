@@ -1,6 +1,510 @@
 {
-  "updated": "2026-11-03T06:25:00+01:00",
+  "updated": "2026-11-04T06:31:00+01:00",
   "editions": [
+    {
+      "date": "2026-11-04",
+      "label": "Mercredi 4 novembre 2026",
+      "maj": "Mise à jour à 6 h 31",
+      "intro": "Les démocrates ont repris cette nuit le Sénat et la Chambre des représentants, un sérieux revers pour Donald Trump à deux ans de la fin de son mandat. En France, le vote sur les recettes du budget a de nouveau glissé, Laurent Nuñez a reconnu devant les députés que le 17 octobre était « un échec », et Sébastien Lecornu a annoncé le relèvement du plafond du Livret A. Les blocages ont gagné les universités à la veille de la grève de jeudi, et la pétition contre CNews dépasse les 750 000 signatures.",
+      "stories": [
+        {
+          "id": "2026-11-04-budget-recettes-fin",
+          "rubrique": "Budget",
+          "titre": "Budget 2027 : vote des recettes encore reporté, les débats pourraient s'achever ce mercredi soir",
+          "chapo": "Faute d'avoir épuisé les amendements, l'Assemblée n'a pas voté mardi sur la partie recettes. Le rejet reste le scénario le plus probable, et la gauche cherche une autre voie pour financer les mesures promises aux jeunes.",
+          "faits": "Le vote solennel sur la première partie du projet de loi de finances 2027, prévu mardi 3 novembre, n'a pas eu lieu : c'est le deuxième report après celui du 20 octobre. Lundi à minuit, 758 amendements restaient à examiner ; Sébastien Chenu (RN), qui présidait la séance, estimait qu'au même rythme les débats pourraient se terminer mercredi soir. Les députés ont jusqu'au 17 novembre à minuit pour se prononcer sur l'ensemble du texte en première lecture. En cas de rejet des recettes, le budget part au Sénat dans sa version initiale, sans les amendements adoptés et sans examen des dépenses. Le président de la commission des finances, Éric Coquerel (LFI), propose d'inscrire les mesures pour les lycéens et étudiants dans le projet de loi de fin de gestion 2026, examiné en commission le 9 novembre.",
+          "enjeu": "Un rejet effacerait trois semaines de votes, dont plusieurs adoptés contre l'avis du gouvernement. La suite se jouerait au Sénat, puis en commission mixte paritaire, avec le 49.3, la loi spéciale ou les ordonnances en arrière-plan d'ici décembre.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant rejette habituellement tout budget qu'il juge d'austérité, refuse de choisir entre les versions débattues au Parlement et appelle à imposer par la grève une autre répartition des richesses.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Éric Coquerel (LFI), président de la commission des finances, a écrit à Sébastien Lecornu pour inscrire les mesures destinées aux jeunes dans la loi de fin de gestion 2026, financées par une contribution sur les hauts patrimoines ou une taxe sur les superprofits.",
+              "src": "LCP, 3 novembre 2026"
+            },
+            "soc": {
+              "type": "declare",
+              "texte": "Estelle Mercier (PS), cheffe de file du groupe sur le budget, juge la piste de Coquerel possible mais étroite, les crédits 2026 devant être dépensés en deux mois ; Emmanuel Grégoire (PS) suggère plutôt des ordonnances suivies d'une loi rectificative.",
+              "src": "LCP, 3 novembre 2026"
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement une hausse de la fiscalité sur les hauts patrimoines et les superprofits, et des crédits supplémentaires pour l'éducation et la transition écologique, en refusant un budget qu'il juge trop restrictif.",
+              "src": ""
+            },
+            "ren": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement le projet du gouvernement, défend la trajectoire de réduction du déficit et s'oppose aux hausses d'impôts votées par les oppositions, qu'il juge nuisibles à l'activité.",
+              "src": ""
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant appelle habituellement au compromis pour doter le pays d'un budget, se montre ouvert à une contribution des plus hauts revenus et insiste sur la maîtrise de la dette.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant met habituellement l'accent sur la réduction de la dépense publique et la stabilité fiscale, et critique les hausses d'impôts adoptées par amendement.",
+              "src": ""
+            },
+            "d": {
+              "type": "lecture",
+              "texte": "Le courant réclame habituellement des économies sur la dépense publique plutôt que des impôts nouveaux et se montre sévère envers les taxes votées pendant les débats.",
+              "src": ""
+            },
+            "dn": {
+              "type": "lecture",
+              "texte": "Le courant s'oppose habituellement au budget du gouvernement, réclame des économies sur l'immigration, la contribution française à l'Union européenne et les agences de l'État, et défend le pouvoir d'achat.",
+              "src": ""
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant dénonce habituellement le niveau des prélèvements et de la dépense publique, et réclame des économies drastiques sur l'immigration et l'aide sociale.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "LCP – Budget 2027 : le vote solennel prévu mardi n'aura pas lieu",
+              "u": "https://lcp.fr/actualites/budget-2027-le-marathon-de-la-partie-recettes-n-etant-pas-termine-le-vote-solennel-prevu"
+            },
+            {
+              "t": "Public Sénat – Budget 2027 : calendrier, 49.3, ordonnances, les scénarios possibles",
+              "u": "https://www.publicsenat.fr/actualites/politique/budget-2027-calendrier-49-3-ordonnancesquelles-sont-les-echeances-a-venir-et-les-scenarios-possibles"
+            },
+            {
+              "t": "LCP – Budget : la proposition d'Éric Coquerel au gouvernement pour répondre aux revendications lycéennes et étudiantes",
+              "u": "https://lcp.fr/actualites/budget-la-proposition-d-eric-coquerel-au-gouvernement-pour-repondre-aux-revendications"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-04-jeunesse-greve-jeudi",
+          "rubrique": "Social",
+          "titre": "Lycées et facs : 51 établissements du supérieur perturbés mardi selon le ministère, avant la grève interprofessionnelle de jeudi",
+          "chapo": "Les blocages ont gagné les universités mardi, avec des chiffres très éloignés selon les sources. Jeudi 5 novembre, les syndicats appellent à la grève contre la vie chère, rejoints par les organisations de jeunesse.",
+          "faits": "Selon le ministère de l'Enseignement supérieur, 51 établissements sur 184 ont été perturbés mardi, contre environ 15 % lundi ; l'Union étudiante parle d'une université sur deux et de plus de 50 campus bloqués. Le ministère de l'Éducation nationale comptait 48 lycées bloqués à 9 h 30, contre 41 la veille, quand l'Union syndicale lycéenne en revendique plus de 500. À Marseille, l'IGPN a été saisie après la plainte d'un homme blessé lors d'affrontements ; à Montpellier, une infirmière scolaire a été brièvement placée en garde à vue pour outrage, puis relâchée sans poursuite. Matignon a demandé une analyse établissement par établissement, plusieurs lycées étant bloqués de façon répétée. Jeudi, la CGT, FO et les autres syndicats de l'intersyndicale appellent à la grève pour les salaires et les services publics.",
+          "enjeu": "La jonction entre le mouvement lycéen et étudiant et la grève de jeudi sera un test pour le gouvernement, qui a déjà débloqué un milliard d'euros pour le bâti universitaire. Le maintien de l'ordre reste sous surveillance après les blessures graves de lycéens en octobre.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement les blocages et appelle à la grève générale reconductible, en liant revendications de la jeunesse et hausse des salaires.",
+              "src": ""
+            },
+            "gr": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement la mobilisation des jeunes, réclame la fin de Parcoursup, des moyens pour les lycées et universités et une hausse du Smic, et dénonce la répression policière.",
+              "src": ""
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement les revendications sur les moyens de l'école et le pouvoir d'achat, appelle le gouvernement à négocier et plaide pour la désescalade dans le maintien de l'ordre.",
+              "src": ""
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement les mobilisations de la jeunesse, réclame davantage de moyens pour l'éducation et critique l'usage des grenades et du gaz lacrymogène face aux lycéens.",
+              "src": ""
+            },
+            "ren": {
+              "type": "lecture",
+              "texte": "Le courant met habituellement en avant les mesures déjà annoncées par l'exécutif, appelle au dialogue et à la réouverture des établissements, et condamne les violences.",
+              "src": ""
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant appelle habituellement à l'écoute des inquiétudes des jeunes et au dialogue social, tout en défendant le droit d'étudier et la sécurité des établissements.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant insiste habituellement sur le retour au calme, le respect du droit d'étudier et la fermeté face aux blocages et aux dégradations.",
+              "src": ""
+            },
+            "d": {
+              "type": "lecture",
+              "texte": "Le courant condamne habituellement les blocages d'établissements, réclame des sanctions contre leurs auteurs et soutient les forces de l'ordre.",
+              "src": ""
+            },
+            "dn": {
+              "type": "lecture",
+              "texte": "Le courant dénonce habituellement les blocages et le désordre, met en cause l'extrême gauche dans les violences et réclame le rétablissement de l'ordre, tout en reprenant le thème du pouvoir d'achat.",
+              "src": ""
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant dénonce habituellement les blocages comme une manipulation politique de la jeunesse et réclame une répression ferme des débordements.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "franceinfo – Mouvement lycéen : les blocages, un point de crispation pour les mobilisés à deux jours de la grève nationale",
+              "u": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mouvement-lyceen-les-blocages-un-point-de-crispation-pour-les-mobilises-a-deux-jours-de-la-greve-nationale_8266547.html"
+            },
+            {
+              "t": "France 24 – Mobilisations en France : nouveaux blocages de facs et de lycées",
+              "u": "https://www.france24.com/fr/vid%C3%A9o/20261103-mobilisations-en-france-nouveaux-blocages-de-facs-et-de-lyc%C3%A9es"
+            },
+            {
+              "t": "Public Sénat – La CGT appelle à une grève générale le 5 novembre à l'issue de la réunion à Matignon",
+              "u": "https://www.publicsenat.fr/actualites/politique/la-cgt-appelle-a-une-greve-generale-le-5-novembre-a-lissue-de-la-reunion-a-matignon-des-syndicats"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-04-nunez-17-octobre-echec",
+          "rubrique": "Sécurité",
+          "titre": "Devant la commission d'enquête, Laurent Nuñez reconnaît que le 17 octobre « est un échec »",
+          "chapo": "Premier auditionné par la commission d'enquête sur les violences du 17 octobre, le ministre de l'Intérieur assume un « défaut d'anticipation » et rappelle avoir proposé sa démission au lendemain des faits.",
+          "faits": "Mardi 3 novembre, Laurent Nuñez a été le premier entendu par la commission d'enquête de l'Assemblée, présidée par Vincent Caure (EPR) et boycottée par le RN. Il a qualifié la journée d'« échec » et reconnu un défaut d'anticipation qu'il ne réduit pas à une question d'effectifs, en mettant en avant l'intensité et la simultanéité des violences. Une note du renseignement territorial du 15 octobre évoquait un « potentiel insurrectionnel » et un risque de pillages. Le ministre a indiqué avoir proposé sa démission le 18 octobre, refusée par Emmanuel Macron. La veille, devant la commission des lois, il avait refusé de renoncer aux grenades et au gaz lacrymogène.",
+          "enjeu": "L'aveu d'échec relance la question de la responsabilité politique du ministre, dont plusieurs oppositions réclament le départ depuis octobre. Il pèse aussi sur la crédibilité d'une commission fragilisée par le retrait de sa rapporteure et le boycott du RN.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant dénonce habituellement une doctrine de maintien de l'ordre qu'il juge répressive, réclame le désarmement des forces de l'ordre en manifestation et refuse de condamner la colère sociale.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Éric Coquerel (LFI) a réclamé la démission de Laurent Nuñez, jugeant la doctrine du maintien de l'ordre inacceptable ; Danièle Obono (LFI) a étendu cette demande au Premier ministre.",
+              "src": "LCP, 18 octobre 2026"
+            },
+            "soc": {
+              "type": "declare",
+              "texte": "Olivier Faure (PS) a condamné les casseurs tout en demandant un changement de doctrine : « C'est la désescalade qui doit être recherchée, pas la confrontation ».",
+              "src": "LCP, 18 octobre 2026"
+            },
+            "eco": {
+              "type": "declare",
+              "texte": "Marine Tondelier (Les Écologistes) a jugé qu'il n'y avait « pas d'autre issue » à la journée du 17 octobre que la démission du ministre, accusé d'avoir sous-estimé la mobilisation.",
+              "src": "LCP, 18 octobre 2026"
+            },
+            "ren": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement le ministre de l'Intérieur et les forces de l'ordre, tout en se disant favorable au travail d'enquête parlementaire pour tirer les leçons des défaillances.",
+              "src": ""
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant appelle habituellement à faire toute la lumière sur les dysfonctionnements par le contrôle parlementaire, sans remettre en cause le soutien aux forces de l'ordre.",
+              "src": ""
+            },
+            "hor": {
+              "type": "declare",
+              "texte": "Agnès Firmin Le Bodo (Horizons) a renoncé à son rôle de rapporteure de la commission d'enquête, en exprimant des doutes sur la crédibilité de ses travaux.",
+              "src": "LCP, 29 octobre 2026"
+            },
+            "d": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement les forces de l'ordre, met en cause les casseurs et l'ultragauche et réclame davantage de fermeté pénale contre les auteurs de violences.",
+              "src": ""
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Franck Allisio (RN) a jugé Laurent Nuñez « complètement dépassé et incompétent » et estimé qu'il aurait dû démissionner ; le groupe RN boycotte la commission d'enquête.",
+              "src": "LCP, 18 et 29 octobre 2026"
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant dénonce habituellement le laxisme de l'État face aux émeutes, lie les violences urbaines à l'immigration et réclame une répression beaucoup plus dure.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "LCP – 17 octobre : Laurent Nuñez reconnaît « un échec » et « un défaut d'anticipation »",
+              "u": "https://lcp.fr/actualites/17-octobre-laurent-nunez-reconnait-un-echec-et-un-defaut-d-anticipation-qui-ne-se-reduit"
+            },
+            {
+              "t": "LCP – Maintien de l'ordre : Laurent Nuñez ne renoncera à aucun moyen intermédiaire",
+              "u": "https://lcp.fr/actualites/maintien-de-l-ordre-laurent-nunez-ne-renoncera-a-aucun-moyen-intermediaire-comme-les"
+            },
+            {
+              "t": "LCP – « Il n'y a pas d'autre issue que sa démission » : Laurent Nuñez sous le feu des critiques",
+              "u": "https://lcp.fr/actualites/il-n-y-a-pas-d-autre-issue-que-sa-demission-laurent-nunez-sous-le-feu-des-critiques"
+            },
+            {
+              "t": "LCP – Violences du 17 octobre : la commission d'enquête de l'Assemblée commencera ses travaux",
+              "u": "https://lcp.fr/actualites/violences-du-17-octobre-la-commission-d-enquete-de-l-assemblee-commencera-ses-travaux"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-04-livret-a-plafond",
+          "rubrique": "Économie",
+          "titre": "Livret A : Sébastien Lecornu annonce un plafond porté entre 25 000 et 30 000 euros dès février 2027",
+          "chapo": "Inchangé depuis 2013, le plafond du Livret A va être relevé, et son taux aussi. Le Premier ministre veut orienter cette épargne vers le logement social, le nucléaire et l'adaptation au climat.",
+          "faits": "Lors des questions au gouvernement du 3 novembre, Sébastien Lecornu a annoncé le relèvement du plafond du Livret A, aujourd'hui de 22 950 euros, à un montant compris entre 25 000 et 30 000 euros au 1er février 2027. Le montant exact sera fixé par le ministre de l'Économie, Roland Lescure, après concertation avec les banques et la Caisse des dépôts. Le taux, de 1,70 % depuis le 1er août, sera lui aussi relevé en février. Les fonds doivent financer le logement social, le nouveau nucléaire, les réseaux et un programme d'adaptation au changement climatique. Le 16 octobre, des amendements d'Éric Coquerel (LFI) pour un plafond à 30 000 euros avaient été rejetés.",
+          "enjeu": "La mesure touche des millions d'épargnants et renforce le fonds d'épargne de la Caisse des dépôts. Le débat porte désormais sur l'usage de ces sommes, en particulier leur fléchage vers le nucléaire.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant juge habituellement secondaires les mesures sur l'épargne et réclame d'abord des hausses de salaires et un contrôle public des banques.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Éric Coquerel (LFI) salue la reprise d'une mesure qu'il avait défendue mais refuse de flécher le Livret A vers les EPR et propose un « livret B » ; Jean-Luc Mélenchon (LFI) dénonce une filière nucléaire « ruineuse et hasardeuse ».",
+              "src": "HuffPost, 3 novembre 2026"
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement une épargne populaire mieux rémunérée et prioritairement orientée vers le logement social et la rénovation.",
+              "src": ""
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement le fléchage de l'épargne réglementée vers la rénovation thermique, le logement social et les renouvelables, et s'oppose à son usage pour le nucléaire.",
+              "src": ""
+            },
+            "ren": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement les choix du gouvernement et met en avant la mobilisation de l'épargne des Français au service du logement et de la souveraineté énergétique.",
+              "src": ""
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant se montre habituellement favorable à une épargne populaire mieux protégée de l'inflation et orientée vers l'investissement de long terme.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement la mobilisation de l'épargne vers l'investissement productif et le nucléaire, en veillant au coût pour les finances publiques.",
+              "src": ""
+            },
+            "d": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement le nucléaire et la protection de l'épargne des ménages, tout en restant attentif aux effets sur le financement des banques.",
+              "src": ""
+            },
+            "dn": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement l'épargne populaire et le nucléaire, et réclame un relèvement du taux pour protéger le pouvoir d'achat des épargnants.",
+              "src": ""
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement l'épargne des ménages contre la fiscalité et soutient la relance du nucléaire.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "LCP – Livret A : Sébastien Lecornu annonce un plafond entre 25 000 et 30 000 euros dès février",
+              "u": "https://lcp.fr/actualites/livret-a-sebastien-lecornu-annonce-un-plafond-entre-25000-et-30000-euros-des-fevrier"
+            },
+            {
+              "t": "Toutsurmesfinances – Plafond du Livret A : Lecornu annonce une hausse entre 25 000 et 30 000 euros en février 2027",
+              "u": "https://www.toutsurmesfinances.com/actualites/a/plafond-du-livret-a-lecornu-annonce-une-hausse-entre-25-000-et-30-000-euros-en-fevrier-2027"
+            },
+            {
+              "t": "HuffPost – La France insoumise applaudit (presque) cette annonce de Sébastien Lecornu sur le Livret A",
+              "u": "https://fr.news.yahoo.com/sport/france-insoumise-applaudit-presque-annonce-193104381.html"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-04-petition-cnews-750000",
+          "rubrique": "Société",
+          "titre": "Pétition contre CNews : plus de 750 000 signatures, l'Assemblée s'oriente vers un débat sur la liberté d'expression",
+          "chapo": "Le texte demandant la fermeture de la chaîne a continué de grimper depuis l'attentat raciste de Trappes. La commission des affaires culturelles doit nommer un rapporteur ce mercredi.",
+          "faits": "Déposée en juin sur le site de l'Assemblée, la pétition demandant le retrait de la convention TNT de CNews a dépassé 750 000 signatures mardi soir, dont environ 600 000 en quelques jours après l'attentat raciste de Trappes. Réuni mardi, le bureau de la commission des affaires culturelles doit proposer ce mercredi de nommer son président, Alexandre Portier (LR), rapporteur ; la commission choisira la semaine prochaine entre un débat en séance et un classement. Une piste consiste à classer la pétition tout en demandant un débat plus large sur la liberté d'expression et la régulation. Une pétition n'a pas d'effet législatif direct ; le retrait d'une fréquence relève de l'Arcom, qui a mis CNews en demeure en juin sur le pluralisme.",
+          "enjeu": "Le dossier oppose la défense du pluralisme et du respect des obligations de la chaîne à celle de la liberté de la presse. Il place le Parlement dans une position délicate, alors que seule l'Arcom peut sanctionner.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant dénonce habituellement la concentration des médias entre les mains de grands groupes privés et soutient les initiatives contre les chaînes qu'il juge porteuses de discours racistes.",
+              "src": ""
+            },
+            "gr": {
+              "type": "lecture",
+              "texte": "Le courant critique habituellement l'empire médiatique de Vincent Bolloré, réclame des lois anticoncentration et soutient les démarches visant à faire respecter le pluralisme par CNews.",
+              "src": ""
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant plaide habituellement pour une loi anticoncentration et un renforcement des pouvoirs de l'Arcom, plutôt que pour une fermeture décidée par le politique.",
+              "src": ""
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant dénonce habituellement la ligne éditoriale des médias du groupe Bolloré ; deux députés écologistes ont demandé fin octobre le retrait des accréditations de ses médias à l'Assemblée.",
+              "src": ""
+            },
+            "ren": {
+              "type": "lecture",
+              "texte": "Le courant rappelle habituellement que la régulation des chaînes revient à l'Arcom et se montre réservé sur toute fermeture d'un média décidée sous pression politique.",
+              "src": ""
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement le pluralisme et l'indépendance des médias, en confiant leur contrôle au régulateur plutôt qu'au Parlement.",
+              "src": ""
+            },
+            "hor": {
+              "type": "declare",
+              "texte": "Jérémie Patrier-Leitus (Horizons), porte-parole de la campagne d'Édouard Philippe, a rappelé qu'« en démocratie, on ne ferme pas les médias ».",
+              "src": "Public Sénat, 3 novembre 2026"
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Alexandre Portier (LR), président de la commission des affaires culturelles, se dit inquiet des appels à la censure et juge que ses collègues attendent un débat sur la liberté d'expression, le pluralisme et la régulation.",
+              "src": "LCP et Public Sénat, 3 novembre 2026"
+            },
+            "dn": {
+              "type": "lecture",
+              "texte": "Le courant dénonce habituellement les démarches contre CNews comme une atteinte à la liberté d'expression et une volonté de faire taire les médias qui ne partagent pas la ligne de la gauche.",
+              "src": ""
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement CNews, qu'il présente comme l'une des rares chaînes pluralistes, et dénonce une tentative de censure.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Public Sénat – Pétition : la chaîne CNews peut-elle disparaître de la TNT ?",
+              "u": "https://www.publicsenat.fr/actualites/politique/petition-la-chaine-cnews-peut-elle-disparaitre-de-la-tnt"
+            },
+            {
+              "t": "LCP – Pétition contre CNews : vers l'organisation d'un débat plus large sur la liberté d'expression",
+              "u": "https://lcp.fr/actualites/petition-contre-cnews-vers-l-organisation-d-un-debat-plus-large-sur-la-liberte-d"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-04-midterms-democrates-congres",
+          "rubrique": "International",
+          "titre": "États-Unis : les démocrates reprennent le Sénat et la Chambre, revers majeur pour Donald Trump aux midterms",
+          "chapo": "Portés par six conquêtes au Sénat, dont le Texas et l'Ohio, les démocrates contrôleront les deux chambres du Congrès pour les deux dernières années du mandat de Donald Trump.",
+          "faits": "Les démocrates obtiennent la majorité au Sénat, selon les projections fondées sur les résultats de l'agence AP, en reprenant six sièges aux républicains, qui détenaient 53 sièges sur 100 : Caroline du Nord, Caroline du Sud, Texas, Ohio, Kansas et Iowa. À la Chambre des représentants, NBC les projette à au moins 244 sièges sur 435. Au Texas, la démocrate Gina Hinojosa bat le gouverneur sortant Greg Abbott. Donald Trump dit accepter les résultats et vouloir travailler avec les démocrates, tout en affirmant que son camp aurait gagné s'il avait été lui-même candidat. Le dollar a reculé et la Bourse de Tokyo a perdu près de 3 %.",
+          "enjeu": "Avec un Congrès hostile, Donald Trump perd la maîtrise du budget et devra composer avec des enquêtes parlementaires. Les capitales européennes, dont Paris, observent les conséquences sur l'Ukraine, les droits de douane et l'OTAN.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant considère habituellement démocrates et républicains comme deux partis du capital et met en avant les luttes sociales américaines plutôt que le résultat électoral.",
+              "src": ""
+            },
+            "gr": {
+              "type": "lecture",
+              "texte": "Le courant oppose habituellement une critique frontale de Donald Trump et de l'impérialisme américain, et salue les candidats progressistes de l'aile gauche démocrate.",
+              "src": ""
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant voit habituellement dans un recul de Donald Trump une bonne nouvelle pour la démocratie et les alliances transatlantiques, et soutient le camp démocrate.",
+              "src": ""
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant dénonce habituellement la politique climatique et sociale de Donald Trump et salue tout contre-pouvoir face à son administration.",
+              "src": ""
+            },
+            "ren": {
+              "type": "lecture",
+              "texte": "Le courant met habituellement en avant l'autonomie stratégique européenne quel que soit le résultat américain, tout en espérant un partenaire plus prévisible sur l'Ukraine et le commerce.",
+              "src": ""
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant insiste habituellement sur la solidité des institutions américaines et sur la nécessité pour l'Europe de s'affirmer face aux États-Unis.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant prône habituellement une relation transatlantique solide et une Europe de la défense crédible, quelles que soient les majorités à Washington.",
+              "src": ""
+            },
+            "d": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement l'alliance avec les États-Unis tout en réclamant une Europe plus ferme face aux droits de douane américains.",
+              "src": ""
+            },
+            "dn": {
+              "type": "lecture",
+              "texte": "Le courant se montre habituellement prudent dans ses commentaires sur Donald Trump, insiste sur la souveraineté nationale et le refus de l'alignement sur Washington.",
+              "src": ""
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant affiche habituellement sa proximité avec le camp de Donald Trump et voit dans ses difficultés l'effet d'une mobilisation de la gauche américaine.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "20 minutes – Direct résultats des midterms : les démocrates remportent une victoire totale",
+              "u": "https://www.20min.ch/fr/story/midterms-les-democrates-remportent-la-chambre-des-representants-103660810"
+            },
+            {
+              "t": "NPR – 2026 midterms: Democrats win the Senate",
+              "u": "https://www.npr.org/2026/11/03/g-s1-149526/2026-midterms-congress-balance-of-power"
+            },
+            {
+              "t": "France 24 – Midterms en direct : avec des conquêtes historiques, les démocrates s'emparent du Sénat",
+              "u": "https://www.france24.com/fr/am%C3%A9riques/20261103-en-direct-etats-unis-midterms-elections-mi-mandat-congres-gouverneurs-trump-democrates-republicains"
+            }
+          ]
+        }
+      ],
+      "breves": [
+        {
+          "titre": "Encadrement des loyers : course contre la montre avant le 24 novembre",
+          "texte": "Les députés examinent la proposition de loi d'Iñaki Echaniz (PS), adoptée au Sénat le 21 octobre dans une version qui prolonge l'expérimentation de deux ans, jusqu'en novembre 2028. Sans vote, le dispositif s'arrête le 24 novembre ; l'examen en séance est prévu le 18 novembre.",
+          "src": {
+            "t": "LCP – Encadrement des loyers : les députés doivent se prononcer sur la prolongation",
+            "u": "https://lcp.fr/actualites/encadrement-des-loyers-les-deputes-doivent-se-prononcer-sur-la-prolongation-de-l"
+          }
+        },
+        {
+          "titre": "Afghanistan : Laurent Nuñez confirme des « discussions techniques » avec les talibans",
+          "texte": "Devant la commission des lois, le ministre de l'Intérieur a reconnu des échanges avec les autorités talibanes pour reconduire des Afghans en situation irrégulière jugés dangereux. L'écologiste Léa Balage El Mariky l'accuse de normaliser les relations avec un régime pratiquant un « apartheid de genre ».",
+          "src": {
+            "t": "LCP – Maintien de l'ordre : Laurent Nuñez ne renoncera à aucun moyen intermédiaire",
+            "u": "https://lcp.fr/actualites/maintien-de-l-ordre-laurent-nunez-ne-renoncera-a-aucun-moyen-intermediaire-comme-les"
+          }
+        },
+        {
+          "titre": "Inéligibilité de Marine Le Pen : le débat juridique relancé",
+          "texte": "Un magistrat honoraire de la Cour de cassation soutient que la peine de première instance reste exécutoire tant que le pourvoi n'est pas jugé, une lecture contestée par d'autres juristes. Les avocats de Marine Le Pen ont saisi le CSM. La liste des candidats à la présidentielle sera arrêtée le 26 mars 2027.",
+          "src": {
+            "t": "Public Sénat – Présidentielle 2027 : le débat sur l'inéligibilité de Marine Le Pen relancé",
+            "u": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-le-debat-sur-lineligibilite-de-marine-le-pen-relance"
+          }
+        }
+      ],
+      "agenda": [
+        {
+          "d": "Mer. 4 nov.",
+          "t": "Suite et fin possible de l'examen des recettes du budget 2027 ; commission des affaires culturelles : nomination du rapporteur de la pétition contre CNews ; Belgique : le roi reçoit les présidents de Vooruit et du MR"
+        },
+        {
+          "d": "Jeu. 5 nov.",
+          "t": "Grève interprofessionnelle et manifestations pour les salaires et contre la vie chère, rejointes par les organisations de jeunesse"
+        },
+        {
+          "d": "Ven. 6 nov.",
+          "t": "Trajet inaugural du TGV M entre Paris et Marseille ; Belgique : Bart De Wever de nouveau reçu par le roi"
+        },
+        {
+          "d": "Lun. 9 nov.",
+          "t": "Projet de loi de fin de gestion 2026 en commission des finances"
+        },
+        {
+          "d": "Jeu. 12 nov.",
+          "t": "Début de l'examen du budget de la Sécurité sociale au Sénat"
+        },
+        {
+          "d": "Mar. 17 nov.",
+          "t": "Date limite de la première lecture du budget 2027 à l'Assemblée"
+        }
+      ]
+    },
     {
       "date": "2026-11-03",
       "label": "Mardi 3 novembre 2026",
@@ -2674,531 +3178,6 @@
         {
           "d": "Lun. 2 nov.",
           "t": "Rentrée scolaire après les vacances de la Toussaint"
-        },
-        {
-          "d": "Mar. 3 nov.",
-          "t": "Vote solennel sur la partie recettes du budget à l'Assemblée et sur la protection de l'enfance au Sénat"
-        },
-        {
-          "d": "Mer. 4 nov.",
-          "t": "Résultats officiels des législatives israéliennes"
-        },
-        {
-          "d": "Jeu. 5 nov.",
-          "t": "Journée de grève et de manifestations interprofessionnelle"
-        },
-        {
-          "d": "Lun. 9 nov.",
-          "t": "Début de l'examen du budget de la Sécu au Sénat"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-28",
-      "label": "Mercredi 28 octobre 2026",
-      "maj": "Mise à jour à 6 h 29",
-      "intro": "Quatre jours après l'attentat de Trappes, l'Assemblée a rendu hommage à la victime avant une séance houleuse, et Sébastien Lecornu promet d'accélérer le projet de loi contre le racisme. Le Sénat a adopté le cœur du texte « casseurs-payeurs », tandis que les députés ont voté de justesse, contre l'avis du gouvernement, une taxation des multinationales sur leurs bénéfices réalisés en France. Parcoursup est débattu ce mercredi à l'Assemblée, sur fond de mobilisation maintenue. À l'international, les législatives israéliennes ne dégagent pas de majorité claire.",
-      "stories": [
-        {
-          "id": "2026-10-28-trappes-assemblee",
-          "rubrique": "Société",
-          "titre": "Attentat de Trappes : minute de silence et vive passe d'armes à l'Assemblée, Lecornu promet d'inscrire vite le projet de loi contre le racisme",
-          "chapo": "Quatre jours après les tirs qui ont tué Pengo Bossio Wangi, les députés ont rendu hommage à la victime avant une séance de questions au gouvernement très tendue. La gauche a mis en cause le climat politique et médiatique, le Premier ministre a dénoncé une « récupération politique ».",
-          "faits": [
-            "Mardi 27 octobre, l'Assemblée nationale a observé une minute de silence en hommage à Pengo Bossio Wangi, 26 ans, tué le 23 octobre lors des tirs à Trappes et La Verrière (Yvelines), en présence du maire de Trappes, Ali Rabeh, et de la famille de la victime.",
-            "Lors des questions au gouvernement, Sébastien Lecornu a parlé d'« un attentat terroriste raciste » et annoncé que le projet de loi de cohésion républicaine contre le racisme serait inscrit « rapidement » à l'ordre du jour ; le ministre de l'Intérieur, Laurent Nuñez, a indiqué que les services de renseignement surveillent les mouvements d'ultradroite.",
-            "L'intervention de Sébastien Chenu, nouveau président du groupe RN, a provoqué le départ de plusieurs députés de gauche de l'hémicycle.",
-            "Le RN a annoncé poursuivre Le Monde en diffamation : le quotidien avait évoqué des tracts du parti dans le véhicule du suspect, ce que le parquet national antiterroriste a démenti lundi (« Aucun tract d'un parti politique n'a été découvert »).",
-            "L'enquête est ouverte pour assassinat et tentatives d'assassinat en relation avec une entreprise terroriste, avec la circonstance aggravante du mobile raciste ; la garde à vue du suspect, Kévin T., peut durer jusqu'à jeudi 0 h 36."
-          ],
-          "enjeu": "L'exécutif cherche à afficher une réponse ferme au racisme tout en appelant à l'unité, alors que la gauche lie l'attentat à la banalisation de certains discours et que le RN conteste toute mise en cause. Le calendrier du projet de loi annoncé et les suites judiciaires, attendues d'ici jeudi, seront suivis de près à six mois de la présidentielle.",
-          "positions": {
-            "eg": {
-              "type": "declare",
-              "texte": "Le NPA dénonce un attentat raciste, met en cause des responsables d'extrême droite, une partie du gouvernement et certains médias, et appelle à un front unitaire contre le racisme ainsi qu'à rejoindre les mobilisations des 31 octobre et 5 novembre.",
-              "src": "NPA, communiqué du 25 octobre 2026"
-            },
-            "gr": {
-              "type": "declare",
-              "texte": "Nadège Abomangoli (LFI) reproche aux médias d'offrir aux discours de haine une « libre antenne sans contradiction » ; Soumya Bourouaha (PCF) met en cause un climat qui fabrique « l'ennemi de l'intérieur ».",
-              "src": "LCP, 27 octobre 2026"
-            },
-            "soc": {
-              "type": "declare",
-              "texte": "Dieynaba Diop (PS) alerte, lors des questions au gouvernement, sur la diffusion du racisme à la télévision et sur ses effets dans la société.",
-              "src": "LCP, 27 octobre 2026"
-            },
-            "eco": {
-              "type": "declare",
-              "texte": "Cyrielle Chatelain (Les Écologistes) accuse les dirigeants du RN de continuer à présenter Trappes comme un « foyer djihadiste », réclame un hommage national et critique les propos passés d'Aurore Bergé sur le « grand remplacement ».",
-              "src": "LCP, 27 octobre 2026"
-            },
-            "ren": {
-              "type": "declare",
-              "texte": "Sébastien Lecornu (Renaissance) qualifie les faits d'« attentat terroriste raciste », promet d'inscrire rapidement le projet de loi contre le racisme et reproche à LFI une récupération qui, selon lui, fait le jeu de l'extrême droite.",
-              "src": "LCP, 27 octobre 2026"
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant appelle habituellement, après un attentat, à l'unité nationale et au refus de toute instrumentalisation, et défend le travail des forces de l'ordre et de la justice antiterroriste.",
-              "src": ""
-            },
-            "hor": {
-              "type": "declare",
-              "texte": "Édouard Philippe (Horizons) a réagi au soir de l'attaque en écrivant que « l'horreur a frappé », sans se prononcer à ce stade sur le mobile.",
-              "src": "L'Express, 23 octobre 2026"
-            },
-            "d": {
-              "type": "declare",
-              "texte": "Bruno Retailleau (LR) a dénoncé au soir de l'attaque une « violence terrifiante », sans évoquer à ce stade un mobile raciste.",
-              "src": "L'Express, 23 octobre 2026"
-            },
-            "dn": {
-              "type": "declare",
-              "texte": "Sébastien Chenu (RN) condamne une « épouvantable tuerie terroriste », dénonce une « récupération politicarde » et des informations erronées ; le parti poursuit Le Monde en diffamation.",
-              "src": "LCP, 27 octobre 2026"
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant condamne habituellement les violences et rejette toute mise en cause de ses idées dans ce type de passage à l'acte, qu'il présente comme une instrumentalisation politique.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "LCP – Attentat de Trappes : la gauche interpelle le gouvernement, Lecornu dénonce une « récupération politique »",
-              "u": "https://lcp.fr/actualites/attentat-de-trappes-la-gauche-interpelle-le-gouvernement-lecornu-denonce-une"
-            },
-            {
-              "t": "LCP – Attentat de Trappes : le Rassemblement national poursuit le journal Le Monde en diffamation",
-              "u": "https://lcp.fr/actualites/attentat-de-trappes-le-rassemblement-national-poursuit-le-journal-le-monde-en"
-            },
-            {
-              "t": "Public Sénat – Attentat à Trappes : « Pour la première fois, on a eu un crime de masse raciste » estime Aurore Bergé",
-              "u": "https://www.publicsenat.fr/actualites/politique/attentat-a-trappes-pour-la-premiere-fois-on-a-eu-un-crime-de-masse-raciste-estime-aurore-berge"
-            },
-            {
-              "t": "L'Express (via Orange) – Fusillade mortelle à Trappes : les réactions de la classe politique",
-              "u": "https://actu.orange.fr/politique/fusillade-mortelle-a-trappes-acte-barbare-le-racisme-tue-les-reactions-de-la-classe-politique-l-express-via-6medias-CNT000002tmawH.html"
-            },
-            {
-              "t": "NPA – Trappes et La Verrière : le racisme tue encore une fois",
-              "u": "https://npa-lanticapitaliste.org/communique/trappes-et-la-verriere-le-racisme-tue-encore-une-fois"
-            }
-          ],
-          "image": {
-            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2026-10/Attentat%20de%20Trappes%20lors%20des%20QAG%2C%20S%C3%A9bastien%20Lecornu%20d%C3%A9nonce%20une%20s%C3%A9ance%20%C3%A0%20l%27ambiance%20particuli%C3%A8rement%20naus%C3%A9abonde.jpg?itok=M7IO9-OP",
-            "credit": "LCP",
-            "alt": "Illustration de l'article de LCP"
-          }
-        },
-        {
-          "id": "2026-10-28-casseurs-payeurs-senat",
-          "rubrique": "Sécurité",
-          "titre": "« Casseurs-payeurs » : le Sénat adopte la responsabilité civile solidaire des participants à une manifestation violente",
-          "chapo": "Relancé après les violences du 17 octobre, le projet de loi a franchi mardi soir sa première étape dans l'hémicycle du Luxembourg. La majorité de droite et du centre défend une réponse ferme, la gauche dénonce une atteinte au droit de manifester.",
-          "faits": [
-            "Le Sénat a entamé mardi 27 octobre l'examen du projet de loi « casseurs-payeurs » et adopté dans la soirée son article 1er, cœur du dispositif.",
-            "Le texte crée une responsabilité civile solidaire pour ceux qui ont « sciemment participé » à un groupement formé pour commettre des violences ou qui sont restés dans un rassemblement après deux sommations, même sans preuve qu'ils aient eux-mêmes causé les dégâts ; le montant est plafonné à 10 000 euros par personne, les amendements pour le porter à 20 000 ou 30 000 euros ayant été rejetés.",
-            "Les personnes présentes pour un « motif légitime », comme les observateurs ou les secouristes, sont exemptées ; un amendement du gouvernement qui limitait cette exemption aux journalistes professionnels a été rejeté.",
-            "À l'initiative des rapporteurs, la provocation directe à un attroupement armé passe d'un à trois ans de prison, et la participation à une manifestation interdite devient un délit puni de six mois et 7 500 euros d'amende.",
-            "L'article 4, qui permettrait de prélever les sommes dues sur les allocations familiales, les aides au logement ou le RSA, pourrait être débattu ce mercredi."
-          ],
-          "enjeu": "Le texte arrive en pleine mobilisation sociale, à quelques jours des manifestations du 31 octobre et du 5 novembre, ce qui renforce sa portée politique. Sa conformité à la Constitution est discutée : le ministre de l'Intérieur fait valoir l'avis favorable du Conseil d'État, une partie de la gauche le juge largement inconstitutionnel. Le projet devra ensuite être examiné par l'Assemblée nationale.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement le droit de manifester sans restriction et voit dans ce type de texte une criminalisation des mouvements sociaux et des quartiers populaires.",
-              "src": ""
-            },
-            "gr": {
-              "type": "declare",
-              "texte": "Fabien Gay (PCF) dénonce un « programme sécuritaire » et rappelle les « milliers » d'interpellations depuis le début du mouvement ; Mathilde Panot (LFI) y voit « une arme de répression massive contre toutes les mobilisations ».",
-              "src": "Public Sénat, 21 et 27 octobre 2026"
-            },
-            "soc": {
-              "type": "declare",
-              "texte": "Marie-Pierre de La Gontrie (PS) juge le texte porteur d'« une menace pour les libertés fondamentales de réunion, d'expression et de manifestation ».",
-              "src": "Public Sénat, 27 octobre 2026"
-            },
-            "eco": {
-              "type": "declare",
-              "texte": "Mélanie Vogel (Les Écologistes) parle d'« un signal politique désastreux en plein mouvement social » et estime que le texte « désigne des payeurs de substitution » au lieu de régler le problème des casseurs.",
-              "src": "Public Sénat, 27 octobre 2026"
-            },
-            "ren": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement un renforcement des sanctions contre les violences commises en marge des manifestations, tout en insistant sur la protection du droit de manifester pacifiquement.",
-              "src": ""
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement une réponse ferme aux violences urbaines, en veillant à la proportionnalité des sanctions et à la solidité juridique des textes.",
-              "src": ""
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement une ligne d'autorité sur l'ordre public et la mise à contribution financière des auteurs de dégradations.",
-              "src": ""
-            },
-            "d": {
-              "type": "declare",
-              "texte": "David Margueritte (LR), rapporteur, voit dans le texte une « réponse ferme, claire et opérationnelle » ; Gérard Larcher (LR) estime qu'en cas de non-paiement « il ne faut rien s'interdire, y compris sur les prestations sociales ».",
-              "src": "Public Sénat, 21 et 27 octobre 2026"
-            },
-            "dn": {
-              "type": "declare",
-              "texte": "Edwige Diaz (RN) défend le texte face aux objections constitutionnelles et veut aller plus loin : relèvement du plafond, exclusion du logement social des foyers dont un membre est condamné pour émeute, saisie possible de l'AAH.",
-              "src": "Public Sénat, 27 octobre 2026"
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant réclame habituellement une fermeté maximale contre les casseurs, avec des sanctions financières et pénales alourdies et l'expulsion des étrangers condamnés.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "Public Sénat – Projet de loi « casseurs-payeurs » : le Sénat adopte le nouveau régime de responsabilité civile solidaire",
-              "u": "https://www.publicsenat.fr/actualites/parlementaire/projet-de-loi-casseurs-payeurs-le-senat-adopte-le-nouveau-regime-de-responsabilite-civile-solidaire-pour-les-participants-a-une-manifestation-violente"
-            },
-            {
-              "t": "Public Sénat – Loi « casseurs-payeurs » : que contient le texte examiné au Sénat ?",
-              "u": "https://www.publicsenat.fr/actualites/parlementaire/loi-casseurs-payeurs-que-contient-le-texte-examine-au-senat"
-            },
-            {
-              "t": "Public Sénat – Loi « casseurs-payeurs » : après les violences du 17 octobre, le Sénat durcit le texte",
-              "u": "https://www.publicsenat.fr/actualites/politique/loi-casseurs-payeurs-apres-les-violences-du-17-octobre-le-senat-durcit-le-texte"
-            }
-          ],
-          "image": {
-            "u": "https://www.publicsenat.fr/app/uploads/2026/10/SIPA_01307858_000065-scaled.jpg",
-            "credit": "Public Sénat",
-            "alt": "Illustration de l'article de Public Sénat"
-          }
-        },
-        {
-          "id": "2026-10-28-budget-multinationales",
-          "rubrique": "Budget",
-          "titre": "Budget 2027 : contre l'avis du gouvernement, les députés votent l'imposition des multinationales sur leurs bénéfices réalisés en France",
-          "chapo": "À deux voix près, l'Assemblée a adopté dans la nuit un amendement communiste visant l'« optimisation fiscale agressive ». Le gouvernement et le rapporteur général jugent le dispositif contraire aux conventions fiscales.",
-          "faits": [
-            "Dans la nuit de mardi à mercredi, les députés ont adopté par 74 voix contre 72 un amendement de Nicolas Sansu (GDR), défendu par Emmanuel Maurel, qui vise à imposer les entreprises sur « la part des bénéfices mondiaux réellement réalisés en France » plutôt que sur les bénéfices qu'elles y déclarent.",
-            "Emmanuel Maurel a avancé le chiffre de 36 milliards d'euros qui échapperaient selon lui à l'impôt par ce biais.",
-            "Un amendement voisin de Jean-Philippe Tanguy (RN) a été rejeté par 110 voix contre 59 ; celui d'Éric Coquerel (LFI) n'a pas été adopté, faute de majorité, à 72 voix contre 72.",
-            "Le rapporteur général Philippe Juvin (LR) et le ministre de l'Économie Roland Lescure s'y sont opposés, estimant que la France ne peut imposer que les entreprises établies sur son sol, sauf stipulation des conventions fiscales.",
-            "L'examen de la partie recettes du projet de loi de finances se poursuit ; le vote solennel est prévu le 3 novembre."
-          ],
-          "enjeu": "Le vote illustre la fragilité de la majorité dans l'hémicycle, mais la mesure a peu de chances de survivre : la partie recettes risque d'être rejetée, le Sénat doit encore se prononcer, et un recours au 49.3 ou aux ordonnances reprendrait le texte du gouvernement. La présidente de l'Assemblée, Yaël Braun-Pivet, a d'ailleurs appelé l'exécutif à utiliser le 49.3 « dans les prochains jours ».",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement la taxation des profits des grands groupes et dénonce l'évasion fiscale, qu'il présente comme un transfert de richesses au détriment des salariés.",
-              "src": ""
-            },
-            "gr": {
-              "type": "declare",
-              "texte": "Nicolas Sansu (PCF), auteur de l'amendement adopté, et Emmanuel Maurel (GDR) veulent imposer les bénéfices réellement réalisés en France ; Éric Coquerel (LFI) défendait un dispositif proche, écarté à égalité de voix.",
-              "src": "LCP, 27 octobre 2026"
-            },
-            "soc": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement les mesures contre l'optimisation fiscale des multinationales et une imposition minimale effective des grands groupes.",
-              "src": ""
-            },
-            "eco": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement une fiscalité plus juste sur les grandes entreprises et les plus hauts patrimoines, et la lutte contre les transferts artificiels de bénéfices.",
-              "src": ""
-            },
-            "ren": {
-              "type": "declare",
-              "texte": "Roland Lescure (Renaissance), ministre de l'Économie, juge l'idée « très mauvaise », estime que ces amendements traitent les multinationales en délinquantes et préfère renégocier les conventions fiscales.",
-              "src": "LCP, 27 octobre 2026"
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant se dit habituellement favorable à la lutte contre l'optimisation fiscale, mais privilégie une action coordonnée au niveau européen et international plutôt que des mesures nationales isolées.",
-              "src": ""
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant met habituellement en garde contre les hausses d'impôts sur les entreprises et leurs effets sur l'attractivité, et donne la priorité à la baisse des dépenses publiques.",
-              "src": ""
-            },
-            "d": {
-              "type": "declare",
-              "texte": "Philippe Juvin (LR), rapporteur général, s'y oppose : selon lui, le droit fiscal et les traités ne permettent d'imposer que les entreprises situées en France, sauf si les conventions fiscales le prévoient.",
-              "src": "LCP, 27 octobre 2026"
-            },
-            "dn": {
-              "type": "declare",
-              "texte": "Jean-Philippe Tanguy (RN) défendait son propre amendement contre l'optimisation fiscale des multinationales, rejeté par 110 voix contre 59.",
-              "src": "LCP, 27 octobre 2026"
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement la baisse des impôts et des charges des entreprises françaises, tout en dénonçant la concurrence fiscale jugée déloyale de grands groupes étrangers.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "LCP – Budget 2027 : l'Assemblée vote un dispositif pour contrer « l'optimisation fiscale agressive » des multinationales",
-              "u": "https://lcp.fr/actualites/budget-2027-l-assemblee-vote-un-dispositif-pour-contrer-l-optimisation-fiscale-agressive"
-            },
-            {
-              "t": "LCP – Présidentielle : Yaël Braun-Pivet plaide pour un « candidat unique » du centre et de la droite",
-              "u": "https://lcp.fr/actualites/presidentielle-yael-braun-pivet-plaide-pour-un-candidat-unique-du-centre-et-de-la-droite"
-            },
-            {
-              "t": "NosParlementaires – Date du vote du budget 2027 : le 3 novembre",
-              "u": "https://nosparlementaires.fr/actualites/budget-2027-calendrier-assemblee-cinq-semaines"
-            }
-          ],
-          "image": {
-            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2026-10/Budget%20%20Emmanuel%20Maurel%20sur%20la%20modification%20de%20l%E2%80%99assiette%20d%E2%80%99impo%CC%82t%20sur%20les%20socie%CC%81te%CC%81s%20des%20multinationales.jpg?itok=7ePpowjT",
-            "credit": "LCP",
-            "alt": "Illustration de l'article de LCP"
-          }
-        },
-        {
-          "id": "2026-10-28-parcoursup-debat",
-          "rubrique": "Éducation",
-          "titre": "Parcoursup : débat sans vote à l'Assemblée ce mercredi, les annonces chiffrées, la mobilisation maintenue",
-          "chapo": "Deux jours après les mesures présentées aux lycéens et aux étudiants, les députés débattent ce mercredi de l'avenir de l'orientation vers le supérieur. Le coût des annonces se précise, et les organisations de jeunesse maintiennent leur appel à manifester samedi.",
-          "faits": [
-            "Les députés débattent ce mercredi à 17 h de l'avenir de l'orientation vers l'enseignement supérieur ; ce débat n'est pas suivi d'un vote, comme le réclamait La France insoumise.",
-            "Selon le chiffrage de Public Sénat, les annonces représentent environ 350 millions d'euros en 2027, dont près de 100 millions pour l'annulation des 836 suppressions de postes et les créations d'emplois, 12 millions pour 300 postes d'infirmiers et de psychologues et 37 millions pour l'indexation des bourses, plus un milliard d'euros de prêts bonifiés aux régions pour le bâti scolaire.",
-            "Le ministre des Comptes publics, David Amiel, a indiqué que ces mesures devraient être compensées par des économies ailleurs ; l'association des régions juge les prêts « très en deçà » de ses attentes.",
-            "La Fage, l'Union étudiante, l'Unef et l'Union syndicale lycéenne jugent les annonces insuffisantes, réclament dix mesures chiffrées à 10 milliards d'euros et appellent à manifester samedi 31 octobre puis à rejoindre la grève du 5 novembre.",
-            "L'ancien ministre Jean-Michel Blanquer a défendu Parcoursup, auquel il attribue une baisse de l'échec en première année d'environ 60 % à près de 50 %."
-          ],
-          "enjeu": "Le gouvernement espère que le débat et le chiffrage de ses mesures apaiseront la mobilisation, mais leur financement dépend d'un budget dont l'adoption reste incertaine. Les organisations de jeunesse comptent peser sur la journée du 31 octobre, première grande date depuis les annonces.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement la poursuite de la mobilisation lycéenne et étudiante, réclame la fin de toute sélection à l'université et appelle à l'élargir à une grève générale.",
-              "src": ""
-            },
-            "gr": {
-              "type": "declare",
-              "texte": "Clémence Guetté (LFI) qualifie Jean-Michel Blanquer de « l'un des principaux artisans de la destruction de l'enseignement supérieur » et réclame davantage de places ; Pierre Ouzoulias (PCF) estime qu'« on ne peut pas supprimer Parcoursup, on a besoin d'un logiciel ».",
-              "src": "LCP et Public Sénat, 27 octobre 2026"
-            },
-            "soc": {
-              "type": "declare",
-              "texte": "Colombe Brossel (PS) juge que « le gouvernement a craqué l'allumette et veut maintenant utiliser l'extincteur » et parle de demi-mesures.",
-              "src": "Public Sénat, 27 octobre 2026"
-            },
-            "eco": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement la fin de la sélection à l'entrée de l'université, davantage de moyens pour les lycées et un plan d'urgence pour la rénovation des bâtiments scolaires.",
-              "src": ""
-            },
-            "ren": {
-              "type": "declare",
-              "texte": "David Amiel (Renaissance), ministre des Comptes publics, indique que les mesures devront être « financées par des efforts supplémentaires » ailleurs dans le budget.",
-              "src": "TF1, cité par Public Sénat, 27 octobre 2026"
-            },
-            "modem": {
-              "type": "declare",
-              "texte": "Marc Fesneau (Les Démocrates) reconnaît les dysfonctionnements de Parcoursup mais veut conserver un outil de sélection à l'entrée de l'université.",
-              "src": "LCP, 26 octobre 2026"
-            },
-            "hor": {
-              "type": "declare",
-              "texte": "Édouard Philippe (Horizons), Premier ministre lors de la création de Parcoursup, reconnaît les dysfonctionnements du dispositif.",
-              "src": "LCP, 26 octobre 2026"
-            },
-            "d": {
-              "type": "declare",
-              "texte": "Max Brisson (LR) qualifie les annonces de « bricolage » et estime que le vrai problème est la réforme du « bac Blanquer ».",
-              "src": "Public Sénat, 27 octobre 2026"
-            },
-            "dn": {
-              "type": "declare",
-              "texte": "Maxime Michelet (UDR) souhaite une refonte complète de la procédure et un accès à l'université fondé sur le baccalauréat.",
-              "src": "LCP, 26 octobre 2026"
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement la sélection au mérite, un baccalauréat exigeant et le retour aux fondamentaux, et critique le blocage des lycées.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "Public Sénat – Quel coût pour l'État, après les annonces en faveur des lycéens et des étudiants ?",
-              "u": "https://www.publicsenat.fr/actualites/education/quel-cout-pour-letat-apres-les-annonces-en-faveur-des-lyceens-et-des-etudiants"
-            },
-            {
-              "t": "LCP – Malgré les annonces du gouvernement, les organisations lycéennes et étudiantes veulent continuer la mobilisation",
-              "u": "https://lcp.fr/actualites/malgre-les-annonces-du-gouvernement-les-organisations-lyceennes-et-etudiantes-veulent"
-            },
-            {
-              "t": "Public Sénat – Annonces du gouvernement aux revendications lycéennes : « C'est du bricolage », selon le sénateur LR Max Brisson",
-              "u": "https://www.publicsenat.fr/actualites/education/annonces-du-gouvernement-aux-revendications-lyceennes-cest-du-bricolage-selon-le-senateur-lr-max-brisson"
-            },
-            {
-              "t": "LCP – Parcoursup : Blanquer défie ses détracteurs de citer un pays qui fait mieux",
-              "u": "https://lcp.fr/actualites/parcoursup-blanquer-defie-ses-detracteurs-de-citer-un-pays-qui-fait-mieux-444347"
-            },
-            {
-              "t": "LCP – Réforme de Parcoursup : LFI demande un vote à l'issue du débat prévu mercredi à l'Assemblée",
-              "u": "https://lcp.fr/actualites/reforme-de-parcoursup-lfi-demande-un-vote-a-l-issue-du-debat-prevu-mercredi-a-l"
-            }
-          ],
-          "image": {
-            "u": "https://www.publicsenat.fr/app/uploads/2026/10/SIPA_01310318_000021-scaled.jpg",
-            "credit": "Public Sénat",
-            "alt": "Illustration de l'article de Public Sénat"
-          }
-        },
-        {
-          "id": "2026-10-28-israel-legislatives",
-          "rubrique": "International",
-          "titre": "Israël : participation record aux législatives, Netanyahou et Eisenkot au coude-à-coude, aucun bloc majoritaire en vue",
-          "chapo": "Pour le premier scrutin depuis le 7 octobre 2023, les Israéliens se sont massivement rendus aux urnes. Les estimations placent les deux blocs à égalité et les premiers résultats partiels donnent l'avantage au camp du Premier ministre sortant, sans majorité.",
-          "faits": [
-            "Les Israéliens ont voté mardi 27 octobre pour renouveler les 120 sièges de la Knesset ; la participation a atteint 77,7 %, son plus haut niveau depuis 1999.",
-            "Les sondages de sortie des urnes ont d'abord donné le bloc d'opposition mené par l'ancien chef d'état-major Gadi Eisenkot (Yashar) légèrement en tête, puis les deux blocs à égalité à 51 sièges ; le Likoud reste le premier parti, mais en recul, et les deux listes arabes progresseraient à 17 à 19 sièges.",
-            "Selon des résultats partiels portant sur 32,5 % des voix, publiés vers 5 h heure locale, le bloc de Benyamin Nétanyahou obtiendrait 59 sièges et celui d'Eisenkot 46, la majorité étant fixée à 61 ; ces chiffres peuvent encore évoluer.",
-            "Benyamin Nétanyahou veut « un gouvernement de droite fort » et exclut l'appui des partis arabes ; Gadi Eisenkot affirme que « le peuple a choisi le changement », promet une commission d'enquête indépendante sur le 7 octobre et exclut lui aussi une alliance avec le parti arabe Raam.",
-            "Chaque camp a accusé l'autre de vouloir contester ou « voler » l'élection ; la commission électorale dit n'avoir relevé aucune manipulation systématique. Les résultats officiels sont attendus le 4 novembre."
-          ],
-          "enjeu": "Sans majorité nette, des semaines de tractations s'annoncent, avec le risque d'un nouveau scrutin. L'issue pèsera sur la suite à Gaza, la question des deux États, que la France défend, et la confrontation avec l'Iran.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement la cause palestinienne, dénonce la guerre menée à Gaza et réclame la fin de toute coopération militaire avec Israël, quel que soit le gouvernement en place.",
-              "src": ""
-            },
-            "gr": {
-              "type": "lecture",
-              "texte": "Le courant dénonce habituellement la politique du gouvernement Nétanyahou, réclame des sanctions contre Israël et la pleine reconnaissance des droits des Palestiniens.",
-              "src": ""
-            },
-            "soc": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement la solution à deux États, critique la présence de ministres d'extrême droite dans la coalition sortante et se montre attentif aux forces israéliennes favorables à une reprise du dialogue.",
-              "src": ""
-            },
-            "eco": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement le respect du droit international, la solution à deux États et des sanctions contre la colonisation en Cisjordanie.",
-              "src": ""
-            },
-            "ren": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement à la fois la sécurité d'Israël et la solution à deux États, ligne de la diplomatie française qui a reconnu l'État de Palestine en 2025, et attend les résultats officiels avant de commenter un scrutin étranger.",
-              "src": ""
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement une ligne multilatéraliste : sécurité d'Israël, droits des Palestiniens et solution à deux États négociée.",
-              "src": ""
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant insiste habituellement sur le droit d'Israël à se défendre face au Hamas, tout en défendant la perspective de deux États.",
-              "src": ""
-            },
-            "d": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement le soutien à Israël face au terrorisme et à la menace iranienne, et s'est montré réservé sur la reconnaissance de l'État de Palestine.",
-              "src": ""
-            },
-            "dn": {
-              "type": "lecture",
-              "texte": "Le courant affiche habituellement son soutien à Israël dans la lutte contre le Hamas et l'islamisme, tout en revendiquant une diplomatie française indépendante.",
-              "src": ""
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant affiche habituellement un soutien marqué à Israël, présenté comme un rempart face à l'islamisme.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "RTBF – Législatives en Israël : le bloc de Benjamin Netanyahou prend de l'avance dans les premiers résultats partiels",
-              "u": "https://www.rtbf.be/article/elections-legislatives-en-israel-le-bloc-de-benjamin-netanyahu-prend-de-l-avance-dans-les-premiers-resultats-partiels-11806908"
-            },
-            {
-              "t": "RTBF – Législatives en Israël : participation record, Netanyahu et Eisenkot au coude-à-coude selon les premières estimations",
-              "u": "https://www.rtbf.be/article/elections-legislatives-en-israel-le-likoud-de-netanyahu-premier-parti-mais-le-bloc-d-opposition-serait-legerement-en-tete-11806843"
-            },
-            {
-              "t": "Watson (ATS) – Israël : Eisenkot et Netanyahu donnés à égalité",
-              "u": "https://www.watson.ch/fr/international/politique/455661293-israel-eisenkot-et-netanyahu-donnes-a-egalite"
-            },
-            {
-              "t": "20 minutes (Suisse) – Netanyahu se prépare à contester les résultats, selon Eisenkot",
-              "u": "https://www.20min.ch/fr/story/elections-en-israel-netanyahu-se-prepare-a-contester-les-resultats-selon-son-rival-103657344"
-            },
-            {
-              "t": "franceinfo – Législatives en Israël : le bloc de l'opposition légèrement en tête, mais sans majorité, selon les sondages de sortie des urnes",
-              "u": "https://www.franceinfo.fr/monde/israel/elections-legislatives-en-israel/legislatives-en-israel-le-bloc-de-l-opposition-a-benyamin-netanyahou-donne-legerement-en-tete-mais-sans-majorite-selon-des-sondages-a-la-sortie-des-urnes_8256454.html"
-            }
-          ],
-          "image": {
-            "u": "https://static-content.rtbf.be/article/image/1920x1080/a/d/5/ef47403e372cb307e7ddf26effcb7fbd.jpg",
-            "credit": "RTBF",
-            "alt": "Élections législatives en Israël : le bloc de Benjamin Netanyahou prend de l’avance dans les premiers résultats partiels"
-          }
-        }
-      ],
-      "breves": [
-        {
-          "titre": "Présidentielle : Yaël Braun-Pivet plaide pour un candidat unique du centre et de la droite",
-          "texte": "Dans Le Figaro, la présidente de l'Assemblée nationale appelle à désigner « le plus vite » possible un candidat commun du socle central, quelles qu'en soient les modalités, primaire comprise. Elle cite Gérard Larcher comme recours possible et dit vouloir éviter un duel entre Marine Le Pen et Jean-Luc Mélenchon. Elle demande aussi au gouvernement de recourir au 49.3 sur le budget plutôt qu'aux ordonnances.",
-          "src": {
-            "t": "LCP – Présidentielle : Yaël Braun-Pivet plaide pour un « candidat unique » du centre et de la droite",
-            "u": "https://lcp.fr/actualites/presidentielle-yael-braun-pivet-plaide-pour-un-candidat-unique-du-centre-et-de-la-droite"
-          }
-        },
-        {
-          "titre": "Protection de l'enfance : le gouvernement veut rétablir l'imprescriptibilité au Sénat",
-          "texte": "La commission des lois du Sénat a supprimé l'imprescriptibilité des crimes sexuels sur mineurs votée par l'Assemblée, au motif de ne pas « déstabiliser le droit pénal ». Aurore Bergé annonce un amendement du gouvernement pour la rétablir lors de l'examen en séance du projet de loi, attendu à partir de ce mercredi. Le vote solennel est prévu le 3 novembre.",
-          "src": {
-            "t": "Public Sénat – Protection de l'enfance : Aurore Bergé défendra un amendement pour rétablir l'imprescriptibilité",
-            "u": "https://www.publicsenat.fr/actualites/societe/protection-de-lenfance-aurore-berge-defendra-un-amendement-pour-retablir-limprescriptibilite-des-crimes-sexuels-sur-mineurs"
-          }
-        },
-        {
-          "titre": "Gazole : les stocks stratégiques mis en vente à partir d'aujourd'hui",
-          "texte": "Les premières ventes à prix coûtant de 10 millions de barils de gazole issus des stocks stratégiques doivent intervenir ce 28 octobre auprès des distributeurs. Le gouvernement promet une baisse de 12 à 18 centimes par litre à la pompe dès le 1er novembre, jusqu'à fin janvier, avec une publication hebdomadaire des volumes et des baisses répercutées.",
-          "src": {
-            "t": "Connaissance des Énergies (AFP) – Le gouvernement promet une baisse du gazole dès le 1er novembre",
-            "u": "https://www.connaissancedesenergies.org/afp/le-gouvernement-assure-que-les-prix-du-gazole-baisseront-des-le-1er-novembre-261012"
-          }
-        },
-        {
-          "titre": "Sondage Odoxa : 83 % des Français jugent Emmanuel Macron mauvais président",
-          "texte": "Selon le baromètre Odoxa pour Public Sénat et la presse régionale, réalisé les 21 et 22 octobre auprès de 1 005 personnes, 16 % des Français jugent Emmanuel Macron bon président, un niveau inédit dans ce baromètre. Sébastien Lecornu recueille 25 % d'opinions favorables. Face aux violences du 17 octobre, 67 % disent ressentir d'abord de la colère.",
-          "src": {
-            "t": "Public Sénat – Sondage : 83 % des Français jugent qu'Emmanuel Macron est un mauvais président, un record",
-            "u": "https://www.publicsenat.fr/actualites/politique/sondage-83-des-francais-jugent-quemmanuel-macron-est-un-mauvais-president-un-record"
-          }
-        }
-      ],
-      "agenda": [
-        {
-          "d": "Mer. 28 oct.",
-          "t": "Débat sur l'avenir de Parcoursup à l'Assemblée à 17 h ; suite du texte « casseurs-payeurs » et début de la protection de l'enfance au Sénat ; premières ventes de gazole des stocks stratégiques"
-        },
-        {
-          "d": "Jeu. 29 oct.",
-          "t": "Journée réservée aux propositions de loi de La France insoumise à l'Assemblée ; fin au plus tard de la garde à vue du suspect de Trappes"
-        },
-        {
-          "d": "Sam. 31 oct.",
-          "t": "Journée de mobilisation lycéenne, étudiante et sociale, cortèges hors des centres-villes"
-        },
-        {
-          "d": "Dim. 1er nov.",
-          "t": "Baisse attendue du prix du gazole à la pompe"
         },
         {
           "d": "Mar. 3 nov.",
