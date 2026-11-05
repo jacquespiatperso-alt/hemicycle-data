@@ -91,7 +91,12 @@
               "t": "LCP – Mobilisation du 17 octobre : quels responsables politiques s'emparent du mouvement et comment réagissent les autres",
               "u": "https://lcp.fr/actualites/mobilisation-du-17-octobre-quels-responsables-politiques-s-emparent-du-mouvement-et"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.publicsenat.fr/app/uploads/2026/11/SIPA_01309838_000030-scaled.jpg",
+            "credit": "Public Sénat",
+            "alt": "Illustration de l'article de Public Sénat"
+          }
         },
         {
           "id": "2026-11-05-budget-recettes-rejet",
@@ -165,7 +170,12 @@
               "t": "Public Sénat – « Une récession n'est pas à exclure » : la rapporteure générale du budget au Sénat tire à boulets rouges sur le scénario du gouvernement",
               "u": "https://www.publicsenat.fr/actualites/politique/une-recession-nest-pas-a-exclure-la-rapporteure-generale-du-budget-au-senat-tire-a-boulets-rouges-sur-le-scenario-du-gouvernement"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2026-11/Rejet%20du%20budget.jpg?itok=Cvx6hDe2",
+            "credit": "LCP",
+            "alt": "Illustration de l'article de LCP"
+          }
         },
         {
           "id": "2026-11-05-retraites-cumul-pensions",
@@ -235,7 +245,12 @@
               "t": "Public Sénat – Cumul emploi-retraite : le sénateur Xavier Iacovelli demande au gouvernement de retirer son décret",
               "u": "https://www.publicsenat.fr/actualites/politique/cumul-emploi-retraite-le-senateur-xavier-iacovelli-demande-au-gouvernement-de-retirer-son-decret"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.publicsenat.fr/app/uploads/2026/11/SIPA_01105772_000006-1200x630.jpg",
+            "credit": "Public Sénat",
+            "alt": "Illustration de l'article de Public Sénat"
+          }
         },
         {
           "id": "2026-11-05-legitime-defense-senat",
@@ -309,7 +324,12 @@
               "t": "Europe 1 – Police : le texte instaurant une présomption de légitime défense examiné le 10 décembre au Sénat",
               "u": "https://www.europe1.fr/police-justice/police-le-texte-instaurant-une-presomption-de-legitime-defense-examine-le-10-decembre-au-senat-1205678"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.publicsenat.fr/app/uploads/2026/11/SIPA_01302397_000018-scaled.jpg",
+            "credit": "Public Sénat",
+            "alt": "Illustration de l'article de Public Sénat"
+          }
         },
         {
           "id": "2026-11-05-sondage-ifop-presidentielle",
@@ -375,7 +395,12 @@
               "t": "Public Sénat – Sondage présidentielle 2027 : un second tour Le Pen-Mélenchon assuré, la droite et le bloc central peinent à remonter, Lisnard confirme sa percée",
               "u": "https://www.publicsenat.fr/actualites/politique/sondage-presidentielle-2027-un-second-tour-le-pen-melenchon-assure-la-droite-et-le-bloc-central-peine-a-remonter-lisnard-confirme-sa-percee"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.publicsenat.fr/app/uploads/2026/11/SIPA_01260271_000005-1200x630.jpg",
+            "credit": "Public Sénat",
+            "alt": "Illustration de l'article de Public Sénat"
+          }
         },
         {
           "id": "2026-11-05-ukraine-komychouvakha",
@@ -449,7 +474,12 @@
               "t": "The Kyiv Independent – Russian bombs hit school used as humanitarian aid center in Zaporizhzhia Oblast, killing 33",
               "u": "https://kyivindependent.com/exceptionally-horrific-strike-russian-bombs-strike-school-used-as-humanitarian-aid-center-in-zaporizhzhia-oblast-killing-24/"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://armees.com/wp-content/uploads/2026/11/c5545dd6-komyshuvakha-frappes-ukraine.png",
+            "credit": "Armees.com",
+            "alt": "Ukraine : 24 morts dans des frappes sur un centre d’aide, deux secouristes parmi les victimes"
+          }
         }
       ],
       "breves": [
