@@ -1,6 +1,506 @@
 {
-  "updated": "2026-11-04T06:31:00+01:00",
+  "updated": "2026-11-05T06:31:40+01:00",
   "editions": [
+    {
+      "date": "2026-11-05",
+      "label": "Jeudi 5 novembre 2026",
+      "maj": "Mise à jour à 6 h 31",
+      "intro": "Jour de grève interprofessionnelle : syndicats et organisations de jeunesse défilent partout en France, avec un cortège parisien de République à Nation et des transports perturbés en Île-de-France. La veille, l'Assemblée a rejeté la partie recettes du budget par 458 voix contre zéro, et le texte part au Sénat. Retraites, présomption de légitime défense et sondage présidentiel complètent le menu, avant un détour par l'Ukraine, endeuillée par une frappe meurtrière sur un centre d'aide.",
+      "stories": [
+        {
+          "id": "2026-11-05-greve-5-novembre",
+          "rubrique": "Social",
+          "titre": "Grève interprofessionnelle ce jeudi : un RER D sur trois, 25 stations de métro fermées et un cortège parisien de République à Nation",
+          "chapo": "Après six semaines de mobilisation de la jeunesse et trois samedis de manifestations contre la vie chère, les syndicats appellent salariés du privé et du public à la grève. Les organisations lycéennes et étudiantes se joignent au mouvement.",
+          "faits": "La CFDT, la CGT, FO, l'Unsa et la FSU, rejointes par les autres syndicats, réclament l'ouverture de négociations sur les salaires, la hausse des pensions, du point d'indice et du Smic, et des mesures de justice fiscale. Côté transports, la SNCF prévoit environ neuf TGV sur dix ; en Île-de-France, le RER B et le RER C roulent à un train sur deux, le RER D à un train sur trois, tandis que le métro, les bus et le RER A doivent fonctionner normalement. À la demande de la préfecture de police, 25 stations de métro sont fermées à partir de 11 h. La préfecture a refusé le parcours Bastille-Concorde déposé par les syndicats et autorisé mercredi un cortège de la place de la République à la place de la Nation. L'Union syndicale lycéenne, l'Unef, la Fage et l'Union étudiante appellent à manifester, et une coordination de gilets jaunes prévoit de prolonger la mobilisation vendredi et samedi.",
+          "enjeu": "La journée dira si la colère sociale, portée jusqu'ici par les lycéens et les manifestations du samedi, s'étend au monde du travail. Le gouvernement, sans majorité et sans budget voté, dispose de peu de marges pour répondre aux revendications salariales.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant appelle habituellement à transformer les journées de grève en grève générale reconductible, décidée en assemblées générales, et à lier les revendications des jeunes à la hausse générale des salaires.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Jean-Luc Mélenchon (LFI) a exhorté Emmanuel Macron à « céder » face à la mobilisation et désigné la grève à partir du 5 novembre comme la prochaine étape, en demandant à l'exécutif d'« arrêter les provocations ».",
+              "src": "AFP via La Gazette France, 24 octobre 2026"
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement les revendications syndicales sur les salaires et les services publics, appelle le gouvernement à ouvrir des négociations et plaide pour un maintien de l'ordre fondé sur la désescalade.",
+              "src": ""
+            },
+            "eco": {
+              "type": "declare",
+              "texte": "Marine Tondelier (Les Écologistes) a dénoncé « la stratégie du pourrissement » du gouvernement, qui chercherait selon elle à faire oublier les revendications des manifestants, lycéens compris.",
+              "src": "AFP via La Gazette France, 24 octobre 2026"
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "Aurore Bergé (Renaissance), ministre de l'Égalité entre les femmes et les hommes, a dénoncé sur TF1 une « récupération politique assez grossière et caricaturale » du mouvement par une partie de la gauche.",
+              "src": "LCP, 16 octobre 2026"
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant reconnaît habituellement la légitimité des inquiétudes sur le pouvoir d'achat, appelle au dialogue social et met en garde contre les blocages et les violences.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement le droit de grève tout en insistant sur la continuité des services publics, l'ordre républicain et la maîtrise des comptes publics.",
+              "src": ""
+            },
+            "d": {
+              "type": "lecture",
+              "texte": "Le courant critique habituellement les grèves interprofessionnelles qu'il juge politiques, condamne fermement les violences en marge des cortèges et défend le service minimum dans les transports.",
+              "src": ""
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Jordan Bardella (RN) a estimé que la mobilisation sociale servait de « prétexte » à des « groupuscules d'extrême gauche » pour provoquer des débordements.",
+              "src": "LCP, 16 octobre 2026"
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant dénonce habituellement les syndicats et l'extrême gauche qu'il accuse d'instrumentaliser la jeunesse, et réclame une réponse pénale sévère contre les casseurs.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Public Sénat – « 5 novembre du peuple » : à quoi s'attendre pour ce jour de grève et de mobilisation ?",
+              "u": "https://www.publicsenat.fr/actualites/societe/5-novembre-du-peuple-a-quoi-sattendre-pour-ce-jour-de-greve-et-de-mobilisation"
+            },
+            {
+              "t": "Économie Matin – Grève du 5 novembre : un RER D sur trois, 25 stations fermées à Paris et de fortes perturbations sur les Transilien",
+              "u": "https://www.economiematin.fr/greve-5-novembre-2026-previsions-ratp-sncf-rer-transilien-paris"
+            },
+            {
+              "t": "Sortir à Paris – Grève et manifestation du 5 novembre à Paris : transports, écoles, parcours, le point",
+              "u": "https://www.sortiraparis.com/actualites/a-paris/articles/354559-greve-et-manifestation-du-5-novembre-a-paris-transports-ecoles-parcours-le-point"
+            },
+            {
+              "t": "Le Bonbon – Grève du 5 novembre à Paris : manifestation, métros, parcours… à quoi faut-il s'attendre ?",
+              "u": "https://www.lebonbon.fr/paris/news/greve-5-novembre-a-paris-manifestation-metros-parcours/"
+            },
+            {
+              "t": "La Gazette France (AFP) – Mélenchon à Macron : « il est temps de céder »",
+              "u": "https://www.lagazettefrance.fr/article/melenchon-a-macron-il-est-temps-de-ceder-apres-il-ne-restera-plus-que-la-porte-de-sortie"
+            },
+            {
+              "t": "LCP – Mobilisation du 17 octobre : quels responsables politiques s'emparent du mouvement et comment réagissent les autres",
+              "u": "https://lcp.fr/actualites/mobilisation-du-17-octobre-quels-responsables-politiques-s-emparent-du-mouvement-et"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-05-budget-recettes-rejet",
+          "rubrique": "Budget",
+          "titre": "Budget 2027 : l'Assemblée rejette la partie recettes par 458 voix contre zéro, le texte initial part au Sénat",
+          "chapo": "Après trois semaines de débats, aucun député n'a voté pour la première partie du projet de loi de finances. Le gouvernement mise désormais sur un compromis en décembre, avec le 49.3 et les ordonnances en toile de fond.",
+          "faits": "Mercredi 4 novembre au soir, 458 députés de tous les groupes, y compris ceux qui soutiennent le gouvernement, ont rejeté la partie recettes du budget 2027 ; seuls deux élus du groupe communiste et ultramarin se sont abstenus. Le rejet efface les mesures votées en séance, comme la taxe Zucman sur les multinationales, un prêt à taux zéro pour les jeunes couples ou le renforcement de la taxe sur les holdings. Selon le ministre des Comptes publics, David Amiel, le texte amendé aurait porté le déficit de l'État à 177,1 milliards d'euros, soit 5,9 % du PIB contre une cible de 5 %. Le projet initial du gouvernement est transmis au Sénat, qui doit l'examiner en séance à partir du 20 novembre, sans que l'Assemblée ait examiné les dépenses. Au Sénat, la rapporteure générale Christine Lavarde (LR) juge « hors sol » la prévision de croissance de 1 % et estime qu'« une récession n'est pas à exclure ».",
+          "enjeu": "Faute de majorité, l'issue se jouera en commission mixte paritaire en décembre, puis par un 49.3 exposé à la censure ou, à défaut d'accord dans les 70 jours, par ordonnances à partir de la mi-décembre. Le gouvernement dépendrait alors de l'abstention du RN ou du PS.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant rejette habituellement l'ensemble du budget, qu'il juge conçu pour les entreprises et les plus riches, et considère que la bataille se mène dans la rue et par la grève plutôt qu'au Parlement.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Éric Coquerel (LFI), président de la commission des finances, a estimé que « ce budget n'était pas crédible à l'origine » et conteste le chiffrage du gouvernement sur le dérapage du déficit.",
+              "src": "AFP, 4 novembre 2026"
+            },
+            "soc": {
+              "type": "declare",
+              "texte": "Estelle Mercier (PS) a qualifié le texte de « testament d'un pouvoir qui aura réussi l'exploit d'enrichir les plus riches tout en appauvrissant l'État », accusant les macronistes de voter avec le RN contre certaines taxes.",
+              "src": "AFP, 4 novembre 2026"
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant dénonce habituellement un budget qu'il juge injuste et défavorable à la transition écologique, et défend une fiscalité accrue sur les hauts patrimoines et les superprofits.",
+              "src": ""
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "David Amiel (Renaissance), ministre des Comptes publics, a dénoncé un déficit « virtuel » de 5,9 % et appelé à « dessiner un compromis indispensable » ; le député Paul Midy accuse RN et LFI d'avoir créé des dizaines de milliards d'impôts.",
+              "src": "AFP, 4 novembre 2026"
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant plaide habituellement pour un compromis budgétaire reposant sur une contribution accrue des plus hauts patrimoines, comme la taxe sur les holdings qu'il a fait adopter, et sur la maîtrise des dépenses.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant insiste habituellement sur la réduction du déficit par des économies de dépenses et s'oppose aux hausses d'impôts votées par les oppositions.",
+              "src": ""
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Christine Lavarde (LR), rapporteure générale du budget au Sénat, juge que « l'optimisme n'est pas une stratégie budgétaire » et s'engage à ne pas aggraver le déficit « d'un seul euro », en refusant toute hausse des prélèvements.",
+              "src": "Public Sénat, 4 novembre 2026"
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Jean-Philippe Tanguy (RN) accuse le gouvernement de mentir « sciemment » en laissant croire que le Parlement pourrait réécrire le budget à sa place, et le juge incapable de remettre de l'ordre dans les comptes.",
+              "src": "AFP, 4 novembre 2026"
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant réclame habituellement de fortes baisses de dépenses publiques, notamment sur l'immigration et l'aide au développement, et s'oppose à toute nouvelle hausse d'impôts.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "LCP – Budget 2027 : l'Assemblée rejette à l'unanimité la partie « recettes », le projet de loi de finances va être transmis au Sénat",
+              "u": "https://lcp.fr/actualites/budget-2027-l-assemblee-rejette-a-l-unanimite-la-partie-recettes-le-projet-de-loi-de"
+            },
+            {
+              "t": "AFP – L'Assemblée rejette sèchement le budget de l'État, le texte envoyé au Sénat",
+              "u": "https://fr.finance.yahoo.com/actualites/lassembl%C3%A9e-rejette-s%C3%A8chement-budget-l%C3%A9tat-232715119.html"
+            },
+            {
+              "t": "Public Sénat – « Une récession n'est pas à exclure » : la rapporteure générale du budget au Sénat tire à boulets rouges sur le scénario du gouvernement",
+              "u": "https://www.publicsenat.fr/actualites/politique/une-recession-nest-pas-a-exclure-la-rapporteure-generale-du-budget-au-senat-tire-a-boulets-rouges-sur-le-scenario-du-gouvernement"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-05-retraites-cumul-pensions",
+          "rubrique": "Social",
+          "titre": "Retraites : le décret sur le cumul emploi-retraite contesté jusque dans le camp présidentiel, le Sénat veut protéger les pensions jusqu'à 1 500 euros",
+          "chapo": "Un décret du ministre du Travail restreint les revenus que peuvent percevoir les retraités qui travaillent. Au même moment, la commission des affaires sociales du Sénat prépare sa version du budget de la Sécurité sociale.",
+          "faits": "Publié le 3 novembre par le ministre du Travail Jean-Pierre Farandou, le décret prévoit que l'intégralité des revenus d'activité d'un retraité parti avant l'âge légal soit déduite de sa pension. Pour les retraités de moins de 67 ans, le cumul est plafonné à 7 000 euros bruts par an, la moitié du dépassement étant déduite ; rien ne change après 67 ans. Au Sénat, la commission des affaires sociales propose d'indexer sur l'inflation les pensions jusqu'à 1 500 euros, contre 1 260 euros dans le projet du gouvernement, ce qui protégerait 40 % des retraités selon elle et réduirait de 200 millions d'euros l'économie prévue de 4 milliards. Le budget de la Sécurité sociale, rejeté par les députés, est examiné au Sénat du 9 au 18 novembre.",
+          "enjeu": "Le pouvoir d'achat des retraités devient un point de friction au moment où les syndicats réclament la hausse des pensions. Le gouvernement doit arbitrer entre ses objectifs d'économies et les critiques venues de sa propre majorité.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant réclame habituellement l'indexation de toutes les pensions sur les prix et les salaires, un minimum vieillesse relevé et le retour de la retraite à 60 ans.",
+              "src": ""
+            },
+            "gr": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement l'indexation intégrale des pensions sur l'inflation, la retraite à 60 ans et refuse les économies réalisées sur les retraités.",
+              "src": ""
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant s'oppose habituellement au gel ou à la sous-indexation des pensions et défend un financement des retraites par une contribution accrue des hauts revenus et du capital.",
+              "src": ""
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement la revalorisation des petites pensions et une fiscalité plus juste plutôt que des économies ciblant les retraités modestes.",
+              "src": ""
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "Xavier Iacovelli (Renaissance), président du groupe RDPI au Sénat, demande « solennellement » au gouvernement de retirer le décret : « On demande aux Français de travailler plus et dans le même temps on leur dit qu'on va le déduire de leur pension ».",
+              "src": "Public Sénat, 4 novembre 2026"
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement une protection ciblée des petites retraites tout en appelant à préserver l'équilibre financier du système.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement le report de l'âge de départ et l'encouragement au travail des seniors, et se montre attentif à la soutenabilité des comptes sociaux.",
+              "src": ""
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Marie-Do Aeschlimann (LR), rapporteure de la commission des affaires sociales du Sénat, veut garantir aux retraités un pouvoir d'achat « correct par rapport à l'inflation » tout en préservant l'équilibre du système, faute de quoi « ce sont les pensions des futures générations qui seront remises en cause ».",
+              "src": "Public Sénat, 4 novembre 2026"
+            },
+            "dn": {
+              "type": "lecture",
+              "texte": "Le courant s'oppose habituellement à toute sous-indexation des pensions, défend le pouvoir d'achat des retraités et réclame des économies sur d'autres postes, dont l'immigration.",
+              "src": ""
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement les pensions des retraités tout en prônant une baisse générale des dépenses publiques et des prélèvements.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Public Sénat – Budget 2027 de la Sécurité sociale : les sénateurs proposent de revaloriser sur l'inflation les pensions de retraite allant jusqu'à 1500 euros",
+              "u": "https://www.publicsenat.fr/actualites/sante/budget-2027-de-la-securite-sociale-les-senateurs-proposent-de-revaloriser-sur-linflation-les-pensions-allant-jusqua-1500-euros"
+            },
+            {
+              "t": "Public Sénat – Cumul emploi-retraite : le sénateur Xavier Iacovelli demande au gouvernement de retirer son décret",
+              "u": "https://www.publicsenat.fr/actualites/politique/cumul-emploi-retraite-le-senateur-xavier-iacovelli-demande-au-gouvernement-de-retirer-son-decret"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-05-legitime-defense-senat",
+          "rubrique": "Sécurité",
+          "titre": "Présomption de légitime défense des policiers : le gouvernement inscrit le texte au Sénat le 19 novembre, devançant le RN",
+          "chapo": "Le groupe RN-UDR comptait faire examiner la proposition de loi lors de sa journée réservée du 10 décembre. Le gouvernement l'a avancée de trois semaines, ce que le groupe dénonce comme une manœuvre.",
+          "faits": "La proposition de loi visant à instaurer une présomption de légitime défense pour les forces de l'ordre, déposée à l'origine par des députés LR, a été adoptée par l'Assemblée le 7 juillet 2026 avec les voix du socle gouvernemental et de l'alliance RN-UDR. Elle prévoit une présomption de respect de la loi lorsque policiers et gendarmes font usage de leurs armes, la preuve contraire devant être apportée pour la renverser. Le groupe RN-UDR du Sénat avait choisi de l'inscrire dans sa niche du 10 décembre. Mardi soir, la conférence des présidents a finalement programmé le texte le 19 novembre, dans le temps réservé au gouvernement. Une partie de la gauche y voit un « permis de tuer ».",
+          "enjeu": "Le texte relance le débat sur l'usage des armes par les forces de l'ordre, dans un climat marqué par les violences en manifestation. Il donne aussi lieu à une bataille politique entre l'exécutif et le RN sur la paternité des mesures de sécurité.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant s'oppose habituellement à tout assouplissement des règles d'usage des armes par la police, qu'il juge porteur d'impunité, et réclame le désarmement des forces de l'ordre en manifestation.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Les députés LFI ont dénoncé l'initiative du RN au Sénat : « Le RN prend le relais de la macronie, preuve de plus, s'il en fallait une, de leur complicité politique », et appellent au rejet du texte.",
+              "src": "Public Sénat, 4 novembre 2026"
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant s'oppose habituellement à une présomption de légitime défense, jugeant le cadre légal actuel suffisant, et préfère renforcer la formation et le contrôle des forces de l'ordre.",
+              "src": ""
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant combat habituellement ce type de texte au nom de l'État de droit et réclame un renforcement du contrôle indépendant de la police.",
+              "src": ""
+            },
+            "ren": {
+              "type": "lecture",
+              "texte": "Le courant se montre habituellement favorable à une meilleure protection juridique des forces de l'ordre, tout en restant attentif au respect du cadre constitutionnel.",
+              "src": ""
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement la protection des forces de l'ordre mais se montre réservé sur une présomption générale, attaché à l'appréciation au cas par cas par le juge.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement un renforcement de la protection juridique des policiers et gendarmes et une réponse ferme aux violences contre les forces de l'ordre.",
+              "src": ""
+            },
+            "d": {
+              "type": "lecture",
+              "texte": "Le courant, à l'origine de la proposition de loi à l'Assemblée, défend habituellement la présomption de légitime défense comme une protection nécessaire pour les policiers et gendarmes.",
+              "src": ""
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Edwige Diaz (RN), présidente du groupe au Sénat, estime que « le gouvernement est démasqué dans sa manœuvre : il ne voulait pas voter un texte du Rassemblement national », et revendique d'avoir précipité l'examen.",
+              "src": "Sud Ouest, 4 novembre 2026"
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant réclame habituellement une présomption de légitime défense étendue et un durcissement général des sanctions contre les agressions de policiers.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Public Sénat – Présomption de légitime défense pour les forces de l'ordre : doublé par le gouvernement, le groupe RN « ne se laissera pas déstabiliser »",
+              "u": "https://www.publicsenat.fr/actualites/politique/presomption-de-legitime-defense-pour-les-forces-de-lordre-double-par-le-gouvernement-le-groupe-rn-ne-se-laissera-pas-destabiliser-par-les-mesquineries-dun-executif-cre"
+            },
+            {
+              "t": "Sud Ouest – Présomption de légitime défense pour les gendarmes et les policiers : le gouvernement devance le RN, le texte examiné dès le 19 novembre au Sénat",
+              "u": "https://fr.headtopics.com/news/presomption-de-legitime-defense-pour-les-gendarmes-et-les-89526466"
+            },
+            {
+              "t": "Europe 1 – Police : le texte instaurant une présomption de légitime défense examiné le 10 décembre au Sénat",
+              "u": "https://www.europe1.fr/police-justice/police-le-texte-instaurant-une-presomption-de-legitime-defense-examine-le-10-decembre-au-senat-1205678"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-05-sondage-ifop-presidentielle",
+          "rubrique": "Présidentielle 2027",
+          "titre": "Sondage Ifop : Le Pen et Mélenchon qualifiés dans toutes les hypothèses, Lisnard passe devant Retailleau",
+          "chapo": "Une enquête Ifop pour LCI place la candidate du RN largement en tête, devant le leader insoumis. À droite et au centre, l'éparpillement des candidatures relance l'idée d'une primaire.",
+          "faits": "Selon ce sondage réalisé du 27 au 29 octobre auprès de 1 650 personnes, Marine Le Pen recueille 35 à 37 % des intentions de vote au premier tour et Jean-Luc Mélenchon 17,5 à 18 % dans tous les cas testés. Édouard Philippe obtient 15 % sans Gabriel Attal ni David Lisnard, mais 9,5 % lorsque tous deux sont testés avec Bruno Retailleau. Le maire de Cannes, David Lisnard, devance Bruno Retailleau de 2,5 à 3 points selon les hypothèses. Raphaël Glucksmann recule de 12-16 % à 10-13 %, Marine Tondelier est à 3-3,5 % et Fabien Roussel à 1,5-2 %. Un sondage reste une photographie de l'opinion, avec une marge d'erreur de 1,1 à 2,5 points.",
+          "enjeu": "La dispersion du bloc central et de la droite les prive de toute place au second tour dans ces hypothèses. La question d'une primaire, poussée par Attal, Lisnard et désormais Retailleau, met Édouard Philippe sous pression.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant considère habituellement les sondages comme secondaires et présente ses propres candidatures comme une tribune pour les luttes des travailleurs.",
+              "src": ""
+            },
+            "gr": {
+              "type": "lecture",
+              "texte": "Le courant voit habituellement dans la qualification de son candidat la preuve qu'il incarne la principale alternative à l'extrême droite et appelle la gauche à se rassembler derrière lui.",
+              "src": ""
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement la candidature de Raphaël Glucksmann comme la seule à gauche capable de battre l'extrême droite et refuse l'alignement sur LFI.",
+              "src": ""
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement une candidature écologiste autonome tout en appelant à l'union de la gauche pour éviter un second tour dominé par le RN.",
+              "src": ""
+            },
+            "ren": {
+              "type": "lecture",
+              "texte": "Le courant plaide habituellement pour le rassemblement du bloc central derrière un candidat unique, au besoin départagé par une primaire, afin d'éviter un duel entre les extrêmes.",
+              "src": ""
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant appelle habituellement à l'union du centre et met en garde contre une division qui laisserait le second tour aux extrêmes.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant présente habituellement Édouard Philippe comme le candidat naturel du bloc central et se montre réticent à l'idée d'une primaire.",
+              "src": ""
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Bruno Retailleau (LR) juge qu'une primaire sera nécessaire « sans doute en début d'année » et qu'Édouard Philippe sera « contraint » de l'accepter : « J'imaginais que les sondages pouvaient nous départager. C'est pas parti pour ça ».",
+              "src": "Public Sénat, 4 novembre 2026"
+            },
+            "dn": {
+              "type": "lecture",
+              "texte": "Le courant présente habituellement ces enquêtes comme la confirmation de son statut de première force politique du pays et d'une alternance qu'il juge inévitable.",
+              "src": ""
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant appelle habituellement à l'union des droites, qu'il présente comme la seule voie pour l'emporter, et relativise les sondages.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Public Sénat – Sondage présidentielle 2027 : un second tour Le Pen-Mélenchon assuré, la droite et le bloc central peinent à remonter, Lisnard confirme sa percée",
+              "u": "https://www.publicsenat.fr/actualites/politique/sondage-presidentielle-2027-un-second-tour-le-pen-melenchon-assure-la-droite-et-le-bloc-central-peine-a-remonter-lisnard-confirme-sa-percee"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-05-ukraine-komychouvakha",
+          "rubrique": "International",
+          "titre": "Ukraine : au moins 33 morts dans le bombardement d'une école servant de centre d'aide, à quelques jours de pourparlers à Abou Dhabi",
+          "chapo": "Des bombes guidées russes ont frappé dimanche une école de la région de Zaporijjia où des civils venaient chercher de l'aide humanitaire. L'ONU évoque une violation des principes fondamentaux du droit humanitaire.",
+          "faits": "Le 2 novembre à Komychouvakha, dans la région de Zaporijjia, des bombes aériennes guidées ont touché une école transformée en centre de distribution d'aide, puis un abri voisin où des personnes s'étaient réfugiées. Volodymyr Zelensky a fait état d'au moins 33 morts, dont deux secouristes et quatre policiers, et le gouverneur de la région a évoqué 48 disparus ; les recherches se poursuivaient mercredi. La mission de surveillance des droits de l'homme de l'ONU en Ukraine estime que l'attaque semble avoir violé les principes les plus fondamentaux du droit international humanitaire. Moscou affirme avoir visé des unités militaires. Selon Reuters, Washington doit réunir délégations russe et ukrainienne à Abou Dhabi les 10 et 11 novembre.",
+          "enjeu": "Cette frappe, l'une des plus meurtrières contre des civils cette année, pèse sur les discussions annoncées par les États-Unis. Elle relance en France et en Europe le débat sur le niveau de soutien à Kiev et sur les sanctions contre Moscou.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant condamne habituellement la guerre et l'invasion russe tout en refusant de soutenir l'OTAN et les livraisons d'armes, qu'il associe à une logique impérialiste.",
+              "src": ""
+            },
+            "gr": {
+              "type": "lecture",
+              "texte": "Le courant condamne habituellement l'agression russe, plaide pour une solution diplomatique sous l'égide de l'ONU et reste réservé sur l'escalade militaire et l'OTAN.",
+              "src": ""
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement fermement l'Ukraine, réclame des sanctions renforcées contre la Russie et l'utilisation des avoirs russes gelés.",
+              "src": ""
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement un soutien sans faille à l'Ukraine, des sanctions accrues et la fin des importations d'énergie russe.",
+              "src": ""
+            },
+            "ren": {
+              "type": "lecture",
+              "texte": "Le courant condamne habituellement les frappes russes contre les civils, soutient l'aide militaire à Kiev et une paix qui garantisse la souveraineté de l'Ukraine.",
+              "src": ""
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement l'Ukraine et une réponse européenne coordonnée, en insistant sur le respect du droit international humanitaire.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement un soutien militaire résolu à l'Ukraine et le renforcement de la défense européenne face à la Russie.",
+              "src": ""
+            },
+            "d": {
+              "type": "lecture",
+              "texte": "Le courant condamne habituellement l'agression russe, soutient l'Ukraine et insiste sur le réarmement de la France et de l'Europe.",
+              "src": ""
+            },
+            "dn": {
+              "type": "lecture",
+              "texte": "Le courant condamne habituellement l'invasion de l'Ukraine tout en s'opposant à l'envoi de troupes et à certaines livraisons d'armes, et met en avant le coût de la guerre pour les Français.",
+              "src": ""
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant se montre habituellement réservé sur l'aide militaire à l'Ukraine et plaide pour une négociation rapide avec la Russie au nom des intérêts français.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Quartz – Des bombes russes ont tué des dizaines de personnes dans une école ukrainienne utilisée comme abri et site d'aide",
+              "u": "https://fr.qz.com/frappe-russe-tue-dizaines-abri-centre-aide-ukraine-110426"
+            },
+            {
+              "t": "Armees.com – Ukraine : 24 morts dans des frappes sur un centre d'aide, deux secouristes parmi les victimes",
+              "u": "https://armees.com/ukraine-komyshuvakha-24-morts-ecole-aide-secouristes-novembre-2026/"
+            },
+            {
+              "t": "The Kyiv Independent – Russian bombs hit school used as humanitarian aid center in Zaporizhzhia Oblast, killing 33",
+              "u": "https://kyivindependent.com/exceptionally-horrific-strike-russian-bombs-strike-school-used-as-humanitarian-aid-center-in-zaporizhzhia-oblast-killing-24/"
+            }
+          ]
+        }
+      ],
+      "breves": [
+        {
+          "titre": "Pétition contre CNews : plus de 800 000 signatures",
+          "texte": "La pétition demandant la suppression de CNews dépassait 800 000 signatures mercredi. Au Sénat, l'écologiste Antoinette Guhl a demandé au gouvernement de doter l'Arcom de nouveaux outils ; la ministre de la Culture, Catherine Pégard, a renvoyé au juge et à l'Arcom, garants selon elle des libertés.",
+          "src": {
+            "t": "Public Sénat – Pétition contre CNews : « Le racisme à toutes les sauces », dénonce la sénatrice écologiste Antoinette Guhl",
+            "u": "https://www.publicsenat.fr/actualites/politique/petition-contre-cnews-le-racisme-a-toutes-les-sauces-denonce-la-senatrice-ecologiste-antoinette-guhl"
+          }
+        },
+        {
+          "titre": "Cyberattaque contre les banques du sang françaises",
+          "texte": "Les systèmes des banques du sang françaises ont été visés par une cyberattaque ; selon les autorités, aucun échantillon n'a été compromis.",
+          "src": {
+            "t": "Euronews – Cyberattack hits French blood banks but no samples compromised, officials say",
+            "u": "https://www.euronews.com/2026/11/04/cyberattack-hits-french-blood-banks-but-no-samples-compromised-officials-say"
+          }
+        },
+        {
+          "titre": "Voitures : les eurodéputés assouplissent les objectifs d'émissions",
+          "texte": "Le Parlement européen a adopté des objectifs d'émissions de CO2 moins contraignants pour les voitures neuves, nouveau recul pour le Pacte vert européen.",
+          "src": {
+            "t": "Euronews – MEPs deal another blow to Green Deal with softer car emissions targets",
+            "u": "https://www.euronews.com/2026/11/04/meps-deal-another-blow-to-green-deal-with-softer-car-emissions-targets"
+          }
+        }
+      ],
+      "agenda": [
+        {
+          "d": "Ven. 6 nov.",
+          "t": "Une coordination de gilets jaunes appelle à prolonger la mobilisation vendredi et samedi."
+        },
+        {
+          "d": "Lun. 9 nov.",
+          "t": "Début de l'examen du budget de la Sécurité sociale au Sénat (jusqu'au 18 novembre)."
+        },
+        {
+          "d": "Mar. 10 nov.",
+          "t": "Pourparlers entre Russes et Ukrainiens à Abou Dhabi sous l'égide des États-Unis (10 et 11 novembre)."
+        },
+        {
+          "d": "Jeu. 19 nov.",
+          "t": "Examen au Sénat de la présomption de légitime défense pour les forces de l'ordre."
+        },
+        {
+          "d": "Ven. 20 nov.",
+          "t": "Début de l'examen du projet de loi de finances 2027 en séance au Sénat."
+        }
+      ]
+    },
     {
       "date": "2026-11-04",
       "label": "Mercredi 4 novembre 2026",
@@ -2800,430 +3300,6 @@
         {
           "d": "Jeu. 5 nov.",
           "t": "Grève interprofessionnelle, rejointe par les organisations de jeunesse"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-29",
-      "label": "Jeudi 29 octobre 2026",
-      "maj": "Mise à jour à 6 h 37",
-      "intro": "Devant les députés, Sébastien Lecornu a confirmé mercredi que Parcoursup serait remplacé pour la campagne 2028 et demandé aux groupes des propositions précises. La France insoumise ouvre ce jeudi sa journée réservée à l'Assemblée, avec en tête l'interdiction de l'acétamipride, puis le Smic à 1 700 euros et la titularisation des AESH. Le Sénat a rétabli l'imprescriptibilité des crimes sexuels sur mineurs, contre l'avis de sa commission. À l'international, l'Espagne entame trois jours de deuil national après la collision de deux trains à grande vitesse près de Tolède.",
-      "stories": [
-        {
-          "id": "2026-10-29-parcoursup-debat-assemblee",
-          "rubrique": "Éducation",
-          "titre": "Parcoursup : Lecornu confirme son remplacement pour 2028 et renvoie la balle aux groupes, la gauche réclame des places, la droite assume la sélection",
-          "chapo": "Au terme d'un débat sans vote à l'Assemblée, le Premier ministre a promis que la plateforme serait remplacée pour la campagne 2028 et demandé des propositions précises. Les organisations lycéennes appellent à poursuivre la mobilisation.",
-          "faits": [
-            "Mercredi 28 octobre, l'Assemblée nationale a débattu de l'avenir de l'orientation et de l'affectation des lycéens dans le supérieur, à la demande du gouvernement, au titre de l'article 50-1 de la Constitution, donc sans vote.",
-            "Sébastien Lecornu a déclaré : « Parcoursup sera remplacé pour la campagne 2028, c'est entendu », et attend des groupes des propositions précises ; le ministre de l'Enseignement supérieur, Philippe Baptiste, a demandé au Parlement sur quels principes bâtir le futur système.",
-            "Dès la campagne 2027, qui s'ouvre en décembre, les critères d'admission devront être compréhensibles et chaque refus motivé ; une grande partie des mesures annoncées passera par des amendements du gouvernement au projet de loi de finances, selon Europe 1.",
-            "Le ministre de l'Éducation nationale, Édouard Geffray, a défendu le contrôle continu au bac tout en ouvrant la porte à des modifications dès la rentrée 2027 ; un « comité de réforme » doit rendre ses premières recommandations courant novembre.",
-            "L'intersyndicale lycéenne appelle à poursuivre la mobilisation, alors que l'exécutif espère un retour en cours lundi 2 novembre, à la fin des vacances de la Toussaint."
-          ],
-          "enjeu": "Le gouvernement mise sur la concertation et un calendrier de réforme pour apaiser un mouvement lycéen engagé depuis le 17 octobre. Le débat a fait apparaître deux lignes : davantage de places et un droit d'accès au supérieur à gauche, une sélection assumée et un bac renforcé à droite. Reste à savoir si ces annonces suffiront avant la mobilisation de samedi et la grève du 5 novembre.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant voit habituellement dans la sélection à l'entrée de l'université un tri social, réclame la gratuité et l'accès de tous les bacheliers aux études de leur choix, et appelle à amplifier la mobilisation de la jeunesse avec les salariés.",
-              "src": ""
-            },
-            "gr": {
-              "type": "declare",
-              "texte": "Louis Boyard (LFI) juge Parcoursup au service d'une vision libérale et chiffre à 10 milliards d'euros l'effort nécessaire pour l'éducation et le supérieur ; Soumya Bourouaha (PCF) réclame 250 000 places supplémentaires, contre 15 000 annoncées, et un bac fondé sur des épreuves terminales.",
-              "src": "Le Singulier et LCP, 28 octobre 2026"
-            },
-            "soc": {
-              "type": "declare",
-              "texte": "Pierrick Courbon (PS) décrit Parcoursup comme un outil de gestion de la pénurie plus que d'orientation et demande un plan de rattrapage d'au moins 150 000 places dans le supérieur.",
-              "src": "Le Singulier, 28 octobre 2026"
-            },
-            "eco": {
-              "type": "declare",
-              "texte": "Jean-Claude Raux (Les Écologistes) défend un droit d'accès au premier cycle pour tout bachelier, avec une priorité dans son académie, et dénonce une « pénurie organisée ».",
-              "src": "Le Singulier, 28 octobre 2026"
-            },
-            "ren": {
-              "type": "declare",
-              "texte": "Violette Spillebout (EPR) plaide pour « une refonte complète de l'orientation », reconnaît une crise de confiance autour d'un dispositif anxiogène et demande plus de transparence, tout en laissant la sélection aux établissements.",
-              "src": "LCP, 28 octobre 2026"
-            },
-            "modem": {
-              "type": "declare",
-              "texte": "Frantz Gumbs (Les Démocrates) estime que Parcoursup révèle le problème sans le créer et demande l'application réelle des heures d'orientation au lycée ainsi qu'un meilleur accompagnement par les professeurs principaux.",
-              "src": "Le Singulier, 28 octobre 2026"
-            },
-            "hor": {
-              "type": "declare",
-              "texte": "Philippe Fait (Horizons) défend la méritocratie républicaine et prévient qu'une sélection supprimée à l'entrée reviendrait plus tard, sous une forme qu'il juge plus brutale et plus injuste.",
-              "src": "Le Singulier, 28 octobre 2026"
-            },
-            "d": {
-              "type": "declare",
-              "texte": "Virginie Duby-Muller (LR) voit dans Parcoursup le symptôme d'un pays qui sélectionne sans l'assumer ; elle veut assumer la sélection, dire la vérité sur les débouchés et renforcer le poids du bac.",
-              "src": "Le Singulier, 28 octobre 2026"
-            },
-            "dn": {
-              "type": "declare",
-              "texte": "Roger Chudeau (RN) veut remettre les épreuves du bac au centre en supprimant le contrôle continu et réduire le catalogue des formations ; Maxime Michelet (UDR) juge « urgent » de redonner au bac son rôle de certification.",
-              "src": "LCP, 28 octobre 2026"
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement un baccalauréat exigeant fondé sur des examens nationaux, une sélection au mérite à l'entrée du supérieur et un renforcement des filières professionnelles, et critique ce qu'il considère comme une baisse du niveau scolaire.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "LCP – « Parcoursup sera remplacé pour la campagne 2028, c'est entendu » : ce qu'il faut retenir du débat de mercredi à l'Assemblée",
-              "u": "https://lcp.fr/actualites/parcoursup-sera-remplace-pour-la-campagne-2028-c-est-entendu-ce-qu-il-faut-retenir-du"
-            },
-            {
-              "t": "Europe 1 – Parcoursup : Sébastien Lecornu confirme son remplacement en 2028, malgré la colère persistante des lycéens",
-              "u": "https://www.europe1.fr/societe/parcoursup-sebastien-lecornu-confirme-son-remplacement-en-2028-malgre-la-colere-persistante-des-lyceens-1190154"
-            },
-            {
-              "t": "Le Singulier – Parcoursup promis à la disparition en 2028 mais son remplaçant reste à inventer",
-              "u": "https://lesinguliersete.fr/parcoursup-promis-a-la-disparition-en-2028-mais-son-remplacant-reste-a-inventer/"
-            },
-            {
-              "t": "LCP – Parcoursup : suppression, remplacement, réforme... Le débat aura lieu cet après-midi à l'Assemblée nationale",
-              "u": "https://lcp.fr/actualites/parcoursup-suppression-remplacement-reforme-le-debat-aura-lieu-cet-apres-midi-a-l"
-            }
-          ],
-          "image": {
-            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2026-10/S%C3%A9bastien%20Lecornu%20le%2028%20octobre%202026%20.jpg?itok=hrgkYLZ2",
-            "credit": "LCP",
-            "alt": "Illustration de l'article de LCP"
-          }
-        },
-        {
-          "id": "2026-10-29-niche-lfi-acetamipride",
-          "rubrique": "Agriculture",
-          "titre": "Journée LFI à l'Assemblée : l'interdiction de l'acétamipride en tête, puis le Smic à 1 700 euros et la titularisation des AESH",
-          "chapo": "La France insoumise dispose ce jeudi de sa journée réservée à l'Assemblée nationale. Elle ouvre avec un texte qui veut rétablir l'interdiction de deux pesticides réautorisés sous conditions, rejeté en commission le 21 octobre.",
-          "faits": [
-            "Le groupe LFI a inscrit douze propositions de loi à l'ordre du jour de sa journée d'initiative parlementaire du jeudi 29 octobre ; la séance s'arrêtant à minuit, toutes ne pourront pas être examinées.",
-            "Le premier texte vise à rétablir l'interdiction de l'acétamipride et du flupyradifurone, deux insecticides réintroduits sous conditions par la loi d'urgence agricole, validée par le Conseil constitutionnel le 14 août avec deux réserves ; il a été rejeté en commission des affaires économiques le 21 octobre.",
-            "Suivent notamment la titularisation des accompagnants d'élèves en situation de handicap (AESH) dans un corps de catégorie B, la défiscalisation des pensions alimentaires et une hausse du Smic à 1 700 euros nets par mois avec indexation des salaires sur l'inflation.",
-            "Figurent aussi au programme un moratoire de dix ans sur le canal Seine-Nord Europe, la prise en charge à 100 % des soins des victimes de violences sexistes et sexuelles et la suppression des amendes forfaitaires délictuelles.",
-            "La Coordination rurale a appelé les groupes proches de ses positions à mobiliser leurs députés pour être présents dans l'hémicycle lors du vote sur les pesticides."
-          ],
-          "enjeu": "C'est l'une des dernières journées réservées de LFI avant la présidentielle, et le groupe en fait une vitrine de ses priorités sur la santé, l'agriculture et les salaires. Le sort du texte sur les pesticides dépendra de la présence des députés des différents camps, et la longueur des débats décidera du nombre de textes examinés.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement l'interdiction des pesticides dangereux et la hausse générale des salaires, tout en jugeant que ces combats se gagnent d'abord par la mobilisation des travailleurs plutôt qu'au Parlement.",
-              "src": ""
-            },
-            "gr": {
-              "type": "declare",
-              "texte": "Mathilde Panot (LFI) qualifie de « scandale démocratique » la réintroduction de ces pesticides sans vote de l'Assemblée sur ce point et promet d'« abroger cette loi poison », en s'appuyant sur l'Ordre des médecins et des sociétés savantes.",
-              "src": "LCP, 21 octobre 2026"
-            },
-            "soc": {
-              "type": "lecture",
-              "texte": "Le courant s'est habituellement opposé à la réintroduction des néonicotinoïdes, défend un accompagnement des agriculteurs vers des alternatives et soutient la revalorisation des bas salaires et des AESH, sans reprendre toujours le chiffrage de LFI.",
-              "src": ""
-            },
-            "eco": {
-              "type": "declare",
-              "texte": "Delphine Batho (groupe Écologiste et social) affirme en commission qu'« il n'y a pas de débat scientifique sur la dangerosité des néonicotinoïdes » et soutient le rétablissement de l'interdiction.",
-              "src": "LCP, 21 octobre 2026"
-            },
-            "ren": {
-              "type": "declare",
-              "texte": "Jean-René Cazeneuve (EPR) objecte qu'« on ne rétablit pas ce qui n'a jamais été supprimé » et estime que c'est à l'Anses, et non aux responsables politiques, de trancher sur les dérogations.",
-              "src": "LCP, 21 octobre 2026"
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant privilégie habituellement des dérogations encadrées, adossées à l'avis de l'Anses et limitées dans le temps, en cherchant un équilibre entre santé publique et absence d'alternative pour certaines filières.",
-              "src": ""
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement la compétitivité des filières agricoles et l'alignement sur les règles européennes, et se montre réservé sur des interdictions nationales qui iraient au-delà de ce qu'appliquent les pays voisins.",
-              "src": ""
-            },
-            "d": {
-              "type": "declare",
-              "texte": "Julien Dive (LR) affirme qu'« il n'y a aucune étude » classant l'acétamipride et le flupyradifurone parmi les cancérigènes suspectés ; Émeline Rey-Rinchet (LR) reproche au texte d'ignorer les importations produites selon des normes moins strictes.",
-              "src": "LCP, 21 octobre 2026"
-            },
-            "dn": {
-              "type": "declare",
-              "texte": "Eddy Casterman (apparenté RN) estime que le texte menacerait la production de betteraves et accuse LFI de vouloir « transformer la France en désert agricole ».",
-              "src": "LCP, 21 octobre 2026"
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement les agriculteurs face à ce qu'il décrit comme des normes environnementales excessives et une concurrence étrangère déloyale, et s'oppose aux nouvelles interdictions de produits phytosanitaires.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "LCP – La proposition de loi LFI visant à interdire l'acétamipride rejetée en commission",
-              "u": "https://lcp.fr/actualites/la-proposition-de-loi-lfi-visant-a-interdire-l-acetamipride-rejetee-en-commission-444131"
-            },
-            {
-              "t": "LCP – Salaires, pesticides, AESH... : les textes que LFI défendra à l'Assemblée lors de sa niche parlementaire du 29 octobre",
-              "u": "https://lcp.fr/actualites/salaires-pesticides-aesh-les-textes-que-lfi-defendra-a-l-assemblee-lors-de-sa-niche"
-            },
-            {
-              "t": "LCP – Acétamipride : l'abrogation du pesticide au menu de la niche LFI le 29 octobre",
-              "u": "https://lcp.fr/actualites/acetamipride-l-abrogation-du-pesticide-sera-au-menu-de-la-niche-de-la-france-insoumise"
-            },
-            {
-              "t": "Coordination rurale – Niche parlementaire LFI : les députés qui défendent l'agriculture doivent être au rendez-vous",
-              "u": "https://www.coordinationrurale.fr/lactualite/niche-parlementaire-lfi-les-deputes-qui-defendent-lagriculture-doivent-etre-au-rendez-vous/"
-            }
-          ],
-          "image": {
-            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2025-02/harvest-harvester-teamwork-harvesting-soybean-agriculture-1367693-pxhere.com%20%281%29.jpg?itok=0Ajw6Fis",
-            "credit": "LCP",
-            "alt": "Illustration de l'article de LCP"
-          }
-        },
-        {
-          "id": "2026-10-29-imprescriptibilite-senat",
-          "rubrique": "Justice",
-          "titre": "Protection de l'enfance : le Sénat rétablit l'imprescriptibilité des crimes sexuels sur mineurs, contre l'avis de sa commission",
-          "chapo": "Par 252 voix contre 80, les sénateurs ont réintroduit une mesure votée par les députés puis supprimée en commission. Le gouvernement l'a soutenue, les rapporteures invoquaient la tradition juridique.",
-          "faits": [
-            "Mercredi 28 octobre, le Sénat a adopté par 252 voix contre 80 l'article du projet de loi sur la protection de l'enfance qui rend imprescriptibles les crimes sexuels commis sur des mineurs.",
-            "Aujourd'hui, la prescription court trente ans à partir de la majorité de la victime, ce qui permet des poursuites jusqu'à ses 48 ans ; seuls les crimes contre l'humanité sont imprescriptibles en France.",
-            "Les députés avaient voté la mesure, mais la commission des lois du Sénat l'avait supprimée ; ses rapporteures, Agnès Canayer (LR) et Dominique Vérien (Union centriste), ont plaidé en vain contre son retour.",
-            "Le gouvernement, par la voix de Gérald Darmanin et d'Aurore Bergé, a soutenu le rétablissement ; un amendement socialiste qui étendait l'imprescriptibilité à d'autres crimes graves sur mineurs a été écarté, le gouvernement craignant une censure du Conseil constitutionnel.",
-            "Le texte doit poursuivre la navette ; Public Sénat rappelle que le Conseil constitutionnel pourrait être saisi de la mesure."
-          ],
-          "enjeu": "Le vote fait primer la demande des victimes sur la tradition du droit pénal français, et divise jusque dans les rangs de la majorité sénatoriale. La solidité constitutionnelle d'une imprescriptibilité limitée à une catégorie de crimes reste la principale inconnue.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant met habituellement l'accent sur la prévention, l'éducation et les moyens de la justice et de la protection de l'enfance, et se montre attentif aux droits de la défense face aux réformes pénales.",
-              "src": ""
-            },
-            "gr": {
-              "type": "declare",
-              "texte": "Cécile Cukierman (PCF), présidente du groupe communiste au Sénat, a indiqué voter pour l'imprescriptibilité, pour la première fois en quinze ans de débats sur le sujet.",
-              "src": "Public Sénat, 28 octobre 2026"
-            },
-            "soc": {
-              "type": "declare",
-              "texte": "Les socialistes ont soutenu le rétablissement et, par un amendement de Simon Uzenat (PS) défendu par Marion Canalès, proposé d'étendre l'imprescriptibilité à d'autres crimes graves commis sur des mineurs ; l'amendement a été écarté.",
-              "src": "Public Sénat, 28 octobre 2026"
-            },
-            "eco": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement le renforcement de la protection des enfants victimes de violences sexuelles et l'allongement des délais pour agir, en insistant sur l'accompagnement des victimes et les moyens de la justice.",
-              "src": ""
-            },
-            "ren": {
-              "type": "declare",
-              "texte": "Aurore Bergé (Renaissance), ministre chargée de l'Égalité, a critiqué le décalage entre l'injonction faite aux victimes de parler et la réponse de la loi ; Xavier Iacovelli, président du groupe RDPI, estime que le temps ne doit pas favoriser l'impunité.",
-              "src": "Public Sénat, 28 octobre 2026"
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement les mesures de protection de l'enfance et la parole des victimes, tout en restant attentif à la cohérence du droit pénal et au risque de censure constitutionnelle.",
-              "src": ""
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement une réponse pénale ferme contre les violences faites aux enfants, en cherchant des dispositifs juridiquement solides au regard de la jurisprudence constitutionnelle.",
-              "src": ""
-            },
-            "d": {
-              "type": "declare",
-              "texte": "Agnès Evren (LR) a défendu la mesure au nom des victimes, quand la rapporteure Agnès Canayer (LR) invoquait la tradition juridique et que Dimitri Doussot (LR) parlait de « fausse bonne idée ».",
-              "src": "Public Sénat, 28 octobre 2026"
-            },
-            "dn": {
-              "type": "lecture",
-              "texte": "Le courant plaide habituellement pour un durcissement des peines et des délais de poursuite contre les auteurs de crimes sur des enfants, et soutient les mesures présentées comme favorables aux victimes.",
-              "src": ""
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant réclame habituellement une sévérité maximale contre les crimes sexuels sur mineurs, y compris l'imprescriptibilité et des peines alourdies.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "Public Sénat – Protection de l'enfance : au Sénat, les rapporteures rejettent l'imprescriptibilité pour ne pas « déstabiliser le droit pénal »",
-              "u": "https://www.publicsenat.fr/actualites/parlementaire/protection-de-lenfance-au-senat-les-rapporteures-rejettent-limprescriptibilite-pour-ne-pas-destabiliser-le-droit-penal"
-            },
-            {
-              "t": "Public Sénat – Protection de l'enfance : le Sénat rétablit l'imprescriptibilité des crimes sexuels sur mineurs",
-              "u": "https://www.publicsenat.fr/actualites/parlementaire/protection-de-lenfance-le-senat-retablit-limprescriptibilite-des-crimes-sexuels-sur-mineurs"
-            },
-            {
-              "t": "Sud Radio – Le Sénat approuve l'imprescriptibilité des crimes sexuels commis sur les mineurs",
-              "u": "https://www.sudradio.fr/societe/le-senat-approuve-limprescriptibilite-des-crimes-sexuels-commis-sur-les-mineurs"
-            },
-            {
-              "t": "Sénat – Dossier législatif : protection des enfants",
-              "u": "https://www.senat.fr/dossier-legislatif/pjl25-911.html"
-            }
-          ],
-          "image": {
-            "u": "https://www.publicsenat.fr/app/uploads/2026/10/FFFFFFFFFFFF.png",
-            "credit": "Public Sénat",
-            "alt": "Illustration de l'article de Public Sénat"
-          }
-        },
-        {
-          "id": "2026-10-29-espagne-collision-trains",
-          "rubrique": "International",
-          "titre": "Espagne : au moins 68 morts dans la collision de deux trains à grande vitesse près de Tolède, trois jours de deuil national",
-          "chapo": "Un AVE de la Renfe a percuté par l'arrière un train Iryo à l'arrêt sur la ligne Madrid-Séville. Le gouvernement espagnol évoque une décision « inexplicable » du centre de contrôle, l'enquête doit l'établir.",
-          "faits": [
-            "Mercredi 28 octobre, peu avant 9 heures, un train AVE de la Renfe parti de Madrid pour Séville a percuté par l'arrière un train de la compagnie Iryo immobilisé près d'Urda, dans la province de Tolède ; deux voitures de l'Iryo ont déraillé et dévalé un talus.",
-            "Les deux trains transportaient 544 voyageurs ; le dernier bilan des autorités fait état d'au moins 68 morts, et plus d'une centaine de personnes ont été hospitalisées, dont 18 dans un état très grave selon Euronews ; le président de Castille-La Manche prévient que le bilan pourrait encore s'alourdir.",
-            "Le ministre des Transports, Óscar Puente, juge « inexplicable » qu'un train ait été autorisé à partir alors qu'un autre était arrêté devant lui ; une source gouvernementale citée par El País évoque une erreur humaine d'un opérateur d'Adif lors d'une panne du système de signalisation, ce que l'enquête doit confirmer.",
-            "Pedro Sánchez s'est rendu sur place et a décrété trois jours de deuil national, du 29 au 31 octobre ; Emmanuel Macron a exprimé « la solidarité de la France » et Ursula von der Leyen a déclaré que « l'Europe est aujourd'hui en deuil ».",
-            "Il s'agit du deuxième accident ferroviaire majeur en Espagne cette année, après celui d'Adamuz, près de Cordoue, qui avait fait 46 morts en janvier."
-          ],
-          "enjeu": "La catastrophe relance en Espagne, et au-delà, la question de la sécurité d'un réseau à grande vitesse ouvert à la concurrence et de la fiabilité des systèmes de signalisation. En France, elle intervient alors que l'état du réseau et l'ouverture du rail à la concurrence restent des sujets de débat.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant voit habituellement dans l'ouverture du rail à la concurrence et la recherche de rentabilité une menace pour la sécurité, et défend un service public ferroviaire unifié avec des effectifs suffisants.",
-              "src": ""
-            },
-            "gr": {
-              "type": "lecture",
-              "texte": "Le courant dénonce habituellement la libéralisation du rail en Europe, réclame un grand service public ferroviaire et un investissement massif dans l'entretien des voies et la signalisation.",
-              "src": ""
-            },
-            "soc": {
-              "type": "lecture",
-              "texte": "Le courant exprime habituellement sa solidarité avec l'Espagne de Pedro Sánchez, gouvernement socialiste, et plaide pour un investissement européen accru dans la sûreté et la modernisation des réseaux.",
-              "src": ""
-            },
-            "eco": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement le train comme mode de transport d'avenir et réclame des investissements massifs dans le réseau, en insistant sur l'entretien des infrastructures existantes.",
-              "src": ""
-            },
-            "ren": {
-              "type": "lecture",
-              "texte": "Le courant met habituellement en avant la solidarité européenne face aux catastrophes et soutient l'ouverture encadrée du rail à la concurrence, en renvoyant les questions de sécurité aux enquêtes techniques.",
-              "src": ""
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant insiste habituellement sur la solidarité européenne et sur la coordination des normes de sécurité ferroviaire à l'échelle de l'Union.",
-              "src": ""
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement la modernisation des infrastructures et l'investissement dans la signalisation, et soutient une concurrence ferroviaire encadrée par des règles de sécurité strictes.",
-              "src": ""
-            },
-            "d": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement l'ouverture du rail à la concurrence pour améliorer le service, tout en réclamant des investissements dans l'entretien du réseau et des contrôles de sécurité rigoureux.",
-              "src": ""
-            },
-            "dn": {
-              "type": "lecture",
-              "texte": "Le courant critique habituellement l'ouverture imposée par Bruxelles du rail à la concurrence et défend la maîtrise nationale des infrastructures de transport.",
-              "src": ""
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant critique habituellement les règles européennes imposées au secteur ferroviaire et plaide pour un contrôle national des infrastructures stratégiques.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "franceinfo – Au moins 68 morts, deuil national, circonstances « inexplicables »... Ce que l'on sait de la collision de deux trains dans le centre de l'Espagne",
-              "u": "https://www.franceinfo.fr/monde/espagne/ce-que-l-on-sait-de-la-collision-de-trains-meurtriere-survenue-pres-de-la-ville-espagnole-de-tolede_8257072.html"
-            },
-            {
-              "t": "Le Petit Journal – Accident de train en Espagne : ce que l'on sait de la collision près de Tolède",
-              "u": "https://lepetitjournal.com/madrid/actualites/accident-de-train-en-espagne-au-moins-30-morts-pres-de-tolede-ce-que-lon-sait-457321"
-            },
-            {
-              "t": "Euronews – Collision de trains en Espagne : au moins 68 morts, 18 personnes hospitalisées dans un état très grave",
-              "u": "https://fr.news.yahoo.com/collision-trains-espagne-au-moins-093239668.html"
-            },
-            {
-              "t": "L'Express – Espagne : une collision entre deux trains à grande vitesse fait plusieurs dizaines de morts près de Tolède",
-              "u": "https://actu.orange.fr/monde/espagne-une-collision-entre-deux-trains-a-grande-vitesse-fait-plusieurs-dizaines-de-morts-et-de-nombreux-blesses-dans-la-region-de-tolede-l-express-via-6medias-CNT000002tqy7c.html"
-            }
-          ],
-          "image": {
-            "u": "https://www.franceinfo.fr/pictures/0cub5ODVVjH0qGZNQXdTC2MJEgo/0x70:2000x1195/1500x843/2026/10/28/6ae1d5a38f9d6760186614.jpg",
-            "credit": "franceinfo",
-            "alt": "Deux trains à grande vitesse sont entrés en collision sur la ligne entre Madrid et Séville (Espagne), le 28 octobre 2026."
-          }
-        }
-      ],
-      "breves": [
-        {
-          "titre": "« Casseurs-payeurs » : le Sénat adopte l'ensemble du texte",
-          "texte": "Dans la nuit de mardi à mercredi, les sénateurs ont adopté par 229 voix contre 105 la proposition de loi qui permet de saisir une partie des prestations sociales des auteurs de dégradations, dans la limite de 10 000 euros par personne. Le texte, élargi au RSA et à la prime d'activité, part à l'Assemblée ; la gauche y voit une menace pour la liberté de manifester.",
-          "src": {
-            "t": "Regards protestants – Loi « casseurs-payeurs » : les sénateurs adoptent le texte et étendent son champ d'action",
-            "u": "https://regardsprotestants.com/actualites/societe/loi-casseurs-payeurs-les-senateurs-adoptent-le-texte-et-etendent-son-champ-daction/"
-          }
-        },
-        {
-          "titre": "Le gaz européen touche 100 euros le MWh",
-          "texte": "Le contrat de référence TTF a atteint mercredi 100 euros le mégawattheure en séance, une première depuis fin 2022, sous l'effet des perturbations des exportations de GNL du Moyen-Orient. Les stocks européens sont remplis à environ 75 %, ceux de la France à plus de 87 %. Le prix repère du gaz pour les ménages augmente de 6,6 % au 1er novembre.",
-          "src": {
-            "t": "L'EnerGeek – Gaz européen : le TTF atteint 100 €/MWh, les stocks sous pression",
-            "u": "https://lenergeek.com/2026/10/29/gaz-europeen-ttf-100-euros-mwh-stocks-octobre-2026/"
-          }
-        },
-        {
-          "titre": "Israël : fin du dépouillement, toujours pas de majorité",
-          "texte": "Au lendemain des législatives, le dépouillement touche à sa fin sans qu'aucun bloc n'atteigne la majorité à la Knesset. Une formation arabe se dit prête à soutenir un gouvernement d'opposition pour faire tomber la coalition de Benyamin Nétanyahou, dont le parti accuse ces formations d'avoir « volé les élections ».",
-          "src": {
-            "t": "France 24 – En direct : le dépouillement touche à sa fin en Israël, toujours pas de majorité en vue",
-            "u": "https://www.france24.com/fr/moyen-orient/20261029-en-direct-israel-legislatives-depouillement-fin-majorite-netanyahu-eisenkot"
-          }
-        }
-      ],
-      "agenda": [
-        {
-          "d": "Jeu. 29 oct.",
-          "t": "Journée réservée aux propositions de loi de La France insoumise à l'Assemblée ; début des trois jours de deuil national en Espagne"
-        },
-        {
-          "d": "Sam. 31 oct.",
-          "t": "Nouvelle journée de mobilisation lycéenne, étudiante et sociale"
-        },
-        {
-          "d": "Dim. 1er nov.",
-          "t": "Hausse de 6,6 % du prix repère du gaz ; baisse attendue du prix du gazole à la pompe"
-        },
-        {
-          "d": "Lun. 2 nov.",
-          "t": "Rentrée scolaire après les vacances de la Toussaint"
-        },
-        {
-          "d": "Mar. 3 nov.",
-          "t": "Vote solennel sur la partie recettes du budget à l'Assemblée et sur la protection de l'enfance au Sénat"
-        },
-        {
-          "d": "Mer. 4 nov.",
-          "t": "Résultats officiels des législatives israéliennes"
-        },
-        {
-          "d": "Jeu. 5 nov.",
-          "t": "Journée de grève et de manifestations interprofessionnelle"
-        },
-        {
-          "d": "Lun. 9 nov.",
-          "t": "Début de l'examen du budget de la Sécu au Sénat"
         }
       ]
     }
