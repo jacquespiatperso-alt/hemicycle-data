@@ -1,6 +1,378 @@
 {
-  "updated": "2026-11-05T06:31:40+01:00",
+  "updated": "2026-11-06T06:33:00+01:00",
   "editions": [
+    {
+      "date": "2026-11-06",
+      "label": "Vendredi 6 novembre 2026",
+      "maj": "Mise à jour à 6 h 33",
+      "intro": "Au lendemain d'une grève interprofessionnelle qui a réuni 575 000 manifestants selon l'Intérieur et 1,6 million selon la CGT, Sébastien Lecornu convoque lundi une conférence sociale sur les salaires. Au Sénat, la droite et le centre veulent rétablir la réforme des retraites de 2023 dans le budget de la Sécu. Les messages privés d'Emmanuel Macron publiés dans un livre embarrassent l'Élysée, le jour où sa cote de confiance tombe à 13 %. Détour européen enfin par une vague de fausses alertes à la bombe dans le ciel du continent.",
+      "stories": [
+        {
+          "id": "2026-11-06-greve-conference-sociale",
+          "rubrique": "Social",
+          "titre": "Après une grève suivie par 575 000 manifestants selon l'Intérieur, Sébastien Lecornu convoque lundi une conférence sociale sur les salaires",
+          "chapo": "La journée interprofessionnelle du 5 novembre a réuni entre 575 000 et 1,6 million de personnes selon les sources. Le soir même, le Premier ministre a annoncé une réunion avec syndicats et patronat, et un coup de pouce au Smic se dessine.",
+          "faits": "Selon le chiffrage définitif des autorités rapporté par l'AFP, 575 000 personnes ont défilé jeudi dans 193 cortèges, dont 65 000 à Paris ; la CGT revendique 1,6 million de manifestants. Le ministère de l'Intérieur fait état de 448 interpellations et de 53 membres des forces de l'ordre blessés, avec des violences en tête de cortège à Lyon. Sébastien Lecornu réunira lundi 9 novembre à Matignon une « conférence sociale » avec les syndicats et le patronat pour « apporter des réponses aux questions de pouvoir d'achat et de salaires », et a demandé au ministre du Travail, Jean-Pierre Farandou, de finaliser les concertations d'ici dimanche. La CFDT réclame une hausse du Smic de 100 euros net, la CGT une augmentation de 10 % et l'indexation des salaires sur les prix ; le gouvernement se dit ouvert à un coup de pouce au Smic. Organisations de jeunesse et gilets jaunes appellent à un « acte IV » samedi 7 novembre.",
+          "enjeu": "Après six semaines de mobilisation, l'exécutif tente de reprendre la main par la négociation salariale, sans marge budgétaire et alors que le budget est enlisé au Parlement. Le montant d'un éventuel coup de pouce au Smic et la réponse des syndicats lundi diront si le mouvement peut refluer ou s'il se durcit.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant appelle habituellement à prolonger les journées d'action par une grève reconductible décidée à la base, et juge les conférences sociales insuffisantes face à l'exigence d'une hausse générale des salaires indexée sur les prix.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Jean-Luc Mélenchon (LFI), présent dans le cortège parisien jeudi, avait exhorté Emmanuel Macron à « céder » face à la mobilisation et désigné la grève du 5 novembre comme la prochaine étape du mouvement.",
+              "src": "AFP via La Gazette France, 24 octobre 2026"
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement les revendications syndicales sur les salaires et le Smic, réclame une négociation réelle avec les partenaires sociaux et des mesures de justice fiscale pour les financer.",
+              "src": ""
+            },
+            "eco": {
+              "type": "declare",
+              "texte": "Marine Tondelier (Les Écologistes) voit dans le mouvement « une sorte de bilan de mandat » et estime qu'« Emmanuel Macron finit son mandat comme il a gouverné, c'est-à-dire seul contre tous », en dénonçant les entraves au droit de manifester.",
+              "src": "Public Sénat, 5 novembre 2026"
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "Aurore Bergé (Renaissance), ministre de l'Égalité entre les femmes et les hommes, avait dénoncé une « récupération politique assez grossière et caricaturale » du mouvement par une partie de la gauche.",
+              "src": "LCP, 16 octobre 2026"
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant reconnaît habituellement la légitimité des attentes sur le pouvoir d'achat, plaide pour le dialogue social et la concertation, et met en garde contre les blocages comme contre une dérive des comptes publics.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement une revalorisation du travail par la baisse des charges plutôt que par une hausse administrée du Smic, et insiste sur l'ordre public et la maîtrise de la dépense.",
+              "src": ""
+            },
+            "d": {
+              "type": "lecture",
+              "texte": "Le courant met habituellement en garde contre un coup de pouce au Smic qui pèserait sur l'emploi et les petites entreprises, préfère l'allègement des cotisations, et condamne fermement les violences en marge des cortèges.",
+              "src": ""
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Jordan Bardella (RN) avait estimé que la mobilisation sociale servait de « prétexte » à des « groupuscules d'extrême gauche » pour provoquer des débordements.",
+              "src": "LCP, 16 octobre 2026"
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant accuse habituellement les syndicats et l'extrême gauche d'instrumentaliser la colère sociale, réclame une réponse pénale sévère contre les casseurs et défend la baisse des impôts et des charges.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Public Sénat – Manifestation du 5 novembre : Sébastien Lecornu annonce « une conférence sociale » avec les syndicats et le patronat, lundi",
+              "u": "https://www.publicsenat.fr/actualites/politique/manifestation-du-5-novembre-sebastien-lecornu-annonce-une-conference-sociale-avec-les-syndicats-et-le-patronat-lundi"
+            },
+            {
+              "t": "Boursorama (AFP) – Lecornu convoque une conférence sociale après une journée de « colère sociale »",
+              "u": "https://www.boursorama.com/actualite-economique/actualites/lecornu-convoque-une-conference-sociale-apres-une-journee-de-colere-sociale-68f8c3351ea9fcafb4a769ddb01c28f3"
+            },
+            {
+              "t": "Public Sénat – Mobilisation du 5 novembre : « Emmanuel Macron finit son mandat comme il a gouverné, c'est-à-dire seul contre tous », estime Marine Tondelier",
+              "u": "https://www.publicsenat.fr/actualites/politique/mobilisation-du-5-novembre-emmanuel-macron-finit-son-mandat-comme-il-a-gouverne-cest-a-dire-seul-contre-tous-estime-marine-tondelier"
+            },
+            {
+              "t": "LCP – Grève du 5 novembre : une mobilisation qui s'annonce « très suivie », 70 000 policiers et gendarmes déployés",
+              "u": "https://lcp.fr/actualites/greve-du-5-novembre-une-mobilisation-qui-s-annonce-tres-suivie-70000-policiers-et"
+            },
+            {
+              "t": "La Gazette France (AFP) – Mélenchon à Macron : « il est temps de céder »",
+              "u": "https://www.lagazettefrance.fr/article/melenchon-a-macron-il-est-temps-de-ceder-apres-il-ne-restera-plus-que-la-porte-de-sortie"
+            },
+            {
+              "t": "LCP – Mobilisation du 17 octobre : quels responsables politiques s'emparent du mouvement et comment réagissent les autres",
+              "u": "https://lcp.fr/actualites/mobilisation-du-17-octobre-quels-responsables-politiques-s-emparent-du-mouvement-et"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-06-senat-retour-reforme-retraites",
+          "rubrique": "Social",
+          "titre": "Budget de la Sécu : la majorité sénatoriale veut rétablir la réforme des retraites de 2023, suspendue l'an dernier",
+          "chapo": "Rejeté par les députés, le projet de loi de financement de la Sécurité sociale arrive au Sénat. La droite et le centre comptent y réintroduire le report de l'âge légal, que le gouvernement avait suspendu pour obtenir l'abstention des socialistes.",
+          "faits": "La commission des affaires sociales du Sénat a commencé mercredi 4 novembre l'examen du budget de la Sécurité sociale pour 2027, qui prévoit un déficit de 12,7 milliards d'euros. Un amendement de la majorité sénatoriale de droite et du centre rétablit la réforme des retraites de 2023, suspendue l'an dernier dans le cadre d'un accord entre le gouvernement et le PS, pour un gain attendu de 600 millions d'euros l'an prochain. Le rapporteur centriste Olivier Henno résume : « Nous devons travailler plus parce que nous vivons plus longtemps ». Le texte sera débattu en séance du lundi 9 au mercredi 18 novembre ; le retour de la réforme ne figure pas dans le projet du gouvernement, qui devrait recourir au 49.3 ou aux ordonnances pour conclure.",
+          "enjeu": "Le Sénat rouvre le dossier le plus sensible du quinquennat en pleine mobilisation sociale. Le vote donnera le ton de la commission mixte paritaire et place le gouvernement face à un choix entre la droite sénatoriale et l'accord passé avec les socialistes.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant réclame habituellement l'abrogation pure et simple de la réforme de 2023 et le retour de la retraite à 60 ans, financée par une hausse des cotisations patronales.",
+              "src": ""
+            },
+            "gr": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement l'abrogation de la réforme de 2023 et un retour à la retraite à 62 puis 60 ans, et dénonce toute remise en cause de la suspension comme un passage en force contre l'opinion.",
+              "src": ""
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant considère habituellement la suspension de la réforme comme un acquis obtenu en échange de sa non-censure, et s'oppose à son rétablissement par le Sénat.",
+              "src": ""
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant s'oppose habituellement au report de l'âge légal, au nom de l'usure au travail et de l'égalité entre femmes et hommes, et préfère mettre à contribution les hauts revenus et le capital.",
+              "src": ""
+            },
+            "ren": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement la réforme de 2023 comme nécessaire à l'équilibre du système, tout en ayant accepté sa suspension au nom de la stabilité gouvernementale ; il est partagé sur son rétablissement immédiat.",
+              "src": ""
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant plaide habituellement pour une réforme des retraites concertée, juste et soutenable, et privilégie la recherche d'un compromis avec les partenaires sociaux à un passage en force.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement le report de l'âge légal, voire un âge plus élevé, et juge la suspension de la réforme coûteuse pour les finances publiques.",
+              "src": ""
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Marie-Do Aeschlimann, sénatrice LR, justifie l'amendement en rappelant que « la suppression de la réforme des retraites entre 2026 et 2032 coûtera 10 milliards d'euros en tout » ; Bruno Retailleau (LR) avait déjà demandé ce retour.",
+              "src": "Public Sénat, 5 novembre 2026"
+            },
+            "dn": {
+              "type": "lecture",
+              "texte": "Le courant s'oppose habituellement au report de l'âge légal à 64 ans, défend un départ anticipé pour les carrières longues et juge la réforme de 2023 injuste pour les classes populaires.",
+              "src": ""
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant met habituellement en avant l'équilibre financier du système et la lutte contre les dépenses jugées indues, en soutenant un allongement progressif de la durée de travail.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Public Sénat – Budget de la Sécu : le Sénat prévoit de voter le retour de la réforme des retraites de 2023",
+              "u": "https://www.publicsenat.fr/actualites/politique/budget-de-la-secu-le-senat-prevoit-de-voter-le-retour-de-la-reforme-des-retraites-de-2023"
+            },
+            {
+              "t": "Public Sénat – Budget 2027 de la Sécurité sociale : les sénateurs proposent de revaloriser sur l'inflation les pensions de retraite allant jusqu'à 1500 euros",
+              "u": "https://www.publicsenat.fr/actualites/sante/budget-2027-de-la-securite-sociale-les-senateurs-proposent-de-revaloriser-sur-linflation-les-pensions-allant-jusqua-1500-euros"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-06-messages-prives-macron",
+          "rubrique": "Institutions",
+          "titre": "Messages privés de Macron dans un livre : l'Élysée dénonce « un procédé contestable », la confiance dans le Président tombe à 13 %",
+          "chapo": "L'éditorialiste Françoise Degois publie deux ans d'échanges avec le chef de l'État sur une messagerie. Le même jour, un baromètre Elabe mesure la plus faible cote de confiance jamais enregistrée par un président.",
+          "faits": "Le livre « Vous êtes tous trop durs avec moi » (Robert Laffont), paru jeudi 5 novembre, retranscrit des messages échangés depuis l'été 2024 entre Emmanuel Macron et Françoise Degois, ancienne journaliste de France Inter et ex-conseillère de Ségolène Royal. On y lit notamment le Président sur Lucie Castets (« Il n'y a qu'elle et vous tous pour croire qu'elle peut aller un jour à Matignon »), sur Gabriel Attal (« On lui a trop donné ») ou sur la stratégie de LFI, jugée « dingo ». Un conseiller de l'Élysée dénonce « la divulgation de conversations privées », « un procédé contestable », en assurant que le livre ne dévoile « absolument rien sur le fond ». Selon le baromètre Elabe pour Les Échos réalisé les 3 et 4 novembre, 13 % des Français font confiance au chef de l'État, sous le record de François Hollande (14 % en novembre 2016), et 82 % ne lui font pas confiance ; Sébastien Lecornu est à 17 %.",
+          "enjeu": "À six mois de la présidentielle, ces messages exposent la parole privée d'un président déjà au plus bas dans l'opinion et alimentent les tensions avec ses anciens alliés comme avec la gauche. Le débat porte aussi sur la frontière entre proximité et indépendance entre journalistes et pouvoir.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant voit habituellement dans ce type de révélations l'illustration du mépris des dirigeants pour les classes populaires, et estime que la crise de confiance appelle la mobilisation sociale plutôt qu'un changement de personnel.",
+              "src": ""
+            },
+            "gr": {
+              "type": "lecture",
+              "texte": "Le courant met habituellement en avant l'impopularité record du Président pour réclamer son départ anticipé et une nouvelle République, et dénonce le regard porté par l'Élysée sur l'opposition.",
+              "src": ""
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant critique habituellement la pratique solitaire du pouvoir d'Emmanuel Macron et son refus de nommer un Premier ministre issu de la gauche après 2024, tout en restant prudent sur l'usage de propos privés.",
+              "src": ""
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant dénonce habituellement la verticalité du pouvoir présidentiel et son éloignement des réalités sociales, et plaide pour un rééquilibrage au profit du Parlement.",
+              "src": ""
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "Roland Lescure (Renaissance), ministre de l'Économie, a jugé à propos de la publication de ces échanges privés : « Je ne suis pas sûr que ce soit tout à fait à son honneur ».",
+              "src": "BFMTV, cité par Libération via La Libre, 5 novembre 2026"
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant appelle habituellement au respect de la fonction présidentielle et à la dignité du débat public, et voit dans la défiance envers les institutions un risque pour la démocratie.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant marque habituellement sa distance avec Emmanuel Macron en vue de 2027, tout en évitant de commenter les propos privés et en défendant la stabilité des institutions.",
+              "src": ""
+            },
+            "d": {
+              "type": "lecture",
+              "texte": "Le courant juge habituellement que l'impopularité du Président traduit l'échec de la ligne du en même temps, et préfère se projeter vers la présidentielle plutôt que commenter des échanges privés.",
+              "src": ""
+            },
+            "dn": {
+              "type": "lecture",
+              "texte": "Le courant met habituellement en avant le discrédit du chef de l'État pour réclamer une dissolution ou un retour aux urnes, et dénonce le jugement porté par l'Élysée sur ses dirigeants.",
+              "src": ""
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant dénonce habituellement la connivence entre le pouvoir et une partie des médias, et voit dans la défiance envers le Président le signe d'une rupture avec le pays.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "La Libre – La fuite de messages privés de Macron embarrasse l'Élysée : « La bande de blaireaux. Ils n'ont rien vu venir »",
+              "u": "https://www.lalibre.be/international/europe/2026/11/05/la-fuite-de-messages-prives-de-macron-embarrasse-lelysee-la-bande-de-blaireaux-ils-nont-rien-vu-venir-AVTLYPMFRFCITP6HZY4XNOWMBQ/"
+            },
+            {
+              "t": "Euronews – Des messages sans filtre d'Emmanuel Macron révélés dans le livre de l'éditorialiste Françoise Degois",
+              "u": "https://fr.news.yahoo.com/messages-filtre-d-emmanuel-macron-072359167.html"
+            },
+            {
+              "t": "Public Sénat – Sondage : 82 % des Français ne font pas confiance à Emmanuel Macron, qui bat le record d'impopularité de François Hollande à l'Élysée",
+              "u": "https://www.publicsenat.fr/actualites/politique/sondage-82-des-francais-ne-font-pas-confiance-a-emmanuel-macron-qui-bat-le-record-dimpopularite-de-francois-hollande-a-lelysee"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-06-fausses-alertes-bombe-vols",
+          "rubrique": "Europe",
+          "titre": "Au moins 27 vols visés par de fausses alertes à la bombe en Europe, un Rafale escorte un avion d'Aer Lingus jusqu'en Normandie",
+          "chapo": "Pour la deuxième fois de la semaine, des menaces ont perturbé le trafic aérien du continent. Aucun explosif n'a été trouvé ; des messages renvoient à un mouvement ultranationaliste russe, sans lien établi.",
+          "faits": "Jeudi 5 novembre, au moins 27 vols commerciaux, en majorité low cost, ont été visés par des alertes à la bombe de l'Irlande à la Bulgarie, selon un bilan de l'AFP ; trois ont été déroutés et au moins cinq escortés par des avions militaires. En France, un Rafale et un Mirage 2000-5 ont escorté en Normandie un Airbus A320 d'Aer Lingus reliant Dublin à Rome, avec 151 passagers et six membres d'équipage, après une alerte italienne ; la justice française a ouvert une enquête. Des chasseurs ont aussi décollé en Italie, en Bulgarie et en Autriche, et l'aéroport de Prague a reçu des menaces par courriel. Les messages reçus à Rome et à Sofia étaient signés des « combattants de l'État masculin », mouvement russe classé extrémiste par la justice russe ; l'AFP n'a pas pu confirmer qu'il en était l'auteur. Le commissaire européen aux Transports, Apostolos Tzitzikostas, juge « trop tôt » pour dire si ces incidents sont liés.",
+          "enjeu": "Ces alertes à répétition coûtent cher aux compagnies et mobilisent les armées de l'air, sur fond de soupçons de guerre hybride contre l'Europe. La question de l'attribution, et de la réponse européenne, est posée sans preuve à ce stade.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant met habituellement en garde contre l'usage de ces incidents pour justifier la hausse des budgets militaires et des mesures de surveillance, et refuse toute logique de bloc.",
+              "src": ""
+            },
+            "gr": {
+              "type": "lecture",
+              "texte": "Le courant appelle habituellement à attendre les conclusions des enquêtes avant toute attribution, et plaide pour une diplomatie indépendante plutôt qu'une escalade avec la Russie.",
+              "src": ""
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant dénonce habituellement les opérations de déstabilisation attribuées à la Russie et plaide pour une réponse européenne coordonnée et un soutien ferme à l'Ukraine.",
+              "src": ""
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement une défense européenne commune face aux menaces hybrides et une ligne ferme à l'égard du régime de Vladimir Poutine.",
+              "src": ""
+            },
+            "ren": {
+              "type": "lecture",
+              "texte": "Le courant insiste habituellement sur la menace hybride russe, salue la réactivité des armées et appelle au renforcement de la défense européenne et de la protection des infrastructures.",
+              "src": ""
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant plaide habituellement pour une coopération européenne renforcée en matière de sécurité aérienne et de renseignement face aux tentatives de déstabilisation.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement une hausse des moyens de défense et une posture de fermeté face à la Russie, qu'il tient pour l'auteur de nombreuses ingérences en Europe.",
+              "src": ""
+            },
+            "d": {
+              "type": "lecture",
+              "texte": "Le courant appelle habituellement à la fermeté face aux menaces contre la sécurité des Français et au renforcement des moyens de la défense et du renseignement.",
+              "src": ""
+            },
+            "dn": {
+              "type": "lecture",
+              "texte": "Le courant appelle habituellement à la prudence sur l'attribution de ces actes, tout en réclamant le renforcement des contrôles et de la sécurité des transports, et se méfie d'une défense européenne intégrée.",
+              "src": ""
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant met habituellement l'accent sur la sécurité intérieure et le contrôle des frontières, et se montre réservé sur l'implication de la France dans le conflit russo-ukrainien.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Armees.com – Fausses alertes à la bombe en Europe : 27 vols visés et l'ombre inquiétante d'un mouvement extrémiste russe",
+              "u": "https://armees.com/fausses-alertes-bombe-europe-27-vols-etat-masculin-russie/"
+            },
+            {
+              "t": "Boursorama (AFP) – Une vingtaine de vols européens perturbés par de fausses alertes à la bombe",
+              "u": "https://www.boursorama.com/bourse/actualites/une-vingtaine-de-vols-europeens-perturbes-par-de-fausses-alertes-a-la-bombe-979ede198c59a75047458286cc450563"
+            },
+            {
+              "t": "France 24 – Europe : au moins 15 avions perturbés par de fausses alertes à la bombe",
+              "u": "https://www.france24.com/fr/vid%C3%A9o/20261105-europe-au-moins-15-avions-perturb%C3%A9s-par-de-fausses-alertes-%C3%A0-la-bombe"
+            }
+          ]
+        }
+      ],
+      "breves": [
+        {
+          "titre": "Présidentielle : Marine Tondelier prête à se retirer pour une candidature commune",
+          "texte": "Créditée d'environ 3 % dans les sondages, la candidate des Écologistes assure que « personne ne gagnera seul » à gauche et se dit prête à être « responsable pour plusieurs ». Les adhérents du parti trancheront entre le 10 et le 13 décembre.",
+          "src": {
+            "t": "Public Sénat – Présidentielle 2027 : « Personne ne gagnera seul », assure Marine Tondelier",
+            "u": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-personne-ne-gagnera-seul-assure-marine-tondelier"
+          }
+        },
+        {
+          "titre": "Budget 2027 : un rejet « à l'unanimité contre lui »",
+          "texte": "Au lendemain du rejet de la partie recettes par 458 voix contre zéro, Éric Coquerel (LFI) juge le budget toujours « mauvais », le RN accuse le gouvernement de « mentir » et le rapporteur général Philippe Juvin (LR) estime que le texte n'apportait « ni les garanties budgétaires, ni les perspectives ». Le Sénat l'examine à partir du 20 novembre.",
+          "src": {
+            "t": "LCP – « Indigeste », « sans cohérence », « contradictoire » : le projet de budget 2027 fait l'unanimité contre lui",
+            "u": "https://lcp.fr/actualites/indigeste-sans-coherence-contradictoire-le-projet-de-budget-2027-largement-modifie-lors"
+          }
+        },
+        {
+          "titre": "Logement contre faveurs sexuelles : le Sénat durcit la répression",
+          "texte": "Les sénateurs ont adopté à l'unanimité jeudi une proposition de loi de Nathalie Delattre (RDSE) pour mieux réprimer l'abus de faiblesse lorsqu'un logement est proposé en échange de relations sexuelles.",
+          "src": {
+            "t": "Public Sénat – Logement contre sollicitations sexuelles : le Sénat vote à l'unanimité une proposition de loi",
+            "u": "https://www.publicsenat.fr/actualites/politique/logement-contre-sollicitations-sexuelles-le-senat-vote-a-lunanimite-une-proposition-de-loi-pour-renforcer-la-repression-du-delit-dabus-de-faiblesse"
+          }
+        },
+        {
+          "titre": "Ukraine : le bilan de la frappe sur un centre d'aide monte à 42 morts",
+          "texte": "Selon la police ukrainienne, la frappe russe du 2 novembre sur une école servant de centre d'aide à Komychouvakha, dans la région de Zaporijjia, a fait au moins 42 morts. Des pourparlers entre Russes et Ukrainiens sont prévus à Abou Dhabi les 10 et 11 novembre.",
+          "src": {
+            "t": "Reuters – Death toll from Russian strike on Ukrainian aid centre reaches 42, police say",
+            "u": "https://www.reuters.com/world/europe/death-toll-russian-strike-ukrainian-aid-centre-reaches-42-police-say-2026-11-05/"
+          }
+        }
+      ],
+      "agenda": [
+        {
+          "d": "Sam. 7 nov.",
+          "t": "« Acte IV » de la mobilisation à l'appel des organisations de jeunesse et des gilets jaunes"
+        },
+        {
+          "d": "Lun. 9 nov.",
+          "t": "Conférence sociale à Matignon sur les salaires et le pouvoir d'achat ; début de l'examen du budget de la Sécurité sociale en séance au Sénat (jusqu'au 18 novembre)"
+        },
+        {
+          "d": "Mar. 10 nov.",
+          "t": "Pourparlers entre Russes et Ukrainiens à Abou Dhabi, sous l'égide des États-Unis (jusqu'au 11 novembre)"
+        },
+        {
+          "d": "Mer. 11 nov.",
+          "t": "Commémorations de l'Armistice de 1918"
+        },
+        {
+          "d": "Jeu. 19 nov.",
+          "t": "Le Sénat examine la présomption de légitime défense pour les forces de l'ordre"
+        },
+        {
+          "d": "Ven. 20 nov.",
+          "t": "Début de l'examen du projet de loi de finances 2027 en séance au Sénat"
+        }
+      ]
+    },
     {
       "date": "2026-11-05",
       "label": "Jeudi 5 novembre 2026",
@@ -2831,501 +3203,6 @@
         {
           "d": "Mer. 4 nov.",
           "t": "Israël : remise des résultats officiels des législatives au président Isaac Herzog"
-        },
-        {
-          "d": "Jeu. 5 nov.",
-          "t": "Grève interprofessionnelle, rejointe par les organisations de jeunesse"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-30",
-      "label": "Vendredi 30 octobre 2026",
-      "maj": "Mise à jour à 6 h 29",
-      "intro": "La journée réservée de La France insoumise à l'Assemblée s'est soldée par trois textes adoptés, dont la titularisation des AESH, avant de s'enliser sous les sous-amendements du RN. Gabriel Attal a proposé une « grande primaire des démocrates », froidement accueillie par les camps d'Édouard Philippe et de Bruno Retailleau. À la veille de l'acte III de samedi, Emmanuel Macron a appelé les lycéens à reprendre les cours dans le calme, et la contribution « émeutes » sur les contrats d'assurance doit entrer en vigueur au 1er janvier. En Europe, Christine Lagarde quittera la présidence de la BCE dès le 7 février.",
-      "stories": [
-        {
-          "id": "2026-10-30-niche-lfi-bilan",
-          "rubrique": "Social",
-          "titre": "Journée LFI à l'Assemblée : la titularisation des AESH adoptée, puis l'obstruction du RN bloque la suite",
-          "chapo": "Trois propositions de loi insoumises ont été votées jeudi, dont la création d'un corps de fonctionnaires pour les accompagnants d'élèves handicapés. Les sous-amendements du RN et de l'UDR ont ensuite empêché le vote du texte sur l'Aide sociale à l'enfance, et ni le Smic à 1 700 euros ni les pesticides n'ont été examinés.",
-          "faits": [
-            "Jeudi 29 octobre, l'Assemblée a adopté en première lecture, par 166 voix contre 16 et 123 abstentions, la proposition de loi LFI créant un corps de fonctionnaires de catégorie B pour les accompagnants d'élèves en situation de handicap (AESH), soit environ 140 000 personnes, à 94 % des femmes, au salaire net moyen de 1 030 euros.",
-            "Toute la gauche et la majorité du groupe LR ont voté pour ; le MoDem a voté contre, les députés RN, Renaissance et Horizons se sont majoritairement abstenus, selon l'AFP. Le texte part au Sénat, qui avait rejeté une proposition voisine en janvier 2026.",
-            "Deux autres textes ont été adoptés : le retour à 30 ans, en outre-mer comme en métropole, du délai pour devenir propriétaire d'un bien par occupation, et la prise en charge intégrale des soins des victimes de violences sexistes et sexuelles.",
-            "Le texte prolongeant jusqu'à 25 ans l'accompagnement des jeunes sortis de l'Aide sociale à l'enfance n'a pas été mis aux voix après le dépôt de plus de 140 sous-amendements par le RN et l'UDR, défendus un à un.",
-            "Le texte sur l'interdiction de l'acétamipride, relégué en sixième position face aux amendements de la droite et de l'extrême droite, et la hausse du Smic à 1 700 euros n'avaient pas été examinés en fin de soirée."
-          ],
-          "enjeu": "LFI a misé sur des textes moins clivants pour obtenir des victoires à six mois de la présidentielle, à rebours de ses précédentes journées sur les retraites ou ArcelorMittal. Le vote sur les AESH relance un dossier que le gouvernement dit vouloir traiter progressivement, et le Sénat aura le dernier mot. L'usage massif des sous-amendements pendant les journées réservées aux oppositions devient lui-même un sujet de bataille.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement la titularisation des précaires de l'Éducation nationale et la hausse générale des salaires, tout en estimant que ces avancées se gagnent d'abord par la mobilisation des travailleurs plutôt que par le travail parlementaire.",
-              "src": ""
-            },
-            "gr": {
-              "type": "declare",
-              "texte": "Mathilde Panot (LFI) dénonce « la honte » et accuse l'extrême droite d'avoir organisé l'obstruction avec le soutien des macronistes ; Marianne Maximi (LFI), rapporteure du texte sur l'ASE, lance au RN : « Retirez vos amendements et laissez nous voter ».",
-              "src": "AFP via Boursorama, 29 octobre 2026"
-            },
-            "soc": {
-              "type": "lecture",
-              "texte": "Le courant, dont une proposition de loi voisine sur les AESH a été rejetée au Sénat en janvier 2026, défend habituellement un véritable statut pour ces personnels, la revalorisation des bas salaires et l'extension de la protection des jeunes majeurs de l'ASE.",
-              "src": ""
-            },
-            "eco": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement la reconnaissance des métiers du soin et de l'accompagnement, très féminisés, ainsi que l'interdiction des pesticides néonicotinoïdes, et critique le recours à l'obstruction lors des journées réservées.",
-              "src": ""
-            },
-            "ren": {
-              "type": "declare",
-              "texte": "Camille Galliard-Minier (Renaissance), ministre déléguée chargée de l'Autonomie et des Personnes handicapées, s'oppose au texte sur l'ASE et estime que la priorité est d'appliquer pleinement l'accompagnement jusqu'à 21 ans prévu par la loi de 2022.",
-              "src": "AFP via Boursorama, 29 octobre 2026"
-            },
-            "modem": {
-              "type": "declare",
-              "texte": "Géraldine Bannier (Les Démocrates) qualifie le texte sur les AESH de « pure démagogie » à « six mois des élections » ; son groupe a voté contre.",
-              "src": "AFP via Bourse Direct, 29 octobre 2026"
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant reconnaît habituellement la précarité des AESH mais met en avant le coût budgétaire d'une titularisation générale et privilégie une réforme progressive, menée avec le ministère et compatible avec la maîtrise des comptes publics.",
-              "src": ""
-            },
-            "d": {
-              "type": "declare",
-              "texte": "Corentin Le Fur (LR), auteur d'une proposition similaire en 2024, a voté le texte sur les AESH tout en proposant de financer ce dispositif jugé coûteux par des économies importantes.",
-              "src": "AFP via Bourse Direct, 29 octobre 2026"
-            },
-            "dn": {
-              "type": "declare",
-              "texte": "Kevin Mauvieux (RN) nie toute obstruction, affirme corriger un texte sur l'ASE « bourré de carences » et renvoie les Insoumis à leurs pratiques : « C'est ce que vous passez votre temps à faire, lorsqu'il y a les niches des autres ».",
-              "src": "AFP via Boursorama, 29 octobre 2026"
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant critique habituellement les propositions de La France insoumise comme coûteuses et idéologiques, défend la priorité aux familles et aux enfants français et se montre réservé sur l'extension de la fonction publique.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "Handicap.fr – AESH : la titularisation est votée à l'Assemblée",
-              "u": "https://informations.handicap.fr/a-aesh-la-titularisation-est-votee-a-l-assemblee-39899.php"
-            },
-            {
-              "t": "Boursorama (AFP) – Après trois victoires, la niche LFI à l'Assemblée s'enlise sous les amendements du RN",
-              "u": "https://www.boursorama.com/immobilier/actualites/apres-trois-victoires-la-niche-lfi-a-l-assemblee-s-enlise-sous-les-amendements-du-rn-95c56aca7bc6356526383cb51cf66940"
-            },
-            {
-              "t": "Bourse Direct (AFP) – Des textes moins clivants et deux victoires pour LFI à l'Assemblée",
-              "u": "https://www.boursedirect.fr/fr/actualites/categorie/politique/des-textes-moins-clivants-et-deux-victoires-pour-lfi-a-l-assemblee-afp-98bcbfe5d9079f653e56b248877e6846c1143c19"
-            },
-            {
-              "t": "Socialmag – AESH : l'Assemblée vote leur accès à la fonction publique, le Sénat doit encore se prononcer",
-              "u": "https://www.socialmag.news/29/10/2026/aesh-assemblee-vote-statut-fonctionnaire-senat-octobre-2026/"
-            }
-          ],
-          "image": {
-            "u": "https://www.handicap.fr/static/contenu/img3/aesh-la-titularisation-est-votee-a-l-assemblee-39899.webp",
-            "credit": "Handicap.fr",
-            "alt": "une adulte aide un enfant dans une classe"
-          }
-        },
-        {
-          "id": "2026-10-30-primaire-attal",
-          "rubrique": "Présidentielle 2027",
-          "titre": "« Grande primaire des démocrates » : Attal lance l'idée, les camps Philippe et Retailleau la rejettent",
-          "chapo": "Pour éviter un second tour entre le RN et LFI, Gabriel Attal propose une primaire ouverte de la droite républicaine jusqu'à une partie de la gauche. Seuls David Lisnard et Hervé Morin s'en réjouissent.",
-          "faits": [
-            "Mercredi 28 octobre au journal de 20 heures de TF1, Gabriel Attal (Renaissance) a proposé une « grande primaire des démocrates » pour la présidentielle de 2027, en estimant qu'il est « temps d'être tous responsables ».",
-            "Le périmètre repose sur des valeurs : République, autorité, laïcité, lutte contre les discriminations, Europe, compétitivité et progrès social et écologique ; les sollicitations visent Édouard Philippe, Bruno Retailleau et David Lisnard, l'entourage d'Attal jugeant peu probable que Raphaël Glucksmann s'y engage.",
-            "L'entourage de Bruno Retailleau a jugé le projet « mort-né » auprès de l'AFP ; celui d'Édouard Philippe parle d'un « exercice de communication », et les proches de Dominique de Villepin disent avoir « gentiment éconduit » les émissaires d'Attal, selon Le Parisien.",
-            "David Lisnard (Nouvelle Énergie), qui défend une primaire ouverte depuis deux ans, et Hervé Morin (Les Centristes) se sont montrés favorables ; François Bayrou avait plaidé en août pour une primaire « du Parti socialiste aux gaullistes ».",
-            "Selon les sondages cités par Public Sénat, Marine Le Pen est en tête des intentions de vote et Jean-Luc Mélenchon paraît en mesure d'accéder au second tour devant Édouard Philippe."
-          ],
-          "enjeu": "À six mois du scrutin, le bloc central et la droite restent divisés entre plusieurs candidatures, sans mécanisme pour départager. La proposition d'Attal met la pression sur ses concurrents, mais aucun des principaux intéressés ne l'a acceptée, et le périmètre, ouvert jusqu'à une partie de la gauche, cristallise les objections.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant voit habituellement dans ces tractations une recomposition entre partis qui ont gouverné ou soutenu les mêmes politiques, et appelle à une candidature indépendante des appareils, centrée sur les revendications des travailleurs.",
-              "src": ""
-            },
-            "gr": {
-              "type": "lecture",
-              "texte": "Le courant présente habituellement le bloc central et la droite comme un même camp porteur des politiques libérales, refuse toute primaire commune avec eux et mise sur l'accès de son candidat au second tour face au RN.",
-              "src": ""
-            },
-            "soc": {
-              "type": "declare",
-              "texte": "Boris Vallaud (PS), soutien de Raphaël Glucksmann, ironise : « Chaque semaine, tout le monde dit non », et dénonce « du démarchage téléphonique » ; Arthur Delaporte (PS) parle de « primaire-bouillie ».",
-              "src": "LCP, 29 octobre 2026"
-            },
-            "eco": {
-              "type": "lecture",
-              "texte": "Le courant privilégie habituellement le rassemblement de la gauche et des écologistes autour d'un programme commun et rejette toute alliance électorale avec le centre et la droite, qu'il tient pour responsables des politiques menées depuis 2017.",
-              "src": ""
-            },
-            "ren": {
-              "type": "declare",
-              "texte": "Prisca Thévenot (Renaissance), proche d'Attal, appelle à la responsabilité plutôt qu'aux egos et assure qu'il n'y a « pas de petite finale » ; Franck Riester, codirecteur de campagne, estime que l'idée doit « mûrir ».",
-              "src": "Public Sénat, 29 octobre 2026"
-            },
-            "modem": {
-              "type": "declare",
-              "texte": "François Bayrou (Les Démocrates) a plaidé en août pour une primaire ouverte « du Parti socialiste aux gaullistes », adressée à « tous ceux qui rejettent les extrêmes » : « Il est temps de sortir de l'ambiguïté ».",
-              "src": "Le Figaro via Europe 1, 10 août 2026"
-            },
-            "hor": {
-              "type": "declare",
-              "texte": "Laurent Marcangeli (Horizons), président du groupe à l'Assemblée, critique « le \"en même temps\" aussi cafouilleux qu'hasardeux » et demande : « Qui en a compris le périmètre ? »",
-              "src": "LCP, 29 octobre 2026"
-            },
-            "d": {
-              "type": "declare",
-              "texte": "Laurence Garnier (LR), porte-parole de Bruno Retailleau, juge une primaire « clairement pas à l'ordre du jour » et parle d'« une tempête dans un verre d'eau » ; David Lisnard (Nouvelle Énergie) presse au contraire : « il faut se dépêcher ».",
-              "src": "Public Sénat et LCP, 29 octobre 2026"
-            },
-            "dn": {
-              "type": "lecture",
-              "texte": "Le courant considère habituellement les initiatives d'union du centre et de la droite comme une coalition des partis sortants contre le RN, et mise sur la position de sa candidate en tête des sondages.",
-              "src": ""
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant plaide habituellement pour une union des droites incluant le RN et Reconquête, et rejette les rassemblements centristes ouverts à une partie de la gauche.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "LCP – « Grande primaire des démocrates » : chez Philippe et Retailleau, la proposition d'Attal critiquée pour son « en même temps »",
-              "u": "https://lcp.fr/actualites/grande-primaire-des-democrates-chez-philippe-et-retailleau-la-proposition-d-attal"
-            },
-            {
-              "t": "Public Sénat – Après la proposition de primaire de Gabriel Attal, rejetée par le camp Philippe et Retailleau, le blocage perdure",
-              "u": "https://www.publicsenat.fr/actualites/politique/apres-la-proposition-de-primaire-de-gabriel-attal-rejetee-par-le-camp-philippe-et-retailleau-le-blocage-perdure"
-            },
-            {
-              "t": "LCP – Présidentielle 2027 : Gabriel Attal veut une « grande primaire des démocrates » pour éviter un second tour RN-LFI",
-              "u": "https://lcp.fr/actualites/presidentielle-2027-gabriel-attal-veut-une-grande-primaire-des-democrates-pour-eviter-un"
-            },
-            {
-              "t": "L'Express via Orange – « Chant du cygne » : la proposition de primaire de Gabriel Attal froidement accueillie par Dominique de Villepin",
-              "u": "https://actu.orange.fr/politique/chant-du-cygne-la-proposition-de-primaire-de-gabriel-attal-froidement-accueillie-par-dominique-de-villepin-l-express-via-6medias-CNT000002tscUQ.html"
-            },
-            {
-              "t": "Europe 1 – Présidentielle 2027 : François Bayrou souhaite une primaire du « PS jusqu'aux gaullistes »",
-              "u": "https://www.europe1.fr/politique/presidentielle-2027-francois-bayrou-souhaite-une-primaire-du-ps-jusquaux-gaullistes-pour-eviter-un-duel-melenchon-le-pen-1006772"
-            }
-          ],
-          "image": {
-            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2026-09/AFP__20260903__C78K3HV__v1__HighRes__France2027PoliticsElectionRenaissance.jpg?itok=ETdbUVUt",
-            "credit": "LCP",
-            "alt": "Illustration de l'article de LCP"
-          }
-        },
-        {
-          "id": "2026-10-30-acte-iii-macron-jeunes",
-          "rubrique": "Société",
-          "titre": "Avant l'acte III de samedi, Macron appelle les lycéens au calme, les organisations de jeunesse maintiennent la mobilisation",
-          "chapo": "Sur la chaîne HugoDécrypte, le chef de l'État a reconnu une réaction trop lente et souhaité la réouverture des lycées lundi. Les organisations lycéennes, étudiantes et plusieurs syndicats appellent à manifester samedi 31 octobre, puis à rejoindre la grève du 5 novembre.",
-          "faits": [
-            "Mercredi 28 octobre au soir, Emmanuel Macron a répondu pendant environ 1 h 20 au journaliste Hugo Travers (HugoDécrypte) ; il souhaite que les lycées « puissent rouvrir » lundi 2 novembre et appelle à « revenir au calme des deux côtés », en indiquant que des enquêtes ont été ouvertes sur des interventions policières.",
-            "Il a reconnu que la réaction des pouvoirs publics n'avait pas été assez rapide et dénoncé, après l'attentat de Trappes, « une désinhibition d'un antisémitisme chez certains et une désinhibition du racisme chez les autres », en visant LFI puis le RN.",
-            "Jeudi, le ministre de l'Éducation nationale, Édouard Geffray, a déclaré : « On aurait certainement dû être plus rapides » ; le ministre de l'Intérieur a reçu les organisations lycéennes, étudiantes et syndicales sur les méthodes de maintien de l'ordre.",
-            "L'intersyndicale jeunesse (Fage, Union étudiante, Unef, USL) et Les Lycéens ! jugent insuffisantes les annonces du 26 octobre et réclament dix mesures chiffrées à 10 milliards d'euros ; à Lyon, la préfecture a autorisé le cortège de samedi, appelé par Solidaires, la CNT-SO et l'Unef, hors de l'hypercentre."
-          ],
-          "enjeu": "L'exécutif mise sur la reprise des cours après la Toussaint pour clore un mouvement engagé fin septembre, tandis que les organisations de jeunesse veulent prolonger la pression jusqu'à la grève interprofessionnelle du 5 novembre. Après les violences du 17 octobre et les interdictions du 24, le déroulement de samedi sera scruté, tout comme l'effet des propos présidentiels sur le RN et LFI.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement la convergence entre lycéens, étudiants et salariés, appelle à étendre le mouvement vers une grève générale et dénonce les interdictions de manifester et les interventions policières comme une répression du mouvement social.",
-              "src": ""
-            },
-            "gr": {
-              "type": "declare",
-              "texte": "Jean-Luc Mélenchon (LFI), en tête du cortège parisien le 24 octobre, a appelé Emmanuel Macron à « céder » et prévenu que la mobilisation allait « se répéter toutes les semaines ».",
-              "src": "Euronews et Yahoo Actualités, 24 octobre 2026"
-            },
-            "soc": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement les revendications de moyens pour l'école et le pouvoir d'achat, défend la liberté de manifester et réclame une réponse politique plutôt que sécuritaire, tout en condamnant les violences commises en marge des cortèges.",
-              "src": ""
-            },
-            "eco": {
-              "type": "declare",
-              "texte": "Marine Tondelier (Les Écologistes) a accusé le gouvernement de mener « la stratégie du pourrissement » pour qu'on ne parle plus des revendications, et lancé au ministre de l'Intérieur : « si c'était un test de détermination, nous l'avons remporté ! »",
-              "src": "Yahoo Actualités, 24 octobre 2026"
-            },
-            "ren": {
-              "type": "declare",
-              "texte": "Le Premier ministre Sébastien Lecornu (Renaissance) s'est adressé jeudi aux jeunes sur X : « Aux jeunes qui nous écoutent : nous attendons beaucoup de vous. »",
-              "src": "Public Sénat, 29 octobre 2026"
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement le dialogue avec les organisations de jeunesse et l'apaisement, en distinguant les manifestants pacifiques des auteurs de violences, et met l'accent sur l'orientation et l'égalité d'accès au supérieur.",
-              "src": ""
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant met habituellement l'accent sur l'autorité de l'État, le retour des élèves en classe et la fermeté face aux violences, tout en appelant à des réponses concrètes compatibles avec la maîtrise des comptes publics.",
-              "src": ""
-            },
-            "d": {
-              "type": "declare",
-              "texte": "Bruno Retailleau (LR) avait dénoncé après le 17 octobre une « convergence entre l'extrême gauche et des racailles » et réclamé l'état d'urgence ainsi qu'une loi « anti-casseurs ».",
-              "src": "AFP via L'Info durable, 19 octobre 2026"
-            },
-            "dn": {
-              "type": "declare",
-              "texte": "Jordan Bardella (RN) a appelé ses militants au calme face à des adversaires qu'il accuse d'inciter à l'émeute, et mis en cause LFI et Jean-Luc Mélenchon.",
-              "src": "AFP via Orange, 24 octobre 2026"
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant dénonce habituellement une politisation des lycéens par l'extrême gauche, condamne les blocages et réclame une répression accrue des violences urbaines ainsi que l'interdiction des groupes d'ultragauche.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "LCP – Lycées : Emmanuel Macron appelle à la reprise des cours dans le « calme » à la rentrée lundi",
-              "u": "https://lcp.fr/actualites/lycees-emmanuel-macron-appelle-a-la-reprise-des-cours-dans-le-calme-a-la-rentree-lundi"
-            },
-            {
-              "t": "Lyon Capitale – Acte III à Lyon : la préfecture donne son feu vert, voici le parcours du cortège",
-              "u": "https://www.lyoncapitale.fr/actualite/acte-iii-contre-la-vie-chere-a-lyon-la-prefecture-donne-son-feu-vert-voici-le-parcours-du-cortege"
-            },
-            {
-              "t": "Public Sénat – Mouvement lycéen : un « semi mea culpa » du gouvernement sur la gestion de la crise",
-              "u": "https://www.publicsenat.fr/actualites/politique/mouvement-lyceen-un-semi-mea-culpa-du-gouvernement-sur-la-gestion-de-la-crise"
-            },
-            {
-              "t": "LCP – Emmanuel Macron dénonce une « désinhibition du racisme » et de « l'antisémitisme », visant le RN et LFI",
-              "u": "https://lcp.fr/actualites/emmanuel-macron-denonce-une-desinhibition-du-racisme-et-de-l-antisemitisme-visant-le-rn"
-            },
-            {
-              "t": "LCP – Malgré les annonces du gouvernement, les organisations lycéennes et étudiantes veulent continuer la mobilisation",
-              "u": "https://lcp.fr/actualites/malgre-les-annonces-du-gouvernement-les-organisations-lyceennes-et-etudiantes-veulent"
-            }
-          ],
-          "image": {
-            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2026-10/macron%2028%2010%2026.jpg?itok=KKHd48pr",
-            "credit": "LCP",
-            "alt": "Illustration de l'article de LCP"
-          }
-        },
-        {
-          "id": "2026-10-30-contribution-emeutes-assurance",
-          "rubrique": "Économie",
-          "titre": "Contribution « émeutes » sur les assurances : entrée en vigueur prévue au 1er janvier, la droite reste divisée",
-          "chapo": "Votée dans le budget 2026, une contribution sur les contrats d'assurance habitation et automobile doit financer un fonds de mutualisation des dégâts causés par les émeutes. Les décrets sont attendus en décembre, après des violences urbaines d'octobre au coût jugé supérieur à celui de la Nouvelle-Calédonie.",
-          "faits": [
-            "La contribution, issue d'un amendement du gouvernement au Sénat en décembre 2025, figure à l'article 171 de la loi de finances pour 2026 ; les assureurs la versent à un fonds de mutualisation, avec un taux plafonné à 1,5 % des cotisations.",
-            "Plusieurs médias évoquent un taux de 0,8 % pour un rendement de 400 millions d'euros ; la garantie de l'État est plafonnée à 3,25 milliards, et le gouvernement n'exclut pas qu'elle soit appelée à hauteur de plusieurs centaines de millions d'euros.",
-            "L'entrée en vigueur est prévue au 1er janvier 2027 ; les décrets, attendus en décembre, doivent passer devant le Conseil d'État, et la Commission européenne doit valider la garantie publique.",
-            "S'y ajoutent en 2027 une surtaxe de 200 millions d'euros sur l'assurance automobile pour les services d'incendie et de secours, et une hausse de la taxe « attentat » de 6,50 à 8,50 euros par an et par contrat.",
-            "Les émeutes de 2024 en Nouvelle-Calédonie ont coûté environ un milliard d'euros aux assureurs ; selon Public Sénat, les violences urbaines de la mi-octobre 2026 auraient dépassé ce niveau."
-          ],
-          "enjeu": "Le dispositif doit éviter que des assureurs se retirent de certains territoires ou refusent de couvrir commerces et collectivités. Ses opposants y voient une charge reportée sur l'ensemble des assurés, au moment où le pouvoir d'achat est au cœur de la mobilisation sociale et où les primes d'assurance augmentent déjà.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant dénonce habituellement les hausses de prélèvements qui pèsent sur les ménages modestes et considère que les compagnies d'assurance, aux profits élevés, devraient supporter elles-mêmes ce risque.",
-              "src": ""
-            },
-            "gr": {
-              "type": "lecture",
-              "texte": "Le courant critique habituellement les taxes forfaitaires pesant sur les contrats des ménages et réclame une contribution des assureurs et des plus hauts revenus, tout en mettant en cause la politique de maintien de l'ordre dans le déclenchement des violences.",
-              "src": ""
-            },
-            "soc": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement le principe d'une solidarité nationale face aux sinistres exceptionnels, sur le modèle des catastrophes naturelles, tout en demandant que son financement épargne les ménages modestes et les petits commerces.",
-              "src": ""
-            },
-            "eco": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement les mécanismes de mutualisation des risques, notamment climatiques, et plaide pour qu'ils s'accompagnent d'une politique de prévention dans les quartiers populaires et d'un encadrement des primes.",
-              "src": ""
-            },
-            "ren": {
-              "type": "declare",
-              "texte": "Le ministre de l'Économie, Roland Lescure (Renaissance), conteste qu'il s'agisse d'une taxe et parle de solidarité entre assureurs, en prévenant que « des collectivités territoriales et des commerces pourraient être dans l'impossibilité de s'assurer ».",
-              "src": "Public Sénat, 29 octobre 2026 (propos tenus lors du budget 2026)"
-            },
-            "modem": {
-              "type": "declare",
-              "texte": "Maud Petit (Les Démocrates) a interpellé le ministre sur ce nouveau prélèvement, et une grande partie du groupe a cosigné des amendements de suppression.",
-              "src": "Public Sénat, 29 octobre 2026 (propos tenus lors du budget 2026)"
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Une grande partie des députés du groupe a cosigné des amendements de suppression ; le courant défend habituellement la maîtrise des prélèvements et la sanction des casseurs plutôt qu'une charge collective sur les assurés.",
-              "src": ""
-            },
-            "d": {
-              "type": "declare",
-              "texte": "Philippe Juvin (LR) juge qu'« il n'est pas sain de faire payer aux assurés une surtaxe au titre du risque d'émeutes », Laurent Wauquiez parle de « taxe casseurs » ; au Sénat, Jean-François Husson (LR) défend une mesure « très convenable ».",
-              "src": "Public Sénat, 29 octobre 2026 (propos tenus lors du budget 2026)"
-            },
-            "dn": {
-              "type": "declare",
-              "texte": "Edwige Diaz (RN), alors députée, a dénoncé une « très mauvaise mesure du Sénat qui vise à faire payer les honnêtes gens à la place des casseurs ».",
-              "src": "Public Sénat, 29 octobre 2026 (propos tenus lors du budget 2026)"
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant réclame habituellement que les dégâts des émeutes soient payés par leurs auteurs et leurs familles, par la suppression d'aides sociales, et rejette toute contribution supplémentaire demandée aux contribuables.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "Public Sénat – Taxe « émeutes » : ce qu'il faut savoir sur la hausse des cotisations d'assurance en 2027",
-              "u": "https://www.publicsenat.fr/actualites/politique/taxe-emeutes-ce-quil-faut-savoir-sur-la-hausse-des-cotisations-dassurance-en-2027"
-            }
-          ],
-          "image": {
-            "u": "https://www.publicsenat.fr/app/uploads/2026/10/SIPA_sipausa30579610_000007-1200x630.jpg",
-            "credit": "Public Sénat",
-            "alt": "Illustration de l'article de Public Sénat"
-          }
-        },
-        {
-          "id": "2026-10-30-lagarde-bce-depart",
-          "rubrique": "Europe",
-          "titre": "Christine Lagarde quittera la BCE le 7 février, huit mois avant la fin de son mandat ; LFI et le RN accusent Macron de verrouiller sa succession",
-          "chapo": "La présidente de la Banque centrale européenne a annoncé jeudi son départ anticipé, en disant vouloir retrouver sa liberté de parole. Le calendrier permet à Emmanuel Macron de peser sur le choix de son successeur avant la présidentielle.",
-          "faits": [
-            "Jeudi 29 octobre, Christine Lagarde, 70 ans, a annoncé qu'elle quitterait la présidence de la BCE le 7 février 2027, alors que son mandat de huit ans courait jusqu'en octobre 2027 ; elle dit vouloir « disposer de la liberté d'expression et de la liberté de m'engager ».",
-            "Le même jour, la BCE a laissé ses taux inchangés, après deux relèvements en juin et en septembre ; « Jusqu'au 7 février, je reste aux commandes », a-t-elle assuré.",
-            "Le président du Conseil européen, António Costa, a indiqué que le processus de désignation commençait dès jeudi ; le Néerlandais Klaas Knot et l'Espagnol Pablo Hernández de Cos, anciens gouverneurs de banques centrales, sont cités comme favoris.",
-            "Mi-octobre, quatre sources avaient indiqué à Reuters qu'elle pourrait prendre la tête du Forum économique mondial ; Emmanuel Macron a salué son action et demandé une transition « ordonnée et équilibrée »."
-          ],
-          "enjeu": "Le départ anticipé permet de désigner le successeur avant la présidentielle française, alors que les sondages placent le RN en tête. L'opposition y voit une manœuvre pour figer l'orientation de la politique monétaire avant une éventuelle alternance, tandis que les marchés ont peu réagi, en surveillant la pression sur la dette française.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant dénonce habituellement l'indépendance de la BCE comme un pouvoir non élu au service des marchés financiers, et considère les hausses de taux comme une politique faite au détriment des salariés.",
-              "src": ""
-            },
-            "gr": {
-              "type": "declare",
-              "texte": "Jean-Luc Mélenchon (LFI) estime que ce départ permet à Emmanuel Macron de négocier la nomination avec le chancelier allemand ; Éric Coquerel (LFI) l'accuse de vouloir verrouiller la politique monétaire pour que son camp perdure.",
-              "src": "LCP, 29 octobre 2026"
-            },
-            "soc": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement l'indépendance de la BCE et la construction européenne, tout en plaidant pour une politique monétaire attentive à l'emploi, à l'investissement et à la transition écologique.",
-              "src": ""
-            },
-            "eco": {
-              "type": "lecture",
-              "texte": "Le courant réclame habituellement que le mandat de la BCE intègre davantage la lutte contre le changement climatique et le financement de la transition, et que sa présidence rende des comptes au Parlement européen.",
-              "src": ""
-            },
-            "ren": {
-              "type": "declare",
-              "texte": "Emmanuel Macron, fondateur de Renaissance, salue « l'action déterminée qu'elle a menée au service de la stabilité de la zone Euro » et demande une transition « ordonnée et équilibrée ».",
-              "src": "L'Express via Orange et AFP via Boursorama, 29 octobre 2026"
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement une BCE forte et indépendante comme pilier de l'intégration européenne et voit dans la stabilité de l'euro une protection pour l'épargne et le pouvoir d'achat.",
-              "src": ""
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement l'indépendance de la banque centrale et la crédibilité budgétaire de la France vis-à-vis de ses partenaires européens et des marchés.",
-              "src": ""
-            },
-            "d": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement l'indépendance de la BCE et la stabilité de l'euro, tout en critiquant la dérive des comptes publics français, qu'il juge exposée au jugement des marchés.",
-              "src": ""
-            },
-            "dn": {
-              "type": "declare",
-              "texte": "Jean-Philippe Tanguy (RN) dénonce une « dérive illibérale » et affirme qu'Emmanuel Macron veut contrôler la BCE après avoir placé ses proches à la tête de la Banque de France et de la Cour des comptes.",
-              "src": "LCP, 29 octobre 2026"
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant critique habituellement la BCE comme une institution supranationale qui prive la France de sa souveraineté monétaire, et dénonce la mainmise des élites européennes sur les grandes nominations.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "LCP – Christine Lagarde annonce son départ anticipé de la Banque centrale européenne",
-              "u": "https://lcp.fr/actualites/christine-lagarde-annonce-son-depart-anticipe-de-la-banque-centrale-europeenne-444496"
-            },
-            {
-              "t": "Boursorama (AFP) – Lagarde, qui quittera la présidence de la BCE le 7 février, dit vouloir « s'exprimer librement »",
-              "u": "https://www.boursorama.com/actualite-economique/actualites/lagarde-qui-quittera-la-presidence-de-la-bce-le-7-fevrier-dit-vouloir-s-exprimer-librement-48087083cfc364b4b70b2da8ff588dd5"
-            },
-            {
-              "t": "RTBF – Christine Lagarde annonce quitter la présidence de la Banque centrale européenne le 7 février 2027",
-              "u": "https://www.rtbf.be/article/christine-lagarde-annonce-quitter-la-presidence-de-la-banque-centrale-europeenne-le-7-fevrier-2027-8-mois-avant-la-fin-de-son-mandat-11807571"
-            },
-            {
-              "t": "L'Express via Orange – Christine Lagarde va quitter la présidence de la Banque centrale européenne en février 2027",
-              "u": "https://actu.orange.fr/politique/christine-lagarde-va-quitter-la-presidence-de-la-banque-centrale-europeenne-en-fevrier-2027-l-express-via-6medias-CNT000002ts85w.html"
-            }
-          ],
-          "image": {
-            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2026-10/christine%20lagarde%20x.jpg?itok=p_g8dbyb",
-            "credit": "LCP",
-            "alt": "Illustration de l'article de LCP"
-          }
-        }
-      ],
-      "breves": [
-        {
-          "titre": "Trappes : l'assaillant mis en examen",
-          "texte": "Kévin T., 39 ans, a été mis en examen jeudi pour assassinat et tentatives d'assassinat en relation avec une entreprise terroriste, avec la circonstance aggravante de racisme, et placé en détention provisoire. Selon le parquet national antiterroriste, il a reconnu avoir ciblé des personnes « musulmanes, africaines ou nord-africaines ». L'attaque du 23 octobre a fait un mort et sept blessés ; l'hommage national n'a pas encore de date.",
-          "src": {
-            "t": "Orange (6Medias) – Attentat de Trappes : l'assaillant mis en examen et placé en détention provisoire",
-            "u": "https://actu.orange.fr/societe/fait-divers/attentat-de-trappes-l-assaillant-mis-en-examen-et-place-en-detention-provisoire-6medias-CNT000002tsdXi.html"
-          }
-        },
-        {
-          "titre": "Ukraine : 14 morts dans la gare de Dnipro",
-          "texte": "Un drone russe a frappé jeudi un quai de la gare de Dnipro où stationnait un train pour Zaporijjia, faisant au moins 14 morts et 14 blessés selon le dernier bilan officiel cité par l'AFP. Emmanuel Macron a appelé à un cessez-le-feu plus large que la trêve locale observée depuis mardi autour d'Olechky, dans la région de Kherson.",
-          "src": {
-            "t": "La Libre (AFP) – Ukraine : 14 morts dans une attaque de drone russe sur la gare de Dnipro",
-            "u": "https://www.lalibre.be/dernieres-depeches/2026/10/29/ukraine-13-morts-dans-une-attaque-de-drone-russe-sur-la-gare-de-dnipro-35C22NVS55ETDJYDLXXL6LRCPA/"
-          }
-        },
-        {
-          "titre": "Le gaz européen franchit les 100 euros",
-          "texte": "Le contrat néerlandais TTF, référence du gaz en Europe, a dépassé mercredi 100 euros le mégawattheure, une première depuis décembre 2022, contre environ 32 euros avant la guerre au Moyen-Orient. Les stocks européens n'étaient remplis qu'à 74,9 % au 28 octobre, contre 82,8 % un an plus tôt.",
-          "src": {
-            "t": "Toute l'Europe – Le prix de référence du gaz européen a atteint 100 euros du mégawattheure, une première depuis 2022",
-            "u": "https://www.touteleurope.eu/l-ue-dans-le-monde/le-prix-de-reference-du-gaz-europeen-a-atteint-100-euros-du-megawattheure-une-premiere-depuis-2022/"
-          }
-        }
-      ],
-      "agenda": [
-        {
-          "d": "Ven. 30 oct.",
-          "t": "Insee : première estimation de la croissance du troisième trimestre ; reprise à l'Assemblée de l'examen de la partie recettes du budget 2027"
-        },
-        {
-          "d": "Sam. 31 oct.",
-          "t": "Acte III de la mobilisation contre la vie chère, avec les organisations lycéennes et étudiantes"
-        },
-        {
-          "d": "Lun. 2 nov.",
-          "t": "Rentrée scolaire après les vacances de la Toussaint"
-        },
-        {
-          "d": "Mar. 3 nov.",
-          "t": "Vote solennel de l'Assemblée sur la partie recettes du budget 2027 ; élections de mi-mandat aux États-Unis"
         },
         {
           "d": "Jeu. 5 nov.",
