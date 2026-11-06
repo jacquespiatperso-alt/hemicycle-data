@@ -91,7 +91,12 @@
               "t": "LCP – Mobilisation du 17 octobre : quels responsables politiques s'emparent du mouvement et comment réagissent les autres",
               "u": "https://lcp.fr/actualites/mobilisation-du-17-octobre-quels-responsables-politiques-s-emparent-du-mouvement-et"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.publicsenat.fr/app/uploads/2026/09/SIPA_01296400_000049-scaled.jpg",
+            "credit": "Public Sénat",
+            "alt": "Illustration de l'article de Public Sénat"
+          }
         },
         {
           "id": "2026-11-06-senat-retour-reforme-retraites",
@@ -161,7 +166,12 @@
               "t": "Public Sénat – Budget 2027 de la Sécurité sociale : les sénateurs proposent de revaloriser sur l'inflation les pensions de retraite allant jusqu'à 1500 euros",
               "u": "https://www.publicsenat.fr/actualites/sante/budget-2027-de-la-securite-sociale-les-senateurs-proposent-de-revaloriser-sur-linflation-les-pensions-allant-jusqua-1500-euros"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.publicsenat.fr/app/uploads/2026/11/SIPA_01105772_000006-1200x630.jpg",
+            "credit": "Public Sénat",
+            "alt": "Illustration de l'article de Public Sénat"
+          }
         },
         {
           "id": "2026-11-06-messages-prives-macron",
@@ -235,7 +245,12 @@
               "t": "Public Sénat – Sondage : 82 % des Français ne font pas confiance à Emmanuel Macron, qui bat le record d'impopularité de François Hollande à l'Élysée",
               "u": "https://www.publicsenat.fr/actualites/politique/sondage-82-des-francais-ne-font-pas-confiance-a-emmanuel-macron-qui-bat-le-record-dimpopularite-de-francois-hollande-a-lelysee"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.lalibre.be/resizer/v2/TKUFBDBWTJAZPCT2OLI6JJYTJQ.jpg?auth=109bcd453b3bafc9fe6116b870dcde65e7f06fdd12e9f19f7db87b1807693543&width=1200&height=630&quality=85&focal=4096%2C2732",
+            "credit": "La Libre",
+            "alt": "Illustration de l'article de La Libre"
+          }
         },
         {
           "id": "2026-11-06-fausses-alertes-bombe-vols",
@@ -309,7 +324,12 @@
               "t": "France 24 – Europe : au moins 15 avions perturbés par de fausses alertes à la bombe",
               "u": "https://www.france24.com/fr/vid%C3%A9o/20261105-europe-au-moins-15-avions-perturb%C3%A9s-par-de-fausses-alertes-%C3%A0-la-bombe"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://armees.com/wp-content/uploads/2026/11/5c298e7b-fausses-alertes-bombe-europe.png",
+            "credit": "Armees.com",
+            "alt": "Fausses alertes à la bombe en Europe : 27 vols visés et l’ombre inquiétante d’un mouvement extrémiste russe"
+          }
         }
       ],
       "breves": [
