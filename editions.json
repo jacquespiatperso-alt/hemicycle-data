@@ -91,7 +91,12 @@
               "t": "LCP – Mobilisation du 17 octobre : quels responsables politiques s'emparent du mouvement et comment réagissent les autres",
               "u": "https://lcp.fr/actualites/mobilisation-du-17-octobre-quels-responsables-politiques-s-emparent-du-mouvement-et"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://cdn.sortiraparis.com/images/80/1467/1330497-manifestation-du-31-octobre-2026-a-paris-ce-qui-est-prevu.jpg",
+            "credit": "Sortiraparis",
+            "alt": "Illustration de l'article de Sortiraparis"
+          }
         },
         {
           "id": "2026-11-07-programme-lfi",
@@ -165,7 +170,12 @@
               "t": "Politis – Avec son nouveau programme, LFI veut plier le match des idées",
               "u": "https://www.politis.fr/articles/2026/11/politique-gauche-avec-son-nouveau-programme-lfi-melenchon-veut-plier-le-match-des-idees/"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2026-11/le%2023%20d%C3%A9cembre%202026%20m%C3%A9lenchon.jpg?itok=Olh72nI7",
+            "credit": "LCP",
+            "alt": "Illustration de l'article de LCP"
+          }
         },
         {
           "id": "2026-11-07-primaire-droite-centre",
@@ -231,7 +241,12 @@
               "t": "Public Sénat – « La fébrilité est de leur côté, pas du sien » : sous pression du camp Attal et Retailleau, Edouard Philippe reste droit dans ses bottes et refuse la primaire",
               "u": "https://www.publicsenat.fr/actualites/politique/la-febrilite-est-de-leur-cote-pas-du-sien-sous-pression-du-camp-attal-et-retailleau-edouard-philippe-reste-droit-dans-ses-bottes-et-refuse-la-primaire"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.publicsenat.fr/app/uploads/2026/11/EP-e1793991794166-1200x630.jpg",
+            "credit": "Public Sénat",
+            "alt": "Illustration de l'article de Public Sénat"
+          }
         },
         {
           "id": "2026-11-07-plfss-senat",
@@ -297,7 +312,12 @@
               "t": "Public Sénat – Budget 2027 : les points chauds lors des débats au Sénat du 9 au 17 novembre",
               "u": "https://www.publicsenat.fr/actualites/politique/budget-2027-les-points-chauds-lors-des-debats-au-senat-du-9-au-17-novembre"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.publicsenat.fr/app/uploads/2026/11/SIPA_01313527_000002-1200x630.jpg",
+            "credit": "Public Sénat",
+            "alt": "Illustration de l'article de Public Sénat"
+          }
         },
         {
           "id": "2026-11-07-a69-ouverture",
@@ -371,7 +391,12 @@
               "t": "France 3 Occitanie – A69 : après 30 ans d'attente, l'autoroute Toulouse-Castres est ouverte",
               "u": "https://france3-regions.franceinfo.fr/occitanie/tarn/albi/video-a69-apres-30-ans-d-attente-l-autoroute-toulouse-castres-est-ouverte-depuis-10h32-3445371.html"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.sudradio.fr/wp-content/uploads/2026/11/cc74b665422c302d980dc750207a5ad05fe74e43.jpg",
+            "credit": "Sud Radio (AFP)",
+            "alt": "Illustration de l'article de Sud Radio (AFP)"
+          }
         },
         {
           "id": "2026-11-07-trump-elections-truquees",
@@ -445,7 +470,12 @@
               "t": "franceinfo – Donald Trump s'emporte contre des élections « truquées », après la défaite des républicains aux midterms 2026",
               "u": "https://www.franceinfo.fr/monde/usa/midterms-2018/donald-trump-s-emporte-contre-des-elections-truquees-apres-la-defaite-des-republicains-aux-midterms-2026_8269964.html"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.publicsenat.fr/app/uploads/2026/11/SIPA_sipahub60145621_000013-1200x630.jpg",
+            "credit": "Public Sénat",
+            "alt": "Illustration de l'article de Public Sénat"
+          }
         }
       ],
       "breves": [
