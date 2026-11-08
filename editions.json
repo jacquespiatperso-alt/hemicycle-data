@@ -1,6 +1,432 @@
 {
-  "updated": "2026-11-07T06:31:00+01:00",
+  "updated": "2026-11-08T06:31:00+01:00",
   "editions": [
+    {
+      "date": "2026-11-08",
+      "label": "Dimanche 8 novembre 2026",
+      "maj": "Mise à jour à 6 h 31",
+      "intro": "La rue reflue : l'acte IV n'a rassemblé que 146 000 manifestants selon l'Intérieur, et le rassemblement interdit de la Concorde a tourné court. Tout se joue désormais lundi à Matignon, où le gouvernement envisage un coup de pouce au Smic dès décembre. Au Bourget, LFI a lancé sa « Nouvelle France » pendant que le PCF sanctionnait ses députés ralliés à Mélenchon, et la victime de l'attentat raciste de Trappes a été inhumée. À l'international, Russes, Ukrainiens et Américains se retrouvent mardi à Abou Dhabi.",
+      "stories": [
+        {
+          "id": "2026-11-08-acte-iv-recul",
+          "rubrique": "Social",
+          "titre": "Acte IV : 146 000 manifestants selon l'Intérieur, une mobilisation en net recul et 360 interpellations",
+          "chapo": "Le quatrième samedi de mobilisation contre la vie chère a rassemblé moins de monde que les précédents. Place de la Concorde, le rassemblement interdit des gilets jaunes n'a réuni qu'une trentaine de personnes, et deux de leurs figures ont été placées en garde à vue.",
+          "faits": "Le ministère de l'Intérieur a compté 146 000 manifestants en France samedi, dont 46 000 à Paris selon la préfecture de police, contre 65 000 dans la capitale jeudi ; l'intersyndicale de la jeunesse en revendique 250 000. À 19 h, Beauvau recensait 360 interpellations sur le territoire et décrivait une situation « globalement calme et maîtrisée », malgré des affrontements à Lyon, où un cortège non déclaré a été dispersé au gaz lacrymogène, et quelques tensions en fin de cortège à Paris. Place de la Concorde, une trentaine de gilets jaunes ont été verbalisés pour non-respect de l'arrêté préfectoral puis évacués vers 15 h 40. Benjamin Ball et Azelma Sigaux, figures de la coordination, ont été interpellés aux abords de l'Assemblée nationale et placés en garde à vue, selon leur avocat. Le cortège intersyndical est arrivé place de la Nation dans le calme.",
+          "enjeu": "Le reflux de la rue intervient à la veille de la conférence sociale de Matignon, que l'exécutif présente comme le moment des réponses sur les salaires. L'intersyndicale ne dira que lundi soir si elle appelle à de nouvelles journées, et le mouvement des gilets jaunes, sans relais syndical, doit trouver un second souffle.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant appelle habituellement à poursuivre et durcir la mobilisation par la grève, et dénonce les interdictions de manifester et les interpellations comme une répression du mouvement social.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Au Bourget, Jean-Luc Mélenchon (LFI) affirme que « la France est en état d'ébullition sociale » et évoque « l'agonie macroniste », appelant à « tout changer ».",
+              "src": "Public Sénat, 7 novembre 2026"
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement les revendications salariales portées par les syndicats et le droit de manifester, tout en condamnant les violences et en appelant le gouvernement à des réponses concrètes.",
+              "src": ""
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement les mobilisations contre la vie chère et la jeunesse, critique les interdictions de rassemblement et réclame une hausse des bas salaires.",
+              "src": ""
+            },
+            "ren": {
+              "type": "lecture",
+              "texte": "Le courant met habituellement en avant le dialogue avec les partenaires sociaux comme réponse à la colère, tout en défendant la fermeté face aux rassemblements interdits.",
+              "src": ""
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant reconnaît habituellement la légitimité des inquiétudes sur le pouvoir d'achat et plaide pour l'apaisement et la négociation entre gouvernement et syndicats.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant insiste habituellement sur le respect de l'ordre public et des décisions préfectorales, et sur la nécessité de ne pas céder à la pression de la rue sur les finances publiques.",
+              "src": ""
+            },
+            "d": {
+              "type": "lecture",
+              "texte": "Le courant réclame habituellement la fermeté face aux rassemblements interdits et aux casseurs, et salue l'action des forces de l'ordre.",
+              "src": ""
+            },
+            "dn": {
+              "type": "lecture",
+              "texte": "Le courant dit habituellement comprendre la colère sur le pouvoir d'achat, qu'il impute à la politique d'Emmanuel Macron, tout en condamnant les violences et l'extrême gauche.",
+              "src": ""
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant accuse habituellement l'extrême gauche d'instrumentaliser la colère sociale et réclame des sanctions sévères contre les fauteurs de troubles.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Sud Radio – En direct : mobilisation du 7 novembre, 146 000 manifestants en France, tensions en fin de cortège",
+              "u": "https://www.sudradio.fr/sud-radio/en-direct-lacte-4-des-gilets-jaunes-avec-90-mobilisations-dans-toute-la-france"
+            },
+            {
+              "t": "Europe 1 – Acte IV : 146 000 manifestants en France selon le ministère de l'Intérieur, 250 000 selon l'intersyndicale de la jeunesse",
+              "u": "https://europe1.fr/international/en-direct-acte-iv-situation-calme-dans-lagglomeration-parisienne-plus-de-5800-controles-effectues-1214852"
+            },
+            {
+              "t": "ici – Mobilisation du 7 novembre : « situation calme et maîtrisée », participation en « net recul » selon le gouvernement",
+              "u": "https://www.ici.fr/infos/societe/direct-mobilisation-du-7-novembre-suivez-l-acte-iv-des-manifestations-contre-la-vie-chere-1202790"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-08-smic-coup-de-pouce",
+          "rubrique": "Social",
+          "titre": "Smic : avant la conférence sociale de lundi, Jean-Pierre Farandou ouvre la porte à un coup de pouce dès le 1er décembre",
+          "chapo": "Le ministre du Travail veut franchir la barre des 1 500 euros net, mais refuse toute hausse qui « nuirait à l'emploi ». Les syndicats réclament bien davantage, alors qu'aucun coup de pouce n'a été accordé depuis 2012.",
+          "faits": "Dans un entretien à La Tribune Dimanche, Jean-Pierre Farandou affirme qu'une hausse du Smic « serait possible dès le 1er décembre, si les discussions aboutissent rapidement », tout en prévenant : « Je ne proposerai pas de mesure qui nuirait à l'emploi ». Selon lui, porter le Smic à 1 700 euros net « détruirait plus de 230 000 emplois ». Le Smic s'élève aujourd'hui à 1 477,93 euros net ; vendredi sur TF1, le ministre jugeait « important » de franchir la barre des 1 500 euros, ce qui suppose une hausse d'au moins 1,49 %. La CFDT demande 100 euros net de plus par mois, la CGT 10 %, soit environ 150 euros. Le dernier coup de pouce, de 0,6 % hors inflation, remonte à juin 2012.",
+          "enjeu": "La conférence sociale convoquée lundi à Matignon par Sébastien Lecornu doit « apporter des réponses aux questions de pouvoir d'achat et de salaires ». Le niveau du geste sur le Smic, et ce qu'il prévoit pour les salaires au-dessus, pèsera sur la décision de l'intersyndicale de poursuivre ou non le mouvement.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant réclame habituellement de fortes hausses de salaires pour tous, leur indexation sur les prix et un Smic nettement relevé, et juge les coups de pouce insuffisants.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Hadrien Clouet (LFI), co-auteur du programme insoumis, promet de porter le Smic à 1 700 euros net, l'une des mesures phares présentées au Bourget.",
+              "src": "Public Sénat, 7 novembre 2026"
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement un coup de pouce au Smic et l'ouverture de négociations salariales dans les branches, en rappelant celui accordé en 2012 sous François Hollande.",
+              "src": ""
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement une hausse significative du Smic et des bas salaires, financée par une fiscalité plus forte sur les hauts patrimoines.",
+              "src": ""
+            },
+            "ren": {
+              "type": "lecture",
+              "texte": "Le courant privilégie habituellement la prime d'activité et la baisse des cotisations pour augmenter le revenu net, en mettant en garde contre les effets d'une hausse du Smic sur l'emploi peu qualifié.",
+              "src": ""
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant se dit habituellement ouvert à un geste sur les bas salaires, à condition de préserver la compétitivité des petites entreprises et de relancer les négociations de branche.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant met habituellement en garde contre une hausse du coût du travail et préfère agir sur les cotisations salariales pour améliorer le salaire net.",
+              "src": ""
+            },
+            "d": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement l'idée que le travail doit mieux payer par la baisse des charges plutôt que par une hausse administrée du Smic, jugée risquée pour les PME.",
+              "src": ""
+            },
+            "dn": {
+              "type": "lecture",
+              "texte": "Le courant propose habituellement d'augmenter les salaires en exonérant de cotisations patronales les hausses consenties par les entreprises, et s'interroge sur le financement d'un coup de pouce.",
+              "src": ""
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant prône habituellement la baisse des charges et des impôts pour augmenter le salaire net, et se montre réservé sur une hausse du Smic imposée aux entreprises.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "LCP – Hausse du Smic : le dernier « coup de pouce » remonte à 2012 sous François Hollande",
+              "u": "https://lcp.fr/actualites/hausse-du-smic-le-dernier-coup-de-pouce-remonte-a-2012-sous-francois-hollande-444846"
+            },
+            {
+              "t": "Boursorama (AFP) – Hausse du Smic : ne pas nuire à l'emploi, demande Farandou",
+              "u": "https://www.boursorama.com/actualite-economique/actualites/hausse-du-smic-ne-pas-nuire-a-l-emploi-demande-farandou-ba9443d494f86afdb032db70efa87e68"
+            },
+            {
+              "t": "L'Express (via Orange) – Hausse du Smic : le ministre du Travail veut « franchir la barre des 1 500 euros nets »",
+              "u": "https://actu.orange.fr/politique/hausse-du-smic-le-ministre-du-travail-veut-franchir-la-barre-des-1-500-euros-nets-l-express-via-6medias-CNT000002tArYw.html"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-08-lfi-bourget-pcf",
+          "rubrique": "Présidentielle 2027",
+          "titre": "Au Bourget, LFI lance sa « Nouvelle France » ; le PCF écarte de ses instances les députés ralliés à Mélenchon",
+          "chapo": "Devant 20 000 personnes selon le parti, Jean-Luc Mélenchon a promis de « tout changer » et refusé de « mettre de l'eau dans son vin ». Quelques heures plus tôt, la direction communiste sanctionnait Stéphane Peu et les élus qui le soutiennent.",
+          "faits": "LFI revendique plus de 20 000 participants samedi au Bourget (Seine-Saint-Denis) pour la présentation de la nouvelle édition de « L'Avenir en commun », dont la première impression de 80 000 exemplaires serait épuisée selon le député Antoine Léaument, 50 000 autres étant réimprimés. « Il est l'heure de tout changer », a lancé Jean-Luc Mélenchon, qui a défendu un programme appliqué « à 100 % » et proposé « liberté, égalité, solidarité » comme nouvelle devise. Jeudi, neuf des dix-sept députés du groupe GDR, dont son président Stéphane Peu et quatre des huit communistes, ont annoncé soutenir Mélenchon plutôt que Fabien Roussel, candidat du PCF. Samedi, le conseil national du PCF a jugé que « celui ou celle qui fait ce choix se met de lui-même en dehors du parti et de ses instances » ; Stéphane Peu, présent au meeting, dit s'y attendre et entend rester président du groupe.",
+          "enjeu": "LFI veut faire de son programme le point de ralliement de la gauche et affaiblir les candidatures concurrentes, à commencer par celle de Fabien Roussel, crédité d'environ 2 % des intentions de vote selon l'AFP. La sanction communiste ouvre une crise au sein du groupe GDR à l'Assemblée.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant partage habituellement plusieurs revendications sociales des insoumis, mais refuse de se ranger derrière un candidat qu'il juge réformiste et présente ses propres candidatures révolutionnaires.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Le conseil national du PCF estime que les élus qui soutiennent Mélenchon se mettent « en dehors du parti et de ses instances » ; pour Jean-Luc Mélenchon (LFI), Stéphane Peu « est tout aussi communiste qu'il l'était hier ».",
+              "src": "LCP, 7 novembre 2026"
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant juge habituellement que la stratégie insoumise divise la gauche et rend une victoire improbable au second tour, et défend une candidature sociale-démocrate distincte.",
+              "src": ""
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant reconnaît habituellement des convergences programmatiques avec LFI, notamment sur l'écologie, mais conteste l'idée d'un ralliement de toute la gauche derrière Jean-Luc Mélenchon.",
+              "src": ""
+            },
+            "ren": {
+              "type": "lecture",
+              "texte": "Le courant présente habituellement le programme insoumis comme irréaliste sur le plan budgétaire et dangereux pour l'économie, et fait de LFI l'un de ses principaux adversaires.",
+              "src": ""
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant met habituellement en garde contre les promesses de dépenses non financées et contre la radicalité qu'il prête à LFI.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant dénonce habituellement les hausses d'impôts et de dépenses du programme insoumis et se pose en rempart contre les extrêmes.",
+              "src": ""
+            },
+            "d": {
+              "type": "lecture",
+              "texte": "Le courant rejette habituellement le programme insoumis comme un projet de matraquage fiscal et accuse LFI de complaisance envers le communautarisme.",
+              "src": ""
+            },
+            "dn": {
+              "type": "lecture",
+              "texte": "Le courant voit habituellement en Jean-Luc Mélenchon son principal adversaire à gauche et combat un projet qu'il juge ruineux et communautariste.",
+              "src": ""
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant présente habituellement LFI comme son adversaire principal et dénonce ce qu'il appelle l'islamo-gauchisme.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Public Sénat – « Il est l'heure de tout changer » : au Bourget, LFI met en scène sa « Nouvelle France »",
+              "u": "https://www.publicsenat.fr/actualites/politique/il-est-lheure-de-tout-changer-au-bourget-lfi-met-en-scene-sa-nouvelle-france"
+            },
+            {
+              "t": "LCP – « Je vais l'offrir à mes grands-parents » : au meeting de Mélenchon, les militants repartent avec le programme et une mission",
+              "u": "https://lcp.fr/actualites/je-vais-l-offrir-a-mes-grands-parents-au-meeting-de-melenchon-les-militants-repartent"
+            },
+            {
+              "t": "LCP – Écarté des instances du PCF après son soutien à Jean-Luc Mélenchon, Stéphane Peu veut toujours diriger le groupe à l'Assemblée",
+              "u": "https://lcp.fr/actualites/ecarte-des-instances-du-pcf-apres-son-soutien-a-jean-luc-melenchon-stephane-peu-veut"
+            },
+            {
+              "t": "L'Express (via Orange) – Fabien Roussel lâché par le groupe communiste à l'Assemblée, qui choisit de soutenir Jean-Luc Mélenchon",
+              "u": "https://actu.orange.fr/politique/presidentielle-2027-fabien-roussel-lache-par-le-groupe-communiste-a-l-assemblee-qui-choisit-de-soutenir-jean-luc-melenchon-l-express-via-6medias-CNT000002tzzCs.html"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-08-trappes-obseques",
+          "rubrique": "Société",
+          "titre": "Attentat raciste de Trappes : des centaines de personnes aux obsèques de Pengo Bossio Wangi",
+          "chapo": "Deux semaines après l'attaque qui a fait un mort et sept blessés dans les Yvelines, la famille de la victime a tenu des obsèques à Guyancourt, à l'écart des responsables politiques. Un hommage national a été annoncé par l'Élysée, sans date à ce stade.",
+          "faits": "Pengo Bossio Wangi, 26 ans, Français d'origine congolaise et pratiquant de MMA, a été tué le 23 octobre lorsqu'un homme a tiré en rafales depuis sa voiture à Trappes puis à La Verrière ; sept personnes ont été blessées, dont une fillette de 11 ans. Ses obsèques ont eu lieu samedi au cimetière de Guyancourt, la famille ayant demandé l'absence de journalistes et de responsables politiques. Le suspect, Kévin T., 39 ans, a été mis en examen le 29 octobre par le parquet national antiterroriste pour « assassinats et tentatives d'assassinats en relation avec une entreprise terroriste », avec la circonstance aggravante du mobile raciste. Selon le procureur Olivier Christen, il a reconnu avoir « spécifiquement ciblé des personnes de type musulman, africain ou nord-africain », mais conteste toute intention terroriste. Il avait été interpellé trois jours plus tôt à Levallois-Perret pour des violences dans une station-service.",
+          "enjeu": "Emmanuel Macron a parlé d'« un tournant » et d'« un attentat terroriste, raciste ». L'affaire relance le débat sur la place du racisme dans le discours public et sur la détection des profils violents, alors qu'un hommage national reste à organiser.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant dénonce habituellement le racisme comme produit d'un climat politique et médiatique qu'il attribue à la droite et à l'extrême droite, et appelle à la mobilisation antiraciste.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Jean-Luc Mélenchon (LFI) a réagi par ces mots : « Le racisme tue. » Samedi au Bourget, LFI a observé une minute de silence pour la victime.",
+              "src": "AFP, 23 octobre 2026 ; LCP, 7 novembre 2026"
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant condamne habituellement les violences racistes avec la plus grande fermeté, appelle à l'unité républicaine et réclame des moyens contre la haine en ligne.",
+              "src": ""
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant dénonce habituellement la banalisation des discours racistes et réclame une politique publique ambitieuse contre les discriminations.",
+              "src": ""
+            },
+            "ren": {
+              "type": "lecture",
+              "texte": "Le courant appelle habituellement à l'unité nationale face aux actes terroristes et soutient la réponse judiciaire et l'hommage aux victimes voulus par l'exécutif.",
+              "src": ""
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant insiste habituellement sur la concorde républicaine et la condamnation sans réserve de toute violence fondée sur l'origine ou la religion.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant condamne habituellement fermement le terrorisme sous toutes ses formes et appelle à renforcer la détection des profils dangereux.",
+              "src": ""
+            },
+            "d": {
+              "type": "lecture",
+              "texte": "Le courant condamne habituellement les actes terroristes quelle qu'en soit l'inspiration et réclame une justice sévère, en mettant en garde contre toute récupération politique.",
+              "src": ""
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Marine Le Pen (RN) a dénoncé « un acte criminel de nature terroriste aggravé par le mobile abject du racisme » et estimé que « la justice se devra d'être implacable ».",
+              "src": "AFP, 23 octobre 2026"
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant condamne habituellement les violences tout en refusant qu'on l'associe à leurs auteurs, et dénonce ce qu'il considère comme une instrumentalisation politique.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "France 24 – Attentat raciste de Trappes : des centaines de personnes aux obsèques de Pengo Bossio Wangi",
+              "u": "https://www.france24.com/fr/france/20261107-attentat-racisme-trappes-obs%C3%A8ques-pengo-bossio-wangi-samedi-guyancourt"
+            },
+            {
+              "t": "ici – Aux obsèques de Pengo Bossio Wangi, une foule de proches et d'anonymes réunis « pour pleurer »",
+              "u": "https://ici.fr/infos/societe/aux-obseques-de-pengo-bossio-wangi-une-foule-de-proches-et-anonymes-reunis-pour-pleurer-7671931"
+            },
+            {
+              "t": "Brut – Ce qu'a dit le procureur antiterroriste sur Kévin T., auteur de l'attentat de Trappes",
+              "u": "https://www.brut.media/fr/articles/ce-que-l-on-sait-du-profil-de-kevin-t-auteur-de-l-attentat-de-trappes"
+            },
+            {
+              "t": "Le360 (AFP) – Tirs meurtriers dans les Yvelines : « un tournant » pour Macron, qui dénonce une attaque raciste",
+              "u": "https://fr.le360.ma/monde/tirs-meurtriers-dans-les-yvelines-un-tournant-pour-macron-qui-denonce-une-attaque-raciste_HPXYEIXS6RDSHFXU4636G7MIVQ/"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-08-ukraine-abou-dhabi",
+          "rubrique": "International",
+          "titre": "Ukraine : Russes, Ukrainiens et Américains se retrouvent mardi à Abou Dhabi, sans les Européens à la table",
+          "chapo": "Premier cycle de pourparlers trilatéraux depuis février, la réunion des 10 et 11 novembre doit porter sur la désescalade et les garanties d'après-guerre. Kiev espère qu'elle ouvrira la voie à une rencontre entre Volodymyr Zelensky et Vladimir Poutine.",
+          "faits": "Annoncés le 2 novembre par l'envoyé spécial américain Steve Witkoff, les pourparlers doivent aborder « les accords de sécurité d'après-guerre, la désescalade, les mesures humanitaires et la fin de la guerre », selon Reuters ; Witkoff et Jared Kushner représenteront les États-Unis. Le Kremlin a confirmé l'envoi d'une délégation conduite par Vladimir Medinsky. Le dernier cycle de ce type remontait à février 2026, avant la guerre déclenchée contre l'Iran. En visite à Berlin le 3 novembre, Volodymyr Zelensky a dit espérer un sommet des dirigeants et chiffré à 70 milliards d'euros l'aide européenne supplémentaire nécessaire l'an prochain. Les Européens, qui réclament d'être associés, ne participeront pas à la réunion ; des négociateurs américains devaient rencontrer cette semaine à Bruxelles des représentants de la France, de l'Allemagne, du Royaume-Uni, de l'UE et de l'Otan.",
+          "enjeu": "Washington cherche une percée avant l'hiver alors que Kiev et Moscou restent très éloignés sur le fond. Pour la France, l'enjeu est de peser sur les garanties de sécurité et de ne pas se voir imposer un accord négocié sans les Européens.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant s'oppose habituellement à la guerre et aux livraisons d'armes, renvoie dos à dos les puissances impliquées et défend une paix décidée par les peuples.",
+              "src": ""
+            },
+            "gr": {
+              "type": "lecture",
+              "texte": "Le courant plaide habituellement pour une conférence de paix et des négociations sous l'égide de l'ONU, tout en condamnant l'invasion russe et en se méfiant de la tutelle américaine sur le processus.",
+              "src": ""
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement fermement l'Ukraine et insiste pour qu'aucun accord ne soit conclu sans Kiev ni sans les Européens.",
+              "src": ""
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement un soutien accru à l'Ukraine, des sanctions renforcées contre la Russie et une place centrale de l'Europe dans les négociations.",
+              "src": ""
+            },
+            "ren": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement une paix « juste et durable » avec des garanties de sécurité solides pour l'Ukraine, portées notamment par la coalition des volontaires conduite avec le Royaume-Uni.",
+              "src": ""
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant insiste habituellement sur l'unité européenne et sur la nécessité que l'Europe soit associée à toute négociation qui engage sa sécurité.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement l'effort de défense européen et l'aide à l'Ukraine, et se méfie d'un accord qui récompenserait l'agression russe.",
+              "src": ""
+            },
+            "d": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement l'Ukraine tout en appelant au réalisme diplomatique et à la défense des intérêts français et européens.",
+              "src": ""
+            },
+            "dn": {
+              "type": "lecture",
+              "texte": "Le courant appelle habituellement à une issue négociée au conflit, se montre réservé sur l'escalade de l'aide militaire et met en avant le coût de la guerre pour les Français.",
+              "src": ""
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant prône habituellement une paix négociée rapide, critique l'engagement européen aux côtés de Kiev et juge les sanctions coûteuses pour la France.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Al Jazeera (AFP) – Zelenskyy hopes Abu Dhabi talks will open way to meeting with Putin",
+              "u": "https://www.aljazeera.com/news/2026/11/3/zelenskyy-hopes-abu-dhabi-talks-will-open-way-to-meeting-with-putin"
+            },
+            {
+              "t": "Al-Monitor (Reuters) – US to mediate trilateral talks with Ukraine, Russia in Abu Dhabi next week, US envoy says",
+              "u": "https://www.al-monitor.com/originals/2026/11/us-mediate-trilateral-talks-ukraine-russia-abu-dhabi-next-week-us-envoy-says"
+            }
+          ]
+        }
+      ],
+      "breves": [
+        {
+          "titre": "Budget de la Sécu : le Sénat entame lundi l'examen en séance",
+          "texte": "La majorité sénatoriale veut rétablir la réforme des retraites de 2023, pour 600 millions d'euros d'économies l'an prochain, tout en tenant le déficit de 12,7 milliards prévu par le gouvernement. « Ce n'est pas notre projet de loi de financement de la Sécurité sociale », prévient le rapporteur centriste Olivier Henno.",
+          "src": {
+            "t": "Public Sénat – Budget de la Sécu : le Sénat prévoit de voter le retour de la réforme des retraites de 2023",
+            "u": "https://www.publicsenat.fr/actualites/politique/budget-de-la-secu-le-senat-prevoit-de-voter-le-retour-de-la-reforme-des-retraites-de-2023"
+          }
+        },
+        {
+          "titre": "Iran : Téhéran met en garde Washington après les frappes sur l'île de Qeshm",
+          "texte": "Donald Trump a confirmé des frappes américaines, dans la nuit du 2 au 3 novembre, contre une infrastructure antiaérienne sur l'île de Qeshm, dans le détroit d'Ormuz, une « attaque mineure » selon lui. Le président iranien Massoud Pezeshkian a averti qu'une reprise des hostilités ne profiterait « à personne » ; le Qatar assure que les deux parties restent engagées dans la négociation.",
+          "src": {
+            "t": "La Gazette France (AFP) – Trump confirme des frappes sur une île iranienne, Téhéran met en garde contre une reprise des hostilités",
+            "u": "https://www.lagazettefrance.fr/article/trump-confirme-des-frappes-sur-une-ile-iranienne"
+          }
+        }
+      ],
+      "agenda": [
+        {
+          "d": "Lun. 9 nov.",
+          "t": "Conférence sociale à Matignon sur les salaires et le pouvoir d'achat ; l'intersyndicale décide le soir des suites du mouvement ; début de l'examen du budget de la Sécurité sociale en séance au Sénat"
+        },
+        {
+          "d": "Mar. 10 nov.",
+          "t": "Pourparlers entre Russes, Ukrainiens et Américains à Abou Dhabi (jusqu'au 11 novembre)"
+        },
+        {
+          "d": "Mer. 11 nov.",
+          "t": "Commémorations de l'Armistice de 1918"
+        },
+        {
+          "d": "Mer. 18 nov.",
+          "t": "Vote solennel du Sénat sur le budget de la Sécurité sociale ; sommet de l'Apec à Shenzhen (18-19 novembre)"
+        },
+        {
+          "d": "Jeu. 19 nov.",
+          "t": "Le Sénat examine la présomption de légitime défense pour les forces de l'ordre"
+        },
+        {
+          "d": "Ven. 20 nov.",
+          "t": "Début de l'examen du projet de loi de finances 2027 en séance au Sénat"
+        }
+      ]
+    },
     {
       "date": "2026-11-07",
       "label": "Samedi 7 novembre 2026",
@@ -2884,493 +3310,6 @@
         {
           "d": "Ven. 6 nov.",
           "t": "Trajet inaugural du TGV M entre Paris et Marseille"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-01",
-      "label": "Dimanche 1er novembre 2026",
-      "maj": "Mise à jour à 6 h 31",
-      "intro": "L'acte III de la mobilisation contre la vie chère a réuni 320 000 manifestants selon le ministère de l'Intérieur, près de 500 000 selon les organisations de jeunesse, sur un parcours parisien finalement imposé par le Conseil d'État, et s'est achevé par des heurts et un gendarme touché par un cocktail Molotov. À la veille de la rentrée, lycéens et étudiants appellent à bloquer leurs établissements mardi et jeudi. Une pétition demandant la fermeture de CNews dépasse les 300 000 signatures sur le site de l'Assemblée, et ce 1er novembre ouvre la trêve hivernale avec une nouvelle hausse du gaz. À l'étranger, les États-Unis votent mardi pour leurs élections de mi-mandat.",
-      "stories": [
-        {
-          "id": "2026-11-01-acte-iii-bilan",
-          "rubrique": "Social",
-          "titre": "Acte III : 320 000 manifestants selon l'Intérieur, un parcours parisien imposé par le Conseil d'État et un gendarme touché par un cocktail Molotov",
-          "chapo": "La troisième journée de mobilisation contre la vie chère a rassemblé moins de monde que les deux précédentes, selon les chiffres officiels. Les cortèges se sont déroulés dans le calme pour l'essentiel, mais des heurts ont éclaté en fin de journée à Paris, Lyon, Marseille, Bordeaux et Toulouse.",
-          "faits": [
-            "Le ministère de l'Intérieur a compté 320 000 manifestants en France, dont 70 000 à Paris selon la préfecture de police, contre 410 000 le 24 octobre et 550 000 le 17 octobre ; l'intersyndicale jeunesse (Union étudiante, Fage, Unef, USL) revendique près de 500 000 participants, dont 200 000 à Paris.",
-            "Saisi en appel par le ministère de l'Intérieur, le Conseil d'État a annulé la décision du tribunal administratif qui autorisait le parcours Bastille-Nation, jugeant l'interdiction « ni inadaptée ni disproportionnée » ; le cortège parisien a suivi le trajet imposé, de la porte de Bagnolet à la porte de Charenton.",
-            "Vers 17 h, près de la porte de Charenton, deux gendarmes mobiles ont été touchés par un cocktail Molotov ; l'un d'eux, dont la tenue a pris feu, est légèrement blessé et n'a pas cessé son service, et Laurent Nuñez parle de « tentative de meurtre ».",
-            "Le ministère a recensé 565 interpellations à 21 h, contre 768 en fin de journée le 24 octobre ; des affrontements ont aussi eu lieu place Jean-Macé à Lyon, place de la Victoire à Bordeaux, à Marseille, à Toulouse, à Rennes et à Nantes.",
-            "Les couvre-feux de 23 h à 6 h autour de République et de Châtelet sont maintenus jusqu'à lundi matin ; selon la CCI, 600 des 2 500 commerces touchés lors des journées précédentes n'ont pas rouvert."
-          ],
-          "enjeu": "La décrue de la participation officielle et le calme relatif des cortèges peuvent conforter la stratégie de fermeté du gouvernement, tandis que les organisateurs dénoncent une entrave au droit de manifester. L'agression du gendarme relance le débat sur l'ultragauche, que le ministre désigne comme responsable des violences. La grève interprofessionnelle du 5 novembre dira si le mouvement s'essouffle ou s'élargit.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement la mobilisation contre la vie chère, dénonce les interdictions de parcours comme une atteinte au droit de manifester et appelle à étendre le mouvement vers une grève générale reconductible.",
-              "src": ""
-            },
-            "gr": {
-              "type": "declare",
-              "texte": "Jean-Luc Mélenchon (LFI), présent dans le cortège parisien, salue une foule « aussi disciplinée » que la semaine précédente malgré les stations de métro fermées, et avertit Emmanuel Macron : « Il devra céder ou partir ».",
-              "src": "BFMTV, 31 octobre 2026"
-            },
-            "soc": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement les revendications salariales et de pouvoir d'achat portées par les syndicats, défend le droit de manifester et condamne les violences contre les forces de l'ordre comme contre les manifestants.",
-              "src": ""
-            },
-            "eco": {
-              "type": "declare",
-              "texte": "Marine Tondelier (Les Écologistes), présente à Lille, voit dans ces rassemblements « le dernier échauffement » avant la grève du 5 novembre, tout en prévenant qu'« il n'y a pas d'automaticité » à une victoire de la gauche.",
-              "src": "Europe 1, 31 octobre 2026"
-            },
-            "ren": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement le gouvernement dans le maintien de l'ordre, condamne les violences et met en avant les mesures déjà annoncées pour les lycéens et le pouvoir d'achat, en appelant au dialogue avec les syndicats.",
-              "src": ""
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement le droit de manifester et l'ordre public à la fois, condamne les violences et plaide pour une sortie de crise par la négociation avec les partenaires sociaux et les organisations de jeunesse.",
-              "src": ""
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant met habituellement l'accent sur l'autorité de l'État et la fermeté face aux casseurs, soutient les interdictions de parcours décidées par les préfets et met en garde contre des concessions coûteuses pour les finances publiques.",
-              "src": ""
-            },
-            "d": {
-              "type": "declare",
-              "texte": "Bruno Retailleau (LR) juge l'attaque contre le gendarme « insupportable » : « Celui qui a fait ça doit en répondre. Il s'agit d'une tentative de meurtre. »",
-              "src": "Europe 1, 31 octobre 2026"
-            },
-            "dn": {
-              "type": "declare",
-              "texte": "Marine Le Pen (RN) qualifie les images d'« insupportables » et demande que les auteurs soient « retrouvés et condamnés avec la plus grande sévérité » ; Éric Ciotti (UDR) demande combien de temps le gouvernement refusera de qualifier ces groupes d'extrême gauche de « forces terroristes ».",
-              "src": "Europe 1 et Le Singulier, 31 octobre 2026"
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant dénonce habituellement les violences de l'extrême gauche en marge des manifestations, réclame la dissolution des groupes impliqués et une réponse pénale sévère, et critique un mouvement qu'il juge politisé.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "Euronews – Acte III de la colère sociale en France : participation importante mais en baisse",
-              "u": "https://fr.euronews.com/2026/10/31/acte-iii-de-la-colere-sociale-en-france-une-situation-globalement-calme-premieres-tensions"
-            },
-            {
-              "t": "Europe 1 – Mobilisation du 31 octobre : près d'un demi-million de manifestants selon l'intersyndicale jeunesse, 320 000 selon le ministère de l'Intérieur",
-              "u": "https://www.europe1.fr/societe/en-direct-mobilisation-du-31-octobre-pres-dun-demi-million-de-personnes-ont-manifeste-a-annonce-lintersyndicale-jeunesse-contre-320000-personnes-selon-le-ministere-de-linterieur-1196982"
-            },
-            {
-              "t": "20 Minutes – Manifestations du 31 octobre : « Une tentative de meurtre »… Ciblés par un cocktail Molotov, deux gendarmes prennent feu",
-              "u": "https://fr.news.yahoo.com/sport/manifestations-31-octobre-tentative-meurtre-194040212.html"
-            },
-            {
-              "t": "BFMTV – « Il devra céder ou partir » : Jean-Luc Mélenchon avertit Emmanuel Macron après la manifestation du 31 octobre",
-              "u": "https://fr.news.yahoo.com/devra-ceder-partir-jean-luc-214639958.html"
-            },
-            {
-              "t": "Trait d'Union (AFP) – Manifestation du 31 octobre : le Conseil d'État annule la décision du tribunal administratif de Paris",
-              "u": "https://www.traitdunion.com.ar/2026/10/31/manifestation-du-31-octobre-le-conseil-detat-annule-la-decision-du-tribunal-administratif-de-paris-le-parcours-bastillenation-est-interdit/"
-            },
-            {
-              "t": "Le Singulier – Un gendarme touché par un cocktail molotov à Paris, des responsables politiques réclament des comptes",
-              "u": "https://lesinguliersete.fr/un-gendarme-touche-par-un-cocktail-molotov-a-paris-des-responsables-politiques-reclament-des-comptes/"
-            }
-          ],
-          "image": {
-            "u": "https://images.euronews.com/articles/stories/09/97/48/87/1200x675_cmsv2_444d96fe-1958-5b89-8825-2ae8cdbd2705-9974887.jpg",
-            "credit": "Euronews",
-            "alt": "Acte III de la colère sociale en France : participation en baisse, tensions dans les grandes villes"
-          }
-        },
-        {
-          "id": "2026-11-01-rentree-blocages",
-          "rubrique": "Éducation",
-          "titre": "Rentrée lundi : l'exécutif espère des lycées rouverts, les organisations de jeunesse appellent à bloquer mardi et jeudi",
-          "chapo": "Les vacances de la Toussaint s'achèvent sans accord entre le gouvernement et le mouvement lycéen et étudiant. L'Union syndicale lycéenne et l'Union étudiante appellent à des assemblées générales dès lundi, puis à des blocages les 3 et 5 novembre.",
-          "faits": [
-            "L'Union syndicale lycéenne (USL) et l'Union étudiante appellent à tenir des assemblées générales lundi 2 novembre, jour de la rentrée, puis à bloquer lycées et universités mardi 3 et jeudi 5 novembre, et à rejoindre ce jour-là la grève interprofessionnelle.",
-            "Elles réclament l'abrogation de Parcoursup, davantage de professeurs et de moyens, et un plan national de rénovation du bâti ; le président de l'USL, Ryad Rani, demande « des conditions de dignité » pour étudier, et la secrétaire générale de l'Unef, Manon Moret, estime que le gouvernement n'a toujours pas répondu concrètement.",
-            "Le gouvernement a annoncé le 26 octobre le remplacement de Parcoursup pour la campagne 2028, un plafond de 28 élèves par classe de seconde, l'annulation de 836 suppressions de postes et 15 000 places supplémentaires dans le supérieur ; un comité de réforme doit rendre ses premières recommandations courant novembre.",
-            "Invité de HugoDécrypte le 28 octobre, Emmanuel Macron a dit souhaiter qu'« à la rentrée, après les vacances de la Toussaint, les lycées puissent rouvrir » et appelé à « revenir au calme des deux côtés »."
-          ],
-          "enjeu": "La première semaine de rentrée dira si les annonces du gouvernement ont désamorcé le mouvement ou si les blocages reprennent à l'échelle d'avant les vacances. La jonction avec la grève du 5 novembre peut redonner de l'ampleur à la mobilisation, au moment où l'Assemblée vote sur la partie recettes du budget, qui porte une partie des mesures promises.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement les blocages lycéens et étudiants, réclame la fin de toute sélection à l'entrée de l'université et appelle à la convergence avec la grève des salariés.",
-              "src": ""
-            },
-            "gr": {
-              "type": "declare",
-              "texte": "Aurélie Trouvé (LFI) estime que les annonces du gouvernement montrent que le mouvement paie et qu'il doit continuer ; elle juge Parcoursup « une horreur » et réclame son abrogation immédiate.",
-              "src": "LCP, 26 octobre 2026"
-            },
-            "soc": {
-              "type": "declare",
-              "texte": "Colombe Brossel (PS) juge que « le gouvernement a craqué l'allumette et veut maintenant utiliser l'extincteur » et qualifie les annonces de demi-mesures.",
-              "src": "Public Sénat, 27 octobre 2026"
-            },
-            "eco": {
-              "type": "declare",
-              "texte": "Jean-Claude Raux (Les Écologistes) défend un droit d'accès au premier cycle pour tout bachelier, avec une priorité dans son académie, et dénonce une « pénurie organisée » de places.",
-              "src": "Le Singulier, 28 octobre 2026"
-            },
-            "ren": {
-              "type": "declare",
-              "texte": "Violette Spillebout (EPR) plaide pour « une refonte complète de l'orientation » et reconnaît une crise de confiance autour d'un dispositif anxiogène, en demandant davantage de transparence.",
-              "src": "LCP, 28 octobre 2026"
-            },
-            "modem": {
-              "type": "declare",
-              "texte": "Marc Fesneau (Les Démocrates) reconnaît les dysfonctionnements de Parcoursup mais veut conserver un outil de sélection à l'entrée de l'université, en espérant que le débat évite « la démagogie ».",
-              "src": "LCP, 26 octobre 2026"
-            },
-            "hor": {
-              "type": "declare",
-              "texte": "Philippe Fait (Horizons) défend la méritocratie républicaine et prévient qu'une sélection supprimée à l'entrée de l'université reviendrait plus tard sous une forme qu'il juge plus brutale.",
-              "src": "Le Singulier, 28 octobre 2026"
-            },
-            "d": {
-              "type": "declare",
-              "texte": "Max Brisson (LR) qualifie les annonces du gouvernement de « bricolage » et estime que le vrai problème tient à la réforme du « bac Blanquer ».",
-              "src": "Public Sénat, 27 octobre 2026"
-            },
-            "dn": {
-              "type": "declare",
-              "texte": "Roger Chudeau (RN) veut remettre les épreuves du bac au centre en supprimant le contrôle continu et réduire le nombre de formations proposées dans le supérieur.",
-              "src": "LCP, 28 octobre 2026"
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant condamne habituellement les blocages d'établissements, défend un baccalauréat exigeant fondé sur des examens nationaux et une sélection au mérite, et dénonce une politisation des lycéens.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "franceinfo – L'Union syndicale lycéenne et l'Union étudiante appellent à bloquer lycées et universités mardi et jeudi",
-              "u": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/l-union-syndicale-lyceenne-et-l-union-etudiante-appellent-a-bloquer-lycees-et-universites-mardi-et-jeudi_8261864.html"
-            },
-            {
-              "t": "BFMTV – Colère sociale : les syndicats lycéens et étudiants appellent à bloquer les lycées et universités mardi et jeudi",
-              "u": "https://www.shango.media/bfm-tv-colere-sociale-les-syndicats-lyceens-et-etudiants-appellent-a-bloquer-les-lycees-et-universites-mardi-et-jeudi-12003894"
-            },
-            {
-              "t": "LCP – Lycées : Emmanuel Macron appelle à la reprise des cours dans le « calme » à la rentrée lundi",
-              "u": "https://lcp.fr/actualites/lycees-emmanuel-macron-appelle-a-la-reprise-des-cours-dans-le-calme-a-la-rentree-lundi"
-            }
-          ],
-          "image": {
-            "u": "https://www.franceinfo.fr/pictures/duvFaUwMpDtRY8B8gIsz6WQipyk/0x53:1024x629/1500x843/2026/10/31/6ae5ee95523bd762061970.jpg",
-            "credit": "franceinfo",
-            "alt": "Les leaders lycéens et étudiants Marius Mesnil, Sabrine Kharbach, Suzanne Nijdam et Manon Moret, le 26 octobre 2026, à Paris."
-          }
-        },
-        {
-          "id": "2026-11-01-petition-cnews",
-          "rubrique": "Médias",
-          "titre": "La pétition pour « supprimer CNews » dépasse les 300 000 signatures sur le site de l'Assemblée",
-          "chapo": "Déposée en juin, la pétition a pris son essor après l'attentat raciste de Trappes et de La Verrière. Elle n'a aucun effet juridique direct : seule l'Arcom peut retirer à la chaîne sa convention de diffusion.",
-          "faits": [
-            "Déposée le 10 juin 2026 par Lucas Massoni sur la plateforme de pétitions de l'Assemblée nationale, la pétition demande le « retrait immédiat de la convention TNT » de CNews et la fermeture de la chaîne du groupe Bolloré.",
-            "Elle a passé 100 000 signatures jeudi, 200 000 vendredi et 300 000 samedi 31 octobre, un essor lié selon LCP à l'attentat raciste du 24 octobre à Trappes et à La Verrière, qui a fait un mort et sept blessés.",
-            "Son auteur affirme que la chaîne a fait l'objet de 27 mises en garde ou mises en demeure de l'Arcom et de 630 000 euros d'amendes depuis 2019.",
-            "Au-delà de 500 000 signatures issues d'au moins 30 départements ou collectivités d'outre-mer, la conférence des présidents peut décider d'un débat en séance, sans vote ni conséquence législative automatique ; seule l'Arcom peut retirer une convention de diffusion."
-          ],
-          "enjeu": "La pétition pose la question de la régulation des chaînes d'information et de la frontière entre opinion et respect des obligations de pluralisme fixées par l'Arcom. Elle divise la classe politique entre ceux qui y voient une réponse aux discours de haine et ceux qui y voient une atteinte à la liberté d'expression, à six mois de la présidentielle.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant dénonce habituellement la concentration des médias entre les mains de grands groupes privés et la place qu'il juge faite aux idées d'extrême droite, et réclame la nationalisation ou le démantèlement de ces groupes.",
-              "src": ""
-            },
-            "gr": {
-              "type": "declare",
-              "texte": "Thomas Portes (LFI) estime que la chaîne a, depuis des années, « mis une cible dans le dos des musulmans ».",
-              "src": "LCP, 31 octobre 2026"
-            },
-            "soc": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement une loi anti-concentration des médias, l'indépendance des rédactions et un contrôle plus strict du pluralisme par l'Arcom, plutôt que la fermeture d'une chaîne par le pouvoir politique.",
-              "src": ""
-            },
-            "eco": {
-              "type": "declare",
-              "texte": "Benjamin Lucas-Lundy (groupe Écologiste et social) oppose les défenseurs de la République au « camp de la haine, du racisme, de CNews, du RN » ; avec Léa Balage El Mariky (Les Écologistes), il demande le retrait des accréditations des médias du groupe Bolloré à l'Assemblée.",
-              "src": "LCP, 31 octobre 2026"
-            },
-            "ren": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement l'indépendance de l'Arcom et le respect des obligations de pluralisme par les chaînes, tout en refusant qu'une décision politique ou une pétition décide de l'existence d'un média.",
-              "src": ""
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant plaide habituellement pour le pluralisme et la régulation des médias par une autorité indépendante, et met en garde contre la polarisation du débat public.",
-              "src": ""
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement la liberté de la presse et le rôle de l'Arcom, et se montre réservé face aux appels à fermer un média, qu'il juge contraires à l'État de droit.",
-              "src": ""
-            },
-            "d": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement la liberté d'expression et le pluralisme des opinions, et voit dans les appels à fermer une chaîne une tentation de censure portée par la gauche.",
-              "src": ""
-            },
-            "dn": {
-              "type": "lecture",
-              "texte": "Le courant dénonce habituellement les appels à fermer CNews comme une volonté de censure d'un média qu'il juge pluraliste, et critique l'Arcom lorsqu'elle sanctionne les chaînes du groupe Bolloré.",
-              "src": ""
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement CNews comme un espace de liberté face à des médias qu'il juge alignés à gauche, et dénonce la pétition comme une entreprise de censure.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "LCP – « Supprimer CNews » : une pétition demandant la « fermeture » de la chaîne du groupe Bolloré dépasse les 300 000 signatures sur le site de l'Assemblée",
-              "u": "https://lcp.fr/actualites/supprimer-cnews-une-petition-demandant-la-fermeture-de-la-chaine-du-groupe-bollore"
-            },
-            {
-              "t": "La DH – CNews, « une machine à propagande » ? La pétition contre la chaîne atteint les 250 000 signatures",
-              "u": "https://www.dhnet.be/medias/television/2026/10/31/cnews-une-machine-a-propagande-la-petition-contre-la-chaine-atteint-les-250-000-signatures-7W2T3SXW6ZDW5F5GTLKASWXDWU/"
-            },
-            {
-              "t": "Élections 2027 – Supprimer CNews : une pétition dépasse les 300 000 signatures",
-              "u": "https://elections2027.com/article/2026-10-31-supprimer-cnews-une-petition-depasse-les-300-000-signatures"
-            }
-          ],
-          "image": {
-            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2026-10/AFP__20261017__HL_BOHIER_3341390__v1__HighRes__FranceIllustrationMicroCnewsParis.jpg?itok=i2PkigbD",
-            "credit": "LCP",
-            "alt": "Illustration de l'article de LCP"
-          }
-        },
-        {
-          "id": "2026-11-01-gaz-treve-hivernale",
-          "rubrique": "Énergie",
-          "titre": "1er novembre : le gaz augmente de 6,6 %, la trêve hivernale commence et les stocks de gazole doivent faire baisser les prix",
-          "chapo": "Le prix repère du gaz connaît une nouvelle hausse, portée par les marchés de gros depuis le début de la guerre dans le Golfe. Le même jour s'ouvre la trêve hivernale et entre en vigueur l'obligation de répercuter à la pompe la baisse liée aux stocks stratégiques.",
-          "faits": [
-            "Selon la Commission de régulation de l'énergie (CRE), le prix repère du gaz passe de 182,88 à 194,90 euros TTC le mégawattheure, soit +6,6 %, environ 12 euros de plus en novembre pour les quelque 6 millions de ménages aux offres indexées ; les offres à prix fixe, environ 40 % des clients, ne bougent pas.",
-            "La CRE estime que la facture annuelle de 2026 sera supérieure d'environ 11 % à celle de 2025, soit quelque 135 euros ; le prix de gros européen TTF est passé de 31,47 euros le MWh le 27 février à 82,76 euros pour les contrats de novembre.",
-            "La trêve hivernale court jusqu'au 31 mars 2027 : les expulsions locatives et les coupures de gaz ou d'électricité dans la résidence principale sont suspendues, même si les fournisseurs peuvent réduire la puissance électrique, sauf pour les bénéficiaires du chèque énergie.",
-            "Un décret du 23 octobre oblige les distributeurs ayant acheté des stocks stratégiques de gazole à répercuter une baisse sur le gazole et le fioul domestique dès le 1er novembre ; le gouvernement l'estime à 12 à 18 centimes par litre, et une aide carburant de 100 euros reste ouverte jusqu'au 31 décembre sous conditions de revenus.",
-            "Les retraites complémentaires Agirc-Arrco sont revalorisées de 1,4 %, et les plages d'heures creuses de 9,3 millions de clients d'électricité commencent à être modifiées."
-          ],
-          "enjeu": "La hausse du gaz tombe au début de la saison de chauffe et en pleine mobilisation contre la vie chère, ce qui place le coût de l'énergie au centre des revendications. Le gouvernement mise sur les stocks de gazole et des aides ciblées, quand une partie de l'opposition réclame une baisse des taxes ou un retour à des tarifs réglementés.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant réclame habituellement la gratuité des premiers volumes d'énergie, l'interdiction des coupures toute l'année et la nationalisation des fournisseurs d'énergie sans indemnisation.",
-              "src": ""
-            },
-            "gr": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement le blocage des prix de l'énergie, le retour à des tarifs réglementés du gaz et de l'électricité et l'interdiction permanente des coupures pour impayés.",
-              "src": ""
-            },
-            "soc": {
-              "type": "lecture",
-              "texte": "Le courant plaide habituellement pour un bouclier tarifaire ciblé sur les ménages modestes, une hausse du chèque énergie et un effort sur la rénovation des logements.",
-              "src": ""
-            },
-            "eco": {
-              "type": "lecture",
-              "texte": "Le courant met habituellement en avant la sortie des énergies fossiles, la rénovation thermique des logements et des aides ciblées sur les ménages précaires plutôt que des baisses générales de prix.",
-              "src": ""
-            },
-            "ren": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement des aides ciblées, comme l'aide carburant et le chèque énergie, et la mobilisation des stocks stratégiques, en refusant un bouclier généralisé jugé trop coûteux pour les finances publiques.",
-              "src": ""
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement des mesures ciblées sur les ménages modestes et les gros rouleurs, et insiste sur la protection des plus fragiles pendant l'hiver.",
-              "src": ""
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant privilégie habituellement des aides ciblées et la maîtrise de la dépense publique, et met en garde contre des baisses de taxes non financées.",
-              "src": ""
-            },
-            "d": {
-              "type": "lecture",
-              "texte": "Le courant réclame habituellement une baisse de la fiscalité sur l'énergie et les carburants, en particulier pour les classes moyennes et les habitants des zones rurales.",
-              "src": ""
-            },
-            "dn": {
-              "type": "lecture",
-              "texte": "Le courant réclame habituellement une baisse de la TVA sur l'énergie et les carburants et la sortie du marché européen de l'électricité, qu'il tient pour responsable de la hausse des factures.",
-              "src": ""
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant réclame habituellement une forte baisse des taxes sur l'énergie et les carburants et critique les règles européennes de fixation des prix.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "L'Express – Prix de l'énergie, découverts bancaires, heures creuses… Tout ce qui change au 1er novembre 2026",
-              "u": "https://actu.orange.fr/france/prix-de-l-energie-decouverts-bancaires-heures-creuses-tout-ce-qui-change-au-1er-novembre-2026-l-express-via-6medias-CNT000002tpeXe.html"
-            },
-            {
-              "t": "Connaissance des énergies (AFP) – France : le prix de référence du gaz augmentera de 6,6 % au 1er novembre",
-              "u": "https://www.connaissancedesenergies.org/afp/france-le-prix-de-reference-du-gaz-augmentera-de-66-au-1er-novembre-261012"
-            },
-            {
-              "t": "Selectra – Ce qui change en novembre 2026 : aide carburant, gaz, trêve hivernale, crédit",
-              "u": "https://selectra.info/energie/actualites/marche/ce-qui-change-novembre-2026-aide-carburant-credit"
-            },
-            {
-              "t": "MoneyVox – Facture d'électricité : de nouvelles heures creuses en novembre 2026 pour 9,3 millions de consommateurs",
-              "u": "https://www.moneyvox.fr/energie/actualites/110970/facture-electricite-de-nouvelles-heures-creuses-en-novembre-2026-pour-9-3-millions-de-consommateurs"
-            }
-          ],
-          "image": {
-            "u": "https://proxymedia.woopic.com/api/v1/images/2275%2Factu%2Farticles6medias%2F855%2Fae9%2Fd5673c28d2c4bde8a13f85c107%2Fpexels-mateusz-feliksik-1896604-13422435-980x450.jpg?format=1200x630&facedetect=1&quality=85",
-            "credit": "L'Express",
-            "alt": "Illustration de l'article de L'Express"
-          }
-        },
-        {
-          "id": "2026-11-01-midterms-etats-unis",
-          "rubrique": "International",
-          "titre": "États-Unis : à deux jours des élections de mi-mandat, les démocrates en tête des sondages et l'administration Trump multiplie les recours",
-          "chapo": "Les Américains renouvellent mardi toute la Chambre des représentants et 35 sièges du Sénat. Plus de 49 millions d'électeurs ont déjà voté par anticipation.",
-          "faits": [
-            "Le scrutin du mardi 3 novembre porte sur les 435 sièges de la Chambre des représentants, où les républicains détiennent 218 sièges contre 214, et sur 35 des 100 sièges du Sénat, où ils en ont 53 ; les démocrates doivent gagner au moins quatre sièges dans chaque chambre pour y devenir majoritaires.",
-            "Selon un sondage Reuters/Ipsos réalisé du 16 au 19 octobre, 47 % des électeurs inscrits comptent voter démocrate pour la Chambre, contre 35 % pour les républicains.",
-            "Plus de 49 millions d'Américains ont déjà voté, selon l'Election Lab de l'université de Floride, contre près de 46 millions à la même période en 2022.",
-            "Le ministère de la Justice a poursuivi une trentaine d'États et le district de Columbia pour obtenir des listes électorales non expurgées, et attaqué la Californie pour empêcher le dépouillement de plus de 20 000 bulletins ; un juge fédéral lui a ordonné vendredi de cesser de menacer de poursuites les responsables électoraux californiens.",
-            "Donald Trump tient ce dimanche des meetings au Kansas et dans l'Iowa."
-          ],
-          "enjeu": "Une Chambre ou un Sénat démocrate compliquerait l'adoption des lois et du budget, ouvrirait des enquêtes parlementaires sur l'administration Trump et pourrait bloquer certaines nominations. Pour la France et l'Europe, l'issue pèse sur la politique commerciale américaine, le soutien à l'Ukraine et l'avenir de l'Otan.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant dénonce habituellement l'impérialisme américain sous les présidences républicaines comme démocrates, et ne voit pas dans l'alternance au Congrès de changement de fond pour les travailleurs.",
-              "src": ""
-            },
-            "gr": {
-              "type": "lecture",
-              "texte": "Le courant critique habituellement la politique de Donald Trump, défend une diplomatie française indépendante des États-Unis et la sortie du commandement intégré de l'Otan.",
-              "src": ""
-            },
-            "soc": {
-              "type": "lecture",
-              "texte": "Le courant s'inquiète habituellement des atteintes de l'administration Trump à l'État de droit et au processus électoral, et souhaite un rééquilibrage au Congrès favorable au multilatéralisme et au soutien à l'Ukraine.",
-              "src": ""
-            },
-            "eco": {
-              "type": "lecture",
-              "texte": "Le courant critique habituellement la politique climatique et migratoire de Donald Trump et défend l'autonomie stratégique européenne face aux États-Unis.",
-              "src": ""
-            },
-            "ren": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement une relation transatlantique solide mais une Europe plus autonome sur la défense et le commerce, quel que soit le résultat des élections américaines.",
-              "src": ""
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant plaide habituellement pour une Europe unie et souveraine face aux États-Unis, attachée au multilatéralisme et au soutien à l'Ukraine.",
-              "src": ""
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant met habituellement en avant le réarmement européen et la nécessité de ne plus dépendre des choix politiques américains pour la sécurité du continent.",
-              "src": ""
-            },
-            "d": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement l'alliance avec les États-Unis et une Europe de la défense, tout en s'opposant aux droits de douane américains qui frappent l'agriculture et l'industrie françaises.",
-              "src": ""
-            },
-            "dn": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement une politique étrangère centrée sur la souveraineté nationale, observe avec intérêt la ligne de Donald Trump sur l'immigration et critique les droits de douane qui touchent les producteurs français.",
-              "src": ""
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant affiche habituellement sa proximité avec le camp de Donald Trump sur l'immigration et les questions de société, et dénonce une presse qu'il juge hostile aux républicains américains.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "Boursorama (Reuters) – USA/Midterms : la campagne pour le contrôle du Congrès entre dans sa dernière ligne droite",
-              "u": "https://www.boursorama.com/actualite-economique/actualites/usa-midterms-la-campagne-pour-le-controle-du-congres-entre-dans-sa-derniere-ligne-droite-c83107718341b6659750ab4d9c4c646e"
-            },
-            {
-              "t": "Toute l'Europe – Midterms : tout savoir sur les élections américaines du 3 novembre",
-              "u": "https://www.touteleurope.eu/l-ue-dans-le-monde/midterms-tout-savoir-sur-les-elections-americaines-du-3-novembre/"
-            },
-            {
-              "t": "20 minutes – Élections de mi-mandat : Trump face à la fébrilité de son camp républicain",
-              "u": "https://www.20min.ch/fr/story/resultats-des-midterms-fin-de-campagne-febrile-pour-trump-103659195"
-            }
-          ],
-          "image": {
-            "u": "https://www.touteleurope.eu/wp-content/uploads/2026/10/United_States_House_of_Representatives_chamber.jpg",
-            "credit": "Toute l'Europe",
-            "alt": "Illustration de l'article de Toute l'Europe"
-          }
-        }
-      ],
-      "breves": [
-        {
-          "titre": "Hommage national après l'attentat de Trappes : la présence de Sébastien Lecornu contestée",
-          "texte": "Annoncé le 28 octobre, l'hommage national aux victimes de l'attentat raciste de Trappes et de La Verrière n'a toujours ni date ni lieu. Me Yassine Bouzrou, avocat de cinq parties civiles, juge sur RTL que sa présidence par le Premier ministre est « une insulte » et conteste aussi la participation d'Aurore Bergé. Le maire de La Verrière, Nicolas Dainville, demande que les victimes de sa commune y aient toute leur place.",
-          "src": {
-            "t": "La Clé publique – Attentat de Trappes : la présidence de Lecornu contestée",
-            "u": "https://laclepublique.fr/yvelines/articles/2026/2026-10-29-hommage-national-trappes/"
-          }
-        },
-        {
-          "titre": "Découverts et paiements fractionnés : de nouvelles règles au 20 novembre",
-          "texte": "À partir du 20 novembre, les banques devront analyser la solvabilité de leurs clients avant d'accorder un découvert, y compris de moins de 200 euros ou d'un mois au plus. Les paiements en trois ou quatre fois de moins de 90 jours deviennent des crédits à la consommation, avec obligation d'information et d'évaluation de la solvabilité. Les autorisations existantes ne sont pas automatiquement remises en cause.",
-          "src": {
-            "t": "L'Express – Tout ce qui change au 1er novembre 2026",
-            "u": "https://actu.orange.fr/france/prix-de-l-energie-decouverts-bancaires-heures-creuses-tout-ce-qui-change-au-1er-novembre-2026-l-express-via-6medias-CNT000002tpeXe.html"
-          }
-        }
-      ],
-      "agenda": [
-        {
-          "d": "Dim. 1er nov.",
-          "t": "Début de la trêve hivernale ; hausse de 6,6 % du prix repère du gaz ; Donald Trump en meeting au Kansas et dans l'Iowa"
-        },
-        {
-          "d": "Lun. 2 nov.",
-          "t": "Rentrée scolaire après les vacances de la Toussaint ; assemblées générales lycéennes et étudiantes"
-        },
-        {
-          "d": "Mar. 3 nov.",
-          "t": "Vote solennel de l'Assemblée sur la partie recettes du budget 2027 ; audition de Laurent Nuñez par la commission d'enquête sur le 17 octobre ; blocages de lycées et d'universités ; élections de mi-mandat aux États-Unis"
-        },
-        {
-          "d": "Mer. 4 nov.",
-          "t": "Israël : remise des résultats officiels des législatives au président Isaac Herzog"
-        },
-        {
-          "d": "Jeu. 5 nov.",
-          "t": "Grève interprofessionnelle et manifestations, rejointes par les organisations de jeunesse"
         }
       ]
     }
