@@ -79,7 +79,12 @@
               "t": "ici – Mobilisation du 7 novembre : « situation calme et maîtrisée », participation en « net recul » selon le gouvernement",
               "u": "https://www.ici.fr/infos/societe/direct-mobilisation-du-7-novembre-suivez-l-acte-iv-des-manifestations-contre-la-vie-chere-1202790"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.sudradio.fr/wp-content/uploads/2026/11/AFP__20261107__D6R28BK__v1__HighRes__FranceSocialPoliticsDemo.jpg",
+            "credit": "Sud Radio",
+            "alt": "Illustration de l'article de Sud Radio"
+          }
         },
         {
           "id": "2026-11-08-smic-coup-de-pouce",
@@ -153,7 +158,12 @@
               "t": "L'Express (via Orange) – Hausse du Smic : le ministre du Travail veut « franchir la barre des 1 500 euros nets »",
               "u": "https://actu.orange.fr/politique/hausse-du-smic-le-ministre-du-travail-veut-franchir-la-barre-des-1-500-euros-nets-l-express-via-6medias-CNT000002tArYw.html"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2026-09/Capture%20d%27%C3%A9cran%202026-09-16%20084435.png?itok=n61-DS57",
+            "credit": "LCP",
+            "alt": "Illustration de l'article de LCP"
+          }
         },
         {
           "id": "2026-11-08-lfi-bourget-pcf",
@@ -231,7 +241,12 @@
               "t": "L'Express (via Orange) – Fabien Roussel lâché par le groupe communiste à l'Assemblée, qui choisit de soutenir Jean-Luc Mélenchon",
               "u": "https://actu.orange.fr/politique/presidentielle-2027-fabien-roussel-lache-par-le-groupe-communiste-a-l-assemblee-qui-choisit-de-soutenir-jean-luc-melenchon-l-express-via-6medias-CNT000002tzzCs.html"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.publicsenat.fr/app/uploads/2026/11/SIPA_01314537_000013-scaled.jpg",
+            "credit": "Public Sénat",
+            "alt": "Illustration de l'article de Public Sénat"
+          }
         },
         {
           "id": "2026-11-08-trappes-obseques",
@@ -309,7 +324,12 @@
               "t": "Le360 (AFP) – Tirs meurtriers dans les Yvelines : « un tournant » pour Macron, qui dénonce une attaque raciste",
               "u": "https://fr.le360.ma/monde/tirs-meurtriers-dans-les-yvelines-un-tournant-pour-macron-qui-denonce-une-attaque-raciste_HPXYEIXS6RDSHFXU4636G7MIVQ/"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://s.france24.com/media/display/63c65ebe-da90-11f1-af91-bf1914cabd52/w:1280/p:16x9/000-D66746K.jpg",
+            "credit": "France 24",
+            "alt": "Illustration de l'article de France 24"
+          }
         },
         {
           "id": "2026-11-08-ukraine-abou-dhabi",
@@ -379,7 +399,12 @@
               "t": "Al-Monitor (Reuters) – US to mediate trilateral talks with Ukraine, Russia in Abu Dhabi next week, US envoy says",
               "u": "https://www.al-monitor.com/originals/2026/11/us-mediate-trilateral-talks-ukraine-russia-abu-dhabi-next-week-us-envoy-says"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6ae9f6cd4c4cd-1793717965.jpg?resize=1920%2C1440",
+            "credit": "Al Jazeera (AFP)",
+            "alt": "Ukraine’s Zelenskyy hopes Abu Dhabi talks will open path to Putin meeting"
+          }
         }
       ],
       "breves": [
