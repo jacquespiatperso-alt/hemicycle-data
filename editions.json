@@ -79,7 +79,12 @@
               "t": "Public Sénat – « Il est l'heure de tout changer » : au Bourget, LFI met en scène sa « Nouvelle France »",
               "u": "https://www.publicsenat.fr/actualites/politique/il-est-lheure-de-tout-changer-au-bourget-lfi-met-en-scene-sa-nouvelle-france"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2026-08/AFP__20260722__HL_CSCHMITT_3240100__v1__HighRes__FrancePoliticsGovernmentMinistersEl.jpg?itok=xK6aKabf",
+            "credit": "LCP",
+            "alt": "Illustration de l'article de LCP"
+          }
         },
         {
           "id": "2026-11-09-plfss-senat-retraites",
@@ -215,7 +220,12 @@
               "t": "LCP – Pétition contre CNews : vers l'organisation d'un débat plus large sur la liberté d'expression et la régulation dans l'hémicycle ?",
               "u": "https://lcp.fr/actualites/petition-contre-cnews-vers-l-organisation-d-un-debat-plus-large-sur-la-liberte-d"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://proxymedia.woopic.com/api/v1/images/2275%2Factu%2Fafp-news%2Fcc020eb7-cb71-4763-9159-48954aa9ddaf.jpg?format=1200x630&facedetect=1&quality=85",
+            "credit": "Orange (AFP)",
+            "alt": "Illustration de l'article de Orange (AFP)"
+          }
         },
         {
           "id": "2026-11-09-primaire-attal-philippe-roussel",
@@ -285,7 +295,12 @@
               "t": "Orange (AFP) – Présidentielle : malgré les défections, Roussel ira « jusqu'au bout »",
               "u": "https://actu.orange.fr/politique/presidentielle-malgre-les-defections-roussel-ira-quot-jusqu-au-bout-quot-CNT000002tCsBj.html"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.boursorama.com/static/i/content/images/b/0/1/b015c4b08c07b606edb4b13f1140531b-1200x800.jpg",
+            "credit": "Boursorama (AFP)",
+            "alt": "Le candidat Renaissance à la présidentielle Gabriel Attal à  Lambres-lez-Douai le 6 novembre 2026 ( AFP / Sameer AL-DOUMY )"
+          }
         },
         {
           "id": "2026-11-09-narcotrafic-represailles-auch-evry",
@@ -355,7 +370,12 @@
               "t": "Orange (6Medias) – La députée LFI Farida Amrani légèrement blessée par un tir de mortier chez son coiffeur",
               "u": "https://actu.orange.fr/societe/fait-divers/j-ai-croise-ses-yeux-rouges-injectes-de-sang-la-deputee-lfi-farida-amrani-legerement-blessee-par-un-tir-de-mortier-chez-son-coiffeur-6medias-CNT000002tCpD6.html"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://proxymedia.woopic.com/api/v1/images/2275%2Factu%2Farticles6medias%2Fbd2%2F666%2Fe8d2bb0bb416abe690e204ed91%2Fpierre-louis-mieze-SoGqkNdvL2M-unsplash-980x450.jpg?format=1200x630&facedetect=1&quality=85",
+            "credit": "Orange (6Medias)",
+            "alt": "Illustration de l'article de Orange (6Medias)"
+          }
         },
         {
           "id": "2026-11-09-ukraine-abou-dhabi-europeens-melenchon",
@@ -429,7 +449,12 @@
               "t": "Arab News (AFP) – France's far-left leader attacked for remarks on Ukraine",
               "u": "https://www.arabnews.com/world/frances-far-left-leader-attacked-for-remarks-on-ukraine-3010591"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://static-content.rtbf.be/article/image/1920x1080/a/d/3/986ec0efa2ae600471fe33c474f8e63f.jpg",
+            "credit": "RTBF",
+            "alt": "Russes, Ukrainiens et Américains à Abou Dhabi : l'Europe peine à parler d'une seule voix, qui accompagnera la France aux pourparlers de paix ?"
+          }
         }
       ],
       "breves": [
