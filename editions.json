@@ -1,6 +1,490 @@
 {
-  "updated": "2026-11-08T06:31:00+01:00",
+  "updated": "2026-11-09T06:31:00+01:00",
   "editions": [
+    {
+      "date": "2026-11-09",
+      "label": "Lundi 9 novembre 2026",
+      "maj": "Mise à jour à 6 h 31",
+      "intro": "Journée décisive à Matignon : Sébastien Lecornu réunit syndicats et patronat, avec un premier coup de pouce au Smic depuis 2012 sur la table, pendant que le Sénat ouvre les débats sur le budget de la Sécu. La pétition contre CNews dépasse le million de signatures, et la primaire divise toujours Gabriel Attal et Édouard Philippe. Dans le Gers et en Essonne, deux attaques samedi relancent l'inquiétude sur les représailles du narcotrafic. À l'international, la France sera mardi à Abou Dhabi pour les pourparlers sur l'Ukraine, sur fond de polémique autour des propos de Jean-Luc Mélenchon.",
+      "stories": [
+        {
+          "id": "2026-11-09-conference-sociale-smic",
+          "rubrique": "Social",
+          "titre": "Conférence sociale à Matignon : le gouvernement met un coup de pouce au Smic sur la table, les syndicats réclament 100 euros net",
+          "chapo": "Sébastien Lecornu reçoit ce lundi syndicats et patronat pour « apporter des réponses aux questions de pouvoir d'achat et de salaires ». Le geste attendu sur le Smic serait le premier depuis 2012, mais son ampleur reste en discussion.",
+          "faits": "Convoquée le 5 novembre au soir, après la grève interprofessionnelle, la conférence réunit à Matignon les organisations représentatives des salariés et des employeurs ; le Premier ministre doit ensuite s'adresser aux Français. Le Smic s'élève à 1 477,93 euros net par mois ; vendredi sur TF1, le ministre du Travail Jean-Pierre Farandou a jugé « important » de franchir la barre des 1 500 euros, tout en prévenant que « rien n'est acquis ». Selon L'Express, le gouvernement étudie un coup de pouce de 0,5 à 0,6 % dès décembre, en plus de la revalorisation automatique de janvier. L'intersyndicale demande 100 euros net de plus par mois et l'indexation des salaires sur les prix, la CGT 10 % ; la U2P, qui représente les artisans et commerçants, redoute « des milliers » de fermetures de petites entreprises.",
+          "enjeu": "Le niveau du geste et ce qu'il prévoit pour les grilles de branche, dont certaines commencent sous le Smic, décideront de la suite du mouvement : l'intersyndicale se réunit après Matignon. Le gouvernement doit aussi concilier ce geste avec un budget de la Sécurité sociale déjà serré.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant réclame habituellement une hausse générale et forte des salaires, leur indexation sur les prix et un Smic nettement relevé, et juge les coups de pouce insuffisants.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Hadrien Clouet (LFI) promet de porter le Smic à 1 700 euros net, l'une des mesures phares du programme présenté au Bourget par Jean-Luc Mélenchon.",
+              "src": "Public Sénat, 7 novembre 2026"
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement un coup de pouce au Smic et l'ouverture de négociations salariales dans les branches, en rappelant celui accordé en 2012 sous François Hollande.",
+              "src": ""
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement une hausse significative des bas salaires, financée par une fiscalité plus forte sur les hauts revenus et les grands patrimoines.",
+              "src": ""
+            },
+            "ren": {
+              "type": "lecture",
+              "texte": "Le courant privilégie habituellement la prime d'activité et la baisse des cotisations pour améliorer le revenu net, en mettant en garde contre les effets d'une hausse du Smic sur l'emploi peu qualifié.",
+              "src": ""
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant se dit habituellement ouvert à un geste sur les bas salaires, à condition de préserver les petites entreprises et de relancer les négociations de branche.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant met habituellement en garde contre une hausse du coût du travail et préfère agir sur les cotisations salariales pour augmenter le salaire net.",
+              "src": ""
+            },
+            "d": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement l'idée que le travail doit mieux payer par la baisse des charges plutôt que par une hausse administrée du Smic, jugée risquée pour les PME.",
+              "src": ""
+            },
+            "dn": {
+              "type": "lecture",
+              "texte": "Le courant propose habituellement d'exonérer de cotisations patronales les hausses de salaires consenties par les entreprises, plutôt qu'un relèvement imposé du Smic.",
+              "src": ""
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant prône habituellement la baisse des impôts et des charges pour augmenter le salaire net, et se montre réservé sur une hausse du Smic imposée aux entreprises.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "LCP – Salaires, pouvoir d'achat : que peut-on attendre de la conférence sociale du lundi 9 novembre ?",
+              "u": "https://lcp.fr/actualites/salaires-pouvoir-d-achat-que-peut-on-attendre-de-la-conference-sociale-du-lundi-9"
+            },
+            {
+              "t": "LCP – Hausse du Smic : le dernier « coup de pouce » remonte à 2012 sous François Hollande",
+              "u": "https://lcp.fr/actualites/hausse-du-smic-le-dernier-coup-de-pouce-remonte-a-2012-sous-francois-hollande-444846"
+            },
+            {
+              "t": "Public Sénat – « Il est l'heure de tout changer » : au Bourget, LFI met en scène sa « Nouvelle France »",
+              "u": "https://www.publicsenat.fr/actualites/politique/il-est-lheure-de-tout-changer-au-bourget-lfi-met-en-scene-sa-nouvelle-france"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-09-plfss-senat-retraites",
+          "rubrique": "Budget",
+          "titre": "Budget de la Sécu : le Sénat ouvre les débats en séance, avec le retour de la réforme des retraites de 2023 en ligne de mire",
+          "chapo": "Rejeté à l'Assemblée, le projet de loi de financement de la Sécurité sociale arrive ce lundi dans l'hémicycle du Sénat. La majorité de droite et du centre veut rétablir le report de l'âge légal, suspendu l'an dernier.",
+          "faits": "L'examen en séance court du lundi 9 au mercredi 18 novembre, date du vote solennel sur l'ensemble du texte. Plus de 1 200 amendements ont été déposés. La majorité sénatoriale veut revenir sur la suspension de la réforme de 2023, obtenue l'an dernier par les socialistes, ce qui rapporterait selon elle 600 millions d'euros l'an prochain, tout en tenant l'objectif de déficit de 12,7 milliards d'euros, contre 21,8 milliards prévus en 2026. « Ce n'est pas notre projet de loi de financement de la Sécurité sociale », a prévenu le rapporteur centriste Olivier Henno.",
+          "enjeu": "Le texte du Sénat n'engage pas le gouvernement, qui devra très probablement recourir au 49.3 ou aux ordonnances pour faire adopter un budget qui ne prévoit pas ce retour. Mais le vote des sénateurs relancera le débat sur les retraites en pleine mobilisation sociale.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant réclame habituellement l'abrogation pure et simple de la réforme de 2023 et le retour de la retraite à 60 ans, financé par les cotisations patronales.",
+              "src": ""
+            },
+            "gr": {
+              "type": "lecture",
+              "texte": "Le courant demande habituellement l'abrogation de la réforme de 2023 et dénonce toute tentative de la rétablir, en prônant le retour à la retraite à 60 ans.",
+              "src": ""
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant, qui a obtenu la suspension de la réforme de 2023, s'oppose habituellement à son rétablissement et défend la protection des petites pensions.",
+              "src": ""
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant s'oppose habituellement au report de l'âge légal et plaide pour d'autres recettes, comme une contribution des plus hauts patrimoines.",
+              "src": ""
+            },
+            "ren": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement la réforme de 2023 comme nécessaire à l'équilibre du système, tout en assumant le compromis de suspension passé pour faire adopter le budget.",
+              "src": ""
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant plaide habituellement pour une réforme plus juste, par points ou tenant compte des carrières longues, et pour un compromis qui évite le blocage.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant juge habituellement indispensable de travailler plus longtemps et regrette la suspension de la réforme de 2023.",
+              "src": ""
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Marie-Do Aeschlimann (LR), sénatrice, rappelle que la suppression de la réforme des retraites entre 2026 et 2032 « coûtera 10 milliards d'euros en tout » ; Bruno Retailleau (LR) a réclamé son retour.",
+              "src": "Public Sénat, 5 novembre 2026"
+            },
+            "dn": {
+              "type": "lecture",
+              "texte": "Le courant s'oppose habituellement au report de l'âge légal à 64 ans et promet un départ plus précoce pour ceux qui ont commencé à travailler tôt.",
+              "src": ""
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant juge habituellement nécessaire d'allonger la durée du travail, tout en ciblant d'abord les économies sur l'immigration et les fraudes sociales.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Public Sénat – Budget de la Sécu : le Sénat prévoit de voter le retour de la réforme des retraites de 2023",
+              "u": "https://www.publicsenat.fr/actualites/politique/budget-de-la-secu-le-senat-prevoit-de-voter-le-retour-de-la-reforme-des-retraites-de-2023"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-09-petition-cnews-million",
+          "rubrique": "Médias",
+          "titre": "La pétition pour supprimer CNews dépasse le million de signatures, la commission des Affaires culturelles se prononce mardi",
+          "chapo": "Lancée en juin par un particulier sur le site de l'Assemblée, la pétition a franchi le cap symbolique dimanche. Les députés doivent décider mardi s'ils la classent ou s'ils organisent un débat dans l'hémicycle.",
+          "faits": "La pétition, qui demande de « supprimer CNews de l'audiovisuel français » et compare la chaîne à « une machine de propagande », a dépassé le million de signatures dimanche 8 novembre, une semaine après avoir franchi les 500 000. Elle a pris son essor après l'attentat raciste de Trappes, le 23 octobre. La commission des Affaires culturelles se réunit mardi 10 novembre à 13 h pour voter soit son classement, soit l'organisation d'un débat en séance. Un débat n'aurait aucun effet législatif direct : la pétition contre la loi Duplomb, qui avait dépassé deux millions de signatures, avait débouché sur un débat sans vote.",
+          "enjeu": "La commission pourrait proposer un débat plus large sur la liberté d'expression, le pluralisme et la régulation des médias. Le sujet oppose ceux qui dénoncent la ligne éditoriale de la chaîne à ceux qui y voient une atteinte à la liberté de la presse.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant dénonce habituellement la concentration des médias entre les mains de grands groupes privés et réclame leur expropriation ou leur contrôle démocratique.",
+              "src": ""
+            },
+            "gr": {
+              "type": "lecture",
+              "texte": "Le courant critique habituellement la ligne éditoriale de CNews et la concentration des médias du groupe Bolloré, et plaide pour des règles anticoncentration plus strictes.",
+              "src": ""
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement le renforcement du pluralisme et des pouvoirs de l'Arcom, plutôt que la fermeture d'une chaîne par décision politique.",
+              "src": ""
+            },
+            "eco": {
+              "type": "declare",
+              "texte": "Benjamin Lucas (Écologistes) a demandé fin octobre, avec une collègue, le retrait des accréditations à l'Assemblée des médias du groupe Bolloré, dont CNews.",
+              "src": "LCP, 3 novembre 2026"
+            },
+            "ren": {
+              "type": "lecture",
+              "texte": "Le courant met habituellement en avant le rôle de l'Arcom pour faire respecter les obligations de pluralisme et refuse que le Parlement décide du sort d'une chaîne.",
+              "src": ""
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement l'indépendance des rédactions et une loi contre la concentration des médias, tout en écartant une fermeture décidée par le politique.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant rappelle habituellement que la régulation des médias relève de l'Arcom et se montre réservé sur une fermeture réclamée par pétition.",
+              "src": ""
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Alexandre Portier (LR), président de la commission des Affaires culturelles, estime que ses collègues attendent « clairement la construction d'un débat sur la liberté d'expression ».",
+              "src": "LCP, 3 novembre 2026"
+            },
+            "dn": {
+              "type": "lecture",
+              "texte": "Le courant dénonce habituellement les appels à fermer CNews comme une atteinte à la liberté d'expression et au pluralisme.",
+              "src": ""
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant, proche des positions défendues sur l'antenne de CNews, dénonce habituellement une tentative de censure d'un média qui ne pense pas comme la gauche.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Orange (AFP) – Une pétition appelant à fermer CNews dépasse le million de signatures sur le site de l'Assemblée nationale",
+              "u": "https://actu.orange.fr/politique/une-petition-appelant-a-fermer-cnews-depasse-le-million-de-signatures-sur-le-site-de-l-assemblee-nationale-CNT000002tCtED.html"
+            },
+            {
+              "t": "LCP – Pétition contre CNews : vers l'organisation d'un débat plus large sur la liberté d'expression et la régulation dans l'hémicycle ?",
+              "u": "https://lcp.fr/actualites/petition-contre-cnews-vers-l-organisation-d-un-debat-plus-large-sur-la-liberte-d"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-09-primaire-attal-philippe-roussel",
+          "rubrique": "Présidentielle 2027",
+          "titre": "Primaire : à Saint-Raphaël, Attal la juge « inéluctable » face à Édouard Philippe ; à gauche, Roussel ira « jusqu'au bout »",
+          "chapo": "Aux Rencontres de l'Avenir, le candidat Renaissance a répondu au patron d'Horizons, qui refuse toujours une primaire. Le communiste Fabien Roussel maintient sa candidature malgré le ralliement de neuf députés de son groupe à Jean-Luc Mélenchon.",
+          "faits": "Samedi 7 novembre à Saint-Raphaël (Var), Édouard Philippe a répété son opposition à une primaire de la droite et du centre, source selon lui « de la division », et appelé les candidats les moins bien placés à se retirer d'ici février. Le lendemain, au même endroit, Gabriel Attal a répliqué que la division existe déjà, qu'il n'y a « aucun sens » à se retirer pour un candidat « donné largement battu au deuxième tour », et a jugé la primaire « inéluctable ». Bruno Retailleau (LR) s'y est rallié la semaine dernière. À gauche, Fabien Roussel (PCF), crédité de 2 à 3 % des intentions de vote, a assuré sur ici et franceinfo qu'il irait « jusqu'au bout », après l'annonce par neuf députés du groupe communiste et ultramarin, dont trois membres du PCF, de leur soutien à Jean-Luc Mélenchon.",
+          "enjeu": "Au centre et à droite, le refus d'Édouard Philippe empêche pour l'instant toute désignation commune, alors que les sondages placent le RN et LFI en tête. À gauche, la candidature communiste est fragilisée au moment où LFI lance sa campagne.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant présente habituellement ses propres candidats, indépendants des partis de gouvernement, et rejette les primaires comme les alliances électorales.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Fabien Roussel (PCF) maintient sa candidature, « regrette » les défections et estime qu'avec Jean-Luc Mélenchon seul face à l'extrême droite, « la gauche ne gagnera jamais ».",
+              "src": "AFP, 8 novembre 2026"
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant plaide habituellement pour une candidature commune de la gauche non mélenchoniste, désignée par un accord ou une primaire.",
+              "src": ""
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement une candidature unique de la gauche et des écologistes, si besoin départagée par une primaire.",
+              "src": ""
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "Gabriel Attal (Renaissance) juge la primaire « inéluctable », estime qu'elle donnerait « une dynamique » et refuse de se retirer au profit d'un candidat qu'il dit « largement battu au deuxième tour ».",
+              "src": "AFP, 8 novembre 2026"
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant appelle habituellement à l'union du bloc central derrière un candidat unique, en privilégiant l'accord entre responsables.",
+              "src": ""
+            },
+            "hor": {
+              "type": "declare",
+              "texte": "Édouard Philippe (Horizons) refuse une primaire qui apporterait selon lui « de la division » et demande aux candidats les moins bien placés de se retirer d'ici février.",
+              "src": "AFP, 7 novembre 2026"
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Bruno Retailleau (LR), longtemps réticent, s'est rallié au principe d'une primaire de la droite et du centre, a rappelé Gabriel Attal à Saint-Raphaël.",
+              "src": "AFP, 8 novembre 2026"
+            },
+            "dn": {
+              "type": "lecture",
+              "texte": "Le courant, qui se présente en tête des sondages, voit habituellement dans ces débats de primaire la preuve de la division de ses adversaires.",
+              "src": ""
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant appelle habituellement à une union des droites incluant le RN et Reconquête, plutôt qu'à une primaire limitée à la droite et au centre.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Boursorama (AFP) – Primaire : Attal réfute l'argument d'Édouard Philippe sur la « division » de la droite et du centre",
+              "u": "https://www.boursorama.com/actualite-economique/actualites/primaire-attal-refute-l-argument-d-edouard-philippe-sur-la-division-de-la-droite-et-du-centre-9b9c8a47b135a480c0545c2275031a27"
+            },
+            {
+              "t": "Orange (AFP) – Présidentielle : malgré les défections, Roussel ira « jusqu'au bout »",
+              "u": "https://actu.orange.fr/politique/presidentielle-malgre-les-defections-roussel-ira-quot-jusqu-au-bout-quot-CNT000002tCsBj.html"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-09-narcotrafic-represailles-auch-evry",
+          "rubrique": "Sécurité",
+          "titre": "Maison d'un policier incendiée dans le Gers, députée blessée par un tir de mortier en Essonne : la piste des représailles liées au trafic de drogue",
+          "chapo": "Deux faits survenus samedi relancent l'inquiétude sur la violence des réseaux. Laurent Nuñez dénonce un acte « criminel intolérable » visant un policier à Auch.",
+          "faits": "Samedi 7 novembre au petit matin, la maison d'un policier a été détruite par un incendie volontaire à Auch (Gers), malgré l'intervention de 19 pompiers ; elle était vide et personne n'a été blessé. Le ministre de l'Intérieur Laurent Nuñez affirme que le policier a été visé en raison de sa profession ; le syndicat Unité zone sud évoque des représailles après une opération antidrogue. Le même jour, à Évry-Courcouronnes (Essonne), la députée LFI Farida Amrani a été légèrement brûlée à la cuisse par un tir de mortier d'artifice dans un salon de coiffure ; le parquet d'Évry a ouvert une enquête, les enquêteurs privilégiant la piste d'un point de deal voisin. Selon le ministère, 1 570 policiers et gendarmes ont été blessés en octobre.",
+          "enjeu": "Ces faits nourrissent le débat sur la protection des forces de l'ordre et des élus, à dix jours de l'examen au Sénat de la présomption de légitime défense pour les policiers. Ils posent aussi la question des moyens de la lutte contre le narcotrafic dans les villes moyennes.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant attribue habituellement l'essor des trafics à la misère sociale et critique une réponse avant tout policière.",
+              "src": ""
+            },
+            "gr": {
+              "type": "lecture",
+              "texte": "Le courant condamne habituellement les violences contre les élus et plaide pour des moyens accrus de police judiciaire et de prévention, tout en critiquant la politique du chiffre.",
+              "src": ""
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant réclame habituellement plus d'enquêteurs et de magistrats contre le narcotrafic, ainsi qu'une politique de prévention dans les quartiers.",
+              "src": ""
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement une approche de santé publique sur les drogues et une police de proximité, en plus de la lutte contre les réseaux.",
+              "src": ""
+            },
+            "ren": {
+              "type": "lecture",
+              "texte": "Le courant met habituellement en avant la loi contre le narcotrafic et le parquet national spécialisé, et apporte son soutien aux forces de l'ordre.",
+              "src": ""
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant appelle habituellement à protéger les forces de l'ordre et les élus, tout en renforçant les moyens de la justice.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant prône habituellement une réponse pénale ferme et des moyens supplémentaires pour la police et la justice.",
+              "src": ""
+            },
+            "d": {
+              "type": "lecture",
+              "texte": "Le courant réclame habituellement des peines plus sévères pour les violences contre les policiers et une guerre totale contre les trafics.",
+              "src": ""
+            },
+            "dn": {
+              "type": "lecture",
+              "texte": "Le courant réclame habituellement la présomption de légitime défense pour les policiers et des peines planchers pour les agresseurs de forces de l'ordre.",
+              "src": ""
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant lie habituellement le trafic de drogue à l'immigration et réclame des mesures d'exception contre les réseaux.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Orange (6Medias) – Gers : le domicile d'un policier incendié « en raison de sa profession », dénonce le ministre de l'Intérieur",
+              "u": "https://actu.orange.fr/societe/fait-divers/gers-le-domicile-d-un-policier-incendie-en-raison-de-sa-profession-denonce-le-ministre-de-l-interieur-6medias-CNT000002tCj0r.html"
+            },
+            {
+              "t": "Orange (6Medias) – La députée LFI Farida Amrani légèrement blessée par un tir de mortier chez son coiffeur",
+              "u": "https://actu.orange.fr/societe/fait-divers/j-ai-croise-ses-yeux-rouges-injectes-de-sang-la-deputee-lfi-farida-amrani-legerement-blessee-par-un-tir-de-mortier-chez-son-coiffeur-6medias-CNT000002tCpD6.html"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-09-ukraine-abou-dhabi-europeens-melenchon",
+          "rubrique": "International",
+          "titre": "Ukraine : la France et les Européens seront à Abou Dhabi mardi, Barrot accuse Mélenchon de s'être fait « porte-parole du Kremlin »",
+          "chapo": "Jean-Noël Barrot a annoncé dimanche que les Européens participeront aux pourparlers entre Russes, Ukrainiens et Américains. Le même jour, il a vivement critiqué les propos de Jean-Luc Mélenchon sur une consultation des habitants du Donbass.",
+          "faits": "Les discussions entre Russes et Ukrainiens, sous médiation américaine, se tiennent les 10 et 11 novembre à Abou Dhabi. « Les Européens seront bien représentés et la France sera à Abu Dhabi », a déclaré dimanche le ministre des Affaires étrangères au Grand Jury RTL-Public Sénat, sans préciser qui représentera la France ; Paris pousse pour le format E3 (France, Allemagne, Royaume-Uni) aux côtés de Kaja Kallas. Samedi au Bourget, Jean-Luc Mélenchon avait refusé toute paix avec des concessions territoriales « sans qu'on demande aux populations concernées », évoquant le Donbass. Kiev refuse officiellement toute concession sur ce territoire.",
+          "enjeu": "La présence européenne à la table doit permettre de peser sur un éventuel accord jusqu'ici négocié surtout entre Washington et Moscou. En France, la question ukrainienne s'invite dans la campagne présidentielle et divise la gauche.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant dénonce habituellement à la fois l'invasion russe et la logique des blocs militaires, et refuse l'augmentation des budgets d'armement.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Jean-Luc Mélenchon (LFI) répond que Jean-Noël Barrot lui attribue sa propre politique de cession du Donbass ; Manuel Bompard (LFI) rappelle que le plan européen soutenu par le ministre prévoit des concessions territoriales.",
+              "src": "AFP, 8 novembre 2026"
+            },
+            "soc": {
+              "type": "declare",
+              "texte": "Raphaël Glucksmann (Place publique) accuse Jean-Luc Mélenchon de réciter des éléments de langage fournis par le Kremlin et rappelle que la Russie a chassé les Ukrainiens des zones du Donbass qu'elle occupe.",
+              "src": "BFMTV, 8 novembre 2026"
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement l'Ukraine et une paix qui respecte son intégrité territoriale, avec une Europe pleinement associée aux négociations.",
+              "src": ""
+            },
+            "ren": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement une paix « juste et durable » négociée avec les Ukrainiens et les Européens, assortie de garanties de sécurité pour Kiev.",
+              "src": ""
+            },
+            "modem": {
+              "type": "declare",
+              "texte": "Jean-Noël Barrot (MoDem), ministre des Affaires étrangères, estime que Jean-Luc Mélenchon « s'est tout simplement fait le porte-parole du Kremlin », ce qui le « disqualifie définitivement » selon lui.",
+              "src": "RTL-Public Sénat, 8 novembre 2026"
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement l'aide militaire à l'Ukraine et le renforcement de la défense européenne, et refuse une paix imposée à Kiev.",
+              "src": ""
+            },
+            "d": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement l'Ukraine tout en appelant l'Europe à défendre ses propres intérêts de sécurité face à la Russie comme face aux États-Unis.",
+              "src": ""
+            },
+            "dn": {
+              "type": "lecture",
+              "texte": "Le courant appelle habituellement à un cessez-le-feu négocié, se dit opposé à l'envoi de troupes et réservé sur l'adhésion de l'Ukraine à l'Union européenne et à l'Otan.",
+              "src": ""
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant plaide habituellement pour une paix négociée rapidement, quitte à reconnaître des réalités territoriales, et refuse toute implication militaire française.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "RTBF – Russes, Ukrainiens et Américains à Abou Dhabi : qui accompagnera la France aux pourparlers de paix ?",
+              "u": "https://www.rtbf.be/article/russes-ukrainiens-et-americains-a-abou-dhabi-qui-representera-l-europe-aux-cotes-de-la-france-a-la-table-des-negociations-de-paix-11812604"
+            },
+            {
+              "t": "Yahoo Actualités (BFMTV) – Guerre en Ukraine : Jean-Noël Barrot accuse Jean-Luc Mélenchon de s'être « fait porte-parole du Kremlin »",
+              "u": "https://fr.news.yahoo.com/guerre-ukraine-jean-noel-barrot-145133572.html"
+            },
+            {
+              "t": "Arab News (AFP) – France's far-left leader attacked for remarks on Ukraine",
+              "u": "https://www.arabnews.com/world/frances-far-left-leader-attacked-for-remarks-on-ukraine-3010591"
+            }
+          ]
+        }
+      ],
+      "breves": [
+        {
+          "titre": "Pologne : six morts dans une fusillade à Cracovie, une enquête pour acte terroriste",
+          "texte": "Un tireur décrit comme « fasciné par l'extrême droite » a tué six personnes et en a blessé quinze samedi à Cracovie ; deux victimes sont étrangères, un Britannique et un Autrichien. Le parquet polonais a ouvert dimanche une enquête pour terrorisme ; le tireur est aussi soupçonné d'avoir tué ses parents et sa sœur.",
+          "src": {
+            "t": "Orange – La Pologne en deuil, enquête ouverte pour « acte terroriste »",
+            "u": "https://actu.orange.fr/monde/la-pologne-en-deuil-enquete-ouverte-pour-quot-acte-terroriste-quot-CNT000002tCiO6.html"
+          }
+        },
+        {
+          "titre": "Toulon : l'ancien maire Hubert Falco jugé le 18 décembre",
+          "texte": "L'ex-maire de Toulon sera jugé pour prise illégale d'intérêts et détournement de fonds publics, soupçonné d'avoir fait embaucher en 2016 son beau-fils à la métropole Toulon Provence Méditerranée. Il a déjà été condamné en 2023 à cinq ans d'inéligibilité dans une autre affaire.",
+          "src": {
+            "t": "Orange (AFP) – L'ex-maire de Toulon Hubert Falco jugé en décembre pour détournement de fonds publics",
+            "u": "https://actu.orange.fr/france/l-ex-maire-de-toulon-hubert-falco-juge-en-decembre-pour-detournement-de-fonds-publics-CNT000002tCtDU.html"
+          }
+        },
+        {
+          "titre": "Éducation : grève et manifestations des jeunes et des enseignants mardi",
+          "texte": "Une intersyndicale de quinze organisations de jeunesse et de l'éducation, dont le Snes-FSU, la FERC-CGT, SUD éducation, l'Unef et la Fage, appelle à une journée nationale de grève le 10 novembre. Elle juge les mesures du gouvernement « insuffisantes » et dénonce l'exclusion de la fonction publique de la conférence sociale.",
+          "src": {
+            "t": "L'Échiquier social – L'agenda politique : les temps forts de la semaine du 9 au 15 novembre",
+            "u": "https://www.lechiquiersocial.com/lagenda-politique-les-temps-forts-de-la-semaine-du-9-au-15-novembre/"
+          }
+        }
+      ],
+      "agenda": [
+        {
+          "d": "Lun. 9 nov.",
+          "t": "Conférence sociale à Matignon sur les salaires et le pouvoir d'achat, puis réunion de l'intersyndicale ; début de l'examen du budget de la Sécurité sociale en séance au Sénat ; ouverture de la COP31 à Antalya (jusqu'au 20 novembre)"
+        },
+        {
+          "d": "Mar. 10 nov.",
+          "t": "Grève dans l'éducation et les universités ; vote de la commission des Affaires culturelles sur la pétition contre CNews (13 h) ; pourparlers sur l'Ukraine à Abou Dhabi (jusqu'au 11 novembre)"
+        },
+        {
+          "d": "Mer. 11 nov.",
+          "t": "Commémorations de l'Armistice de 1918"
+        },
+        {
+          "d": "Mer. 18 nov.",
+          "t": "Vote solennel du Sénat sur le budget de la Sécurité sociale ; sommet de l'Apec à Shenzhen (18-19 novembre)"
+        },
+        {
+          "d": "Jeu. 19 nov.",
+          "t": "Le Sénat examine la présomption de légitime défense pour les forces de l'ordre"
+        },
+        {
+          "d": "Ven. 20 nov.",
+          "t": "Début de l'examen du projet de loi de finances 2027 en séance au Sénat"
+        }
+      ]
+    },
     {
       "date": "2026-11-08",
       "label": "Dimanche 8 novembre 2026",
@@ -2853,488 +3337,6 @@
         {
           "d": "Mar. 17 nov.",
           "t": "Date limite de la première lecture du budget 2027 à l'Assemblée"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-02",
-      "label": "Lundi 2 novembre 2026",
-      "maj": "Mise à jour à 6 h 31",
-      "intro": "Les élèves retrouvent leurs classes ce lundi au lendemain d'un acte III en recul, conclu par 779 interpellations, alors que lycéens et étudiants appellent à bloquer mardi et jeudi, jour de grève interprofessionnelle. Près de Marseille, un sapeur-pompier a été très grièvement blessé par balle en pleine intervention. À l'Assemblée, les députés bouclent la partie recettes du budget avant un vote solennel mardi, et Édouard Philippe a fermé la porte à la primaire proposée par Gabriel Attal. À l'étranger, les Américains votent mardi pour les élections de mi-mandat.",
-      "stories": [
-        {
-          "id": "2026-11-02-rentree-sous-tension",
-          "rubrique": "Social",
-          "titre": "Rentrée sous tension : 779 interpellations au bilan définitif de l'acte III, blocages annoncés mardi et jeudi avant la grève du 5 novembre",
-          "chapo": "Les élèves reprennent les cours ce lundi après les vacances de la Toussaint, au lendemain d'une troisième journée de mobilisation contre la vie chère moins suivie que les précédentes. Les organisations de jeunesse et les syndicats préparent une semaine chargée.",
-          "faits": [
-            "Le ministère de l'Intérieur a publié dimanche le bilan définitif de la journée du 31 octobre : 779 interpellations en France, contre 2 628 et 1 436 lors des deux journées précédentes, 515 départs de feu et 36 commerces dégradés, dont trois pillés.",
-            "Selon le ministère, 320 000 personnes ont manifesté samedi, soit une baisse de 22 % par rapport au 24 octobre et de 24 % par rapport au 17 octobre ; l'intersyndicale de la jeunesse revendique près de 500 000 participants.",
-            "L'Union étudiante et l'Union syndicale lycéenne appellent à bloquer lycées et universités mardi 3 et jeudi 5 novembre, et l'intersyndicale appelle à une grève interprofessionnelle jeudi.",
-            "À Paris, le cortège de samedi avait dû suivre le parcours imposé par la préfecture de police, après l'annulation par le Conseil d'État de la décision du tribunal administratif qui autorisait le trajet Bastille-Nation."
-          ],
-          "enjeu": "Le recul de la participation officielle conforte la stratégie de fermeté du gouvernement, mais les organisateurs comptent sur la rentrée et la grève de jeudi pour relancer le mouvement. La doctrine de maintien de l'ordre reste au cœur du débat, au moment où la commission d'enquête sur les violences du 17 octobre poursuit ses auditions.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement les blocages lycéens et étudiants, appelle à la convergence avec les salariés et plaide pour une grève reconductible au-delà de la journée du 5 novembre.",
-              "src": ""
-            },
-            "gr": {
-              "type": "declare",
-              "texte": "Jean-Luc Mélenchon (LFI), présent dans le cortège parisien samedi, a salué une foule « aussi disciplinée » que la semaine précédente et averti Emmanuel Macron : « Il devra céder ou partir ».",
-              "src": "BFMTV, 31 octobre 2026"
-            },
-            "soc": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement les revendications salariales portées par les syndicats, défend le droit de manifester et condamne les violences, contre les forces de l'ordre comme contre les manifestants.",
-              "src": ""
-            },
-            "eco": {
-              "type": "declare",
-              "texte": "Marine Tondelier (Les Écologistes) « condamne les violences des émeutiers contre les policiers », tout en estimant qu'il existe « un problème sur la doctrine du maintien de l'ordre du ministère de l'Intérieur » et en interrogeant les effets du gaz lacrymogène.",
-              "src": "BFMTV, 1er novembre 2026"
-            },
-            "ren": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement le gouvernement dans le maintien de l'ordre, met en avant les mesures déjà annoncées pour les lycéens et appelle au retour en classe et au dialogue avec les syndicats.",
-              "src": ""
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement à la fois le droit de manifester et l'ordre public, et plaide pour une sortie de crise négociée avec les partenaires sociaux et les organisations de jeunesse.",
-              "src": ""
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant met habituellement l'accent sur l'autorité de l'État et la continuité du service public d'éducation, et met en garde contre des concessions coûteuses pour les finances publiques.",
-              "src": ""
-            },
-            "d": {
-              "type": "lecture",
-              "texte": "Le courant réclame habituellement la levée des blocages d'établissements, des sanctions contre les casseurs et une fermeté accrue face aux violences visant les forces de l'ordre.",
-              "src": ""
-            },
-            "dn": {
-              "type": "lecture",
-              "texte": "Le courant reprend habituellement à son compte la colère contre la vie chère, tout en dénonçant les violences de l'ultragauche et en demandant des sanctions sévères contre leurs auteurs.",
-              "src": ""
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant dénonce habituellement des blocages qu'il attribue à l'extrême gauche, réclame la fermeté contre les casseurs et l'interdiction des groupes qu'il juge violents.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "LCP – Manifestation du 31 octobre : le Conseil d'État annule la décision du tribunal administratif",
-              "u": "https://lcp.fr/actualites/manifestation-du-31-octobre-le-conseil-d-etat-annule-la-decision-du-tribunal"
-            },
-            {
-              "t": "L'Express (via Orange) – Les trois infos à retenir ce dimanche 1er novembre",
-              "u": "https://actu.orange.fr/france/les-trois-infos-a-retenir-ce-dimanche-1er-novembre-l-express-via-6medias-CNT000002tuXVR.html"
-            },
-            {
-              "t": "BFMTV (via Shango) – Colère sociale : Marine Tondelier condamne les violences des émeutiers contre les policiers",
-              "u": "https://www.shango.media/bfm-tv-colere-sociale-marine-tondelier-condamne-les-violences-des-emeutiers-contre-les-policiers-12008424"
-            }
-          ],
-          "image": {
-            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2024-12/9356947651_929369f46d_k.jpg?itok=75gMeP79",
-            "credit": "LCP",
-            "alt": "Illustration de l'article de LCP"
-          }
-        },
-        {
-          "id": "2026-11-02-pompier-pennes-mirabeau",
-          "rubrique": "Sécurité",
-          "titre": "Près de Marseille, un sapeur-pompier très grièvement blessé par balle en intervention, le tireur présumé en garde à vue",
-          "chapo": "Appelés dimanche pour un feu de véhicules dans la zone commerciale de Plan-de-Campagne, aux Pennes-Mirabeau, les pompiers ont été visés par des tirs. Le sous-officier qui commandait l'intervention a été transporté à l'hôpital Nord de Marseille.",
-          "faits": [
-            "Dimanche vers 16 heures, les pompiers intervenaient sur un incendie de poids lourd et de véhicules légers à Plan-de-Campagne lorsqu'ils ont été « pris à partie par arme à feu », selon le préfet des Bouches-du-Rhône, Jacques Witkowski.",
-            "Le commandant de l'intervention, un adjudant-chef professionnel du service départemental d'incendie et de secours, a été « très grièvement blessé » ; un second pompier a été visé et un véhicule touché.",
-            "L'auteur présumé, armé d'un fusil de type chasse et soupçonné d'avoir lui-même mis le feu aux véhicules, s'est retranché dans une caravane avant d'être interpellé ; il est en garde à vue pour tentative d'homicide sur personne chargée d'une mission de service public, selon le procureur d'Aix-en-Provence, Jean-Luc Blachon.",
-            "Selon une source proche de l'enquête citée par l'AFP, l'homme présente un profil « psy » et était déjà connu de la justice pour des violences, notamment avec arme ; il devait comparaître le 3 décembre.",
-            "Le ministère de l'Intérieur recense près de 1 500 agressions verbales ou physiques contre des sapeurs-pompiers chaque année depuis 2021."
-          ],
-          "enjeu": "L'agression relance la question de la protection des secours en intervention et de la réponse pénale aux violences contre les pompiers. Le profil du suspect, déjà connu de la justice et décrit comme fragile psychiquement, pose aussi la question du suivi des personnes dangereuses.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant s'exprime rarement sur ce type de fait divers ; il défend habituellement les moyens des services publics de secours et critique les réponses uniquement répressives.",
-              "src": ""
-            },
-            "gr": {
-              "type": "lecture",
-              "texte": "Le courant condamne habituellement les agressions contre les agents des services publics et lie leur sécurité aux moyens humains des SDIS et de la psychiatrie publique.",
-              "src": ""
-            },
-            "soc": {
-              "type": "lecture",
-              "texte": "Le courant condamne habituellement ces violences, soutient les sapeurs-pompiers et plaide pour renforcer les effectifs des secours et l'offre de soins psychiatriques.",
-              "src": ""
-            },
-            "eco": {
-              "type": "lecture",
-              "texte": "Le courant condamne habituellement les violences contre les secours et insiste sur la prévention et la prise en charge psychiatrique des personnes à risque.",
-              "src": ""
-            },
-            "ren": {
-              "type": "lecture",
-              "texte": "Le courant condamne habituellement les agressions contre les pompiers et défend l'aggravation des peines déjà votée pour les violences contre les personnes dépositaires d'une mission de service public.",
-              "src": ""
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant condamne habituellement ces violences et appelle à mieux protéger les sapeurs-pompiers, en majorité volontaires, ainsi qu'à améliorer le suivi des auteurs déjà connus de la justice.",
-              "src": ""
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant insiste habituellement sur l'autorité de l'État, la fermeté pénale à l'égard des agresseurs de secouristes et le soutien aux forces de sécurité civile.",
-              "src": ""
-            },
-            "d": {
-              "type": "declare",
-              "texte": "Romain Amaro (LR), maire des Pennes-Mirabeau, s'est rendu sur place dimanche et a salué la rapidité de l'interpellation du tireur présumé par les policiers.",
-              "src": "AFP, 1er novembre 2026"
-            },
-            "dn": {
-              "type": "lecture",
-              "texte": "Le courant réclame habituellement des peines plancher pour les agressions contre les pompiers et les forces de l'ordre, et dénonce un ensauvagement de la société.",
-              "src": ""
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant dénonce habituellement une montée de la violence qu'il impute au laxisme pénal et réclame des sanctions maximales contre les agresseurs de secouristes.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "Europe 1 – Marseille : un pompier touché par balle en pleine intervention, la police face à un assaillant retranché",
-              "u": "https://www.europe1.fr/police-justice/marseille-un-pompier-touche-par-balle-en-pleine-intervention-la-police-face-a-un-assaillant-retranche-1200525"
-            },
-            {
-              "t": "Boursorama (AFP) – Un pompier grièvement blessé par balle près de Marseille, un homme interpellé",
-              "u": "https://www.boursorama.com/actualite-economique/actualites/un-pompier-grievement-blesse-par-balle-pres-de-marseille-un-homme-interpelle-6b5f183b72c1f14d3b95be439f599e19"
-            },
-            {
-              "t": "L'essentiel (AFP) – Un sapeur-pompier visé par balle aux Pennes-Mirabeau : le tireur remis à la justice",
-              "u": "https://www.lessentiel.lu/fr/story/pres-de-marseille-un-pompier-grievement-blesse-par-balle-lors-d-une-intervention-103660309"
-            }
-          ],
-          "image": {
-            "u": "https://www.boursorama.com/static/i/content/images/0/0/5/005ca094b4a879269d125afafc0e9e93-1200x800.jpg",
-            "credit": "Boursorama (AFP)",
-            "alt": "Des voitures de police bloquent l'accès à une zone commerciale où un sapeur-pompier a été « très grièvement blessé par balle » aux Pennes-Mirabeau, près de Marseille, le 1er novembre 2026 ( AFP / Justine Meddah )"
-          }
-        },
-        {
-          "id": "2026-11-02-budget-vote-recettes",
-          "rubrique": "Budget",
-          "titre": "Budget 2027 : les députés achèvent l'examen des recettes, vote solennel mardi sur fond de rejet probable",
-          "chapo": "Après trois semaines de débats interrompus par le budget de la Sécurité sociale, l'Assemblée doit boucler ce lundi la première partie du projet de loi de finances. Le vote solennel est inscrit mardi après-midi, après les questions au gouvernement.",
-          "faits": [
-            "L'examen de la partie recettes, entamé le 13 octobre, a repris le 27 octobre et doit s'achever lundi 2 novembre ; le vote solennel est inscrit à l'ordre du jour du mardi 3 novembre après-midi, selon l'Assemblée nationale.",
-            "Le vote initialement prévu le 20 octobre avait été reporté, les députés n'ayant examiné que 15 des 58 articles ; le budget de la Sécurité sociale a, lui, été rejeté le 23 octobre.",
-            "Au fil des débats, les députés ont notamment supprimé le rabot sur l'abattement fiscal des retraités et la contribution de 2,5 milliards d'euros demandée aux collectivités, voté une taxation des multinationales sur leurs bénéfices réalisés en France et durci l'exit tax.",
-            "Si la partie recettes est rejetée, le texte part au Sénat dans sa version gouvernementale et les amendements adoptés disparaissent ; en novembre 2025, la première partie du budget 2026 avait été rejetée par 404 voix contre 1.",
-            "Le délai constitutionnel de 70 jours expire le 17 décembre ; au-delà, le gouvernement peut mettre le budget en vigueur par ordonnance."
-          ],
-          "enjeu": "Faute de majorité, le gouvernement de Sébastien Lecornu risque de voir sa copie rejetée dès la première partie, ce qui priverait les députés d'examiner les dépenses. Le scénario d'une loi spéciale ou d'ordonnances revient, dans un contexte de croissance négative au troisième trimestre et de forte contestation sociale.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant rejette habituellement un budget qu'il juge favorable au patronat et réclame la taxation des grandes fortunes et des profits pour financer salaires et services publics.",
-              "src": ""
-            },
-            "gr": {
-              "type": "lecture",
-              "texte": "Le courant vote habituellement contre les budgets du gouvernement, défend la taxe Zucman et la hausse de l'impôt sur les grandes entreprises, et dénonce les économies sur les services publics.",
-              "src": ""
-            },
-            "soc": {
-              "type": "lecture",
-              "texte": "Le courant conditionne habituellement son vote à des mesures de justice fiscale, comme la taxation des hauts patrimoines, et à l'abandon des économies touchant les retraités et les collectivités.",
-              "src": ""
-            },
-            "eco": {
-              "type": "lecture",
-              "texte": "Le courant dénonce habituellement un budget insuffisant sur la transition écologique et défend une fiscalité accrue sur les plus riches et les activités polluantes.",
-              "src": ""
-            },
-            "ren": {
-              "type": "declare",
-              "texte": "Roland Lescure (Renaissance), ministre de l'Économie, a jugé que l'économie française est « à l'arrêt » et qu'elle « ira dans le mur » sans « redressement budgétaire ».",
-              "src": "LCP, 30 octobre 2026"
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant met habituellement en avant la réduction de la dette et le sérieux budgétaire, tout en appelant à des compromis sur la justice fiscale pour obtenir une majorité.",
-              "src": ""
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement la baisse des dépenses publiques plutôt que les hausses d'impôts, et critique les amendements qui alourdissent la fiscalité des entreprises.",
-              "src": ""
-            },
-            "d": {
-              "type": "lecture",
-              "texte": "Le courant s'oppose habituellement aux hausses d'impôts adoptées en séance, réclame des économies sur le fonctionnement de l'État et les aides sociales, et défend les entreprises et les retraités.",
-              "src": ""
-            },
-            "dn": {
-              "type": "lecture",
-              "texte": "Le courant vote habituellement contre les budgets du gouvernement, défend le pouvoir d'achat des retraités et propose des économies sur l'immigration et la contribution française à l'Union européenne.",
-              "src": ""
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant dénonce habituellement le niveau des prélèvements obligatoires et réclame des coupes dans les dépenses sociales liées à l'immigration et dans les subventions publiques.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "LCP – Budget 2027 : les députés durcissent l'exit tax pour revenir à sa version originelle",
-              "u": "https://lcp.fr/actualites/budget-2027-les-deputes-durcissent-l-exit-tax-pour-revenir-a-sa-version-originelle"
-            },
-            {
-              "t": "Assemblée nationale – Examen de la première partie du projet de loi de finances pour 2027",
-              "u": "https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/examen-de-la-premiere-partie-du-projet-de-loi-de-finances-pour-2027"
-            },
-            {
-              "t": "NosParlementaires – Date du vote du budget 2027 : le 3 novembre, pas le 20 octobre",
-              "u": "https://nosparlementaires.fr/actualites/budget-2027-calendrier-assemblee-cinq-semaines"
-            },
-            {
-              "t": "LCP – « L'économie française est à l'arrêt » et « ira dans le mur » sans un « redressement budgétaire », alerte Roland Lescure",
-              "u": "https://lcp.fr/actualites/l-economie-francaise-est-a-l-arret-et-ira-dans-le-mur-sans-un-redressement-budgetaire"
-            }
-          ],
-          "image": {
-            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2026-10/Eva%20Sas.jpg?itok=nf3d7ioo",
-            "credit": "LCP",
-            "alt": "Illustration de l'article de LCP"
-          }
-        },
-        {
-          "id": "2026-11-02-philippe-primaire-polony",
-          "rubrique": "Présidentielle 2027",
-          "titre": "Édouard Philippe enterre la « primaire des démocrates » de Gabriel Attal, Natacha Polony reçoit le soutien de Jean-Pierre Chevènement",
-          "chapo": "Invité du 20 heures de TF1 dimanche, le candidat d'Horizons a rejeté l'idée d'une primaire du centre et de la droite. Le même jour, l'essayiste candidate de la « gauche républicaine » a annoncé le ralliement de l'ancien ministre.",
-          "faits": [
-            "Sur TF1, Édouard Philippe (Horizons) a déclaré ne pas croire que la primaire proposée par Gabriel Attal « aura lieu », jugeant que « tout ça n'a pas beaucoup de sens » et qu'elle serait celle de « la division » et de « la confusion ».",
-            "Il a renvoyé le départage des candidatures à plus tard : « Au mois de février, chacun prendra ses responsabilités », ajoutant que si « les Français ont envie de passer à autre chose », il en tirerait les conséquences.",
-            "Gabriel Attal (Renaissance) avait lancé mercredi l'idée d'une « grande primaire des démocrates » pour éviter un second tour entre le RN et LFI ; seul David Lisnard (Nouvelle Énergie) s'y est dit ouvertement favorable.",
-            "Invitée du Grand Jury RTL-Public Sénat-Ouest-France-M6, Natacha Polony a annoncé le soutien de Jean-Pierre Chevènement, dont elle avait rejoint l'équipe de campagne en 2002, et revendique 174 promesses de parrainage sur les 500 nécessaires."
-          ],
-          "enjeu": "Le refus d'Édouard Philippe fige la concurrence au sein du bloc central, alors que les sondages placent Marine Le Pen en tête et Jean-Luc Mélenchon en position de se qualifier pour le second tour. À gauche, la candidature de Natacha Polony ajoute une offre souverainiste qui dispute aux autres candidats l'électorat républicain et laïque.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant considère habituellement ces débats de primaire comme des arrangements internes au camp présidentiel et à la droite, et défend ses propres candidatures pour porter les luttes sociales.",
-              "src": ""
-            },
-            "gr": {
-              "type": "lecture",
-              "texte": "Le courant voit habituellement dans les projets de primaire du centre et de la droite une recomposition destinée à faire barrage à son candidat, qu'il présente comme seule alternative à l'extrême droite.",
-              "src": ""
-            },
-            "soc": {
-              "type": "lecture",
-              "texte": "Le courant reste habituellement à l'écart des primaires du bloc central et se concentre sur l'organisation de la gauche non mélenchoniste autour d'une candidature commune.",
-              "src": ""
-            },
-            "eco": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement l'union de la gauche et des écologistes et juge que les divisions du bloc central illustrent l'usure du macronisme.",
-              "src": ""
-            },
-            "ren": {
-              "type": "declare",
-              "texte": "Gabriel Attal (Renaissance) estime qu'« il est temps d'être tous responsables et d'organiser le rassemblement », et prévient que ceux qui resteront à l'écart « porteront quelque part la responsabilité de la division ».",
-              "src": "Public Sénat, 29 octobre 2026"
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant plaide habituellement pour le rassemblement du centre derrière une candidature unique afin d'éviter un second tour entre les extrêmes, sans arrêter de mode de désignation.",
-              "src": ""
-            },
-            "hor": {
-              "type": "declare",
-              "texte": "Édouard Philippe (Horizons) refuse une primaire « de la division et de la confusion » et assure : « Que ceux qui ont des choses à proposer aux Français le fassent. Ils sont tous légitimes. »",
-              "src": "TF1, 1er novembre 2026"
-            },
-            "d": {
-              "type": "declare",
-              "texte": "Laurence Garnier (LR), porte-parole de Bruno Retailleau, juge qu'une primaire n'est « clairement pas à l'ordre du jour » et parle d'une « tempête dans un verre d'eau ».",
-              "src": "Public Sénat, 29 octobre 2026"
-            },
-            "dn": {
-              "type": "lecture",
-              "texte": "Le courant présente habituellement ces querelles comme la preuve de l'éclatement du camp présidentiel et se pose en seule alternance crédible, avec Marine Le Pen en tête des sondages.",
-              "src": ""
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant prône habituellement l'union des droites et juge les tractations du centre sans intérêt pour les électeurs de droite, qu'il appelle à se rassembler sur l'immigration et la sécurité.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "LCP – Présidentielle 2027 : Édouard Philippe ne veut pas de la primaire de Gabriel Attal",
-              "u": "https://lcp.fr/actualites/presidentielle-2027-edouard-philippe-ne-veut-pas-de-la-primaire-de-gabriel-attal-444599"
-            },
-            {
-              "t": "Public Sénat – Après la proposition de primaire de Gabriel Attal, rejetée par le camp Philippe et Retailleau, le blocage perdure",
-              "u": "https://www.publicsenat.fr/actualites/politique/apres-la-proposition-de-primaire-de-gabriel-attal-rejetee-par-le-camp-philippe-et-retailleau-le-blocage-perdure"
-            },
-            {
-              "t": "Le Parisien – Présidentielle 2027 : Natacha Polony dit avoir reçu le soutien de l'ex-ministre Jean-Pierre Chevènement, et 174 parrainages de maires",
-              "u": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-natacha-polony-dit-avoir-recu-le-soutien-de-lex-ministre-jean-pierre-chevenement-et-174-parrainages-de-maires-01-11-2026-VOYQJ65WTVDRZCG3DVNXU4B2PM.php"
-            },
-            {
-              "t": "L'Express (via Orange) – Les trois infos à retenir ce dimanche 1er novembre",
-              "u": "https://actu.orange.fr/france/les-trois-infos-a-retenir-ce-dimanche-1er-novembre-l-express-via-6medias-CNT000002tuXVR.html"
-            }
-          ],
-          "image": {
-            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2026-11/Capture%20d%E2%80%99e%CC%81cran%202026-11-01%20a%CC%80%2020.56.56.png?itok=bLAsTtXB",
-            "credit": "LCP",
-            "alt": "Illustration de l'article de LCP"
-          }
-        },
-        {
-          "id": "2026-11-02-midterms-veille",
-          "rubrique": "International",
-          "titre": "États-Unis : à la veille des midterms, les démocrates favoris pour la Chambre, un scrutin sans observateurs de l'OSCE",
-          "chapo": "Les Américains votent mardi pour renouveler la Chambre des représentants, un tiers du Sénat et 36 gouverneurs. Les premiers résultats tomberont dans la nuit de mardi à mercredi, heure de Paris.",
-          "faits": [
-            "Les 435 sièges de la Chambre, où les républicains en détiennent 218 contre 214, et 35 des 100 sièges du Sénat, où ils en ont 53, sont en jeu ; les démocrates doivent gagner au moins quatre sièges dans chaque chambre pour y devenir majoritaires.",
-            "Un sondage Reuters/Ipsos réalisé du 16 au 19 octobre donne 47 % des intentions de vote aux démocrates pour la Chambre, contre 35 % aux républicains ; le Sénat s'annonce plus disputé, avec sept courses jugées très serrées par le Cook Political Report.",
-            "L'Organisation pour la sécurité et la coopération en Europe (OSCE) n'a pas été invitée à observer le scrutin, une première relevée par la presse.",
-            "Le secrétaire au Trésor, Scott Bessent, a assuré que le résultat aurait « très peu » d'effet, le président gouvernant par décrets et disposant d'un droit de veto ; les démocrates promettent, s'ils l'emportent, d'étendre les enquêtes sur l'administration Trump."
-          ],
-          "enjeu": "Un Congrès basculant côté démocrate compliquerait l'adoption des lois et du budget américains et ouvrirait des enquêtes parlementaires. Pour la France et l'Europe, l'issue pèse sur la politique commerciale de Washington, le soutien à l'Ukraine et l'avenir de l'Otan.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant dénonce habituellement l'impérialisme américain quelle que soit la majorité au Congrès et ne voit pas dans l'alternance entre démocrates et républicains de changement de fond pour les travailleurs.",
-              "src": ""
-            },
-            "gr": {
-              "type": "lecture",
-              "texte": "Le courant critique habituellement la politique de Donald Trump et défend une diplomatie française indépendante des États-Unis, avec la sortie du commandement intégré de l'Otan.",
-              "src": ""
-            },
-            "soc": {
-              "type": "lecture",
-              "texte": "Le courant s'inquiète habituellement des atteintes de l'administration Trump à l'État de droit et au processus électoral, et espère un Congrès plus favorable au multilatéralisme et à l'Ukraine.",
-              "src": ""
-            },
-            "eco": {
-              "type": "lecture",
-              "texte": "Le courant critique habituellement la politique climatique et migratoire de Donald Trump et défend l'autonomie stratégique européenne face aux États-Unis.",
-              "src": ""
-            },
-            "ren": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement une relation transatlantique solide mais une Europe plus autonome sur la défense et le commerce, quel que soit le résultat du scrutin américain.",
-              "src": ""
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant plaide habituellement pour une Europe unie et souveraine face aux États-Unis, attachée au multilatéralisme et au soutien à l'Ukraine.",
-              "src": ""
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant met habituellement en avant le réarmement européen et la nécessité de ne plus dépendre des choix politiques américains pour la sécurité du continent.",
-              "src": ""
-            },
-            "d": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement l'alliance avec les États-Unis et une Europe de la défense, tout en s'opposant aux droits de douane américains qui frappent l'agriculture et l'industrie françaises.",
-              "src": ""
-            },
-            "dn": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement une politique étrangère centrée sur la souveraineté nationale, se montre attentif à la ligne de Donald Trump sur l'immigration et critique les droits de douane qui touchent les producteurs français.",
-              "src": ""
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant affiche habituellement sa proximité avec le camp de Donald Trump sur l'immigration et les questions de société, et dénonce une couverture médiatique qu'il juge hostile aux républicains.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "L'Express (via Orange) – Midterms aux États-Unis : en quoi consistent ces élections qui promettent d'être cruciales pour Donald Trump",
-              "u": "https://actu.orange.fr/monde/midterms-aux-etats-unis-en-quoi-consistent-ces-elections-qui-promettent-d-etre-cruciales-pour-donald-trump-l-express-via-6medias-CNT000002tuW1g.html"
-            },
-            {
-              "t": "Toute l'Europe – Midterms : tout savoir sur les élections américaines du 3 novembre",
-              "u": "https://www.touteleurope.eu/l-ue-dans-le-monde/midterms-tout-savoir-sur-les-elections-americaines-du-3-novembre/"
-            }
-          ],
-          "image": {
-            "u": "https://proxymedia.woopic.com/api/v1/images/2275%2Factu%2Farticles6medias%2F604%2Feab%2F5f7ef5fd34c9d62cb694569c0b%2Ftrumpmidterms0111.jpg?format=1200x630&facedetect=1&quality=85",
-            "credit": "L'Express (via Orange)",
-            "alt": "Illustration de l'article de L'Express (via Orange)"
-          }
-        }
-      ],
-      "breves": [
-        {
-          "titre": "Affaire de l'A10 : les parents d'Inass devant les assises",
-          "texte": "Le procès des parents d'Inass, fillette de 4 ans retrouvée morte en 1987 au bord de l'autoroute A10, s'ouvre ce lundi devant la cour d'assises du Loir-et-Cher, près de quarante ans après les faits.",
-          "src": {
-            "t": "Libération (via Titres Presse) – Édouard Philippe dit (encore) non à une primaire de la droite et du centre",
-            "u": "https://www.titrespresse.com/27410602603/tf1-edouard-philippe"
-          }
-        },
-        {
-          "titre": "Pétition contre CNews : plus de 300 000 signatures",
-          "texte": "La pétition déposée sur le site de l'Assemblée nationale pour demander la fermeture de la chaîne du groupe Bolloré a dépassé les 300 000 signatures ; à partir de 500 000, la conférence des présidents peut décider d'un débat en séance.",
-          "src": {
-            "t": "LCP – « Supprimer CNews » : une pétition demandant la « fermeture » de la chaîne dépasse les 300 000 signatures",
-            "u": "https://lcp.fr/actualites/supprimer-cnews-une-petition-demandant-la-fermeture-de-la-chaine-du-groupe-bollore"
-          }
-        },
-        {
-          "titre": "Cédric Villani regrette la « naïveté » des mathématiciens face à l'IA",
-          "texte": "Le mathématicien et ancien député estime que sa discipline a été « naïve » sur les usages de l'intelligence artificielle, dans un entretien à Public Sénat.",
-          "src": {
-            "t": "Public Sénat – IA : les mathématiciens ont été « naïfs » regrette aujourd'hui Cédric Villani",
-            "u": "https://www.publicsenat.fr/actualites/politique/ia-les-mathematiciens-ont-ete-naifs-regrette-aujourdhui-cedric-villani"
-          }
-        }
-      ],
-      "agenda": [
-        {
-          "d": "Lun. 2 nov.",
-          "t": "Rentrée scolaire après la Toussaint ; fin de l'examen de la partie recettes du budget à l'Assemblée ; ouverture du procès de l'affaire de l'A10 à Blois"
-        },
-        {
-          "d": "Mar. 3 nov.",
-          "t": "Vote solennel de l'Assemblée sur la partie recettes du budget 2027 ; audition de Laurent Nuñez par la commission d'enquête sur le 17 octobre ; blocages de lycées et d'universités ; élections de mi-mandat aux États-Unis"
-        },
-        {
-          "d": "Mer. 4 nov.",
-          "t": "Premiers résultats des midterms américains au matin, heure de Paris ; Israël : remise des résultats officiels des législatives au président Isaac Herzog"
-        },
-        {
-          "d": "Jeu. 5 nov.",
-          "t": "Grève interprofessionnelle et manifestations, rejointes par les organisations de jeunesse ; nouveaux blocages de lycées et d'universités"
-        },
-        {
-          "d": "Ven. 6 nov.",
-          "t": "Trajet inaugural du TGV M entre Paris et Marseille"
         }
       ]
     }
