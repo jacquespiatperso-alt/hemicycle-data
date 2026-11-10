@@ -93,7 +93,12 @@
               "t": "franceinfo – Revalorisation du Smic : Fabien Roussel souhaite « l'augmentation généralisée des salaires »",
               "u": "https://franceinfo.fr/replay-magazine/franceinfo/avant-le-20h/revalorisation-du-smic-fabien-roussel-souhaite-l-augmentation-generalisee-des-salaires_8273774.html"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.publicsenat.fr/app/uploads/2026/11/SIPA_01296400_000002-1200x630.jpg",
+            "credit": "Public Sénat",
+            "alt": "Illustration de l'article de Public Sénat"
+          }
         },
         {
           "id": "2026-11-10-greve-education-universites",
@@ -172,7 +177,12 @@
               "t": "Public Sénat – Mouvement lycéen : des cours de rattrapage possibles pendant les vacances, annonce Édouard Geffray",
               "u": "https://www.publicsenat.fr/actualites/politique/mouvement-lyceen-des-cours-de-rattrapage-possibles-pendant-les-vacances-en-fevrier-ou-a-paques-annonce-edouard-geffray"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://france3-regions.franceinfo.fr/image/jPodV01ainmo3ECKGTd75CMy1D8/930x620/regions/2026/11/05/6aec93832562a992532187.jpg",
+            "credit": "France 3 Paris Île-de-France",
+            "alt": "Illustration de l'article de France 3 Paris Île-de-France"
+          }
         },
         {
           "id": "2026-11-10-budget-secu-senat",
@@ -247,7 +257,12 @@
               "t": "Public Sénat – Budget de la Sécu : le Sénat prévoit de voter le retour de la réforme des retraites de 2023",
               "u": "https://www.publicsenat.fr/actualites/politique/budget-de-la-secu-le-senat-prevoit-de-voter-le-retour-de-la-reforme-des-retraites-de-2023"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.boursorama.com/static/i/content/images/1/1/7/117e9ab3b390c2d744b7cccf83edd334-1200x800.jpg",
+            "credit": "Boursorama (AFP)",
+            "alt": "Balayés par l'Assemblée nationale, les textes budgétaires sont examinés à partir de lundi au Sénat, hémicycle dominé par la droite qui entend faire preuve de \"responsabilité\" face aux finances en berne ( AFP / SIMON WOHLFAHRT )"
+          }
         },
         {
           "id": "2026-11-10-regularisation-sans-papiers-ps",
@@ -322,7 +337,12 @@
               "t": "Entrevue – Immigration : le PS propose de régulariser jusqu'à 400 000 travailleurs sans papiers, le RN et Horizons s'y opposent",
               "u": "https://entrevue.fr/politique/immigration-le-ps-propose-de-regulariser-jusqua-400-000-travailleurs/"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2026-11/Capture%20d%27%C3%A9cran%202026-11-06%20131317.png?itok=UWyWJkVc",
+            "credit": "LCP",
+            "alt": "Illustration de l'article de LCP"
+          }
         },
         {
           "id": "2026-11-10-ukraine-abou-dhabi",
@@ -405,7 +425,12 @@
               "t": "Arab News (AFP) – France's far-left leader attacked for remarks on Ukraine",
               "u": "https://www.arabnews.com/world/frances-far-left-leader-attacked-for-remarks-on-ukraine-3010591"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://images.euronews.com/articles/stories/09/98/50/55/1200x675_cmsv2_44ce4c47-78ca-5f8c-b794-dc4df2bd0135-9985055.jpg",
+            "credit": "Euronews",
+            "alt": "EU to send joint team to Ukraine-Russia peace talks in Abu Dhabi"
+          }
         }
       ],
       "breves": [
