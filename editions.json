@@ -1,6 +1,470 @@
 {
-  "updated": "2026-11-09T06:31:00+01:00",
+  "updated": "2026-11-10T06:29:00+01:00",
   "editions": [
+    {
+      "date": "2026-11-10",
+      "label": "Mardi 10 novembre 2026",
+      "maj": "Mise à jour à 6 h 29",
+      "intro": "Le Smic passera à 1 502 euros net le 1er décembre : Sébastien Lecornu accorde le premier coup de pouce depuis 2012, mais les syndicats parlent de « miettes » et la CGT appelle à la grève le 17 novembre. Ce mardi, lycéens, étudiants et enseignants manifestent, pendant que le Sénat poursuit l'examen du budget de la Sécu. Le PS défend sa proposition de loi pour régulariser les travailleurs sans papiers. À l'international, les pourparlers sur l'Ukraine reprennent à Abou Dhabi, avec les Européens en marge.",
+      "stories": [
+        {
+          "id": "2026-11-10-smic-1502-euros",
+          "rubrique": "Social",
+          "titre": "Smic à 1 502 euros net dès le 1er décembre : le premier coup de pouce depuis 2012 ne calme pas les syndicats, la CGT appelle à la grève le 17 novembre",
+          "chapo": "À l'issue de la conférence sociale de Matignon, Sébastien Lecornu a annoncé lundi une hausse de 1,6 % du Smic, avancée d'un mois, et des aides aux entreprises liées aux négociations de branche. Syndicats et oppositions jugent le geste insuffisant.",
+          "faits": [
+            "Le Smic passera le 1er décembre de 1 477,93 à 1 502 euros net par mois (+1,6 %) : 1 % au titre de la revalorisation automatique, avancée de janvier, et 0,6 % de coup de pouce, le premier depuis 2012.",
+            "Un décret attendu cette semaine conditionne les allègements de cotisations patronales au respect des minima de branche ; selon le gouvernement, 69 branches ont encore des grilles qui démarrent sous le Smic, et un comité de suivi des salaires doit être installé.",
+            "Par amendements au budget, le gouvernement veut porter à 10 000 euros le plafond de défiscalisation des heures supplémentaires, étendre la prime de partage de la valeur aux entreprises de plus de 50 salariés et maintenir la prime carburant à 1 000 euros en 2027.",
+            "Sophie Binet (CGT) parle de « miettes » et chiffre le coup de pouce à cinq euros ; Marylise Léon (CFDT) juge la hausse « insuffisante » mais salue la conditionnalité des aides ; le Medef estime que les branches devront « négocier à l'aveugle ».",
+            "La CGT appelle à une journée de grève et de manifestations le 17 novembre, date retenue aussi par une intersyndicale de la fonction publique, dont les syndicats seront reçus vendredi à Matignon."
+          ],
+          "enjeu": "Le gouvernement mise sur les négociations de branche pour éviter un nouveau durcissement du mouvement social, avec un point d'étape d'ici début décembre. La date du 17 novembre dira si la colère sur les salaires s'étend du public au privé.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant juge habituellement ces hausses très insuffisantes, réclame une augmentation générale des salaires et leur indexation sur les prix, et appelle à amplifier la grève plutôt qu'à négocier branche par branche.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Fabien Roussel (PCF) plaide pour une augmentation généralisée des salaires au-delà du seul Smic ; LFI réclame, comme le PS, une hausse de 200 euros, loin du geste annoncé par Matignon.",
+              "src": "franceinfo et AFP, 9 novembre 2026"
+            },
+            "soc": {
+              "type": "declare",
+              "texte": "Olivier Faure (PS) estime que « le compte n'y est pas » et réclame une hausse du Smic de 200 euros, en demandant des contreparties salariales réelles aux aides versées aux entreprises.",
+              "src": "AFP, 9 novembre 2026"
+            },
+            "eco": {
+              "type": "declare",
+              "texte": "Marine Tondelier (Les Écologistes) voit dans l'annonce « une provocation » : « Il faut quand même être sacrément déconnecté pour penser que ça suffira », a-t-elle déclaré sur TF1.",
+              "src": "TF1, 9 novembre 2026"
+            },
+            "ren": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement les mesures de revenu net comme la défiscalisation des heures supplémentaires et la prime de partage de la valeur, et met en garde contre des hausses du Smic trop fortes pour l'emploi peu qualifié.",
+              "src": ""
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant se montre habituellement favorable à un geste sur les bas salaires et à une meilleure association des salariés à la valeur créée, en veillant à la situation des petites entreprises.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant privilégie habituellement la baisse du coût du travail et la réforme des allègements de charges, et se méfie des hausses administrées du Smic qui tassent l'échelle des salaires.",
+              "src": ""
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Bruno Retailleau (LR) met en garde contre une hausse qui pourrait mettre des entreprises en « faillite » et propose plutôt de « massivement baisser les charges » pour augmenter le salaire net.",
+              "src": "AFP, 9 novembre 2026"
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Sébastien Chenu (RN) juge que la hausse « ne satisfera personne » et propose d'augmenter de 10 % les salaires jusqu'à trois Smic, en échange d'un gel des cotisations patronales.",
+              "src": "LCP, 9 novembre 2026"
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant privilégie habituellement la baisse des charges et des impôts pesant sur les entreprises et les ménages plutôt qu'une hausse du Smic, présentée comme une charge pour les petits patrons.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Public Sénat – Pouvoir d'achat : Sébastien Lecornu annonce une hausse anticipée du Smic à 1 502 euros par mois dès le 1er décembre",
+              "u": "https://www.publicsenat.fr/actualites/politique/pouvoir-dachat-sebastien-lecornu-annonce-une-hausse-anticipee-du-smic-a-1-502-euros-des-le-1er-decembre"
+            },
+            {
+              "t": "Public Sénat – Hausse du Smic : les syndicats jugent la réponse insuffisante et la CGT appelle à la grève le 17 novembre",
+              "u": "https://www.publicsenat.fr/actualites/politique/hausse-du-smic-les-syndicats-jugent-la-reponse-insuffisante-et-la-cgt-appelle-a-la-greve-le-17-novembre"
+            },
+            {
+              "t": "Boursorama (AFP) – Lecornu donne un coup de pouce au Smic, la colère ne retombe pas",
+              "u": "https://www.boursorama.com/actualite-economique/actualites/lecornu-donne-un-coup-de-pouce-au-smic-la-colere-ne-retombe-pas-af8819f6d438d3e1c5dbaa0c90d8b89c"
+            },
+            {
+              "t": "LCP – La hausse du Smic « ne satisfera personne », réagit Sébastien Chenu",
+              "u": "https://lcp.fr/actualites/la-hausse-du-smic-ne-satisfera-personne-reagit-sebastien-chenu-444936"
+            },
+            {
+              "t": "franceinfo – Revalorisation du Smic : Fabien Roussel souhaite « l'augmentation généralisée des salaires »",
+              "u": "https://franceinfo.fr/replay-magazine/franceinfo/avant-le-20h/revalorisation-du-smic-fabien-roussel-souhaite-l-augmentation-generalisee-des-salaires_8273774.html"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-10-greve-education-universites",
+          "rubrique": "Éducation",
+          "titre": "Grève dans l'éducation et les universités ce mardi : un seul cortège autorisé à Paris, du Panthéon à la place d'Italie",
+          "chapo": "Lycéens, étudiants et personnels de l'éducation se mobilisent ce mardi pour les salaires, les postes et contre Parcoursup, au lendemain d'une conférence sociale qui ne les concernait pas directement.",
+          "faits": [
+            "L'appel commun réunit une quinzaine d'organisations, dont la FSU, la FERC-CGT, FO, SUD éducation et Sup'Recherche-UNSA côté personnels, l'USL, l'Union étudiante, l'UNEF et la FAGE côté jeunesse ; l'intersyndicale interprofessionnelle n'appelle pas à manifester ce mardi.",
+            "Les revendications portent sur le dégel du point d'indice, des créations de postes (enseignants, AESH, infirmiers, psychologues), un plan de rénovation des bâtiments et, dans le supérieur, 15 000 postes de titulaires et la fin de Parcoursup.",
+            "À Paris, la préfecture de police n'autorise qu'un défilé : rassemblement à 12 h 30 place du Panthéon, départ à 14 h vers la place d'Italie ; deux autres cortèges étudiants sont interdits.",
+            "Lundi, le comité de réforme de Parcoursup a tourné court, une grande partie des organisations de jeunesse ayant quitté la réunion ; le ministre de l'Éducation Édouard Geffray a jugé « illégal » le blocage des lycées et évoqué des cours de rattrapage pendant les vacances."
+          ],
+          "enjeu": "Le mouvement de la jeunesse, apparu début novembre, cherche à durer jusqu'à la journée interprofessionnelle et fonction publique du 17 novembre. Le gouvernement, qui a annoncé fin octobre 5 milliards d'euros pour lycées et universités, doit éviter que les blocages s'installent jusqu'aux vacances.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement les blocages lycéens et étudiants et appelle à la convergence avec la grève des salariés, en réclamant des moyens massifs pour l'école publique et l'abrogation de la sélection à l'université.",
+              "src": ""
+            },
+            "gr": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement la mobilisation de la jeunesse, défend l'abrogation de Parcoursup, le dégel du point d'indice et des recrutements massifs d'enseignants, et dénonce la répression des blocages.",
+              "src": ""
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement les revendications sur les moyens et les salaires des enseignants, défend une réforme profonde de Parcoursup et appelle le gouvernement au dialogue avec les organisations de jeunesse.",
+              "src": ""
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement la mobilisation des jeunes, réclame un plan de rénovation thermique des établissements, plus de moyens pour l'université et une réforme de l'orientation.",
+              "src": ""
+            },
+            "ren": {
+              "type": "lecture",
+              "texte": "Le courant met habituellement en avant les moyens déjà engagés pour l'école, défend une réforme de Parcoursup plutôt que sa suppression et rappelle que le blocage des établissements prive les élèves de cours.",
+              "src": ""
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement la revalorisation des enseignants et l'autonomie des établissements, et appelle à la concertation tout en refusant les blocages qui empêchent les élèves d'étudier.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant insiste habituellement sur le respect de l'ordre dans les établissements, la fermeté face aux blocages et une réforme de l'orientation fondée sur l'exigence et la sélection.",
+              "src": ""
+            },
+            "d": {
+              "type": "lecture",
+              "texte": "Le courant réclame habituellement la fermeté face aux blocages de lycées et d'universités, défend la sélection à l'entrée de l'université et une école centrée sur les savoirs fondamentaux.",
+              "src": ""
+            },
+            "dn": {
+              "type": "lecture",
+              "texte": "Le courant dénonce habituellement les blocages, qu'il attribue à la gauche radicale, tout en critiquant la baisse du niveau scolaire et en promettant de revaloriser les enseignants.",
+              "src": ""
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant condamne habituellement les blocages et l'influence syndicale à l'école, et défend une école de l'autorité, de la transmission et de la sélection au mérite.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "France 3 Paris Île-de-France – Grève du 10 novembre à Paris : école, fonction publique, parcours de la manifestation, à quoi s'attendre ce mardi ?",
+              "u": "https://france3-regions.franceinfo.fr/paris-ile-de-france/paris/greve-du-10-novembre-a-paris-ecole-fonction-publique-parcours-de-la-manifestation-a-quoi-s-attendre-ce-mardi-3446184.html"
+            },
+            {
+              "t": "Sortiraparis – Grève dans l'éducation et manifestation étudiante ce mardi 10 novembre, le point",
+              "u": "https://www.sortiraparis.com/actualites/a-paris/articles/357741-greve-dans-l-education-et-manifestation-etudiante-ce-mardi-10-novembre-le-point"
+            },
+            {
+              "t": "Public Sénat – Mouvement lycéen : des cours de rattrapage possibles pendant les vacances, annonce Édouard Geffray",
+              "u": "https://www.publicsenat.fr/actualites/politique/mouvement-lyceen-des-cours-de-rattrapage-possibles-pendant-les-vacances-en-fevrier-ou-a-paques-annonce-edouard-geffray"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-10-budget-secu-senat",
+          "rubrique": "Budget",
+          "titre": "Budget de la Sécu : le Sénat prend la main, la droite veut rétablir la réforme des retraites et protéger les pensions jusqu'à 1 500 euros",
+          "chapo": "Rejeté à l'Assemblée, le projet de loi de financement de la Sécurité sociale pour 2027 est examiné en séance au Sénat jusqu'au 17 novembre. La majorité sénatoriale veut faire « quelques gains » pour éviter au gouvernement le recours aux ordonnances.",
+          "faits": [
+            "Les débats ont commencé lundi, pour un vote solennel prévu le 18 novembre ; le texte prévoit de ramener le déficit de la Sécurité sociale à 12,7 milliards d'euros en 2027, contre 21,8 milliards en 2026.",
+            "La majorité de droite et du centre veut rétablir la réforme des retraites de 2023, suspendue l'an dernier ; selon le rapporteur Olivier Henno (centriste), la mesure allégerait les comptes de 600 millions d'euros l'an prochain.",
+            "Le gouvernement veut mettre à contribution les pensions supérieures à 1 260 euros par mois ; le Sénat pourrait relever ce seuil à 1 500 euros, ce que le ministre du Travail Jean-Pierre Farandou accueille avec « un certain intérêt ».",
+            "Le ministre des Comptes publics David Amiel reconnaît que « plusieurs milliards d'efforts supplémentaires » restent à trouver ; Matignon renvoie à décembre la recherche d'un compromis."
+          ],
+          "enjeu": "Même voté au Sénat, le retour de la réforme de 2023 a peu de chances de survivre au texte final. Faute d'accord entre les deux chambres, le gouvernement devra choisir entre le 49.3, au risque d'une censure, et les ordonnances.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant rejette habituellement toute mesure d'économies sur la Sécurité sociale, réclame l'abrogation pure et simple de la réforme des retraites et le retour à 60 ans, financé par les cotisations patronales.",
+              "src": ""
+            },
+            "gr": {
+              "type": "lecture",
+              "texte": "Le courant combat habituellement le rétablissement de la réforme de 2023 et toute sous-indexation des pensions, et défend de nouvelles recettes sur les dividendes et les exonérations patronales.",
+              "src": ""
+            },
+            "soc": {
+              "type": "declare",
+              "texte": "Annie Le Houérou (PS), sénatrice chargée du budget de la Sécu pour son groupe, dénonce un « rabotage des droits des assurés sociaux » et défend la suspension de la réforme obtenue l'an dernier.",
+              "src": "AFP, 9 novembre 2026"
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant s'oppose habituellement au retour de la réforme des retraites et au gel des prestations, et plaide pour des recettes nouvelles sur les hauts revenus et pour la prévention en santé.",
+              "src": ""
+            },
+            "ren": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement la réforme de 2023 sur le fond tout en assumant le compromis de sa suspension, et appelle à un budget adopté pour éviter les ordonnances.",
+              "src": ""
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant appelle habituellement à un compromis entre les deux chambres et à un effort réparti avec justice, en protégeant les petites pensions et en ciblant les niches sociales.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement la réforme de 2023 et un effort marqué sur les dépenses sociales, en jugeant la suspension des retraites trop coûteuse pour les comptes publics.",
+              "src": ""
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Philippe Mouiller (LR), président de la commission des Affaires sociales, veut obtenir « quelques gains » : « Notre responsabilité, c'est de faire en sorte qu'on puisse éviter les ordonnances. »",
+              "src": "AFP, 9 novembre 2026"
+            },
+            "dn": {
+              "type": "lecture",
+              "texte": "Le courant s'oppose habituellement au rétablissement de la réforme de 2023 et à toute désindexation des pensions, et propose de réaliser des économies sur la fraude sociale et l'immigration.",
+              "src": ""
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement des économies sur la fraude sociale et les prestations versées aux étrangers, et se montre ouvert à un allongement de la durée de travail.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Boursorama (AFP) – Budget : le Sénat prend la main, l'incertitude demeure",
+              "u": "https://www.boursorama.com/actualite-economique/actualites/budget-le-senat-prend-la-main-l-incertitude-demeure-6be4b41510cc847db36a637ddb43ad09"
+            },
+            {
+              "t": "Public Sénat – Budget de la Sécu : le Sénat prévoit de voter le retour de la réforme des retraites de 2023",
+              "u": "https://www.publicsenat.fr/actualites/politique/budget-de-la-secu-le-senat-prevoit-de-voter-le-retour-de-la-reforme-des-retraites-de-2023"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-10-regularisation-sans-papiers-ps",
+          "rubrique": "Immigration",
+          "titre": "Régularisation des travailleurs sans papiers : la proposition de loi du PS passe en commission, le RN et Horizons veulent la supprimer",
+          "chapo": "Les députés socialistes défendent un texte qui ouvrirait un titre de séjour « salarié » à environ 300 000 personnes. Examiné lundi en commission des lois, il pourrait venir en séance le 19 novembre.",
+          "faits": [
+            "Porté par Paul Christophle (PS, Drôme), l'article unique accorde une carte de séjour mention « salarié » à tout étranger justifiant de six mois d'activité, consécutifs ou non, sur les 24 derniers mois, sans condition d'ancienneté de séjour.",
+            "Ses auteurs estiment entre 300 000 et 400 000 le nombre de sans-papiers en France et citent l'exemple de la régularisation engagée en Espagne en 2025 ; les secteurs visés vont du bâtiment à l'aide à domicile.",
+            "Douze amendements ont été déposés en commission, dont deux, du RN et d'Horizons, qui suppriment l'article unique.",
+            "Le texte pourrait être débattu en séance le 19 novembre, lors de la journée réservée au groupe socialiste, selon l'avancement des travaux."
+          ],
+          "enjeu": "Le PS veut placer l'immigration de travail au cœur du débat présidentiel, sur une ligne que défend aussi Raphaël Glucksmann. Le sort du texte dépend du bloc central, partagé entre les besoins de main-d'œuvre et le refus d'une régularisation de plein droit.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant réclame habituellement la régularisation de tous les sans-papiers, sans condition de travail, et soutient les grèves de travailleurs sans titre de séjour.",
+              "src": ""
+            },
+            "gr": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement la régularisation des travailleurs sans papiers et leur accès aux mêmes droits que les autres salariés, et dénonce leur exploitation dans certains secteurs.",
+              "src": ""
+            },
+            "soc": {
+              "type": "declare",
+              "texte": "Paul Christophle (PS) appelle à « sortir de l'hypocrisie » et estime que son texte « peut aboutir » si le bloc central « renonce aux postures » ; Raphaël Glucksmann y voit une question de « dignité ».",
+              "src": "LCP, 9 novembre 2026"
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement la régularisation des travailleurs sans papiers et une politique d'accueil fondée sur les droits, en dénonçant la précarité qu'entretient l'absence de titre.",
+              "src": ""
+            },
+            "ren": {
+              "type": "lecture",
+              "texte": "Le courant privilégie habituellement des régularisations au cas par cas dans les métiers en tension, sans droit automatique, en les liant à une politique ferme d'éloignement.",
+              "src": ""
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant se dit habituellement favorable à la régularisation des travailleurs déjà intégrés dans les métiers en tension, au cas par cas et sous conditions.",
+              "src": ""
+            },
+            "hor": {
+              "type": "declare",
+              "texte": "Horizons, qui a déposé un amendement de suppression, juge qu'« il n'existe pas, et il ne doit pas exister, de droit à la régularisation » et conteste l'absence de durée minimale de séjour.",
+              "src": "LCP, 9 novembre 2026"
+            },
+            "d": {
+              "type": "lecture",
+              "texte": "Le courant s'oppose habituellement à toute régularisation massive, qu'il juge source d'appel d'air, et réclame la limitation des admissions exceptionnelles au séjour.",
+              "src": ""
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Le RN, qui demande aussi la suppression de l'article, juge le texte « particulièrement dangereux » et estime qu'il « encouragerait des passeurs » et l'immigration irrégulière.",
+              "src": "LCP, 9 novembre 2026"
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant rejette habituellement toute régularisation et défend l'expulsion systématique des étrangers en situation irrégulière ainsi que l'arrêt de l'immigration de travail.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "LCP – « Il faut sortir de l'hypocrisie » : les députés PS défendent un texte pour régulariser 300 000 travailleurs sans-papiers",
+              "u": "https://lcp.fr/actualites/il-faut-sortir-de-l-hypocrisie-les-deputes-ps-defendent-un-texte-pour-regulariser-300000"
+            },
+            {
+              "t": "Entrevue – Immigration : le PS propose de régulariser jusqu'à 400 000 travailleurs sans papiers, le RN et Horizons s'y opposent",
+              "u": "https://entrevue.fr/politique/immigration-le-ps-propose-de-regulariser-jusqua-400-000-travailleurs/"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-10-ukraine-abou-dhabi",
+          "rubrique": "International",
+          "titre": "Ukraine : Russes, Ukrainiens et Américains reprennent les pourparlers à Abou Dhabi, avec la France et les Européens en marge",
+          "chapo": "Pour la première fois depuis février, les trois délégations se retrouvent ce mardi et mercredi aux Émirats. Une équipe européenne, associée à la France, l'Allemagne et le Royaume-Uni, fait le déplacement, pendant que les ministres du G7 sont réunis à Paris.",
+          "faits": [
+            "La délégation russe est conduite par Vladimir Medinsky, conseiller de Vladimir Poutine, l'ukrainienne par Roustem Oumerov ; Washington est représenté par Steve Witkoff et Jared Kushner.",
+            "La Commission et le Conseil européen envoient une équipe conjointe, à laquelle sont associés les conseillers à la sécurité nationale français, allemand et britannique ; selon Reuters, Moscou refuse que les Européens participent à la négociation proprement dite.",
+            "Selon Reuters, le plan américain prévoit la fin de la guerre, des garanties de sécurité et une perspective européenne pour l'Ukraine ; Moscou exige le retrait ukrainien de tout le Donbass, ce que Kiev refuse.",
+            "Les ministres des Affaires étrangères du G7 sont réunis à Paris lundi et mardi ; l'Ukraine et l'Iran sont au menu."
+          ],
+          "enjeu": "Les Européens veulent peser sur un accord qui redessinerait la sécurité du continent, alors que le cadre proposé par Jared Kushner n'avait pas été discuté avec eux. En France, le dossier ukrainien s'invite dans la précampagne et divise la gauche.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant dénonce habituellement à la fois l'invasion russe et les ambitions des puissances occidentales, rejette l'envoi d'armes et défend une paix décidée par les peuples plutôt que par les grandes puissances.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Jean-Luc Mélenchon (LFI) a refusé au Bourget toute paix avec des concessions territoriales « sans qu'on demande aux populations concernées », en évoquant le Donbass, ce que le gouvernement lui a reproché.",
+              "src": "AFP, 8 novembre 2026"
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement l'Ukraine sans réserve, défend une défense européenne commune et refuse tout accord imposé à Kiev par Washington et Moscou.",
+              "src": ""
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement l'Ukraine et le renforcement des sanctions contre la Russie, et réclame que l'Union européenne siège à la table de toute négociation sur la sécurité du continent.",
+              "src": ""
+            },
+            "ren": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement la ligne d'Emmanuel Macron : soutien à l'Ukraine, garanties de sécurité solides et présence des Européens dans toute négociation qui engage leur sécurité.",
+              "src": ""
+            },
+            "modem": {
+              "type": "declare",
+              "texte": "Jean-Noël Barrot (MoDem), ministre des Affaires étrangères, a assuré que « les Européens seront bien représentés et la France sera à Abu Dhabi », en insistant sur le format E3 aux côtés de l'Union.",
+              "src": "Grand Jury RTL-Public Sénat, 8 novembre 2026"
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement l'Ukraine et l'effort de défense européen, et met en garde contre une paix qui récompenserait l'agression russe.",
+              "src": ""
+            },
+            "d": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement l'Ukraine et la fermeté face à Moscou, tout en appelant à une défense européenne fondée sur les nations et à un réalisme sur l'issue du conflit.",
+              "src": ""
+            },
+            "dn": {
+              "type": "lecture",
+              "texte": "Le courant appelle habituellement à un cessez-le-feu rapide et à une solution négociée, se montre réservé sur les livraisons d'armes et refuse l'envoi de troupes françaises.",
+              "src": ""
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant plaide habituellement pour une paix négociée au plus vite, critique le soutien militaire à Kiev et met en avant les intérêts propres de la France face aux engagements européens.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Boursorama (Reuters) – Reprise des pourparlers Russie-Ukraine sous l'égide des Etats-Unis",
+              "u": "https://www.boursorama.com/actualite-economique/actualites/reprise-des-pourparlers-russie-ukraine-sous-l-egide-des-etats-unis-05cf3a6f0966c14dd98026c58f8b855d"
+            },
+            {
+              "t": "Euronews – EU to send joint team to Ukraine-Russia peace talks in Abu Dhabi",
+              "u": "https://www.euronews.com/2026/11/09/eu-to-send-joint-team-to-ukraine-russia-peace-talks-in-abu-dhabi"
+            },
+            {
+              "t": "RTBF – Russes, Ukrainiens et Américains à Abou Dhabi : qui accompagnera la France aux pourparlers de paix ?",
+              "u": "https://www.rtbf.be/article/russes-ukrainiens-et-americains-a-abou-dhabi-qui-representera-l-europe-aux-cotes-de-la-france-a-la-table-des-negociations-de-paix-11812604"
+            },
+            {
+              "t": "Arab News (AFP) – France's far-left leader attacked for remarks on Ukraine",
+              "u": "https://www.arabnews.com/world/frances-far-left-leader-attacked-for-remarks-on-ukraine-3010591"
+            }
+          ]
+        }
+      ],
+      "breves": [
+        {
+          "titre": "Présidentielle : Teddy Riner se déclare candidat",
+          "texte": "Le judoka, 37 ans, a annoncé lundi sa candidature dans une vidéo et un entretien au Parisien. Il se dit « ni de droite, ni de gauche », veut être « le président qui réconcilie » et rejoint une liste de prétendants déjà longue, avant le premier tour prévu le 18 avril 2027.",
+          "src": {
+            "t": "Public Sénat – Présidentielle 2027 : le judoka Teddy Riner se lance dans la course à l'Élysée",
+            "u": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-le-judoka-teddy-riner-se-lance-dans-la-course-a-lelysee-au-milieu-dune-multitude-de-candidats"
+          }
+        },
+        {
+          "titre": "Cybersécurité : 15 000 entités bientôt soumises à de nouvelles obligations",
+          "texte": "Les députés ont commencé lundi l'examen du projet de loi qui transpose la directive européenne NIS 2. Le nombre d'entités régulées passerait d'environ 500 à près de 15 000, avec des amendes pouvant atteindre 10 millions d'euros ou 2 % du chiffre d'affaires mondial.",
+          "src": {
+            "t": "LCP – Cybersécurité : les secteurs « hautement critiques » bientôt inscrits dans la loi",
+            "u": "https://lcp.fr/actualites/cybersecurite-les-secteurs-hautement-critiques-bientot-inscrits-dans-la-loi-444844"
+          }
+        },
+        {
+          "titre": "La Cour des comptes avance jusqu'à 38 milliards d'euros d'économies",
+          "texte": "Gel d'un an des promotions des fonctionnaires, non-revalorisation de certaines prestations, baisse des dotations aux collectivités : la Cour publie 18 pistes d'économies, en plein examen budgétaire au Sénat.",
+          "src": {
+            "t": "Public Sénat – Gel des promotions des fonctionnaires, non-revalorisation des prestations : la Cour des comptes avance ses idées d'économies",
+            "u": "https://www.publicsenat.fr/actualites/politique/gel-dun-an-des-promotions-des-fonctionnaires-non-revalorisation-des-prestations-baisse-des-dotations-la-cour-des-comptes-avance-ses-idees-deconomies"
+          }
+        }
+      ],
+      "agenda": [
+        {
+          "d": "Mar. 10 nov.",
+          "t": "Grève et manifestations dans l'éducation et les universités (Paris : départ à 14 h du Panthéon) ; vote de la commission des Affaires culturelles sur la pétition contre CNews ; pourparlers sur l'Ukraine à Abou Dhabi (jusqu'au 11) ; fin du G7 des ministres des Affaires étrangères à Paris"
+        },
+        {
+          "d": "Mer. 11 nov.",
+          "t": "Commémorations de l'Armistice de 1918"
+        },
+        {
+          "d": "Ven. 13 nov.",
+          "t": "Sébastien Lecornu reçoit les syndicats de la fonction publique"
+        },
+        {
+          "d": "Mar. 17 nov.",
+          "t": "Journée de grève et de manifestations à l'appel de la CGT et d'une intersyndicale de la fonction publique"
+        },
+        {
+          "d": "Mer. 18 nov.",
+          "t": "Vote solennel du Sénat sur le budget de la Sécurité sociale"
+        },
+        {
+          "d": "Jeu. 19 nov.",
+          "t": "Journée réservée au PS à l'Assemblée (régularisation des travailleurs sans papiers) ; le Sénat examine la présomption de légitime défense des forces de l'ordre"
+        },
+        {
+          "d": "Ven. 20 nov.",
+          "t": "Début de l'examen du projet de loi de finances 2027 en séance au Sénat"
+        }
+      ]
+    },
     {
       "date": "2026-11-09",
       "label": "Lundi 9 novembre 2026",
@@ -3136,412 +3600,6 @@
         {
           "d": "Jeu. 12 nov.",
           "t": "Début de l'examen du budget de la Sécurité sociale au Sénat"
-        },
-        {
-          "d": "Mar. 17 nov.",
-          "t": "Date limite de la première lecture du budget 2027 à l'Assemblée"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-03",
-      "label": "Mardi 3 novembre 2026",
-      "maj": "Mise à jour à 6 h 25",
-      "intro": "Journée décisive à l'Assemblée : les députés votent cet après-midi sur la partie recettes du budget 2027, un rejet qui effacerait trois semaines d'amendements. Lycéens et étudiants appellent à bloquer établissements et universités, au lendemain d'une rentrée perturbée, tandis que Laurent Nuñez répond à la commission d'enquête sur le 17 octobre. Les pompiers se sont rassemblés dans tout le pays pour leur collègue blessé par balle près de Marseille. En Belgique, Bart De Wever a remis sa démission faute d'accord budgétaire, et les Américains votent pour les élections de mi-mandat.",
-      "stories": [
-        {
-          "id": "2026-11-03-budget-vote-recettes",
-          "rubrique": "Budget",
-          "titre": "Budget 2027 : l'Assemblée vote cet après-midi sur la partie recettes, un rejet attendu qui effacerait 322 amendements",
-          "chapo": "Le vote solennel sur la première partie du projet de loi de finances est inscrit à 15 heures, après les questions au gouvernement. Faute de majorité, le texte devrait être rejeté et partir au Sénat dans sa version gouvernementale.",
-          "faits": [
-            "Le vote solennel sur la partie « recettes » du budget 2027 est prévu ce mardi à 15 heures ; lundi, près de 1 450 amendements restaient à examiner, selon LCP, qui juge très peu probable que l'examen soit achevé à temps.",
-            "Depuis le 13 octobre, les députés ont adopté 322 amendements, dont le retour de l'exit tax d'avant 2019, une taxe de 10 % sur les rachats d'actions et un impôt sur les bénéfices mondiaux des multinationales (74 voix contre 72), et supprimé la surtaxe sur les grandes entreprises (79 voix contre 77), selon NosParlementaires.",
-            "En cas de rejet, ces modifications disparaissent : le Sénat examinera le projet initial du gouvernement, avant une commission mixte paritaire puis une lecture définitive où le 49.3 reste possible.",
-            "La présidente de l'Assemblée, Yaël Braun-Pivet, et le rapporteur général, Philippe Juvin, ont plaidé pour un recours au 49.3 avant le retour du texte du Sénat, sans succès jusqu'ici, rapporte LCP.",
-            "Le Parlement a jusqu'au 17 décembre à minuit pour se prononcer ; au-delà, le budget peut être mis en œuvre par ordonnances. En novembre 2025, la première partie du budget 2026 avait été rejetée par 404 voix contre 1."
-          ],
-          "enjeu": "Un rejet renverrait au Sénat un texte expurgé de tous les votes de l'Assemblée, au risque de rendre inutiles trois semaines de débats. Il placerait Sébastien Lecornu face à un choix entre 49.3, avec une motion de censure à la clé, et ordonnances, une voie inédite ces dernières années.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant rejette habituellement tout budget d'austérité, refuse de choisir entre les versions débattues au Parlement et appelle à imposer par la mobilisation sociale une autre répartition des richesses.",
-              "src": ""
-            },
-            "gr": {
-              "type": "declare",
-              "texte": "Éric Coquerel (LFI), président de la commission des finances, a dénoncé la suppression de la surtaxe sur les grandes entreprises : « Une majorité du bloc central, alliée avec le Rassemblement national, a décidé d'augmenter le déficit de 5 milliards ».",
-              "src": "NosParlementaires, 27 octobre 2026"
-            },
-            "soc": {
-              "type": "declare",
-              "texte": "Mélanie Thomin (PS) reproche au Premier ministre une « porte fermée à toute mesure de justice fiscale au nom de la sacro-sainte stabilité », tandis que le porte-parole Arthur Delaporte (PS) accuse Sébastien Lecornu de « se moquer » des socialistes.",
-              "src": "Europe 1, 13 octobre 2026"
-            },
-            "eco": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement une fiscalité plus lourde sur les hauts patrimoines et les multinationales, et refuse de voter un budget qu'il juge insuffisant pour la transition écologique.",
-              "src": ""
-            },
-            "ren": {
-              "type": "declare",
-              "texte": "Yaël Braun-Pivet (Renaissance), présidente de l'Assemblée, a plaidé avec le rapporteur général pour que le gouvernement engage le 49.3 avant le retour du texte du Sénat, afin de sortir de l'impasse.",
-              "src": "LCP, 2 novembre 2026"
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant appelle habituellement à un compromis budgétaire pour éviter le blocage, tout en insistant sur la réduction du déficit et une contribution des plus aisés.",
-              "src": ""
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant met habituellement en avant la maîtrise de la dépense publique et la stabilité fiscale, et s'oppose aux hausses d'impôts sur les entreprises votées contre l'avis du gouvernement.",
-              "src": ""
-            },
-            "d": {
-              "type": "declare",
-              "texte": "Philippe Juvin (LR), rapporteur général du budget, a plaidé pour un recours au 49.3 avant le retour du texte du Sénat, estimant que le débat parlementaire ne permettra pas d'aboutir à un texte adopté.",
-              "src": "LCP, 2 novembre 2026"
-            },
-            "dn": {
-              "type": "declare",
-              "texte": "Matthias Renault (RN) a critiqué les mesures du gouvernement : « Derrière le paquet-cadeau – en l'occurrence, l'aide aux pompiers – se cache la douloureuse » ; son collègue Kévin Mauvieux a renvoyé le ministre au « contre-budget » du groupe.",
-              "src": "NosParlementaires, 30 octobre 2026"
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant réclame habituellement des économies massives sur l'immigration, les aides sociales et la contribution française à l'Union européenne, et rejette toute hausse d'impôts.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "LCP – Budget 2027 : calendrier, procédure, pistes d'atterrissage… Où en est-on des débats budgétaires à l'Assemblée ?",
-              "u": "https://lcp.fr/actualites/budget-2027-calendrier-procedure-pistes-d-atterrissage-ou-en-est-on-des-debats"
-            },
-            {
-              "t": "NosParlementaires – Date du vote du budget 2027 : mardi 3 novembre, ce qui peut tomber",
-              "u": "https://nosparlementaires.fr/actualites/budget-2027-calendrier-assemblee-cinq-semaines"
-            },
-            {
-              "t": "Assemblée nationale – Examen de la première partie du projet de loi de finances pour 2027",
-              "u": "https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/examen-de-la-premiere-partie-du-projet-de-loi-de-finances-pour-2027"
-            },
-            {
-              "t": "Europe 1 – Budget 2027 : Lecornu et le PS se confrontent, le RN veut aller « au débat »",
-              "u": "https://www.europe1.fr/politique/budget-2027-lecornu-et-le-ps-se-confrontent-le-rn-veut-aller-au-debat-1145681"
-            }
-          ],
-          "image": {
-            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2025-07/Assembl%C3%A9e%20nationale%20ext%C3%A9rieur.jpg?itok=cY4dvXO2",
-            "credit": "LCP",
-            "alt": "Illustration de l'article de LCP"
-          }
-        },
-        {
-          "id": "2026-11-03-lycees-blocages-semaine",
-          "rubrique": "Éducation",
-          "titre": "Lycées : 41 établissements bloqués selon le ministère, 150 selon l'USL ; l'Unef promet une « journée noire » ce mardi dans les universités",
-          "chapo": "La rentrée de la Toussaint a été perturbée lundi par des blocages, avant une semaine de mobilisation qui doit culminer jeudi avec la grève interprofessionnelle. Le ministre parle d'un mouvement « résiduel » mais d'une année « en risque ».",
-          "faits": [
-            "Lundi à 9 h 30, 41 établissements étaient bloqués selon le ministère, soit un peu plus de 1 % des quelque 3 700 lycées ; l'Union syndicale lycéenne en a recensé 150, selon l'AFP.",
-            "Des blocages ont été signalés à Paris (Condorcet, Hélène-Boucher, Honoré-de-Balzac), à Marseille (7 lycées sur 75), à Toulouse (au moins 7) et à Lyon, où les forces de l'ordre ont dégagé l'entrée du lycée Ampère ; environ 15 % des établissements du supérieur ont connu des perturbations, selon le ministre Philippe Baptiste.",
-            "Sur France Inter, Édouard Geffray a jugé la situation « a priori assez résiduelle », rappelé que les blocages sont illégaux et averti que plusieurs centaines de milliers de lycéens n'ont pas eu cours depuis quatre à cinq semaines.",
-            "L'intersyndicale de la jeunesse (USL, Unef, Fage, Union étudiante) réclame 10 milliards d'euros pour l'éducation et l'abrogation de Parcoursup, et juge insuffisantes les mesures annoncées : remplacement de Parcoursup d'ici 2028, 28 élèves maximum en seconde, 15 000 places dans le supérieur.",
-            "Sébastien Lecornu s'est dit prêt à recevoir les représentants lycéens ; ce mardi, le ministre de l'Intérieur Laurent Nuñez est le premier auditionné par la commission d'enquête de l'Assemblée sur les violences du 17 octobre."
-          ],
-          "enjeu": "Le gouvernement mise sur l'essoufflement du mouvement et le retour en classe avant le bac, quand les organisations de jeunesse veulent faire de jeudi une journée de convergence avec les salariés. L'audition de Laurent Nuñez rouvre en parallèle le débat sur la gestion du maintien de l'ordre.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement les blocages comme moyen d'action légitime, appelle à des assemblées générales et à une grève reconductible au-delà de la journée de jeudi.",
-              "src": ""
-            },
-            "gr": {
-              "type": "declare",
-              "texte": "Jean-Luc Mélenchon (LFI), présent dans le cortège parisien du 31 octobre, a salué une foule « aussi disciplinée » que la semaine précédente et averti Emmanuel Macron : « Il devra céder ou partir ».",
-              "src": "BFMTV, 31 octobre 2026"
-            },
-            "soc": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement les revendications de moyens pour l'école et l'université, défend le droit de manifester et appelle le gouvernement à ouvrir une vraie négociation avec la jeunesse.",
-              "src": ""
-            },
-            "eco": {
-              "type": "declare",
-              "texte": "Marine Tondelier (Les Écologistes) « condamne les violences des émeutiers contre les policiers », tout en estimant qu'il existe « un problème sur la doctrine du maintien de l'ordre du ministère de l'Intérieur ».",
-              "src": "BFMTV, 1er novembre 2026"
-            },
-            "ren": {
-              "type": "lecture",
-              "texte": "Le courant met habituellement en avant les mesures déjà annoncées par le gouvernement, appelle les lycéens à retourner en cours et privilégie le dialogue avec leurs représentants.",
-              "src": ""
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant plaide habituellement pour l'apaisement et une sortie de crise négociée, en reconnaissant les besoins de l'école tout en rappelant l'enjeu des examens.",
-              "src": ""
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant insiste habituellement sur la continuité du service public d'éducation et sur le coût des mesures nouvelles pour les finances publiques.",
-              "src": ""
-            },
-            "d": {
-              "type": "lecture",
-              "texte": "Le courant réclame habituellement la levée des blocages, des sanctions contre les dégradations et une fermeté accrue envers les fauteurs de troubles dans les établissements.",
-              "src": ""
-            },
-            "dn": {
-              "type": "lecture",
-              "texte": "Le courant reprend habituellement à son compte l'inquiétude des familles sur la qualité de l'école, tout en demandant la fin des blocages et en accusant l'extrême gauche de les encourager.",
-              "src": ""
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant dénonce habituellement une mobilisation qu'il attribue à l'extrême gauche et réclame l'interdiction des blocages et des sanctions disciplinaires contre leurs auteurs.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "Bourse Direct (AFP) – Crise dans l'éducation : des lycées bloqués à l'aube d'une semaine de mobilisation",
-              "u": "https://www.boursedirect.fr/fr/actualites/categorie/economie/crise-dans-l-education-des-lycees-bloques-a-l-aube-d-une-semaine-de-mobilisation-afp-163dec3aae566ae444bd60f720b7431f692e09c7"
-            },
-            {
-              "t": "LCP – Blocage de lycées : Édouard Geffray évoque un mouvement « résiduel », mais alerte sur une « année scolaire en risque »",
-              "u": "https://lcp.fr/actualites/blocage-de-lycees-edouard-geffray-evoque-un-mouvement-residuel-mais-alerte-sur-une-annee"
-            },
-            {
-              "t": "LCP – Violences du 17 octobre : la commission d'enquête de l'Assemblée commencera ses travaux mardi en auditionnant Laurent Nuñez",
-              "u": "https://lcp.fr/actualites/violences-du-17-octobre-la-commission-d-enquete-de-l-assemblee-commencera-ses-travaux"
-            },
-            {
-              "t": "BFMTV (via Shango) – Colère sociale : Marine Tondelier condamne les violences des émeutiers contre les policiers",
-              "u": "https://www.shango.media/bfm-tv-colere-sociale-marine-tondelier-condamne-les-violences-des-emeutiers-contre-les-policiers-12008424"
-            }
-          ],
-          "image": {
-            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2026-11/Capture%20d%27%C3%A9cran%202026-11-02%20093153.png?itok=8LJdYZgI",
-            "credit": "LCP",
-            "alt": "Illustration de l'article de LCP"
-          }
-        },
-        {
-          "id": "2026-11-03-pompiers-mobilises",
-          "rubrique": "Sécurité",
-          "titre": "Pompier blessé par balle près de Marseille : son état s'améliore, rassemblements dans les casernes de tout le pays",
-          "chapo": "Au lendemain des tirs visant les secours aux Pennes-Mirabeau, les neuf syndicats représentatifs des sapeurs-pompiers professionnels ont appelé à une mobilisation nationale. Le suspect, un homme de 51 ans, est en garde à vue.",
-          "faits": [
-            "L'adjudant-chef de 53 ans qui commandait l'intervention a été opéré dimanche soir à Marseille ; son état, jugé très préoccupant, « s'améliore », a indiqué lundi le directeur général de la Sécurité civile, Julien Marion, qui reste prudent.",
-            "Le suspect, âgé de 51 ans, est soupçonné d'avoir lui-même incendié des véhicules dans la zone commerciale de Plan-de-Campagne avant de tirer sur les secours ; il est en garde à vue pour tentatives d'homicide sur personne chargée d'une mission de service public, destruction par moyen dangereux et détention d'armes de catégorie B, selon le procureur d'Aix-en-Provence, Jean-Luc Blachon.",
-            "Lundi, des rassemblements ont eu lieu devant les casernes, véhicules sortis et gyrophares allumés, notamment aux Pennes-Mirabeau, à Marseille, Bordeaux, Valence et Béziers, à l'appel des neuf syndicats représentatifs.",
-            "Le ministre de l'Intérieur, Laurent Nuñez, a dénoncé sur X une agression « violente gratuite » ; selon ici, le suspect a déclaré en garde à vue « détester les pompiers »."
-          ],
-          "enjeu": "L'agression relance la question de la protection des sapeurs-pompiers, visés par près de 1 500 agressions par an selon l'Intérieur, et des moyens alloués aux services d'incendie et de secours, au moment où le budget est en discussion.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant exprime habituellement sa solidarité avec les agents des services publics agressés et lie ces violences au manque de moyens et à la dégradation des conditions de travail.",
-              "src": ""
-            },
-            "gr": {
-              "type": "lecture",
-              "texte": "Le courant condamne habituellement les agressions contre les pompiers et réclame davantage d'effectifs et de moyens pour les services départementaux d'incendie et de secours.",
-              "src": ""
-            },
-            "soc": {
-              "type": "lecture",
-              "texte": "Le courant condamne habituellement ces violences, rend hommage aux secouristes et plaide pour un financement renforcé des SDIS, portés en grande partie par les départements.",
-              "src": ""
-            },
-            "eco": {
-              "type": "lecture",
-              "texte": "Le courant condamne habituellement les violences contre les secours et insiste sur le rôle croissant des pompiers face aux catastrophes climatiques, qui justifie selon lui plus de moyens.",
-              "src": ""
-            },
-            "ren": {
-              "type": "lecture",
-              "texte": "Le courant condamne habituellement les agressions contre les forces de secours et met en avant l'alourdissement des peines prévu pour les violences contre les personnes dépositaires d'une mission de service public.",
-              "src": ""
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant exprime habituellement son soutien aux sapeurs-pompiers et appelle à une réponse pénale ferme, tout en défendant le modèle français de sécurité civile.",
-              "src": ""
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant insiste habituellement sur l'autorité de l'État et la sanction rapide des auteurs de violences contre ceux qui portent secours.",
-              "src": ""
-            },
-            "d": {
-              "type": "lecture",
-              "texte": "Le courant réclame habituellement des peines planchers pour les agressions contre les pompiers et les forces de l'ordre, et une exécution effective des sanctions.",
-              "src": ""
-            },
-            "dn": {
-              "type": "lecture",
-              "texte": "Le courant dénonce habituellement un « ensauvagement » de la société, réclame une tolérance zéro et des peines minimales pour les agresseurs des forces de secours.",
-              "src": ""
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant dénonce habituellement une insécurité qu'il juge hors de contrôle et réclame un durcissement général de la réponse pénale.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "Euronews – France : les pompiers mobilisés au lendemain de l'agression par balle d'un de leurs collègues",
-              "u": "https://fr.euronews.com/2026/11/02/france-les-pompiers-mobilises-au-lendemain-de-lagression-par-balle-dun-de-leurs-collegues"
-            },
-            {
-              "t": "ici – Pompier blessé par balle près de Marseille : le suspect a déclaré « détester les pompiers » lors de sa garde à vue",
-              "u": "https://www.ici.fr/provence-alpes-cote-d-azur/bouches-du-rhone-13/les-pennes-mirabeau/pompier-blesse-par-balle-pres-de-marseille-le-suspect-a-declare-detester-les-pompiers-lors-de-sa-garde-a-vue-8186562"
-            },
-            {
-              "t": "Europe 1 – Pompiers visés par des tirs près de Marseille : ce que l'on sait du suspect",
-              "u": "https://www.europe1.fr/police-justice/pompiers-vises-par-des-tirs-pres-de-marseille-ce-que-lon-sait-du-suspect-1200525"
-            },
-            {
-              "t": "L'essentiel (AFP) – Un sapeur-pompier visé par balle aux Pennes-Mirabeau : le tireur remis à la justice",
-              "u": "https://www.lessentiel.lu/fr/story/pres-de-marseille-un-pompier-grievement-blesse-par-balle-lors-d-une-intervention-103660309"
-            }
-          ],
-          "image": {
-            "u": "https://images.euronews.com/articles/stories/09/97/67/41/1200x675_cmsv2_4b804b13-d765-56f8-a642-e8ca0cd90afc-9976741.jpg",
-            "credit": "Euronews",
-            "alt": "France : les pompiers mobilisés au lendemain de l'agression par balle d'un de leurs collègues"
-          }
-        },
-        {
-          "id": "2026-11-03-belgique-de-wever-demission",
-          "rubrique": "Europe",
-          "titre": "Belgique : faute d'accord budgétaire, Bart De Wever remet sa démission, le roi la tient en suspens",
-          "chapo": "Après l'échec d'une nouvelle réunion nocturne de sa coalition, le Premier ministre belge a présenté lundi la démission de son gouvernement. Le roi Philippe consulte les présidents de parti toute la semaine avant de le revoir vendredi.",
-          "faits": [
-            "Lundi matin, Bart De Wever (N-VA) a remis la démission de son gouvernement au roi Philippe, après l'échec du « kern » réuni dans la nuit sur le budget ; le roi a réservé sa décision, selon la RTBF.",
-            "La coalition dite « Arizona » réunit cinq partis : N-VA, MR, Les Engagés, CD&V et Vooruit ; elle ne s'accorde pas sur une trajectoire pluriannuelle prévoyant un effort de 10 milliards d'euros d'ici 2029, que le MR et Les Engagés proposaient de ramener à 8 milliards, selon La Libre.",
-            "Le MR juge le volume de taxes « beaucoup trop élevé », quand Vooruit et Les Engagés veulent faire contribuer davantage les plus aisés ; Bart De Wever a écarté le recours aux « douzièmes provisoires » pour démarrer 2027.",
-            "Le Palais a regretté l'absence d'accord « crédible » et estimé que le pays « ne peut se permettre une crise politique prolongée » ; les présidents de parti sont reçus de mardi à jeudi, et Bart De Wever est attendu vendredi 6 novembre à 10 h 30."
-          ],
-          "enjeu": "La crise belge fait écho à l'impasse budgétaire française : deux pays voisins sous surveillance des marchés et des règles européennes, sans majorité stable pour réduire leur déficit. Une chute du gouvernement De Wever ouvrirait une nouvelle période d'incertitude à Bruxelles.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant voit habituellement dans ces crises budgétaires européennes la faillite des politiques d'austérité imposées par les règles de l'Union et appelle à les rejeter.",
-              "src": ""
-            },
-            "gr": {
-              "type": "lecture",
-              "texte": "Le courant dénonce habituellement les traités budgétaires européens et l'austérité qu'ils imposent, et défend une hausse des impôts sur les plus riches plutôt que des coupes dans les dépenses sociales.",
-              "src": ""
-            },
-            "soc": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement une réduction du déficit étalée dans le temps, financée en priorité par une contribution des plus hauts revenus et patrimoines.",
-              "src": ""
-            },
-            "eco": {
-              "type": "lecture",
-              "texte": "Le courant plaide habituellement pour une révision des règles budgétaires européennes afin de sortir les investissements écologiques du calcul du déficit.",
-              "src": ""
-            },
-            "ren": {
-              "type": "lecture",
-              "texte": "Le courant insiste habituellement sur la crédibilité budgétaire des États européens et sur la nécessité de compromis entre partis de gouvernement pour tenir les engagements pris à Bruxelles.",
-              "src": ""
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant appelle habituellement à des coalitions de compromis et voit dans les blocages budgétaires une raison de plus de privilégier la culture du dialogue entre partis.",
-              "src": ""
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant met habituellement en garde contre le coût de l'instabilité politique et plaide pour des réformes structurelles permettant de réduire durablement la dépense publique.",
-              "src": ""
-            },
-            "d": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement la maîtrise de la dépense publique plutôt que la hausse des impôts et souligne le risque d'une sanction des marchés pour les pays endettés.",
-              "src": ""
-            },
-            "dn": {
-              "type": "lecture",
-              "texte": "Le courant critique habituellement les contraintes budgétaires imposées par Bruxelles et défend la souveraineté des États dans leurs choix fiscaux et sociaux.",
-              "src": ""
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant dénonce habituellement l'Union européenne et ses règles budgétaires, et prône une baisse des dépenses liées à l'immigration et à la contribution au budget européen.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "L'Avenir – La démission de Bart De Wever mise en suspens par le Roi : pourquoi l'Arizona n'a pas encore poussé son dernier soupir",
-              "u": "https://www.lavenir.net/actu/belgique/politique/2026/11/02/la-demission-de-bart-de-wever-mise-en-suspens-par-le-roi-pourquoi-larizona-na-pas-encore-pousse-son-dernier-soupir-U2YWRIR2TZF6PHZYFSOC2GM62U/"
-            },
-            {
-              "t": "RTBF – Bart De Wever a remis sa démission au Roi, qui réserve sa décision et convoque les présidents de parti",
-              "u": "https://www.rtbf.be/article/direct-bart-de-wever-a-remis-sa-demission-au-roi-qui-reserve-sa-decision-et-convoque-les-presidents-de-parti-11809122"
-            },
-            {
-              "t": "La Libre – Coulisses : durant le kern nocturne, Bart De Wever a proposé de réduire le salaire des ministres tous les mois en l'absence de budget",
-              "u": "https://www.lalibre.be/belgique/politique-belge/2026/11/02/coulisses-durant-le-kern-nocturne-bart-de-wever-a-propose-de-reduire-le-salaire-des-ministres-tous-les-mois-en-labsence-de-budget-GZZEAMEVWVAELHFBOYAFLARMCY/"
-            }
-          ],
-          "image": {
-            "u": "https://www.lavenir.net/resizer/v2/J3WJH6PDRJEMNOGKZNNOQSG7JY.jpg?auth=c2ff9a46bf2842eecc663a8b87390f90083c3c945bf9a6be9c76647273e7b820&width=1200&height=630&quality=85&focal=855%2C570",
-            "credit": "L'Avenir",
-            "alt": "Illustration de l'article de L'Avenir"
-          }
-        }
-      ],
-      "breves": [
-        {
-          "titre": "Primaire : Gabriel Attal la juge « inéluctable »",
-          "texte": "Au lendemain du refus d'Édouard Philippe, Gabriel Attal (Renaissance) a assuré lundi sur TF1 que la primaire de la droite et du centre « aura lieu », estimant que « la division, c'est d'arriver à cinq au premier tour ». Il n'exclut pas de l'organiser sans le candidat d'Horizons.",
-          "src": {
-            "t": "L'Express (via Orange) – Présidentielle 2027 : la primaire de la droite et du centre « aura lieu » et est « inéluctable » selon Gabriel Attal",
-            "u": "https://actu.orange.fr/politique/presidentielle-2027-la-primaire-de-la-droite-et-du-centre-aura-lieu-et-est-ineluctable-selon-gabriel-attal-qui-repond-a-edouard-philippe-l-express-via-6medias-CNT000002tvBak.html"
-          }
-        },
-        {
-          "titre": "Midterms : les Américains aux urnes",
-          "texte": "Les électeurs américains renouvellent ce mardi les 435 sièges de la Chambre des représentants, 35 sièges du Sénat et 36 postes de gouverneur. Les démocrates, favoris des sondages pour la Chambre, doivent gagner au moins quatre sièges dans chaque chambre pour y devenir majoritaires.",
-          "src": {
-            "t": "Toute l'Europe – Midterms : tout savoir sur les élections américaines du 3 novembre",
-            "u": "https://www.touteleurope.eu/l-ue-dans-le-monde/midterms-tout-savoir-sur-les-elections-americaines-du-3-novembre/"
-          }
-        },
-        {
-          "titre": "Mort en garde à vue à Saint-Ouen : l'autopsie ne tranche pas",
-          "texte": "L'autopsie de Mauricio K., 44 ans, mort le 27 octobre au commissariat de Saint-Ouen, n'a pas relevé de lésion traumatique expliquant le décès ; des examens complémentaires sont attendus. Son père a porté plainte pour violences volontaires ayant entraîné la mort, et l'IGPN enquête.",
-          "src": {
-            "t": "Actualit – Mort en garde à vue à Saint-Ouen : l'autopsie ne tranche pas",
-            "u": "https://actualit.fr/article/mort-garde-a-vue-saint-ouen-mauricio-k"
-          }
-        }
-      ],
-      "agenda": [
-        {
-          "d": "Mar. 3 nov.",
-          "t": "Vote solennel sur la partie recettes du budget 2027 à 15 h ; audition de Laurent Nuñez par la commission d'enquête sur le 17 octobre ; blocages de lycées et d'universités ; élections de mi-mandat aux États-Unis"
-        },
-        {
-          "d": "Mer. 4 nov.",
-          "t": "Premiers résultats des midterms au matin, heure de Paris ; Belgique : le roi reçoit les présidents de Vooruit et du MR ; Israël : remise des résultats officiels des législatives au président Herzog"
-        },
-        {
-          "d": "Jeu. 5 nov.",
-          "t": "Grève interprofessionnelle et manifestations contre la vie chère, rejointes par les organisations de jeunesse"
-        },
-        {
-          "d": "Ven. 6 nov.",
-          "t": "Belgique : Bart De Wever de nouveau reçu par le roi ; trajet inaugural du TGV M entre Paris et Marseille"
         },
         {
           "d": "Mar. 17 nov.",
