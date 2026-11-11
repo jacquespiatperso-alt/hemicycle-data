@@ -1,6 +1,502 @@
 {
-  "updated": "2026-11-10T06:29:00+01:00",
+  "updated": "2026-11-11T06:38:00+01:00",
   "editions": [
+    {
+      "date": "2026-11-11",
+      "label": "Mercredi 11 novembre 2026",
+      "maj": "Mise à jour à 6 h 38",
+      "intro": "À Chelles, une élue régionale a été atteinte par une bouteille d'essence devant un lycée bloqué : le parquet a ouvert une enquête pour tentative d'homicide, et l'exécutif promet la fermeté face aux violences en marge du mouvement lycéen. La présidentielle se peuple : Éric Zemmour confirme sa candidature, et celle de Teddy Riner fait réagir toute la classe politique. Au Sénat, la taxe sur les produits trop sucrés revient dans le budget de la Sécu. À l'international, Kamel Daoud est condamné à cinq ans de prison en Algérie.",
+      "stories": [
+        {
+          "id": "2026-11-11-chelles-elue-essence-lycees",
+          "rubrique": "Sécurité",
+          "titre": "Une élue atteinte par une bouteille d'essence devant un lycée bloqué à Chelles : enquête pour tentative d'homicide, l'exécutif promet la fermeté",
+          "chapo": "Mardi, jour de grève dans l'éducation, une conseillère régionale d'Île-de-France a été visée devant le lycée Gaston-Bachelard. Le mouvement lycéen s'essouffle en nombre d'établissements bloqués, mais les violences en marge inquiètent le gouvernement.",
+          "faits": [
+            "Selon le procureur de Meaux, Jean-Baptiste Bladier, une bouteille pleine d'un liquide à l'odeur d'essence a frappé à la poitrine Angela Pascoa Dos Santos, conseillère régionale et adjointe au maire de Chelles (Seine-et-Marne), venue aider à la reprise des cours ; une enquête pour tentative d'homicide volontaire est ouverte et l'auteur n'avait pas été identifié mardi midi.",
+            "Le ministère de l'Éducation a compté 49 lycées bloqués mardi matin, sur environ 3 700, et 1,6 % d'enseignants grévistes ; à Paris, le cortège parti du Panthéon a réuni 5 900 personnes selon la police, 10 000 selon les organisateurs.",
+            "Le gouvernement chiffre à 240 le nombre de personnels de l'Éducation nationale blessés depuis la mi-septembre, après un premier chiffre de près de 300 avancé par le porte-parole Mathieu Lefèvre ; la région Île-de-France évoque une centaine de tirs de mortiers d'artifice en dix jours.",
+            "Laurent Nuñez parle de « violences urbaines » et réclame « la réponse la plus ferme », Emmanuel Macron estime que « la violence n'a pas sa place en démocratie » ; la région se portera partie civile.",
+            "Les organisations de jeunesse appellent à marcher samedi 14 novembre puis à rejoindre la journée interprofessionnelle et fonction publique du mardi 17 novembre."
+          ],
+          "enjeu": "Le gouvernement veut distinguer la mobilisation lycéenne et étudiante des violences commises en marge, au moment où le nombre de lycées bloqués recule. Les syndicats, eux, veulent faire du 17 novembre le point de jonction entre la jeunesse, les fonctionnaires et les salariés du privé.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement la mobilisation de la jeunesse, dénonce la répression policière et judiciaire des blocages et réclame l'amnistie des lycéens interpellés, en renvoyant la responsabilité des tensions au gouvernement.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Bally Bagayoko (LFI), maire de Saint-Denis, a apporté un « soutien indéfectible » aux personnels mobilisés d'un lycée de sa ville et demandé à Emmanuel Macron de « cesser sa stratégie du pourrissement ».",
+              "src": "Sud Radio (AFP), 8 novembre 2026"
+            },
+            "soc": {
+              "type": "declare",
+              "texte": "Olivier Faure (PS) estime que les manifestations s'arrêteront quand le gouvernement répondra aux revendications des lycéens, et prévient que restreindre le droit de manifester mettrait en cause la démocratie.",
+              "src": "Le Grand Jury RTL-Public Sénat-M6, 25 octobre 2026"
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement les revendications des jeunes et des enseignants sur les moyens de l'école, condamne les violences tout en interrogeant la conduite du maintien de l'ordre, et réclame un dialogue réel avec les organisations lycéennes.",
+              "src": ""
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "Gabriel Attal (Renaissance) a adressé son soutien à l'élue de Chelles, qui « tentait d'empêcher qu'une poubelle soit incendiée » : « Rien ne justifie cela. Aucune cause. »",
+              "src": "X, 10 novembre 2026"
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant condamne habituellement toute violence contre les élus et les personnels, appelle au calme et à la reprise des cours, et plaide pour une concertation approfondie sur l'orientation et les moyens de l'école.",
+              "src": ""
+            },
+            "hor": {
+              "type": "declare",
+              "texte": "Laurent Marcangeli, président du groupe Horizons à l'Assemblée, a prévenu que « c'est ceux qui cassent qui devront payer » les dégâts causés dans les établissements.",
+              "src": "Public Sénat, 6 octobre 2026"
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Bruno Retailleau (LR) juge criminel d'avoir jeté « une bouteille remplie d'essence sur une élue de la République » et demande que l'État « reprenne le contrôle » ; Valérie Pécresse (LR) veut une réponse judiciaire « implacable ».",
+              "src": "X et AFP, 10 novembre 2026"
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Jordan Bardella (RN) estime qu'« on n'est plus dans des revendications » ; Éric Ciotti (UDR) qualifie l'agression de Chelles d'« abomination ».",
+              "src": "BFMTV, 10 novembre 2026"
+            },
+            "ed": {
+              "type": "declare",
+              "texte": "Éric Zemmour (Reconquête) a réclamé la fin de « l'excuse de minorité » pour les jeunes auteurs de violences lors des blocages, en jugeant que « nous n'avons plus les mêmes jeunes ».",
+              "src": "CNews, 13 octobre 2026"
+            }
+          },
+          "sources": [
+            {
+              "t": "Boursorama (AFP) – Une élue francilienne atteinte par une bouteille d'essence, enquête pour tentative d'homicide",
+              "u": "https://www.boursorama.com/actualite-economique/actualites/une-elue-francilienne-atteinte-par-une-bouteille-d-essence-enquete-pour-tentative-d-homicide-4f033133edc930d3dd1dc34b123f4cee"
+            },
+            {
+              "t": "Orange (6Medias) – Mobilisation lycéenne : une élue aspergée d'essence à Chelles",
+              "u": "https://actu.orange.fr/france/mobilisation-lyceenne-une-elue-aspergee-d-essence-a-chelles-6medias-CNT000002tEgtp.html"
+            },
+            {
+              "t": "Public Sénat – Reportage : « La bataille n'est pas finie », quand les enseignants se joignent aux lycéens et étudiants dans la rue",
+              "u": "https://www.publicsenat.fr/actualites/education/reportage-la-bataille-nest-pas-finie-quand-les-enseignants-se-joignent-aux-lyceens-et-etudiants-dans-la-rue"
+            },
+            {
+              "t": "Orange (AFP) – Crise dans l'éducation : étudiants, lycéens et enseignants appellent à une nouvelle journée d'action",
+              "u": "https://actu.orange.fr/france/crise-dans-l-education-etudiants-lyceens-et-enseignants-appellent-a-une-nouvelle-journee-d-action-mardi-CNT000002tDqHK.html"
+            },
+            {
+              "t": "Sud Radio (AFP) – Rassemblement contre la répression policière et administrative dans un lycée en grève à Saint-Denis",
+              "u": "https://www.sudradio.fr/societe/rassemblement-contre-la-repression-policiere-et-administrative-dans-un-lycee-en-greve-a-saint-denis"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-11-zemmour-candidat",
+          "rubrique": "Présidentielle 2027",
+          "titre": "Éric Zemmour confirme sa candidature à la présidentielle pour « conserver une France française »",
+          "chapo": "Sur TF1 mardi soir, le président de Reconquête a officialisé sa deuxième candidature à l'Élysée, avec l'immigration au cœur de son projet. Le RN appelle les électeurs de droite à ne pas se disperser.",
+          "faits": [
+            "Interrogé au journal de 20 heures de TF1, Éric Zemmour, 68 ans, a déclaré : « Oui, je vous le confirme, je suis bien candidat à l'élection présidentielle », après l'avoir déjà annoncé sur BFMTV le 17 septembre.",
+            "Il propose une « immigration négative », avec deux millions d'immigrés en moins d'ici la fin du quinquennat, notamment par l'expulsion des détenus étrangers et des étrangers au chômage depuis plus de six mois, un référendum sur la politique migratoire et 280 milliards d'euros de baisses de dépenses et d'impôts.",
+            "Arrivé quatrième en 2022 avec 7,07 % des voix, il est crédité d'environ 4 % dans les sondages, loin derrière Marine Le Pen, à qui il reproche de refuser l'union des droites.",
+            "Sarah Knafo, qui s'était mise en retrait en septembre, l'avait présenté comme le « candidat naturel » de Reconquête ; comme tous les candidats, il doit réunir 500 parrainages d'élus."
+          ],
+          "enjeu": "Cette candidature divise à nouveau l'électorat de la droite nationale, que le RN veut rassembler derrière Marine Le Pen. Elle relance aussi le débat sur l'union des droites, au moment où les candidatures se multiplient à cinq mois du premier tour.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant combat habituellement l'extrême droite sous toutes ses formes, dénonce un discours qui divise les travailleurs selon leur origine et appelle à lui répondre par la mobilisation sociale plutôt que dans les urnes.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Fabien Roussel (PCF), lui-même candidat, a réagi en demandant que les responsables politiques condamnés pour racisme soient rendus inéligibles.",
+              "src": "AFP, 10 novembre 2026"
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant dénonce habituellement chez Éric Zemmour un projet contraire aux valeurs républicaines et à l'égalité des citoyens, et appelle la gauche à s'unir pour faire barrage à l'extrême droite.",
+              "src": ""
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant voit habituellement dans le discours d'Éric Zemmour sur l'immigration et le « grand remplacement » une menace pour la cohésion du pays, et défend une politique d'accueil fondée sur les droits.",
+              "src": ""
+            },
+            "ren": {
+              "type": "lecture",
+              "texte": "Le courant présente habituellement Éric Zemmour comme le candidat d'une rupture avec l'État de droit et l'Europe, et appelle les électeurs modérés à se rassembler autour d'un projet central.",
+              "src": ""
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant récuse habituellement les thèses d'Éric Zemmour sur l'identité et l'immigration au nom de l'humanisme et de l'unité nationale, et met en garde contre la radicalisation du débat.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant insiste habituellement sur la nécessité de maîtriser l'immigration tout en rejetant les propositions d'Éric Zemmour, jugées contraires au droit et irréalistes.",
+              "src": ""
+            },
+            "d": {
+              "type": "lecture",
+              "texte": "Le courant partage habituellement l'objectif d'une forte baisse de l'immigration mais refuse l'alliance avec Reconquête, et voit dans cette candidature un risque de dispersion des voix de droite.",
+              "src": ""
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Jordan Bardella (RN) a appelé les électeurs qui veulent que la France reste la France à voter pour Marine Le Pen, plutôt que de disperser leurs voix.",
+              "src": "AFP, 10 novembre 2026"
+            },
+            "ed": {
+              "type": "declare",
+              "texte": "Éric Zemmour (Reconquête) dit se présenter « pour conserver une France française » et reproche à Marine Le Pen de refuser l'union des droites et de ne pas combattre le « grand remplacement ».",
+              "src": "TF1, 10 novembre 2026"
+            }
+          },
+          "sources": [
+            {
+              "t": "Boursorama (AFP) – Éric Zemmour annonce sa candidature à la présidentielle pour « conserver une France française »",
+              "u": "https://www.boursorama.com/actualite-economique/actualites/eric-zemmour-annonce-sa-candidature-a-la-presidentielle-pour-conserver-une-france-francaise-e3c40be163c3d2a1e333c3363a109ca3"
+            },
+            {
+              "t": "Boursorama (Reuters) – Éric Zemmour confirme sa candidature à la présidentielle",
+              "u": "https://www.boursorama.com/actualite-economique/actualites/france-eric-zemmour-confirme-sa-candidature-a-la-presidentielle-c6e0d3f18ca4b5451746a094f938ab4c"
+            },
+            {
+              "t": "Quartz – Éric Zemmour confirme sa candidature à la présidentielle 2027",
+              "u": "https://fr.qz.com/eric-zemmour-confirme-candidature-presidentielle-2027-tf1-111026"
+            },
+            {
+              "t": "LCP – Présidentielle 2027 : la liste des candidats déclarés et potentiels",
+              "u": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-11-riner-reactions",
+          "rubrique": "Présidentielle 2027",
+          "titre": "Candidature de Teddy Riner : entre accueil poli et soupçon d'une « opération » de l'Élysée",
+          "chapo": "Au lendemain de l'entrée en campagne du judoka, la classe politique s'interroge sur son positionnement « ni l'un, ni l'autre » et sur le rôle d'Emmanuel Macron, qui a salué une candidature qui « ne peut qu'apporter au pays ».",
+          "faits": [
+            "Teddy Riner, 37 ans, quintuple champion olympique, a annoncé lundi sa candidature sous le slogan « La France qu'on veut », en se voulant « le président qui réconcilie et qui fédère ».",
+            "Ses premières pistes : baisse de la dépense publique et de la dette, réduction de l'écart entre salaire brut et net, dépassement des 35 heures sans les supprimer et une réforme des retraites qui n'exclut pas « une part de capitalisation ».",
+            "Selon l'AFP et Le Parisien, l'association qui finance sa campagne est présidée par l'homme d'affaires Philippe Véran, soutien d'Emmanuel Macron en 2017 ; le chef de l'État a jugé sur France 5 que cette candidature « ne peut qu'apporter au pays ».",
+            "Selon un sondage Toluna-Harris Interactive pour L'Opinion, 10 % des Français pourraient envisager de voter pour lui ; il doit encore réunir 500 parrainages avant le 12 mars."
+          ],
+          "enjeu": "La candidature d'une personnalité très populaire mais sans expérience politique peut capter des électeurs de tous bords, en particulier dans le bloc central déjà divisé. Ses concurrents cherchent à la fois à ne pas l'attaquer de front et à le rattacher au camp présidentiel.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant voit habituellement dans les candidatures de personnalités issues de la société civile une manière de contourner les questions sociales, et oppose à ce type de profil un programme centré sur les salaires et les services publics.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Mathilde Panot (LFI) a balayé la question : « Ça ne nous concerne pas tellement », a-t-elle dit à propos de cette candidature.",
+              "src": "BFMTV, 10 novembre 2026"
+            },
+            "soc": {
+              "type": "declare",
+              "texte": "Patrick Kanner, président du groupe PS au Sénat, dit ne pas prendre cette candidature « à la rigolade » : « je pense qu'Emmanuel Macron est derrière ».",
+              "src": "Public Sénat, 10 novembre 2026"
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant juge habituellement que la présidentielle doit se jouer sur les projets, notamment écologiques et sociaux, plutôt que sur la notoriété, et se méfie des candidatures présentées comme au-dessus des clivages.",
+              "src": ""
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "Gabriel Attal (Renaissance) a souhaité la « bienvenue » au judoka dans la course, tandis que son conseiller Patrick Vignal réfute toute manœuvre du chef de l'État.",
+              "src": "Public Sénat, 10 novembre 2026"
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant salue habituellement l'engagement de personnalités de la société civile au nom du dépassement des clivages, tout en appelant à éviter l'éparpillement des candidatures du centre.",
+              "src": ""
+            },
+            "hor": {
+              "type": "declare",
+              "texte": "Édouard Philippe (Horizons) voit en Teddy Riner « un candidat de poids » : « Est-ce qu'il me fait peur ? Non, je l'admire. » La sénatrice Laure Darcos juge qu'« on n'a pas besoin d'une candidature de plus ».",
+              "src": "BFMTV, 9 novembre, et Public Sénat, 10 novembre 2026"
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Max Brisson, sénateur LR proche de Bruno Retailleau, y voit « le révélateur de la crise politique profonde de notre pays ».",
+              "src": "Public Sénat, 10 novembre 2026"
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Jordan Bardella (RN) estime que Teddy Riner « a le droit d'être candidat », quand Éric Ciotti (UDR) se demande si la démarche est « téléguidée pour soutenir le Titanic macroniste ».",
+              "src": "BFMTV et franceinfo, 10 novembre 2026"
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant voit habituellement dans les candidatures de personnalités médiatiques une diversion orchestrée par le camp présidentiel, et oppose à ce profil les questions d'immigration et d'identité.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Public Sénat – Teddy Riner candidat : « Opération téléguidée » par l'Élysée, ou « révélateur d'une crise politique profonde » ?",
+              "u": "https://www.publicsenat.fr/actualites/politique/teddy-riner-candidat-operation-teleguidee-par-lelysee-ou-revelateur-dune-crise-politique-profonde"
+            },
+            {
+              "t": "LCP – Retraites, salaires, sécurité : que propose Teddy Riner pour la présidentielle ?",
+              "u": "https://lcp.fr/actualites/retraites-salaires-securite-que-propose-teddy-riner-pour-la-presidentielle-444935"
+            },
+            {
+              "t": "Public Sénat – Teddy Riner au défi de transformer « son capital sympathie en capital électoral »",
+              "u": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-teddy-riner-au-defi-de-transformer-son-capital-sympathie-en-capital-electoral"
+            },
+            {
+              "t": "Quartz – Les députés réagissent à la candidature de Teddy Riner",
+              "u": "https://fr.qz.com/deputes-reagissent-candidature-teddy-riner-presidentielle-111026"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-11-plfss-senat-taxe-sucre",
+          "rubrique": "Budget",
+          "titre": "Budget de la Sécu : le Sénat vote la taxe sur les produits trop sucrés, artisans exclus, et sauve les chantiers d'insertion",
+          "chapo": "Supprimée par les députés en octobre, la taxe sur les produits sucrés a été rétablie mardi par les sénateurs, qui en ont exonéré les produits artisanaux. Ils ont aussi refusé de supprimer les exonérations de cotisations des chantiers d'insertion publics.",
+          "faits": [
+            "Les amendements de suppression de l'article 8 ont été rejetés par 274 voix contre 66 ; la taxe vise les produits industriels contenant au moins 10 g de sucre pour 100 g et un additif, ou des édulcorants de synthèse, pour environ 300 millions d'euros par an.",
+            "Selon la ministre de la Santé Stéphanie Rist, il en coûterait environ un centime de plus pour une barre chocolatée et six centimes pour un paquet de gâteaux ; les sénateurs ont exclu les produits artisanaux, ceux emballés sur le lieu de vente et les aliments à des fins médicales.",
+            "À une très large majorité, le Sénat a supprimé l'article 5, qui mettait fin aux exonérations de cotisations des chantiers d'insertion portés par des employeurs publics : plus de 200 structures et environ 9 000 salariés, pour 15 millions d'euros de recettes.",
+            "L'Assemblée ayant rejeté le texte en première lecture, les sénateurs examinent la version du gouvernement jusqu'au 17 novembre ; le vote solennel est prévu le 18 novembre, avant une commission mixte paritaire."
+          ],
+          "enjeu": "Le Sénat réécrit le budget de la Sécurité sociale à sa main avant une navette difficile avec une Assemblée sans majorité. La taxe sur le sucre oppose santé publique et pouvoir d'achat, avec un clivage qui traverse la droite et le centre.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant s'oppose habituellement aux taxes sur la consommation, jugées payées d'abord par les classes populaires, et réclame de faire contribuer les profits de l'industrie agroalimentaire.",
+              "src": ""
+            },
+            "gr": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement la taxation des produits trop sucrés au nom de la santé publique, en demandant qu'elle pèse sur les industriels plutôt que sur les consommateurs, et défend les structures d'insertion.",
+              "src": ""
+            },
+            "soc": {
+              "type": "declare",
+              "texte": "Bernard Jomier (Place publique), sénateur de Paris, a soutenu la taxe sur les produits sucrés lors du débat dans l'hémicycle.",
+              "src": "Public Sénat, 10 novembre 2026"
+            },
+            "eco": {
+              "type": "declare",
+              "texte": "Ghislaine Senée (Les Écologistes) a défendu au Sénat la suppression de l'article qui mettait fin aux exonérations des chantiers d'insertion publics.",
+              "src": "Public Sénat, 10 novembre 2026"
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "Xavier Iacovelli (Renaissance) a fait exclure de la taxe les denrées alimentaires destinées à des fins médicales spéciales.",
+              "src": "Public Sénat, 10 novembre 2026"
+            },
+            "modem": {
+              "type": "declare",
+              "texte": "Cyrille Isaac-Sibille (MoDem) avait défendu la taxe sur les produits sucrés à l'Assemblée, au nom de la prévention, lorsque les députés l'avaient supprimée.",
+              "src": "Journal du Net, 23 octobre 2026"
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant se montre habituellement partagé sur ce type de taxe : favorable à la prévention en santé, il se méfie des hausses de prélèvements qui pèsent sur les entreprises et le pouvoir d'achat.",
+              "src": ""
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Philippe Mouiller (LR), président de la commission des affaires sociales, s'est rallié à la taxe au vu des données de santé, tandis que Frédérique Puissat (LR) y voit surtout un moyen de « faire rentrer de l'argent ».",
+              "src": "Public Sénat, 10 novembre 2026"
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Christophe Bentz (RN) s'était opposé à la taxe à l'Assemblée, que le RN, LR et l'UDR ont fait supprimer ; au Sénat, les élus RN-UDR ont voté sa suppression.",
+              "src": "Journal du Net, 23 octobre, et Public Sénat, 10 novembre 2026"
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant rejette habituellement toute nouvelle taxe, présentée comme une atteinte au pouvoir d'achat et une ingérence dans les choix alimentaires des Français.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Public Sénat – Une hausse de 6 centimes du paquet de gâteau : la taxe sur les produits trop sucrés votée au Sénat après exclusion des produits artisanaux",
+              "u": "https://www.publicsenat.fr/actualites/sante/une-hausse-de-6-centimes-du-paquet-de-gateau-la-taxe-sur-les-produits-trop-sucres-votee-au-senat-apres-exclusion-des-produits-artisanaux"
+            },
+            {
+              "t": "Public Sénat – Budget 2027 de la Sécurité sociale : unanime, le Sénat s'oppose à la fin des exonérations de cotisations sociales en faveur des chantiers d'insertion publics",
+              "u": "https://www.publicsenat.fr/actualites/economie/budget-2027-de-la-securite-sociale-unanime-le-senat-soppose-a-la-fin-des-exonerations-de-cotisations-sociales-en-faveur-des-chantiers-dinsertion-publics"
+            },
+            {
+              "t": "Public Sénat – Budget 2027 : les points chauds lors des débats au Sénat du 9 au 17 novembre",
+              "u": "https://www.publicsenat.fr/actualites/politique/budget-2027-les-points-chauds-lors-des-debats-au-senat-du-9-au-17-novembre"
+            },
+            {
+              "t": "Journal du Net – Les députés rejettent la taxe sur les produits sucrés proposée par le gouvernement",
+              "u": "https://www.journaldunet.com/business/action-publique/1557031-les-deputes-rejettent-la-taxe-sur-les-produits-sucres-proposee-par-le-gouvernement/"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-11-kamel-daoud-condamne-algerie",
+          "rubrique": "International",
+          "titre": "Algérie : Kamel Daoud condamné par défaut à cinq ans de prison dans l'affaire liée à son roman « Houris »",
+          "chapo": "Le tribunal d'Oran a condamné mardi l'écrivain franco-algérien, prix Goncourt 2024, et son épouse psychiatre, à la veille des 500 jours de détention du journaliste Christophe Gleizes en Algérie.",
+          "faits": [
+            "Le tribunal correctionnel de Fellaoucène, à Oran, a condamné par défaut Kamel Daoud et son épouse, la psychiatre Aïcha Dahdouh, à cinq ans de prison ferme et 300 000 dinars d'amende chacun, et confirmé les mandats d'arrêt internationaux visant le couple ; le parquet avait requis six ans.",
+            "Ils étaient poursuivis pour divulgation du secret professionnel, soustraction d'un dossier médical et atteinte à la vie privée, sur plainte de Saâda Arbane, rescapée d'un massacre de la « décennie noire », qui affirme que son histoire a été utilisée sans son accord pour le personnage d'Aube.",
+            "Kamel Daoud dénonce « un procès sans défense ni justice » ; il avait déjà été condamné en avril à trois ans de prison en Algérie, et la plainte de Saâda Arbane contre lui et Gallimard doit être examinée à Paris le 9 décembre.",
+            "Le journaliste français Christophe Gleizes, condamné à sept ans de prison en Algérie, atteint ce mercredi 500 jours de détention ; aucune réaction officielle française au verdict n'avait été relevée mardi soir."
+          ],
+          "enjeu": "Ce jugement s'ajoute au contentieux entre Paris et Alger autour des écrivains et journalistes poursuivis en Algérie. Il pèse sur une relation bilatérale déjà fragile, où la France espère encore une grâce pour Christophe Gleizes.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement la liberté d'expression face aux régimes autoritaires, tout en se tenant à distance des débats qu'il juge instrumentalisés contre l'Algérie, et rappelle le passé colonial de la France.",
+              "src": ""
+            },
+            "gr": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement la liberté de création et appelle à une relation apaisée avec l'Algérie, en privilégiant le dialogue diplomatique à l'escalade verbale.",
+              "src": ""
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement la liberté d'expression des écrivains et des journalistes et demande à la diplomatie française d'agir avec fermeté et discrétion pour obtenir la libération des Français détenus en Algérie.",
+              "src": ""
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement la liberté de création et les droits humains, et appelle à soutenir les écrivains et journalistes poursuivis tout en évitant l'escalade entre Paris et Alger.",
+              "src": ""
+            },
+            "ren": {
+              "type": "lecture",
+              "texte": "Le courant affirme habituellement l'attachement de la France à la liberté de création et privilégie une diplomatie exigeante mais ouverte avec Alger pour obtenir des gestes, notamment sur Christophe Gleizes.",
+              "src": ""
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement la liberté d'expression et appelle à préserver un dialogue exigeant avec l'Algérie, en raison des liens humains entre les deux pays.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant plaide habituellement pour un rapport de force avec Alger, y compris sur les accords migratoires de 1968, afin d'obtenir le respect des libertés et la libération des Français détenus.",
+              "src": ""
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Bruno Retailleau (LR) avait dénoncé la première condamnation de Kamel Daoud, « condamné à 3 ans de prison par l'Algérie pour avoir écrit la vérité », et plaide pour une ligne de fermeté envers Alger.",
+              "src": "X, 23 avril 2026"
+            },
+            "dn": {
+              "type": "lecture",
+              "texte": "Le courant réclame habituellement des mesures de rétorsion contre l'Algérie, comme la remise en cause de l'accord de 1968 et la réduction des visas, et dénonce une diplomatie française jugée trop conciliante.",
+              "src": ""
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant dénonce habituellement la politique du gouvernement algérien envers la France et réclame une rupture nette, avec la fin des accords migratoires et des aides au développement.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Orange (AFP) – Algérie : Kamel Daoud condamné à 5 ans de prison dans l'affaire liée à son roman « Houris »",
+              "u": "https://actu.orange.fr/societe/people/algerie-kamel-daoud-condamne-a-5-ans-de-prison-dans-l-affaire-liee-a-son-roman-quot-houris-quot-CNT000002tEsey.html"
+            },
+            {
+              "t": "ActuaLitté – Houris : Kamel Daoud et son épouse condamnés à cinq ans de prison",
+              "u": "https://actualitte.com/article/135178/droit-justice/houris-kamel-daoud-et-son-epouse-condamnes-a-cinq-ans-de-prison"
+            },
+            {
+              "t": "TSA Algérie – Kamel Daoud et sa femme lourdement condamnés en Algérie",
+              "u": "https://www.tsa-algerie.com/kamel-daoud-et-sa-femme-lourdement-condamnes-en-algerie/"
+            }
+          ]
+        }
+      ],
+      "breves": [
+        {
+          "titre": "Le RN trouve deux banques européennes pour financer sa campagne",
+          "texte": "Le Rassemblement national a obtenu un préaccord de deux banques européennes non françaises pour un prêt d'environ 10,6 millions d'euros destiné à la campagne de Marine Le Pen, a confirmé son trésorier Kévin Pfeffer, qui attend une réponse définitive d'ici fin novembre. Aucune banque française n'avait accepté.",
+          "src": {
+            "t": "Boursorama (AFP) – Présidentielle : le RN a obtenu un préaccord de deux banques européennes pour financer sa campagne",
+            "u": "https://www.boursorama.com/actualite-economique/actualites/presidentielle-le-rn-a-obtenu-un-preaccord-de-deux-banques-europeennes-pour-financer-sa-campagne-2db3f3c031abef20ab0b1c660a3fc489"
+          }
+        },
+        {
+          "titre": "Michel Houellebecq mis en examen pour des propos sur les musulmans",
+          "texte": "Un juge d'instruction de Nanterre a mis en examen mardi l'écrivain pour complicité de provocation à la haine, à la suite d'une plainte de l'Union des mosquées de France visant un entretien publié en 2022 dans la revue Front populaire. Ses avocats contestent l'infraction et invoquent la liberté d'expression.",
+          "src": {
+            "t": "Orange (AFP) – Michel Houellebecq mis en examen pour des propos hostiles aux musulmans",
+            "u": "https://actu.orange.fr/societe/people/michel-houellebecq-mis-en-examen-pour-des-propos-hostiles-aux-musulmans-CNT000002tEpxa.html"
+          }
+        },
+        {
+          "titre": "Chômage : léger recul à 8,2 % au troisième trimestre",
+          "texte": "Selon l'Insee, le taux de chômage a baissé de 0,1 point au troisième trimestre, première baisse depuis début 2025, mais il progresse de 0,4 point sur un an. Le gouverneur de la Banque de France prévoit une croissance plutôt autour de 0,3 % en 2026. Le décret qui pénalise les branches aux minima sous le Smic est paru au Journal officiel.",
+          "src": {
+            "t": "Journal du Net – Le taux de chômage en France baisse à 8,2 % au troisième trimestre 2026",
+            "u": "https://www.journaldunet.com/business/action-publique/1557805-le-taux-de-chomage-en-france-baisse-a-8-2-au-troisieme-trimestre-2026/"
+          }
+        },
+        {
+          "titre": "Ukraine : Paris insiste, pas d'accord « sans les Européens »",
+          "texte": "Les pourparlers entre Russes, Ukrainiens et Américains se poursuivent ce mercredi à Abou Dhabi après une première journée jugée « constructive » par Volodymyr Zelensky. L'Élysée, représenté en marge par ses conseillers, prévient qu'aucun règlement durable n'est possible sans prise en compte de la sécurité européenne.",
+          "src": {
+            "t": "Boursorama (Reuters) – Ukraine : pas d'accord « sans les Européens », dit Paris",
+            "u": "https://www.boursorama.com/actualite-economique/actualites/ukraine-pas-d-accord-sans-les-europeens-dit-paris-0a56c78b68979cccd1db29f135742585"
+          }
+        }
+      ],
+      "agenda": [
+        {
+          "d": "Mer. 11 nov.",
+          "t": "Commémorations de l'Armistice de 1918 ; deuxième jour des pourparlers sur l'Ukraine à Abou Dhabi ; 500 jours de détention de Christophe Gleizes en Algérie"
+        },
+        {
+          "d": "Jeu. 12 nov.",
+          "t": "Examen du projet de loi de finances de fin de gestion 2026 à l'Assemblée ; le Sénat reprend le budget de la Sécurité sociale"
+        },
+        {
+          "d": "Ven. 13 nov.",
+          "t": "Sébastien Lecornu reçoit les syndicats de la fonction publique"
+        },
+        {
+          "d": "Sam. 14 nov.",
+          "t": "Marche des organisations lycéennes et étudiantes"
+        },
+        {
+          "d": "Lun. 16 nov.",
+          "t": "Conseil des ministres des Affaires étrangères de l'UE, avec les cyberattaques à l'ordre du jour"
+        },
+        {
+          "d": "Mar. 17 nov.",
+          "t": "Journée de grève et de manifestations à l'appel de la CGT, d'une intersyndicale de la fonction publique et des organisations de jeunesse"
+        },
+        {
+          "d": "Mer. 18 nov.",
+          "t": "Vote solennel du Sénat sur le budget de la Sécurité sociale"
+        },
+        {
+          "d": "Jeu. 19 nov.",
+          "t": "Journée réservée au PS à l'Assemblée (régularisation des travailleurs sans papiers) ; le Sénat examine la présomption de légitime défense des forces de l'ordre"
+        },
+        {
+          "d": "Ven. 20 nov.",
+          "t": "Début de l'examen du projet de loi de finances 2027 en séance au Sénat"
+        }
+      ]
+    },
     {
       "date": "2026-11-10",
       "label": "Mardi 10 novembre 2026",
@@ -3060,575 +3556,6 @@
         {
           "d": "Ven. 20 nov.",
           "t": "Début de l'examen du projet de loi de finances 2027 en séance au Sénat."
-        }
-      ]
-    },
-    {
-      "date": "2026-11-04",
-      "label": "Mercredi 4 novembre 2026",
-      "maj": "Mise à jour à 6 h 31",
-      "intro": "Les démocrates ont repris cette nuit le Sénat et la Chambre des représentants, un sérieux revers pour Donald Trump à deux ans de la fin de son mandat. En France, le vote sur les recettes du budget a de nouveau glissé, Laurent Nuñez a reconnu devant les députés que le 17 octobre était « un échec », et Sébastien Lecornu a annoncé le relèvement du plafond du Livret A. Les blocages ont gagné les universités à la veille de la grève de jeudi, et la pétition contre CNews dépasse les 750 000 signatures.",
-      "stories": [
-        {
-          "id": "2026-11-04-budget-recettes-fin",
-          "rubrique": "Budget",
-          "titre": "Budget 2027 : vote des recettes encore reporté, les débats pourraient s'achever ce mercredi soir",
-          "chapo": "Faute d'avoir épuisé les amendements, l'Assemblée n'a pas voté mardi sur la partie recettes. Le rejet reste le scénario le plus probable, et la gauche cherche une autre voie pour financer les mesures promises aux jeunes.",
-          "faits": [
-            "Le vote solennel sur la première partie du projet de loi de finances 2027, prévu mardi 3 novembre, n'a pas eu lieu : c'est le deuxième report après celui du 20 octobre.",
-            "Lundi à minuit, 758 amendements restaient à examiner ; Sébastien Chenu (RN), qui présidait la séance, estimait qu'au même rythme les débats pourraient se terminer mercredi soir.",
-            "Les députés ont jusqu'au 17 novembre à minuit pour se prononcer sur l'ensemble du texte en première lecture.",
-            "En cas de rejet des recettes, le budget part au Sénat dans sa version initiale, sans les amendements adoptés et sans examen des dépenses.",
-            "Le président de la commission des finances, Éric Coquerel (LFI), propose d'inscrire les mesures pour les lycéens et étudiants dans le projet de loi de fin de gestion 2026, examiné en commission le 9 novembre."
-          ],
-          "enjeu": "Un rejet effacerait trois semaines de votes, dont plusieurs adoptés contre l'avis du gouvernement. La suite se jouerait au Sénat, puis en commission mixte paritaire, avec le 49.3, la loi spéciale ou les ordonnances en arrière-plan d'ici décembre.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant rejette habituellement tout budget qu'il juge d'austérité, refuse de choisir entre les versions débattues au Parlement et appelle à imposer par la grève une autre répartition des richesses.",
-              "src": ""
-            },
-            "gr": {
-              "type": "declare",
-              "texte": "Éric Coquerel (LFI), président de la commission des finances, a écrit à Sébastien Lecornu pour inscrire les mesures destinées aux jeunes dans la loi de fin de gestion 2026, financées par une contribution sur les hauts patrimoines ou une taxe sur les superprofits.",
-              "src": "LCP, 3 novembre 2026"
-            },
-            "soc": {
-              "type": "declare",
-              "texte": "Estelle Mercier (PS), cheffe de file du groupe sur le budget, juge la piste de Coquerel possible mais étroite, les crédits 2026 devant être dépensés en deux mois ; Emmanuel Grégoire (PS) suggère plutôt des ordonnances suivies d'une loi rectificative.",
-              "src": "LCP, 3 novembre 2026"
-            },
-            "eco": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement une hausse de la fiscalité sur les hauts patrimoines et les superprofits, et des crédits supplémentaires pour l'éducation et la transition écologique, en refusant un budget qu'il juge trop restrictif.",
-              "src": ""
-            },
-            "ren": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement le projet du gouvernement, défend la trajectoire de réduction du déficit et s'oppose aux hausses d'impôts votées par les oppositions, qu'il juge nuisibles à l'activité.",
-              "src": ""
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant appelle habituellement au compromis pour doter le pays d'un budget, se montre ouvert à une contribution des plus hauts revenus et insiste sur la maîtrise de la dette.",
-              "src": ""
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant met habituellement l'accent sur la réduction de la dépense publique et la stabilité fiscale, et critique les hausses d'impôts adoptées par amendement.",
-              "src": ""
-            },
-            "d": {
-              "type": "lecture",
-              "texte": "Le courant réclame habituellement des économies sur la dépense publique plutôt que des impôts nouveaux et se montre sévère envers les taxes votées pendant les débats.",
-              "src": ""
-            },
-            "dn": {
-              "type": "lecture",
-              "texte": "Le courant s'oppose habituellement au budget du gouvernement, réclame des économies sur l'immigration, la contribution française à l'Union européenne et les agences de l'État, et défend le pouvoir d'achat.",
-              "src": ""
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant dénonce habituellement le niveau des prélèvements et de la dépense publique, et réclame des économies drastiques sur l'immigration et l'aide sociale.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "LCP – Budget 2027 : le vote solennel prévu mardi n'aura pas lieu",
-              "u": "https://lcp.fr/actualites/budget-2027-le-marathon-de-la-partie-recettes-n-etant-pas-termine-le-vote-solennel-prevu"
-            },
-            {
-              "t": "Public Sénat – Budget 2027 : calendrier, 49.3, ordonnances, les scénarios possibles",
-              "u": "https://www.publicsenat.fr/actualites/politique/budget-2027-calendrier-49-3-ordonnancesquelles-sont-les-echeances-a-venir-et-les-scenarios-possibles"
-            },
-            {
-              "t": "LCP – Budget : la proposition d'Éric Coquerel au gouvernement pour répondre aux revendications lycéennes et étudiantes",
-              "u": "https://lcp.fr/actualites/budget-la-proposition-d-eric-coquerel-au-gouvernement-pour-repondre-aux-revendications"
-            }
-          ],
-          "image": {
-            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2026-11/Assemble%CC%81e%20nationale.jpg?itok=ZxIZ74y5",
-            "credit": "LCP",
-            "alt": "Illustration de l'article de LCP"
-          }
-        },
-        {
-          "id": "2026-11-04-jeunesse-greve-jeudi",
-          "rubrique": "Social",
-          "titre": "Lycées et facs : 51 établissements du supérieur perturbés mardi selon le ministère, avant la grève interprofessionnelle de jeudi",
-          "chapo": "Les blocages ont gagné les universités mardi, avec des chiffres très éloignés selon les sources. Jeudi 5 novembre, les syndicats appellent à la grève contre la vie chère, rejoints par les organisations de jeunesse.",
-          "faits": [
-            "Selon le ministère de l'Enseignement supérieur, 51 établissements sur 184 ont été perturbés mardi, contre environ 15 % lundi ; l'Union étudiante parle d'une université sur deux et de plus de 50 campus bloqués.",
-            "Le ministère de l'Éducation nationale comptait 48 lycées bloqués à 9 h 30, contre 41 la veille, quand l'Union syndicale lycéenne en revendique plus de 500.",
-            "À Marseille, l'IGPN a été saisie après la plainte d'un homme blessé lors d'affrontements ; à Montpellier, une infirmière scolaire a été brièvement placée en garde à vue pour outrage, puis relâchée sans poursuite.",
-            "Matignon a demandé une analyse établissement par établissement, plusieurs lycées étant bloqués de façon répétée.",
-            "Jeudi, la CGT, FO et les autres syndicats de l'intersyndicale appellent à la grève pour les salaires et les services publics."
-          ],
-          "enjeu": "La jonction entre le mouvement lycéen et étudiant et la grève de jeudi sera un test pour le gouvernement, qui a déjà débloqué un milliard d'euros pour le bâti universitaire. Le maintien de l'ordre reste sous surveillance après les blessures graves de lycéens en octobre.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement les blocages et appelle à la grève générale reconductible, en liant revendications de la jeunesse et hausse des salaires.",
-              "src": ""
-            },
-            "gr": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement la mobilisation des jeunes, réclame la fin de Parcoursup, des moyens pour les lycées et universités et une hausse du Smic, et dénonce la répression policière.",
-              "src": ""
-            },
-            "soc": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement les revendications sur les moyens de l'école et le pouvoir d'achat, appelle le gouvernement à négocier et plaide pour la désescalade dans le maintien de l'ordre.",
-              "src": ""
-            },
-            "eco": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement les mobilisations de la jeunesse, réclame davantage de moyens pour l'éducation et critique l'usage des grenades et du gaz lacrymogène face aux lycéens.",
-              "src": ""
-            },
-            "ren": {
-              "type": "lecture",
-              "texte": "Le courant met habituellement en avant les mesures déjà annoncées par l'exécutif, appelle au dialogue et à la réouverture des établissements, et condamne les violences.",
-              "src": ""
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant appelle habituellement à l'écoute des inquiétudes des jeunes et au dialogue social, tout en défendant le droit d'étudier et la sécurité des établissements.",
-              "src": ""
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant insiste habituellement sur le retour au calme, le respect du droit d'étudier et la fermeté face aux blocages et aux dégradations.",
-              "src": ""
-            },
-            "d": {
-              "type": "lecture",
-              "texte": "Le courant condamne habituellement les blocages d'établissements, réclame des sanctions contre leurs auteurs et soutient les forces de l'ordre.",
-              "src": ""
-            },
-            "dn": {
-              "type": "lecture",
-              "texte": "Le courant dénonce habituellement les blocages et le désordre, met en cause l'extrême gauche dans les violences et réclame le rétablissement de l'ordre, tout en reprenant le thème du pouvoir d'achat.",
-              "src": ""
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant dénonce habituellement les blocages comme une manipulation politique de la jeunesse et réclame une répression ferme des débordements.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "franceinfo – Mouvement lycéen : les blocages, un point de crispation pour les mobilisés à deux jours de la grève nationale",
-              "u": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mouvement-lyceen-les-blocages-un-point-de-crispation-pour-les-mobilises-a-deux-jours-de-la-greve-nationale_8266547.html"
-            },
-            {
-              "t": "France 24 – Mobilisations en France : nouveaux blocages de facs et de lycées",
-              "u": "https://www.france24.com/fr/vid%C3%A9o/20261103-mobilisations-en-france-nouveaux-blocages-de-facs-et-de-lyc%C3%A9es"
-            },
-            {
-              "t": "Public Sénat – La CGT appelle à une grève générale le 5 novembre à l'issue de la réunion à Matignon",
-              "u": "https://www.publicsenat.fr/actualites/politique/la-cgt-appelle-a-une-greve-generale-le-5-novembre-a-lissue-de-la-reunion-a-matignon-des-syndicats"
-            }
-          ],
-          "image": {
-            "u": "https://www.franceinfo.fr/pictures/f_5U8e3muT6UM21bUN3-jRuPU10/0x60:1171x719/1500x843/2026/11/03/6aea459290278058783599.jpg",
-            "credit": "franceinfo",
-            "alt": "Mouvement lycéen : les blocages, un point de crispation pour les mobilisés à deux jours de la grève nationale"
-          }
-        },
-        {
-          "id": "2026-11-04-nunez-17-octobre-echec",
-          "rubrique": "Sécurité",
-          "titre": "Devant la commission d'enquête, Laurent Nuñez reconnaît que le 17 octobre « est un échec »",
-          "chapo": "Premier auditionné par la commission d'enquête sur les violences du 17 octobre, le ministre de l'Intérieur assume un « défaut d'anticipation » et rappelle avoir proposé sa démission au lendemain des faits.",
-          "faits": [
-            "Mardi 3 novembre, Laurent Nuñez a été le premier entendu par la commission d'enquête de l'Assemblée, présidée par Vincent Caure (EPR) et boycottée par le RN.",
-            "Il a qualifié la journée d'« échec » et reconnu un défaut d'anticipation qu'il ne réduit pas à une question d'effectifs, en mettant en avant l'intensité et la simultanéité des violences.",
-            "Une note du renseignement territorial du 15 octobre évoquait un « potentiel insurrectionnel » et un risque de pillages.",
-            "Le ministre a indiqué avoir proposé sa démission le 18 octobre, refusée par Emmanuel Macron.",
-            "La veille, devant la commission des lois, il avait refusé de renoncer aux grenades et au gaz lacrymogène."
-          ],
-          "enjeu": "L'aveu d'échec relance la question de la responsabilité politique du ministre, dont plusieurs oppositions réclament le départ depuis octobre. Il pèse aussi sur la crédibilité d'une commission fragilisée par le retrait de sa rapporteure et le boycott du RN.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant dénonce habituellement une doctrine de maintien de l'ordre qu'il juge répressive, réclame le désarmement des forces de l'ordre en manifestation et refuse de condamner la colère sociale.",
-              "src": ""
-            },
-            "gr": {
-              "type": "declare",
-              "texte": "Éric Coquerel (LFI) a réclamé la démission de Laurent Nuñez, jugeant la doctrine du maintien de l'ordre inacceptable ; Danièle Obono (LFI) a étendu cette demande au Premier ministre.",
-              "src": "LCP, 18 octobre 2026"
-            },
-            "soc": {
-              "type": "declare",
-              "texte": "Olivier Faure (PS) a condamné les casseurs tout en demandant un changement de doctrine : « C'est la désescalade qui doit être recherchée, pas la confrontation ».",
-              "src": "LCP, 18 octobre 2026"
-            },
-            "eco": {
-              "type": "declare",
-              "texte": "Marine Tondelier (Les Écologistes) a jugé qu'il n'y avait « pas d'autre issue » à la journée du 17 octobre que la démission du ministre, accusé d'avoir sous-estimé la mobilisation.",
-              "src": "LCP, 18 octobre 2026"
-            },
-            "ren": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement le ministre de l'Intérieur et les forces de l'ordre, tout en se disant favorable au travail d'enquête parlementaire pour tirer les leçons des défaillances.",
-              "src": ""
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant appelle habituellement à faire toute la lumière sur les dysfonctionnements par le contrôle parlementaire, sans remettre en cause le soutien aux forces de l'ordre.",
-              "src": ""
-            },
-            "hor": {
-              "type": "declare",
-              "texte": "Agnès Firmin Le Bodo (Horizons) a renoncé à son rôle de rapporteure de la commission d'enquête, en exprimant des doutes sur la crédibilité de ses travaux.",
-              "src": "LCP, 29 octobre 2026"
-            },
-            "d": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement les forces de l'ordre, met en cause les casseurs et l'ultragauche et réclame davantage de fermeté pénale contre les auteurs de violences.",
-              "src": ""
-            },
-            "dn": {
-              "type": "declare",
-              "texte": "Franck Allisio (RN) a jugé Laurent Nuñez « complètement dépassé et incompétent » et estimé qu'il aurait dû démissionner ; le groupe RN boycotte la commission d'enquête.",
-              "src": "LCP, 18 et 29 octobre 2026"
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant dénonce habituellement le laxisme de l'État face aux émeutes, lie les violences urbaines à l'immigration et réclame une répression beaucoup plus dure.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "LCP – 17 octobre : Laurent Nuñez reconnaît « un échec » et « un défaut d'anticipation »",
-              "u": "https://lcp.fr/actualites/17-octobre-laurent-nunez-reconnait-un-echec-et-un-defaut-d-anticipation-qui-ne-se-reduit"
-            },
-            {
-              "t": "LCP – Maintien de l'ordre : Laurent Nuñez ne renoncera à aucun moyen intermédiaire",
-              "u": "https://lcp.fr/actualites/maintien-de-l-ordre-laurent-nunez-ne-renoncera-a-aucun-moyen-intermediaire-comme-les"
-            },
-            {
-              "t": "LCP – « Il n'y a pas d'autre issue que sa démission » : Laurent Nuñez sous le feu des critiques",
-              "u": "https://lcp.fr/actualites/il-n-y-a-pas-d-autre-issue-que-sa-demission-laurent-nunez-sous-le-feu-des-critiques"
-            },
-            {
-              "t": "LCP – Violences du 17 octobre : la commission d'enquête de l'Assemblée commencera ses travaux",
-              "u": "https://lcp.fr/actualites/violences-du-17-octobre-la-commission-d-enquete-de-l-assemblee-commencera-ses-travaux"
-            }
-          ],
-          "image": {
-            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2026-11/Laurent%20Nu%C3%B1ez%20le%203%20novembre%202026.jpg?itok=BakHuVgZ",
-            "credit": "LCP",
-            "alt": "Illustration de l'article de LCP"
-          }
-        },
-        {
-          "id": "2026-11-04-livret-a-plafond",
-          "rubrique": "Économie",
-          "titre": "Livret A : Sébastien Lecornu annonce un plafond porté entre 25 000 et 30 000 euros dès février 2027",
-          "chapo": "Inchangé depuis 2013, le plafond du Livret A va être relevé, et son taux aussi. Le Premier ministre veut orienter cette épargne vers le logement social, le nucléaire et l'adaptation au climat.",
-          "faits": [
-            "Lors des questions au gouvernement du 3 novembre, Sébastien Lecornu a annoncé le relèvement du plafond du Livret A, aujourd'hui de 22 950 euros, à un montant compris entre 25 000 et 30 000 euros au 1er février 2027.",
-            "Le montant exact sera fixé par le ministre de l'Économie, Roland Lescure, après concertation avec les banques et la Caisse des dépôts.",
-            "Le taux, de 1,70 % depuis le 1er août, sera lui aussi relevé en février.",
-            "Les fonds doivent financer le logement social, le nouveau nucléaire, les réseaux et un programme d'adaptation au changement climatique.",
-            "Le 16 octobre, des amendements d'Éric Coquerel (LFI) pour un plafond à 30 000 euros avaient été rejetés."
-          ],
-          "enjeu": "La mesure touche des millions d'épargnants et renforce le fonds d'épargne de la Caisse des dépôts. Le débat porte désormais sur l'usage de ces sommes, en particulier leur fléchage vers le nucléaire.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant juge habituellement secondaires les mesures sur l'épargne et réclame d'abord des hausses de salaires et un contrôle public des banques.",
-              "src": ""
-            },
-            "gr": {
-              "type": "declare",
-              "texte": "Éric Coquerel (LFI) salue la reprise d'une mesure qu'il avait défendue mais refuse de flécher le Livret A vers les EPR et propose un « livret B » ; Jean-Luc Mélenchon (LFI) dénonce une filière nucléaire « ruineuse et hasardeuse ».",
-              "src": "HuffPost, 3 novembre 2026"
-            },
-            "soc": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement une épargne populaire mieux rémunérée et prioritairement orientée vers le logement social et la rénovation.",
-              "src": ""
-            },
-            "eco": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement le fléchage de l'épargne réglementée vers la rénovation thermique, le logement social et les renouvelables, et s'oppose à son usage pour le nucléaire.",
-              "src": ""
-            },
-            "ren": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement les choix du gouvernement et met en avant la mobilisation de l'épargne des Français au service du logement et de la souveraineté énergétique.",
-              "src": ""
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant se montre habituellement favorable à une épargne populaire mieux protégée de l'inflation et orientée vers l'investissement de long terme.",
-              "src": ""
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement la mobilisation de l'épargne vers l'investissement productif et le nucléaire, en veillant au coût pour les finances publiques.",
-              "src": ""
-            },
-            "d": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement le nucléaire et la protection de l'épargne des ménages, tout en restant attentif aux effets sur le financement des banques.",
-              "src": ""
-            },
-            "dn": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement l'épargne populaire et le nucléaire, et réclame un relèvement du taux pour protéger le pouvoir d'achat des épargnants.",
-              "src": ""
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement l'épargne des ménages contre la fiscalité et soutient la relance du nucléaire.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "LCP – Livret A : Sébastien Lecornu annonce un plafond entre 25 000 et 30 000 euros dès février",
-              "u": "https://lcp.fr/actualites/livret-a-sebastien-lecornu-annonce-un-plafond-entre-25000-et-30000-euros-des-fevrier"
-            },
-            {
-              "t": "Toutsurmesfinances – Plafond du Livret A : Lecornu annonce une hausse entre 25 000 et 30 000 euros en février 2027",
-              "u": "https://www.toutsurmesfinances.com/actualites/a/plafond-du-livret-a-lecornu-annonce-une-hausse-entre-25-000-et-30-000-euros-en-fevrier-2027"
-            },
-            {
-              "t": "HuffPost – La France insoumise applaudit (presque) cette annonce de Sébastien Lecornu sur le Livret A",
-              "u": "https://fr.news.yahoo.com/sport/france-insoumise-applaudit-presque-annonce-193104381.html"
-            }
-          ],
-          "image": {
-            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2026-11/Epargne%20S%C3%A9bastien%20Lecornu%20annonce%20un%20rel%C3%A8vement%20du%20plafond%20du%20Livret%20A.jpg?itok=6TCUNVCv",
-            "credit": "LCP",
-            "alt": "Illustration de l'article de LCP"
-          }
-        },
-        {
-          "id": "2026-11-04-petition-cnews-750000",
-          "rubrique": "Société",
-          "titre": "Pétition contre CNews : plus de 750 000 signatures, l'Assemblée s'oriente vers un débat sur la liberté d'expression",
-          "chapo": "Le texte demandant la fermeture de la chaîne a continué de grimper depuis l'attentat raciste de Trappes. La commission des affaires culturelles doit nommer un rapporteur ce mercredi.",
-          "faits": [
-            "Déposée en juin sur le site de l'Assemblée, la pétition demandant le retrait de la convention TNT de CNews a dépassé 750 000 signatures mardi soir, dont environ 600 000 en quelques jours après l'attentat raciste de Trappes.",
-            "Réuni mardi, le bureau de la commission des affaires culturelles doit proposer ce mercredi de nommer son président, Alexandre Portier (LR), rapporteur ; la commission choisira la semaine prochaine entre un débat en séance et un classement.",
-            "Une piste consiste à classer la pétition tout en demandant un débat plus large sur la liberté d'expression et la régulation.",
-            "Une pétition n'a pas d'effet législatif direct ; le retrait d'une fréquence relève de l'Arcom, qui a mis CNews en demeure en juin sur le pluralisme."
-          ],
-          "enjeu": "Le dossier oppose la défense du pluralisme et du respect des obligations de la chaîne à celle de la liberté de la presse. Il place le Parlement dans une position délicate, alors que seule l'Arcom peut sanctionner.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant dénonce habituellement la concentration des médias entre les mains de grands groupes privés et soutient les initiatives contre les chaînes qu'il juge porteuses de discours racistes.",
-              "src": ""
-            },
-            "gr": {
-              "type": "lecture",
-              "texte": "Le courant critique habituellement l'empire médiatique de Vincent Bolloré, réclame des lois anticoncentration et soutient les démarches visant à faire respecter le pluralisme par CNews.",
-              "src": ""
-            },
-            "soc": {
-              "type": "lecture",
-              "texte": "Le courant plaide habituellement pour une loi anticoncentration et un renforcement des pouvoirs de l'Arcom, plutôt que pour une fermeture décidée par le politique.",
-              "src": ""
-            },
-            "eco": {
-              "type": "lecture",
-              "texte": "Le courant dénonce habituellement la ligne éditoriale des médias du groupe Bolloré ; deux députés écologistes ont demandé fin octobre le retrait des accréditations de ses médias à l'Assemblée.",
-              "src": ""
-            },
-            "ren": {
-              "type": "lecture",
-              "texte": "Le courant rappelle habituellement que la régulation des chaînes revient à l'Arcom et se montre réservé sur toute fermeture d'un média décidée sous pression politique.",
-              "src": ""
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement le pluralisme et l'indépendance des médias, en confiant leur contrôle au régulateur plutôt qu'au Parlement.",
-              "src": ""
-            },
-            "hor": {
-              "type": "declare",
-              "texte": "Jérémie Patrier-Leitus (Horizons), porte-parole de la campagne d'Édouard Philippe, a rappelé qu'« en démocratie, on ne ferme pas les médias ».",
-              "src": "Public Sénat, 3 novembre 2026"
-            },
-            "d": {
-              "type": "declare",
-              "texte": "Alexandre Portier (LR), président de la commission des affaires culturelles, se dit inquiet des appels à la censure et juge que ses collègues attendent un débat sur la liberté d'expression, le pluralisme et la régulation.",
-              "src": "LCP et Public Sénat, 3 novembre 2026"
-            },
-            "dn": {
-              "type": "lecture",
-              "texte": "Le courant dénonce habituellement les démarches contre CNews comme une atteinte à la liberté d'expression et une volonté de faire taire les médias qui ne partagent pas la ligne de la gauche.",
-              "src": ""
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement CNews, qu'il présente comme l'une des rares chaînes pluralistes, et dénonce une tentative de censure.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "Public Sénat – Pétition : la chaîne CNews peut-elle disparaître de la TNT ?",
-              "u": "https://www.publicsenat.fr/actualites/politique/petition-la-chaine-cnews-peut-elle-disparaitre-de-la-tnt"
-            },
-            {
-              "t": "LCP – Pétition contre CNews : vers l'organisation d'un débat plus large sur la liberté d'expression",
-              "u": "https://lcp.fr/actualites/petition-contre-cnews-vers-l-organisation-d-un-debat-plus-large-sur-la-liberte-d"
-            }
-          ],
-          "image": {
-            "u": "https://www.publicsenat.fr/app/uploads/2026/11/SIPA_01312813_000002-scaled.jpg",
-            "credit": "Public Sénat",
-            "alt": "Illustration de l'article de Public Sénat"
-          }
-        },
-        {
-          "id": "2026-11-04-midterms-democrates-congres",
-          "rubrique": "International",
-          "titre": "États-Unis : les démocrates reprennent le Sénat et la Chambre, revers majeur pour Donald Trump aux midterms",
-          "chapo": "Portés par six conquêtes au Sénat, dont le Texas et l'Ohio, les démocrates contrôleront les deux chambres du Congrès pour les deux dernières années du mandat de Donald Trump.",
-          "faits": [
-            "Les démocrates obtiennent la majorité au Sénat, selon les projections fondées sur les résultats de l'agence AP, en reprenant six sièges aux républicains, qui détenaient 53 sièges sur 100 : Caroline du Nord, Caroline du Sud, Texas, Ohio, Kansas et Iowa.",
-            "À la Chambre des représentants, NBC les projette à au moins 244 sièges sur 435.",
-            "Au Texas, la démocrate Gina Hinojosa bat le gouverneur sortant Greg Abbott.",
-            "Donald Trump dit accepter les résultats et vouloir travailler avec les démocrates, tout en affirmant que son camp aurait gagné s'il avait été lui-même candidat.",
-            "Le dollar a reculé et la Bourse de Tokyo a perdu près de 3 %."
-          ],
-          "enjeu": "Avec un Congrès hostile, Donald Trump perd la maîtrise du budget et devra composer avec des enquêtes parlementaires. Les capitales européennes, dont Paris, observent les conséquences sur l'Ukraine, les droits de douane et l'OTAN.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant considère habituellement démocrates et républicains comme deux partis du capital et met en avant les luttes sociales américaines plutôt que le résultat électoral.",
-              "src": ""
-            },
-            "gr": {
-              "type": "lecture",
-              "texte": "Le courant oppose habituellement une critique frontale de Donald Trump et de l'impérialisme américain, et salue les candidats progressistes de l'aile gauche démocrate.",
-              "src": ""
-            },
-            "soc": {
-              "type": "lecture",
-              "texte": "Le courant voit habituellement dans un recul de Donald Trump une bonne nouvelle pour la démocratie et les alliances transatlantiques, et soutient le camp démocrate.",
-              "src": ""
-            },
-            "eco": {
-              "type": "lecture",
-              "texte": "Le courant dénonce habituellement la politique climatique et sociale de Donald Trump et salue tout contre-pouvoir face à son administration.",
-              "src": ""
-            },
-            "ren": {
-              "type": "lecture",
-              "texte": "Le courant met habituellement en avant l'autonomie stratégique européenne quel que soit le résultat américain, tout en espérant un partenaire plus prévisible sur l'Ukraine et le commerce.",
-              "src": ""
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant insiste habituellement sur la solidité des institutions américaines et sur la nécessité pour l'Europe de s'affirmer face aux États-Unis.",
-              "src": ""
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant prône habituellement une relation transatlantique solide et une Europe de la défense crédible, quelles que soient les majorités à Washington.",
-              "src": ""
-            },
-            "d": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement l'alliance avec les États-Unis tout en réclamant une Europe plus ferme face aux droits de douane américains.",
-              "src": ""
-            },
-            "dn": {
-              "type": "lecture",
-              "texte": "Le courant se montre habituellement prudent dans ses commentaires sur Donald Trump, insiste sur la souveraineté nationale et le refus de l'alignement sur Washington.",
-              "src": ""
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant affiche habituellement sa proximité avec le camp de Donald Trump et voit dans ses difficultés l'effet d'une mobilisation de la gauche américaine.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "20 minutes – Direct résultats des midterms : les démocrates remportent une victoire totale",
-              "u": "https://www.20min.ch/fr/story/midterms-les-democrates-remportent-la-chambre-des-representants-103660810"
-            },
-            {
-              "t": "NPR – 2026 midterms: Democrats win the Senate",
-              "u": "https://www.npr.org/2026/11/03/g-s1-149526/2026-midterms-congress-balance-of-power"
-            },
-            {
-              "t": "France 24 – Midterms en direct : avec des conquêtes historiques, les démocrates s'emparent du Sénat",
-              "u": "https://www.france24.com/fr/am%C3%A9riques/20261103-en-direct-etats-unis-midterms-elections-mi-mandat-congres-gouverneurs-trump-democrates-republicains"
-            }
-          ],
-          "image": {
-            "u": "https://image.20min.ch/2026/11/04/b6ba7754-691e-435c-98d2-34344fc677f7.jpg?auto=format%2Ccompress%2Cenhance&fit=max&w=1200&h=1200&rect=0%2C0%2C1024%2C682&s=7da816894600812f742a1ade5c3e0734",
-            "credit": "20 minutes",
-            "alt": "Illustration de l'article de 20 minutes"
-          }
-        }
-      ],
-      "breves": [
-        {
-          "titre": "Encadrement des loyers : course contre la montre avant le 24 novembre",
-          "texte": "Les députés examinent la proposition de loi d'Iñaki Echaniz (PS), adoptée au Sénat le 21 octobre dans une version qui prolonge l'expérimentation de deux ans, jusqu'en novembre 2028. Sans vote, le dispositif s'arrête le 24 novembre ; l'examen en séance est prévu le 18 novembre.",
-          "src": {
-            "t": "LCP – Encadrement des loyers : les députés doivent se prononcer sur la prolongation",
-            "u": "https://lcp.fr/actualites/encadrement-des-loyers-les-deputes-doivent-se-prononcer-sur-la-prolongation-de-l"
-          }
-        },
-        {
-          "titre": "Afghanistan : Laurent Nuñez confirme des « discussions techniques » avec les talibans",
-          "texte": "Devant la commission des lois, le ministre de l'Intérieur a reconnu des échanges avec les autorités talibanes pour reconduire des Afghans en situation irrégulière jugés dangereux. L'écologiste Léa Balage El Mariky l'accuse de normaliser les relations avec un régime pratiquant un « apartheid de genre ».",
-          "src": {
-            "t": "LCP – Maintien de l'ordre : Laurent Nuñez ne renoncera à aucun moyen intermédiaire",
-            "u": "https://lcp.fr/actualites/maintien-de-l-ordre-laurent-nunez-ne-renoncera-a-aucun-moyen-intermediaire-comme-les"
-          }
-        },
-        {
-          "titre": "Inéligibilité de Marine Le Pen : le débat juridique relancé",
-          "texte": "Un magistrat honoraire de la Cour de cassation soutient que la peine de première instance reste exécutoire tant que le pourvoi n'est pas jugé, une lecture contestée par d'autres juristes. Les avocats de Marine Le Pen ont saisi le CSM. La liste des candidats à la présidentielle sera arrêtée le 26 mars 2027.",
-          "src": {
-            "t": "Public Sénat – Présidentielle 2027 : le débat sur l'inéligibilité de Marine Le Pen relancé",
-            "u": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-le-debat-sur-lineligibilite-de-marine-le-pen-relance"
-          }
-        }
-      ],
-      "agenda": [
-        {
-          "d": "Mer. 4 nov.",
-          "t": "Suite et fin possible de l'examen des recettes du budget 2027 ; commission des affaires culturelles : nomination du rapporteur de la pétition contre CNews ; Belgique : le roi reçoit les présidents de Vooruit et du MR"
-        },
-        {
-          "d": "Jeu. 5 nov.",
-          "t": "Grève interprofessionnelle et manifestations pour les salaires et contre la vie chère, rejointes par les organisations de jeunesse"
-        },
-        {
-          "d": "Ven. 6 nov.",
-          "t": "Trajet inaugural du TGV M entre Paris et Marseille ; Belgique : Bart De Wever de nouveau reçu par le roi"
-        },
-        {
-          "d": "Lun. 9 nov.",
-          "t": "Projet de loi de fin de gestion 2026 en commission des finances"
-        },
-        {
-          "d": "Jeu. 12 nov.",
-          "t": "Début de l'examen du budget de la Sécurité sociale au Sénat"
-        },
-        {
-          "d": "Mar. 17 nov.",
-          "t": "Date limite de la première lecture du budget 2027 à l'Assemblée"
         }
       ]
     }
