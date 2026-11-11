@@ -93,7 +93,12 @@
               "t": "Sud Radio (AFP) – Rassemblement contre la répression policière et administrative dans un lycée en grève à Saint-Denis",
               "u": "https://www.sudradio.fr/societe/rassemblement-contre-la-repression-policiere-et-administrative-dans-un-lycee-en-greve-a-saint-denis"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.boursorama.com/static/i/content/images/6/8/9/689984deb7e69f7d781827722b6b83a7-1200x800.jpg",
+            "credit": "Boursorama (AFP)",
+            "alt": "Le procureur de la République de Meaux Jean-Baptiste Bladier, à Meaux en Seine-et-Marne le 26 décembre 2023 ( AFP / ALAIN JOCARD )"
+          }
         },
         {
           "id": "2026-11-11-zemmour-candidat",
@@ -176,7 +181,12 @@
               "t": "LCP – Présidentielle 2027 : la liste des candidats déclarés et potentiels",
               "u": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.boursorama.com/static/i/content/images/5/f/d/5fdebabe38653747655f98133275a8e1-1200x800.jpg",
+            "credit": "Boursorama (AFP)",
+            "alt": "Le dirigeant du parti Reconquête! Eric Zemmour à la foire de Châlons-en-Champagne, dans la Marne, le 3 septembre 2026 ( AFP / Sameer AL-DOUMY )"
+          }
         },
         {
           "id": "2026-11-11-riner-reactions",
@@ -259,7 +269,12 @@
               "t": "Quartz – Les députés réagissent à la candidature de Teddy Riner",
               "u": "https://fr.qz.com/deputes-reagissent-candidature-teddy-riner-presidentielle-111026"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.publicsenat.fr/app/uploads/2026/11/Riner-1200x630.jpg",
+            "credit": "Public Sénat",
+            "alt": "Illustration de l'article de Public Sénat"
+          }
         },
         {
           "id": "2026-11-11-plfss-senat-taxe-sucre",
@@ -342,7 +357,12 @@
               "t": "Journal du Net – Les députés rejettent la taxe sur les produits sucrés proposée par le gouvernement",
               "u": "https://www.journaldunet.com/business/action-publique/1557031-les-deputes-rejettent-la-taxe-sur-les-produits-sucres-proposee-par-le-gouvernement/"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.publicsenat.fr/app/uploads/2026/11/SIPA_01144868_000024-1200x630.jpg",
+            "credit": "Public Sénat",
+            "alt": "Illustration de l'article de Public Sénat"
+          }
         },
         {
           "id": "2026-11-11-kamel-daoud-condamne-algerie",
@@ -421,7 +441,12 @@
               "t": "TSA Algérie – Kamel Daoud et sa femme lourdement condamnés en Algérie",
               "u": "https://www.tsa-algerie.com/kamel-daoud-et-sa-femme-lourdement-condamnes-en-algerie/"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://proxymedia.woopic.com/api/v1/images/2275%2Factu%2Fafp-news%2Fa61c9006-04e6-4352-992e-d5fed5c5b942.jpg?format=1200x630&facedetect=1&quality=85",
+            "credit": "Orange (AFP)",
+            "alt": "Illustration de l'article de Orange (AFP)"
+          }
         }
       ],
       "breves": [
