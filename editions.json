@@ -93,7 +93,12 @@
               "t": "Entrevue – Mobilisation lycéenne : Manuel Bompard rejette les accusations du gouvernement",
               "u": "https://entrevue.fr/politique/mobilisation-lyceenne-manuel-bompard-rejette-les-accusations/"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.sudradio.fr/wp-content/uploads/2026/11/5c66620ff0503623b4baa98e3682c7bb41c126a0.jpg",
+            "credit": "Sud Radio (AFP)",
+            "alt": "Illustration de l'article de Sud Radio (AFP)"
+          }
         },
         {
           "id": "2026-11-12-dernier-11-novembre-macron",
@@ -177,7 +182,12 @@
               "t": "Ministère des Armées – Programme du 11 novembre 2026",
               "u": "https://www.defense.gouv.fr/actualites/programme-du-11-novembre-2026-hommage-aux-etudiants-1940-ravivage-flamme"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://images.euronews.com/articles/stories/09/98/85/71/1200x675_cmsv2_7e7ce9d2-09d9-5449-8008-b68097a8c694-9988571.jpg",
+            "credit": "Euronews",
+            "alt": "11-Novembre : entre mémoire nationale et pacifisme, les hommages de Macron, Le Pen et Mélenchon"
+          }
         },
         {
           "id": "2026-11-12-plfg-2026-assemblee",
@@ -260,7 +270,12 @@
               "t": "Assemblée nationale – Dossier législatif du projet de loi de finances de fin de gestion pour 2026",
               "u": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N55223"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2026-10/bercy.png?itok=hu_-uxrg",
+            "credit": "LCP",
+            "alt": "Illustration de l'article de LCP"
+          }
         },
         {
           "id": "2026-11-12-ukraine-abou-dhabi-fin",
@@ -343,7 +358,12 @@
               "t": "Imaz Press (AFP) – Dernier 11-Novembre pour Macron, Le Pen appelle à « l'unité », Mélenchon à se souvenir de l'Histoire",
               "u": "https://imazpress.com/france-monde/dernier-11-novembre-pour-macron-le-pen-appelle-a-l-unite-melenchon-a-se-souvenir-de-l-histoire"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://i.abcnewsfe.com/a/b287da27-23c9-41c0-b231-1ce4ec0e611b/Ukraine-drone-DB-261111_1794393065641_hpMain_16x9.jpg?w=1600",
+            "credit": "ABC News",
+            "alt": "Illustration de l'article de ABC News"
+          }
         }
       ],
       "breves": [
