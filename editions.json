@@ -81,7 +81,12 @@
               "t": "Public Sénat – Mouvement étudiant : le Premier ministre annonce 5 000 places supplémentaires en licence",
               "u": "https://www.publicsenat.fr/actualites/education/mouvement-etudiant-le-premier-ministre-annonce-5-000-places-supplementaires-en-licence"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.publicsenat.fr/app/uploads/2026/11/SIPA_sipahub60242052_000085.jpg",
+            "credit": "Public Sénat",
+            "alt": "Illustration de l'article de Public Sénat"
+          }
         },
         {
           "id": "2026-11-13-collectif-budgetaire-rejete",
@@ -160,7 +165,12 @@
               "t": "Poligraph – Scrutin n° 9895 : l'ensemble du projet de loi de finances de fin de gestion pour 2026",
               "u": "https://poligraph.fr/parlement/votes/2026-11-12-l-ensemble-du-projet-de-loi-de-finances-de-fin-de-gestion-pour-2026-p"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2026-10/bercy.png?itok=hu_-uxrg",
+            "credit": "LCP",
+            "alt": "Illustration de l'article de LCP"
+          }
         },
         {
           "id": "2026-11-13-secu-senat-allegements",
@@ -323,7 +333,12 @@
               "t": "franceinfo – Plan de relance agricole : une enveloppe « ridicule » qui ne peut « régler une crise structurelle », juge le député écologiste Benoît Biteau",
               "u": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/plan-de-relance-agricole-une-enveloppe-ridicule-qui-ne-peut-regler-une-crise-structurelle-juge-le-depute-ecologiste-benoit-biteau_8279774.html"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.boursorama.com/static/i/content/images/b/1/b/b1b56a92e7a7e6bb5f5cdd86e9ebf311-1200x800.jpg",
+            "credit": "Boursorama (AFP)",
+            "alt": "Le Premier ministre Sébastien Lecornu lors d'une conférence de presse sur le plan de relance agricole, le 12 novembre 2026 à Paris ( POOL / GEOFFROY VAN DER HASSELT )"
+          }
         },
         {
           "id": "2026-11-13-presidentielle-primaire-grand-oral",
@@ -403,7 +418,12 @@
               "t": "Boursorama (AFP) – Retailleau juge que la primaire doit se faire même sans Philippe",
               "u": "https://www.boursorama.com/actualite-economique/actualites/retailleau-juge-que-la-primaire-doit-se-faire-meme-sans-philippe-1c232913a9486dae718d8aa85a692c69"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.publicsenat.fr/app/uploads/2026/11/SIPA_01244825_000006-e1794507398380-1200x630.jpg",
+            "credit": "Public Sénat",
+            "alt": "Illustration de l'article de Public Sénat"
+          }
         },
         {
           "id": "2026-11-13-ukraine-poutine-emissaires",
@@ -478,7 +498,12 @@
               "t": "Boursorama (AFP) – Les Européens présents aux prochaines négociations sur l'Ukraine, selon Kiev et Washington",
               "u": "https://www.boursorama.com/bourse/actualites/ukraine-russie-poutine-inflexible-lors-de-sa-rencontre-avec-les-envoyes-americains-2cf1f545d791b8407d703c10200bdcbf"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://icibeyrouth.com/images/bibli/720/960/2/afp20261112d78r2cqv1highresrussiaukraineconflictusdiplomacy.jpg",
+            "credit": "Ici Beyrouth (AFP)",
+            "alt": "Illustration de l'article de Ici Beyrouth (AFP)"
+          }
         }
       ],
       "breves": [
