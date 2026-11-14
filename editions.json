@@ -88,7 +88,12 @@
               "t": "Icilinfo (Anadolu) – France : 70 000 policiers mobilisés samedi face à une nouvelle journée de manifestations",
               "u": "https://icilinfo.dz/france-70-000-policiers-mobilises-samedi-face-a-une-nouvelle-journee-de-manifestations/"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://proxymedia.woopic.com/api/v1/images/2275%2Factu%2Fafp-news%2Ff59f9b2d-6dae-4aef-82a5-ec368372648a.jpg?format=1200x630&facedetect=1&quality=85",
+            "credit": "Orange (AFP)",
+            "alt": "Illustration de l'article de Orange (AFP)"
+          }
         },
         {
           "id": "2026-11-14-fonction-publique-greve",
@@ -171,7 +176,12 @@
               "t": "Quartz (AFP) – Sébastien Lecornu reçoit les syndicats de la fonction publique",
               "u": "https://fr.qz.com/sebastien-lecornu-recoit-syndicats-fonction-publique-salaires-111326"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://s.france24.com/media/display/8806f2bc-df5d-11f1-a294-3f371022a770/w:1280/p:16x9/000-D79Y2V4.jpg",
+            "credit": "France 24",
+            "alt": "Illustration de l'article de France 24"
+          }
         },
         {
           "id": "2026-11-14-plfss-senat-recettes",
@@ -254,7 +264,12 @@
               "t": "Quartz (AFP) – Le Sénat adopte la partie recettes du budget de la Sécurité sociale",
               "u": "https://fr.qz.com/senat-adopte-recettes-budget-securite-sociale-111326"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.boursorama.com/static/i/content/images/a/b/d/abdc5c7a42dc372f193ad73ef49994b4-1200x800.jpg",
+            "credit": "Boursorama (AFP)",
+            "alt": "( AFP / THOMAS SAMSON )"
+          }
         },
         {
           "id": "2026-11-14-primaire-sarkozy-zemmour",
@@ -337,7 +352,12 @@
               "t": "Elections 2027 – Sarkozy appelle à une large primaire de la droite et du centre",
               "u": "https://elections2027.com/article/2026-11-13-sarkozy-appelle-a-une-large-primaire-de-la-droite-et-du-centre"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://s.yimg.com/lo/mysterio/api/3ea92b19d9a4eea3e85528f3d78a6d657ea666b6e1ff1446599136f358920b1c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Ffr%2Farticle.bfmtv.com%2Fe9b8717da03467a0735d84279a21317e.jpg",
+            "credit": "Yahoo (BFMTV)",
+            "alt": "Illustration de l'article de Yahoo (BFMTV)"
+          }
         },
         {
           "id": "2026-11-14-ukraine-europeens-table",
@@ -416,7 +436,12 @@
               "t": "Quartz – Witkoff déclare que l'Europe rejoindra les prochaines discussions de paix sur l'Ukraine",
               "u": "https://fr.qz.com/witkoff-europe-rejoignent-les-prochaines-pourparlers-de-paix-en-ukraine-111226"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://static.themoscowtimes.com/image/og/66/94236__66a059a1ea7e84834675a6723c4387e9.jpg",
+            "credit": "The Moscow Times (Reuters)",
+            "alt": "Illustration de l'article de The Moscow Times (Reuters)"
+          }
         }
       ],
       "breves": [
