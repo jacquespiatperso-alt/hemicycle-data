@@ -1,6 +1,469 @@
 {
-  "updated": "2026-11-13T06:32:24+01:00",
+  "updated": "2026-11-14T06:26:00+01:00",
   "editions": [
+    {
+      "date": "2026-11-14",
+      "label": "Samedi 14 novembre 2026",
+      "maj": "Mise à jour à 6 h 26",
+      "intro": "Les proviseurs sont descendus dans la rue vendredi contre les violences qui les visent, à la veille d'une nouvelle journée de manifestations. À Matignon, la réunion avec les syndicats de fonctionnaires n'a pas désamorcé la grève de mardi, que rejoint la CFDT, et le Sénat adopte un volet recettes de la Sécu délesté de la taxe sur les mutuelles. Nicolas Sarkozy plaide pour une primaire large, où Éric Zemmour veut entrer. À l'international, l'Europe se prépare à rejoindre la table des négociations sur l'Ukraine, sans feu vert de Moscou.",
+      "stories": [
+        {
+          "id": "2026-11-14-proviseurs-mobilisation",
+          "rubrique": "Éducation",
+          "titre": "Violences en marge du mouvement lycéen : mobilisation inédite des proviseurs, nouvelle journée de manifestations ce samedi",
+          "chapo": "À l'appel du SNPDEN-Unsa, des chefs d'établissement se sont rassemblés vendredi dans une trentaine de villes pour dénoncer les violences qui les visent. Une première depuis 2006, à la veille d'un samedi de cortèges sous forte présence policière.",
+          "faits": [
+            "Le SNPDEN-Unsa, premier syndicat des chefs d'établissement, a organisé vendredi une trentaine de rassemblements ; environ 2 200 personnels y ont pris part, soit « 15 % de la profession », selon son secrétaire national Olivier Beaufrere.",
+            "Selon le secrétaire général Bruno Bobkiewicz, 81 chefs d'établissement et adjoints figurent parmi les 245 personnels blessés depuis le début du mouvement ; la dernière mobilisation nationale comparable remonte à 2006.",
+            "Le syndicat réclame un accompagnement psychologique durable et des réponses financées aux revendications lycéennes, dont le plafonnement des classes à 28 élèves ; il a été reçu en fin de journée par le directeur de cabinet du ministre Édouard Geffray, qui a exprimé un « soutien absolu et inconditionnel » aux proviseurs.",
+            "Pour ce samedi, le ministre de l'Intérieur Laurent Nuñez annonce 70 000 policiers et gendarmes mobilisés et 50 à 60 cortèges dans le pays ; à Paris, le parcours autorisé va de la place de la République à la place de la Nation, départ à 13 h, selon l'AFP et Anadolu."
+          ],
+          "enjeu": "Après cinq semaines de blocages, la colère des proviseurs ajoute une pression nouvelle sur l'exécutif, qui a promis jeudi une judiciarisation « systématique » des violences visant les personnels. Reste à savoir si la fermeté annoncée suffira à apaiser les établissements sans raidir un mouvement qui réclame d'abord des moyens.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement les mobilisations lycéennes et étudiantes, attribue les tensions au manque de moyens et à la réponse policière, et s'oppose aux sanctions contre les élèves bloqueurs.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Fabien Roussel (PCF) a affirmé qu'« aucune violence n'est légitime » tout en réclamant un professeur dans chaque classe ; Manuel Bompard (LFI) avait jugé « ridicules » les accusations du gouvernement contre son mouvement.",
+              "src": "Entrevue et AFP, 4 octobre 2026"
+            },
+            "soc": {
+              "type": "declare",
+              "texte": "Olivier Faure (PS) estime que les manifestations s'arrêteront quand le gouvernement répondra aux revendications des lycéens, et prévient que restreindre le droit de manifester mettrait en cause la démocratie.",
+              "src": "Grand Jury RTL-Public Sénat-M6, 25 octobre 2026"
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant condamne habituellement les violences tout en soutenant les revendications de la jeunesse sur les moyens de l'école, et met en garde contre une réponse uniquement sécuritaire et disciplinaire.",
+              "src": ""
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "Le Premier ministre Sébastien Lecornu (Renaissance) a annoncé une judiciarisation « systématique » des actes visant les personnels de l'Éducation nationale et de leurs « complices ».",
+              "src": "AFP, 12 novembre 2026"
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant met habituellement en avant le soutien aux personnels et le dialogue avec la communauté éducative, en défendant la fermeté face aux violences sans renoncer à l'écoute des revendications.",
+              "src": ""
+            },
+            "hor": {
+              "type": "declare",
+              "texte": "Laurent Marcangeli, président du groupe Horizons à l'Assemblée, a prévenu que « c'est ceux qui cassent qui devront payer » les dégâts causés dans les établissements.",
+              "src": "Public Sénat, 6 octobre 2026"
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Bruno Retailleau (LR) a jugé criminel d'avoir jeté « une bouteille remplie d'essence sur une élue de la République » devant un lycée bloqué, et demande que l'État « reprenne le contrôle ».",
+              "src": "X et AFP, 10 novembre 2026"
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Jordan Bardella (RN) estime, après l'agression de Chelles, qu'« on n'est plus dans des revendications » ; Éric Ciotti (UDR) a qualifié l'attaque d'« abomination ».",
+              "src": "BFMTV, 10 novembre 2026"
+            },
+            "ed": {
+              "type": "declare",
+              "texte": "Éric Zemmour (Reconquête) a réclamé la fin de « l'excuse de minorité » pour les jeunes auteurs de violences lors des blocages, en jugeant que « nous n'avons plus les mêmes jeunes ».",
+              "src": "CNews, 13 octobre 2026"
+            }
+          },
+          "sources": [
+            {
+              "t": "Orange (AFP) – « Il faut que ça s'arrête » : mobilisation inédite des proviseurs face aux violences",
+              "u": "https://actu.orange.fr/france/quot-il-faut-que-ca-s-arrete-quot-mobilisation-inedite-des-proviseurs-face-aux-violences-CNT000002tHtTX.html"
+            },
+            {
+              "t": "ici – « Pourquoi sommes-nous ciblés ? » : face aux violences, des proviseurs se rassemblent",
+              "u": "https://www.ici.fr/infos/education/pourquoi-sommes-nous-cibles-face-aux-violences-des-proviseurs-se-rassemblent-pour-faire-entendre-leur-inquietude-1587848"
+            },
+            {
+              "t": "Quartz (AFP) – Les proviseurs se rassemblent en France contre les violences",
+              "u": "https://fr.qz.com/proviseurs-rassemblent-france-violences-mouvement-lyceen-111326"
+            },
+            {
+              "t": "Icilinfo (Anadolu) – France : 70 000 policiers mobilisés samedi face à une nouvelle journée de manifestations",
+              "u": "https://icilinfo.dz/france-70-000-policiers-mobilises-samedi-face-a-une-nouvelle-journee-de-manifestations/"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-14-fonction-publique-greve",
+          "rubrique": "Social",
+          "titre": "Fonction publique : Lecornu ouvre un mois de discussions sur les bas salaires, la CFDT rejoint la grève du 17 novembre",
+          "chapo": "Reçus vendredi à Matignon, les huit syndicats de fonctionnaires sont repartis insatisfaits. Le Premier ministre propose cinq chantiers et des avancées d'ici la mi-décembre, sans dégel du point d'indice.",
+          "faits": [
+            "Sébastien Lecornu a annoncé « une discussion rapide d'un mois sur cinq chantiers », dont des mesures d'urgence pour les bas salaires, une réforme des grilles, l'égalité salariale femmes-hommes, les frais de transport et la protection des agents menacés ; une nouvelle réunion est prévue le 11 décembre.",
+            "Selon le cabinet de David Amiel, ministre de l'Action et des Comptes publics, les mesures concernent 1,35 million d'agents pour « plusieurs centaines de millions d'euros », sans changer l'objectif d'un déficit public de 5 % du PIB en 2027.",
+            "La valeur du point d'indice reste gelée pour la quatrième année ; le gouvernement juge « pas envisageable » le coût de 2,4 milliards d'euros d'une hausse de 1 %. Plus d'un million d'agents pourraient toucher l'indemnité compensant un salaire de base inférieur au Smic.",
+            "La CFDT, seule organisation qui n'appelait pas à la grève, rejoint le mouvement de mardi en jugeant que les propositions « ne constituent pas de véritables avancées » ; Sophie Binet (CGT) parle d'« une réunion pour rien »."
+          ],
+          "enjeu": "Avec l'ensemble des syndicats désormais dans la rue mardi, l'exécutif voit se refermer la marge ouverte par le coup de pouce au Smic. Il doit concilier la colère salariale de 5,8 millions d'agents avec une trajectoire budgétaire qui interdit, selon lui, toute hausse générale.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant réclame habituellement une hausse générale des salaires et du point d'indice, financée par les profits, et appelle à étendre les grèves vers une mobilisation interprofessionnelle durable.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Fabien Roussel (PCF) veut augmenter d'emblée le point d'indice de 10 % et recruter 500 000 fonctionnaires en cinq ans ; Jean-Luc Mélenchon (LFI) promet 22 milliards d'euros pour les services publics.",
+              "src": "Radio France, via Public Sénat, 12 novembre 2026"
+            },
+            "soc": {
+              "type": "declare",
+              "texte": "Olivier Faure (PS) a jugé que « le compte n'y est pas » après le coup de pouce au Smic, et réclame des contreparties salariales aux aides versées aux entreprises.",
+              "src": "AFP, 9 novembre 2026"
+            },
+            "eco": {
+              "type": "declare",
+              "texte": "Marine Tondelier (Les Écologistes) propose de créer 250 000 à 350 000 emplois publics, dont des milliers de postes de magistrats et de greffiers, pour renforcer les services publics.",
+              "src": "Radio France, via Public Sénat, 12 novembre 2026"
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "Sébastien Lecornu (Renaissance) dit vouloir « sceller des avancées dès la mi-décembre » sur les bas salaires et les grilles, tout en maintenant le gel du point d'indice au nom du redressement des comptes.",
+              "src": "X et AFP, 13 novembre 2026"
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement une revalorisation ciblée des métiers publics les moins payés et la reconnaissance des agents, dans le respect de la trajectoire de réduction du déficit.",
+              "src": ""
+            },
+            "hor": {
+              "type": "declare",
+              "texte": "Édouard Philippe (Horizons) met en garde contre le risque d'une « crise financière » et propose de fusionner des agences de l'État pour réduire la dépense publique.",
+              "src": "franceinfo et Radio France, 12 novembre 2026"
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Bruno Retailleau (LR) propose de ne pas remplacer 400 000 fonctionnaires et de supprimer des agences, en commençant par l'Ademe, pour redresser les finances publiques.",
+              "src": "franceinfo et Radio France, 12 novembre 2026"
+            },
+            "dn": {
+              "type": "lecture",
+              "texte": "Le courant se pose habituellement en défenseur du pouvoir d'achat des agents de terrain tout en promettant de financer les hausses par des économies sur l'immigration, l'Union européenne et les agences de l'État.",
+              "src": ""
+            },
+            "ed": {
+              "type": "declare",
+              "texte": "Éric Zemmour (Reconquête) propose 800 000 suppressions de postes publics en cinq ans, hors enseignants, policiers, militaires et soignants.",
+              "src": "Radio France, via Public Sénat, 12 novembre 2026"
+            }
+          },
+          "sources": [
+            {
+              "t": "France 24 – Fonction publique : l'intersyndicale sort remontée de Matignon, la CFDT rejoint l'appel à la grève",
+              "u": "https://www.france24.com/fr/france/20261113-fonction-publique-lecornu-ouvre-mois-discussions-cinq-chantiers-bas-salaires"
+            },
+            {
+              "t": "NVO (AFP) – « Une réunion à Matignon pour rien » : l'intersyndicale se ressoude pour la grève du 17 novembre",
+              "u": "https://nvo.fr/une-reunion-a-matignon-pour-rien-lintersyndicale-se-ressoude-pour-la-greve-du-17-novembre/"
+            },
+            {
+              "t": "Echos Plus – Fonction publique : Lecornu ouvre des négociations sur les bas salaires avant la grève du 17 novembre",
+              "u": "https://echosplus.com/2026/11/13/fonction-publique-lecornu-ouvre-des-negociations-sur-les-bas-salaires-avant-la-greve-du-17-novembre/"
+            },
+            {
+              "t": "Quartz (AFP) – Sébastien Lecornu reçoit les syndicats de la fonction publique",
+              "u": "https://fr.qz.com/sebastien-lecornu-recoit-syndicats-fonction-publique-salaires-111326"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-14-plfss-senat-recettes",
+          "rubrique": "Budget",
+          "titre": "Budget de la Sécu : le Sénat adopte le volet recettes et supprime la taxe sur les mutuelles",
+          "chapo": "Par 200 voix contre 110, les sénateurs ont adopté vendredi la première partie du budget 2027 de la Sécurité sociale, après avoir écarté plusieurs taxes voulues par le gouvernement. L'examen des dépenses se poursuit lundi et mardi.",
+          "faits": [
+            "Le volet recettes a été adopté par 200 voix contre 110, avec le soutien de la droite et du centre ; les groupes de gauche et le groupe RN-UDR ont voté contre.",
+            "Par 339 voix contre 1, le Sénat a supprimé la reconduction en 2027 de la contribution exceptionnelle de 2,05 % sur les complémentaires santé, qui devait rapporter 1,1 milliard d'euros ; il a aussi rejeté une taxe de 120 millions sur les flux entre laboratoires et pharmacies.",
+            "La ministre de la Santé Stéphanie Rist a renoncé à une taxe de 150 millions sur les fabricants de dispositifs médicaux ; un amendement adopté avec un avis de sagesse épargne les demandeurs d'emploi modestes de la hausse de CSG sur les allocations chômage.",
+            "Selon le ministre David Amiel, ces votes dégradent le solde d'environ 3,2 milliards d'euros par rapport au texte initial ; la commission des affaires sociales dit vouloir tenir un déficit de 12,7 milliards en 2027 en agissant sur les dépenses."
+          ],
+          "enjeu": "La majorité sénatoriale veut « redresser les comptes sociaux sans nouvelles taxes », mais devra trouver les économies correspondantes dans le volet dépenses, où elle envisage de rétablir la réforme des retraites. Faute de majorité à l'Assemblée, ces votes restent indicatifs tant que le gouvernement n'a pas tranché sur l'usage du 49.3.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant dénonce habituellement les budgets de la Sécurité sociale qui réduisent les dépenses de santé, et réclame la fin des exonérations de cotisations patronales plutôt que de nouvelles charges sur les assurés.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Cathy Apourceau-Poly (PCF) juge que les exonérations de cotisations n'ont pas d'effet sur l'emploi alors que « les caisses de la Sécu se vident » ; les sénateurs communistes ont voté contre le volet recettes.",
+              "src": "Public Sénat, 12 et 13 novembre 2026"
+            },
+            "soc": {
+              "type": "declare",
+              "texte": "Patrick Kanner (PS) a déposé l'amendement supprimant la contribution sur les mutuelles, en estimant qu'elle serait répercutée sur les tarifs payés par les assurés ; Bernard Jomier (Place publique) a critiqué l'attitude de la majorité sénatoriale.",
+              "src": "Politique Matin et Public Sénat, 13 novembre 2026"
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement une Sécurité sociale financée par des recettes nouvelles sur les hauts revenus et les activités nocives pour la santé, et s'oppose aux reports de charges vers les assurés ; ses sénateurs ont voté contre.",
+              "src": ""
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "Stéphanie Rist (Renaissance), ministre de la Santé, a défendu la taxe sur les mutuelles comme une mesure de « sérieux budgétaire » et jugé impossible d'obtenir le même rendement par un transfert vers les complémentaires.",
+              "src": "AFP, 13 novembre 2026"
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant met habituellement en avant la prévention et l'équilibre des comptes sociaux, et se montre réservé sur les taxes susceptibles d'être répercutées sur les cotisations des assurés.",
+              "src": ""
+            },
+            "hor": {
+              "type": "declare",
+              "texte": "Vincent Louault (Horizons) a dénoncé un « piège » tendu par le rapporteur avec son amendement sur les cotisations retraite des collectivités et des hôpitaux.",
+              "src": "Public Sénat, 12 novembre 2026"
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Frédérique Puissat (LR) a assuré que le Sénat, après avoir touché aux recettes, agirait aussi sur les dépenses ; Serge Bérard (Nouvelle Énergie) a qualifié la contribution sur les mutuelles de « taxe indirecte ».",
+              "src": "Public Sénat et AFP, 13 novembre 2026"
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Les sénateurs du groupe RN-UDR ont voté contre le volet recettes du budget de la Sécurité sociale, comme les groupes de gauche.",
+              "src": "Public Sénat, 13 novembre 2026"
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant réclame habituellement des économies sur l'aide médicale d'État et la fraude sociale avant toute nouvelle recette, et dénonce la hausse des prélèvements pesant sur les ménages.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Public Sénat – Budget 2027 de la Sécurité sociale : le Sénat adopte un volet recettes affaibli",
+              "u": "https://www.publicsenat.fr/actualites/politique/budget-2027-de-la-securite-sociale-le-senat-adopte-un-volet-recettes-affaibli"
+            },
+            {
+              "t": "Boursorama (AFP) – Budget 2027 : le Sénat écarte des taxes sur les mutuelles, les dispositifs médicaux ou les laboratoires",
+              "u": "https://www.boursorama.com/actualite-economique/actualites/budget-2027-le-senat-ecarte-des-taxes-sur-les-mutuelles-les-dispositifs-medicaux-ou-encore-les-laboratoires-pharmaceutiques-d2ac96128d74bba3f8692f38c286c67e"
+            },
+            {
+              "t": "Politique Matin – Par 339 voix contre une, le Sénat écarte la reconduction de la contribution des complémentaires santé",
+              "u": "https://www.politiquematin.fr/senat-vote-suppression-reconduction-contribution-complementaires-2027"
+            },
+            {
+              "t": "Quartz (AFP) – Le Sénat adopte la partie recettes du budget de la Sécurité sociale",
+              "u": "https://fr.qz.com/senat-adopte-recettes-budget-securite-sociale-111326"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-14-primaire-sarkozy-zemmour",
+          "rubrique": "Présidentielle 2027",
+          "titre": "Primaire : Sarkozy plaide pour un scrutin « large », Zemmour veut s'y inviter, Attal refuse",
+          "chapo": "Dans Le Figaro, Nicolas Sarkozy apporte son soutien à une primaire de la droite et du centre ouverte à tous ceux qui en respectent les règles. Éric Zemmour s'est aussitôt porté volontaire, ce que le camp Attal écarte.",
+          "faits": [
+            "Dans un entretien au Figaro publié vendredi, Nicolas Sarkozy juge que « la primaire est le pire des systèmes, à l'exception de tous les autres » et qu'elle n'a d'intérêt « que si elle rassemble » ; il soutiendra au premier tour celui qui aura le plus largement rassemblé, sans prendre position aujourd'hui.",
+            "Bruno Retailleau a proposé un scrutin les 31 janvier et 7 février ; le camp d'Édouard Philippe rejette toute participation, son porte-parole Jérémie Patrier-Leitus rappelant qu'il est « candidat à l'élection présidentielle, pas à une primaire ».",
+            "Au salon du Made in France, Éric Zemmour s'est dit « ravi d'être candidat à cette primaire » et a demandé à David Lisnard de l'y intégrer ; Gabriel Attal a refusé, la primaire ne devant pas « servir de marche-pied à l'extrême droite ».",
+            "Les équipes d'Attal, Retailleau et Lisnard doivent se réunir mardi 17 novembre pour en fixer les modalités."
+          ],
+          "enjeu": "Le soutien de l'ancien président donne du poids au projet de primaire, mais le refus d'Édouard Philippe et la question des frontières du scrutin, vers le centre gauche comme vers Reconquête, en fragilisent la portée. À cinq mois du premier tour, le bloc central et la droite restent divisés sur la manière de désigner un candidat commun.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant voit habituellement dans les primaires de la droite et du centre une querelle d'appareils entre partisans des mêmes politiques libérales, et n'y accorde pas d'intérêt.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Jean-Luc Mélenchon (LFI) a dit préférer « battre une droite qui a de la gueule qu'une espèce de cohorte confuse de types qui se bouffent entre eux ».",
+              "src": "L'Express, meeting de La Souterraine, 11 novembre 2026"
+            },
+            "soc": {
+              "type": "declare",
+              "texte": "Boris Vallaud, président du groupe PS à l'Assemblée, avait raillé le projet de primaire élargie : « Ce n'est plus de la stratégie, c'est du démarchage téléphonique ».",
+              "src": "X, via LCP, 28 octobre 2026"
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant critique habituellement les recompositions du bloc central et de la droite, qu'il juge tournées vers le maintien des politiques actuelles, et privilégie l'union de la gauche et des écologistes.",
+              "src": ""
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "Gabriel Attal (Renaissance) refuse d'intégrer Reconquête : la primaire doit selon lui « empêcher un deuxième tour entre les extrêmes » et non « servir de marche-pied à l'extrême droite ».",
+              "src": "BFMTV (AFP), 13 novembre 2026"
+            },
+            "modem": {
+              "type": "declare",
+              "texte": "François Bayrou (MoDem) défend une primaire allant « de la gauche sociale-démocrate à la droite républicaine » et juge trop restreint le périmètre proposé par Attal et Retailleau.",
+              "src": "L'Express, 13 novembre 2026"
+            },
+            "hor": {
+              "type": "declare",
+              "texte": "Jérémie Patrier-Leitus (Horizons), porte-parole d'Édouard Philippe, maintient le refus : « Édouard Philippe est candidat à l'élection présidentielle, pas à une primaire de la droite et du centre ».",
+              "src": "X, 12 novembre 2026"
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Nicolas Sarkozy (LR) souhaite une primaire « large », ouverte à « tous ceux qui s'engageront à en respecter les règles » ; Bruno Retailleau (LR) la veut même sans Édouard Philippe, pour ne pas donner « un droit de veto » à un seul.",
+              "src": "Le Figaro, 13 novembre, et franceinfo, 12 novembre 2026"
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Jordan Bardella (RN) appelle les électeurs qui veulent que la France reste la France à voter pour Marine Le Pen plutôt que de disperser leurs voix.",
+              "src": "AFP, 10 novembre 2026"
+            },
+            "ed": {
+              "type": "declare",
+              "texte": "Éric Zemmour (Reconquête) se dit « ravi d'être candidat à cette primaire », espère que David Lisnard « résistera » à LR pour l'y intégrer, et qualifie Gabriel Attal de « militant socialiste ».",
+              "src": "BFMTV (AFP), 13 novembre 2026"
+            }
+          },
+          "sources": [
+            {
+              "t": "Quartz (AFP) – Sarkozy réagit aux émeutes du 17 octobre dans Le Figaro et plaide pour une primaire",
+              "u": "https://fr.qz.com/nicolas-sarkozy-reagit-emeutes-17-octobre-primaire-droite-111326"
+            },
+            {
+              "t": "Yahoo (BFMTV) – Présidentielle 2027 : Éric Zemmour « espère » que David Lisnard fera en sorte de l'intégrer à la primaire",
+              "u": "https://fr.news.yahoo.com/pr%C3%A9sidentielle-2027-%C3%A9ric-zemmour-esp%C3%A8re-131712449.html"
+            },
+            {
+              "t": "Orange (L'Express) – « C'est une folie autodestructrice » : avant la présidentielle, le bloc central en plein chaos",
+              "u": "https://actu.orange.fr/politique/c-est-une-folie-autodestructrice-avant-la-presidentielle-le-bloc-central-en-plein-chaos-l-express-CNT000002tHNLv.html"
+            },
+            {
+              "t": "Elections 2027 – Sarkozy appelle à une large primaire de la droite et du centre",
+              "u": "https://elections2027.com/article/2026-11-13-sarkozy-appelle-a-une-large-primaire-de-la-droite-et-du-centre"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-14-ukraine-europeens-table",
+          "rubrique": "International",
+          "titre": "Ukraine : Zelensky promet une « voix » à l'Europe au prochain round, Moscou ne confirme pas",
+          "chapo": "Après l'annonce de l'émissaire américain Steve Witkoff, Volodymyr Zelensky assure depuis Dublin que les Européens auront une équipe de négociation. Le Kremlin reste réservé et pose ses conditions.",
+          "faits": [
+            "Après sa rencontre avec Vladimir Poutine au Kremlin, Steve Witkoff a déclaré jeudi que « les Européens rejoindront la prochaine réunion », selon Reuters ; aucune date ni aucun lieu n'ont été annoncés.",
+            "Le conseiller diplomatique Iouri Ouchakov n'a pas confirmé cette participation et estime que les Européens doivent décider s'ils veulent « la paix ou la continuation de la guerre » ; Dmitri Peskov demande que l'Europe désigne d'abord un représentant unique, selon AP.",
+            "Volodymyr Zelensky a affirmé à Dublin que l'Europe serait présente avec « une équipe de négociation » et qu'elle « aura une voix » ; il espère que l'ordre du jour inclura des étapes vers un cessez-le-feu.",
+            "Les dirigeants des Vingt-Sept se sont réunis vendredi à Dublin lors d'un Conseil européen informel ; Emmanuel Macron et Friedrich Merz ont relativisé l'urgence de désigner un représentant unique, selon Le Grand Continent."
+          ],
+          "enjeu": "Écartés des pourparlers d'Abou Dhabi, les Européens cherchent à peser sur un éventuel accord qui touche à leur sécurité, sans accepter de discuter d'une nouvelle architecture européenne avant la fin de la guerre. La question de leur représentation, entre format E3, Union européenne et coalition des volontaires, reste ouverte.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant condamne habituellement l'invasion russe comme la logique des blocs militaires, s'oppose au réarmement européen et à l'Otan, et défend le droit des peuples à décider de leur sort.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Jean-Luc Mélenchon (LFI) a affirmé qu'« il faut que la Russie évacue l'Ukraine où elle n'a rien à faire », après avoir plaidé au Bourget pour consulter les populations du Donbass.",
+              "src": "AFP, 11 novembre 2026"
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement l'Ukraine et une présence européenne forte dans toute négociation, et refuse un accord conclu au-dessus de la tête des Ukrainiens et des Européens.",
+              "src": ""
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement un soutien ferme à l'Ukraine, des sanctions renforcées contre la Russie et une Europe de la défense capable de peser dans les négociations.",
+              "src": ""
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "Emmanuel Macron, fondateur de Renaissance, a relativisé avec Friedrich Merz l'urgence de désigner un représentant unique de l'Europe pour les pourparlers.",
+              "src": "Le Grand Continent, 12 novembre 2026"
+            },
+            "modem": {
+              "type": "declare",
+              "texte": "Jean-Noël Barrot (MoDem), ministre des Affaires étrangères, avait assuré que « les Européens seront bien représentés », en insistant sur le format E3 aux côtés de l'Union.",
+              "src": "Grand Jury RTL-Public Sénat, 8 novembre 2026"
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement un soutien durable à l'Ukraine et l'effort de défense européen, et insiste pour que l'Europe soit partie prenante de tout accord touchant à sa sécurité.",
+              "src": ""
+            },
+            "d": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement l'Ukraine et la présence européenne aux négociations, tout en plaidant pour une diplomatie française indépendante et réaliste.",
+              "src": ""
+            },
+            "dn": {
+              "type": "lecture",
+              "texte": "Le courant reconnaît habituellement l'agression russe mais s'oppose à l'envoi de troupes et à une escalade, privilégie un cessez-le-feu négocié et la défense des intérêts nationaux.",
+              "src": ""
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant prône habituellement une paix négociée rapide, critique l'engagement européen aux côtés de Kiev et défend une diplomatie de puissance fondée sur les seuls intérêts français.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "The Moscow Times (Reuters) – Russia says Europeans can join Ukraine peace talks, Witkoff says",
+              "u": "https://www.themoscowtimes.com/2026/11/13/putin-agrees-for-europe-to-join-ukraine-peace-talks-witkoff-says-a94236"
+            },
+            {
+              "t": "Le Grand Continent – Guerre en Ukraine : quel est le plan des Européens pour revenir dans le jeu des négociations ?",
+              "u": "https://legrandcontinent.eu/fr/2026/11/13/guerre-en-ukraine-quel-est-le-plan-des-europeens-pour-revenir-dans-le-jeu-des-negociations/"
+            },
+            {
+              "t": "Quartz – Witkoff déclare que l'Europe rejoindra les prochaines discussions de paix sur l'Ukraine",
+              "u": "https://fr.qz.com/witkoff-europe-rejoignent-les-prochaines-pourparlers-de-paix-en-ukraine-111226"
+            }
+          ]
+        }
+      ],
+      "breves": [
+        {
+          "titre": "Le Pen chahutée au salon du Made in France",
+          "texte": "Marine Le Pen a été huée pendant environ trois quarts d'heure par quelques dizaines de lycéens et de sympathisants LFI lors de sa visite vendredi au salon du Made in France, à Paris. La candidate du RN a accusé « des militants d'extrême gauche » et mis en cause Jean-Luc Mélenchon, venu au même salon quelques heures plus tôt.",
+          "src": {
+            "t": "Boursorama (AFP) – Visite chahutée au salon du Made in France pour Le Pen, qui accuse Mélenchon et « ses militants »",
+            "u": "https://www.boursorama.com/actualite-economique/actualites/visite-chahutee-au-salon-du-made-in-france-pour-le-pen-qui-accuse-melenchon-et-ses-militants-0d4e746ecf79cbd4cd6e93c9fc64700c"
+          }
+        },
+        {
+          "titre": "Chômage : 8,2 % au troisième trimestre",
+          "texte": "Selon l'Insee, le taux de chômage s'établit à 8,2 % de la population active au troisième trimestre, en baisse de 0,1 point sur trois mois mais en hausse de 0,4 point sur un an. Le taux des 15-24 ans atteint 21 %, et celui des 50-64 ans en emploi son plus haut niveau depuis 1975.",
+          "src": {
+            "t": "Insee – Au troisième trimestre 2026, le taux de chômage s'établit à 8,2 %",
+            "u": "https://www.insee.fr/fr/statistiques/9118603"
+          }
+        }
+      ],
+      "agenda": [
+        {
+          "d": "Sam. 14 nov.",
+          "t": "Journée de manifestations contre la vie chère, avec des organisations de jeunesse ; à Paris, cortège de la République à la Nation à 13 h"
+        },
+        {
+          "d": "Lun. 16 nov.",
+          "t": "Le Sénat poursuit l'examen des dépenses du budget de la Sécu ; Conseil des ministres des Affaires étrangères de l'UE"
+        },
+        {
+          "d": "Mar. 17 nov.",
+          "t": "Grève dans la fonction publique à l'appel de tous les syndicats ; réunion des équipes Attal, Retailleau et Lisnard sur la primaire"
+        },
+        {
+          "d": "Mer. 18 nov.",
+          "t": "Vote solennel du Sénat sur le budget de la Sécurité sociale"
+        },
+        {
+          "d": "Jeu. 19 nov.",
+          "t": "Réunion de la coalition des volontaires pour l'Ukraine en Allemagne"
+        },
+        {
+          "d": "Ven. 20 nov.",
+          "t": "Début de l'examen du budget 2027 de l'État au Sénat"
+        }
+      ]
+    },
     {
       "date": "2026-11-13",
       "label": "Vendredi 13 novembre 2026",
@@ -2999,581 +3462,6 @@
         {
           "d": "Mer. 18 nov.",
           "t": "Vote solennel du Sénat sur le budget de la Sécurité sociale ; sommet de l'Apec à Shenzhen (18-19 novembre)"
-        },
-        {
-          "d": "Jeu. 19 nov.",
-          "t": "Le Sénat examine la présomption de légitime défense pour les forces de l'ordre"
-        },
-        {
-          "d": "Ven. 20 nov.",
-          "t": "Début de l'examen du projet de loi de finances 2027 en séance au Sénat"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-07",
-      "label": "Samedi 7 novembre 2026",
-      "maj": "Mise à jour à 6 h 31",
-      "intro": "Quatrième samedi de mobilisation : les gilets jaunes maintiennent un rassemblement interdit place de la Concorde, l'intersyndicale défile de République à Nation, avant la conférence sociale de lundi. Côté présidentielle, LFI publie son programme « Nouvelle France » et la droite et le centre se déchirent sur une primaire qu'Édouard Philippe refuse. Le Sénat s'apprête à examiner le budget de la Sécu et l'A69 a ouvert, à un prix qui fâche. Aux États-Unis, Donald Trump crie à la fraude après la déroute républicaine.",
-      "stories": [
-        {
-          "id": "2026-11-07-acte-iv-concorde",
-          "rubrique": "Social",
-          "titre": "Acte IV : les gilets jaunes maintiennent un rassemblement interdit à la Concorde, l'intersyndicale défile de République à Nation",
-          "chapo": "Quatrième samedi de mobilisation, deux jours après la grève interprofessionnelle. La préfecture de police a interdit le rassemblement de la Concorde mais autorisé le cortège syndical, et 70 000 policiers et gendarmes sont de nouveau mobilisés.",
-          "faits": [
-            "La coordination des gilets jaunes appelle à se rassembler à 14 h place de la Concorde, malgré l'interdiction de la préfecture de police ; l'un de ses membres, Benjamin Ball, a appelé vendredi à « désobéir massivement » en restant assis jusqu'à 19 h.",
-            "L'intersyndicale défile l'après-midi de République à Nation par le boulevard Voltaire, un parcours validé vendredi par la préfecture.",
-            "Le ministre de l'Intérieur, Laurent Nuñez, a annoncé 70 000 policiers et gendarmes et des arrêtés préfectoraux interdisant des manifestations dans des centres-villes ; la RATP ferme une quinzaine de stations de métro à la demande de la police.",
-            "Participer à une manifestation interdite expose à une amende forfaitaire de 135 euros.",
-            "Jeudi, 575 000 personnes avaient manifesté selon les autorités, 1,6 million selon la CGT."
-          ],
-          "enjeu": "La conférence sociale de lundi à Matignon doit dire si le gouvernement peut désamorcer le mouvement par les salaires : la CFDT réclame 100 euros net de plus sur le Smic (1 477,93 euros net aujourd'hui), et le ministre du Travail juge « important » de franchir les 1 500 euros. L'intersyndicale, qui réunit huit organisations, décidera lundi soir des suites, tandis que la coordination des gilets jaunes, qui réclame un processus constituant, refuse de se ranger derrière les syndicats.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement la convergence entre gilets jaunes, jeunesse et syndicats, appelle à la grève reconductible et dénonce les interdictions de manifester comme une atteinte aux libertés publiques.",
-              "src": ""
-            },
-            "gr": {
-              "type": "declare",
-              "texte": "Jean-Luc Mélenchon (LFI) avait exhorté Emmanuel Macron à « céder » face à la mobilisation, en estimant que sinon « il ne restera plus que la porte de sortie ».",
-              "src": "AFP via La Gazette France, 24 octobre 2026"
-            },
-            "soc": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement les revendications salariales des syndicats et le droit de manifester, appelle à une négociation réelle sur le Smic et condamne les violences en marge des cortèges.",
-              "src": ""
-            },
-            "eco": {
-              "type": "declare",
-              "texte": "Marine Tondelier (Les Écologistes) estime qu'« Emmanuel Macron finit son mandat comme il a gouverné, c'est-à-dire seul contre tous » et dénonce les entraves au droit de manifester.",
-              "src": "Public Sénat, 5 novembre 2026"
-            },
-            "ren": {
-              "type": "declare",
-              "texte": "Aurore Bergé (Renaissance), ministre de l'Égalité entre les femmes et les hommes, avait dénoncé une « récupération politique assez grossière et caricaturale » du mouvement par une partie de la gauche.",
-              "src": "LCP, 16 octobre 2026"
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant reconnaît habituellement la légitimité des attentes sur le pouvoir d'achat, mise sur la conférence sociale et le dialogue avec les partenaires sociaux, et appelle au respect des décisions de la préfecture.",
-              "src": ""
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant insiste habituellement sur le respect de l'ordre public et des interdictions préfectorales, et préfère revaloriser le travail par la baisse des charges plutôt que par une hausse administrée du Smic.",
-              "src": ""
-            },
-            "d": {
-              "type": "lecture",
-              "texte": "Le courant réclame habituellement la fermeté face aux rassemblements interdits et aux casseurs, et met en garde contre un coup de pouce au Smic qui pèserait sur l'emploi et les petites entreprises.",
-              "src": ""
-            },
-            "dn": {
-              "type": "declare",
-              "texte": "Jordan Bardella (RN) avait estimé que la mobilisation servait de « prétexte » à des « groupuscules d'extrême gauche » pour provoquer des débordements.",
-              "src": "LCP, 16 octobre 2026"
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant accuse habituellement l'extrême gauche d'instrumentaliser la colère sociale, réclame des sanctions sévères contre les fauteurs de troubles et défend la baisse des impôts et des charges.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "Sortiraparis – Gilets jaunes, acte IV : rassemblement interdit place de la Concorde ce samedi 7 novembre",
-              "u": "https://www.sortiraparis.com/en/news/in-paris/articles/356694-yellow-vests-act-iv-on-november-6-and-7-strike-and-demonstration-what-s-planned-in-paris"
-            },
-            {
-              "t": "Quartz (AFP) – Les gilets jaunes maintiennent un rassemblement interdit à Paris",
-              "u": "https://fr.qz.com/gilets-jaunes-maintiennent-rassemblement-interdit-paris-concorde-110726"
-            },
-            {
-              "t": "Public Sénat – Manifestation du 5 novembre : Sébastien Lecornu annonce « une conférence sociale » avec les syndicats et le patronat, lundi",
-              "u": "https://www.publicsenat.fr/actualites/politique/manifestation-du-5-novembre-sebastien-lecornu-annonce-une-conference-sociale-avec-les-syndicats-et-le-patronat-lundi"
-            },
-            {
-              "t": "La Gazette France (AFP) – Mélenchon à Macron : « il est temps de céder »",
-              "u": "https://www.lagazettefrance.fr/article/melenchon-a-macron-il-est-temps-de-ceder-apres-il-ne-restera-plus-que-la-porte-de-sortie"
-            },
-            {
-              "t": "Public Sénat – Mobilisation du 5 novembre : « Emmanuel Macron finit son mandat comme il a gouverné, c'est-à-dire seul contre tous », estime Marine Tondelier",
-              "u": "https://www.publicsenat.fr/actualites/politique/mobilisation-du-5-novembre-emmanuel-macron-finit-son-mandat-comme-il-a-gouverne-cest-a-dire-seul-contre-tous-estime-marine-tondelier"
-            },
-            {
-              "t": "LCP – Mobilisation du 17 octobre : quels responsables politiques s'emparent du mouvement et comment réagissent les autres",
-              "u": "https://lcp.fr/actualites/mobilisation-du-17-octobre-quels-responsables-politiques-s-emparent-du-mouvement-et"
-            }
-          ],
-          "image": {
-            "u": "https://cdn.sortiraparis.com/images/80/1467/1330497-manifestation-du-31-octobre-2026-a-paris-ce-qui-est-prevu.jpg",
-            "credit": "Sortiraparis",
-            "alt": "Illustration de l'article de Sortiraparis"
-          }
-        },
-        {
-          "id": "2026-11-07-programme-lfi",
-          "rubrique": "Présidentielle 2027",
-          "titre": "LFI publie la nouvelle version de « L'Avenir en commun » : 1 069 mesures, l'écologie en tête et un Smic à 1 700 euros net",
-          "chapo": "Le programme de Jean-Luc Mélenchon pour 2027, placé sous la bannière de la « Nouvelle France », est en librairie depuis vendredi. Il est présenté ce samedi lors d'un grand meeting au Bourget.",
-          "faits": [
-            "Coordonné par les députés Clémence Guetté et Hadrien Clouet, le livre de 212 pages compte 1 069 mesures, dont 238 nouvelles selon LFI, et s'appuie sur plus de 24 000 contributions citoyennes ; il est tiré à 80 000 exemplaires.",
-            "La « bifurcation écologique » ouvre désormais le programme, avec une sortie progressive du nucléaire, 100 % d'énergies renouvelables « au plus tard en 2060 » et l'interdiction des vols de nuit entre 23 h et 6 h.",
-            "Il reprend le Smic à 1 700 euros net, le retour de l'ISF avec un volet climatique, un impôt sur le revenu à 14 tranches et la retraite à 60 ans après 40 annuités.",
-            "Parmi les nouveautés figurent une « conscription citoyenne écologique » obligatoire payée au Smic, la sortie du commandement intégré de l'Otan puis de l'organisation « par étapes », et un plan d'un milliard d'euros contre le racisme, l'antisémitisme et l'islamophobie.",
-            "Le chiffrage complet ne sera publié qu'au début de 2027."
-          ],
-          "enjeu": "En publiant son programme six mois avant le scrutin, LFI cherche à imposer ses thèmes au reste de la gauche, alors que socialistes et écologistes discutent d'une candidature commune. Le report du chiffrage laisse ouverte la question du financement, que ses adversaires ne manqueront pas de soulever.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant partage habituellement plusieurs revendications sociales du programme insoumis, mais juge illusoire de transformer la société par les urnes et les institutions, et défend plutôt l'expropriation des grands groupes par la mobilisation des travailleurs.",
-              "src": ""
-            },
-            "gr": {
-              "type": "declare",
-              "texte": "Hadrien Clouet (LFI), co-auteur du programme, affirme que les insoumis sont « les seuls à mettre des idées nouvelles dans le débat public ».",
-              "src": "Politis, 6 novembre 2026"
-            },
-            "soc": {
-              "type": "lecture",
-              "texte": "Le courant reconnaît habituellement des convergences sur les salaires et la fiscalité, mais rejette la sortie de l'Otan et la confrontation avec les traités européens, qu'il juge incompatibles avec une gauche de gouvernement.",
-              "src": ""
-            },
-            "eco": {
-              "type": "declare",
-              "texte": "David Cormand (Les Écologistes), eurodéputé, relativise la portée du document : « Ce n'est pas sur un programme que se joue une élection », en demandant comment la gauche peut gagner au second tour.",
-              "src": "Politis, 6 novembre 2026"
-            },
-            "ren": {
-              "type": "lecture",
-              "texte": "Le courant juge habituellement les programmes insoumis irréalistes sur le plan budgétaire, dangereux pour la compétitivité et pour l'engagement européen et atlantique de la France.",
-              "src": ""
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant met habituellement en garde contre les promesses de dépenses non financées et défend l'ancrage européen de la France, en appelant au sérieux budgétaire.",
-              "src": ""
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant dénonce habituellement les hausses d'impôts et de dépenses du programme insoumis, qu'il juge incompatibles avec l'état des finances publiques, et la remise en cause de l'Otan.",
-              "src": ""
-            },
-            "d": {
-              "type": "lecture",
-              "texte": "Le courant rejette habituellement le programme insoumis comme un projet de matraquage fiscal et de rupture avec les alliances de la France, et critique ses positions sur la sécurité et l'immigration.",
-              "src": ""
-            },
-            "dn": {
-              "type": "lecture",
-              "texte": "Le courant combat habituellement le projet insoumis, qu'il accuse de communautarisme et de laxisme migratoire, tout en se posant lui aussi en défenseur du pouvoir d'achat et de la retraite à 62 ans.",
-              "src": ""
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant présente habituellement LFI comme son adversaire principal, dénonce le concept de « Nouvelle France » et les propositions sur l'immigration, et rejette un programme fiscal jugé confiscatoire.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "LCP – Présidentielle 2027 : ce qui change dans le nouveau programme de Jean-Luc Mélenchon",
-              "u": "https://lcp.fr/actualites/presidentielle-2027-ce-qui-change-dans-le-nouveau-programme-de-jean-luc-melenchon-444841"
-            },
-            {
-              "t": "Public Sénat – Présidentielle 2027 : avec la « Nouvelle France », Jean-Luc Mélenchon fait de l'écologie la clé de voûte de son programme",
-              "u": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-avec-la-nouvelle-france-jean-luc-melenchon-fait-de-lecologie-la-cle-de-voute-de-son-programme"
-            },
-            {
-              "t": "Politis – Avec son nouveau programme, LFI veut plier le match des idées",
-              "u": "https://www.politis.fr/articles/2026/11/politique-gauche-avec-son-nouveau-programme-lfi-melenchon-veut-plier-le-match-des-idees/"
-            }
-          ],
-          "image": {
-            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2026-11/le%2023%20d%C3%A9cembre%202026%20m%C3%A9lenchon.jpg?itok=Olh72nI7",
-            "credit": "LCP",
-            "alt": "Illustration de l'article de LCP"
-          }
-        },
-        {
-          "id": "2026-11-07-primaire-droite-centre",
-          "rubrique": "Présidentielle 2027",
-          "titre": "Primaire de la droite et du centre : Retailleau s'y rallie, Attal la réclame, Édouard Philippe refuse toujours d'y participer",
-          "chapo": "Après Gabriel Attal, Bruno Retailleau a accepté cette semaine le principe d'une primaire. Le camp d'Édouard Philippe, en tête de ce bloc dans les sondages, maintient son refus et propose un autre mécanisme de départage.",
-          "faits": [
-            "« Edouard Philippe ne participera pas à la primaire », a confirmé vendredi son porte-parole Maël de Calan.",
-            "Le maire du Havre a adressé avant la Toussaint une lettre aux chefs de parti proposant que, entre Noël et février, les candidats les moins bien placés se retirent au profit du mieux placé, règle qu'il dit s'appliquer à lui-même.",
-            "Bruno Retailleau (LR) a accepté cette semaine le principe d'une primaire et son équipe en prépare déjà les règles, tandis que Gabriel Attal (Renaissance) plaide pour une primaire large fondée sur quatre « valeurs cardinales ».",
-            "Le périmètre reste disputé : selon l'entourage de Philippe, certains voudraient y associer Raphaël Glucksmann, quand David Lisnard souhaite y inclure Sarah Knafo."
-          ],
-          "enjeu": "Faute d'accord, la droite et le centre risquent d'aborder 2027 avec plusieurs candidats, alors que les sondages qualifient Marine Le Pen et Jean-Luc Mélenchon dans toutes les hypothèses. Le refus d'Édouard Philippe fait de lui la cible de ses partenaires, qui l'accusent de diviser le camp.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant se tient habituellement à l'écart de ces débats, qu'il considère comme des querelles de personnes au sein d'un même camp défendant les intérêts patronaux.",
-              "src": ""
-            },
-            "gr": {
-              "type": "lecture",
-              "texte": "Le courant présente habituellement la recomposition de la droite et du centre comme la preuve d'un macronisme en fin de cycle et se pose en seule alternative au Rassemblement national.",
-              "src": ""
-            },
-            "soc": {
-              "type": "lecture",
-              "texte": "Le courant suit habituellement ces débats en miroir de ses propres discussions sur une candidature commune à gauche, et refuse toute primaire qui l'associerait au bloc central.",
-              "src": ""
-            },
-            "eco": {
-              "type": "lecture",
-              "texte": "Le courant juge habituellement que la division des droites ne change pas le cœur du problème, l'absence de réponse à l'urgence écologique, et plaide pour l'union de la gauche.",
-              "src": ""
-            },
-            "ren": {
-              "type": "declare",
-              "texte": "Prisca Thevenot (Renaissance), soutien de Gabriel Attal, voit dans la primaire « le moment de clarification » et estime qu'Édouard Philippe ne peut pas dénoncer un duel RN-LFI tout en refusant de se départager.",
-              "src": "Public Sénat, 6 novembre 2026"
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement l'unité du bloc central derrière un candidat crédible, et se montre réservé sur une primaire qui exposerait les divisions avant le premier tour.",
-              "src": ""
-            },
-            "hor": {
-              "type": "declare",
-              "texte": "Maël de Calan, porte-parole d'Édouard Philippe (Horizons), confirme que celui-ci « ne participera pas à la primaire » et juge que vouloir y intégrer des personnalités extérieures au camp n'a « absolument aucun sens ».",
-              "src": "Public Sénat, 6 novembre 2026"
-            },
-            "d": {
-              "type": "declare",
-              "texte": "Laurence Garnier (LR), porte-parole de Bruno Retailleau, prévient que si Édouard Philippe refuse la primaire, « il portera seul la responsabilité de la division ».",
-              "src": "Public Sénat, 6 novembre 2026"
-            },
-            "dn": {
-              "type": "lecture",
-              "texte": "Le courant présente habituellement ces tractations comme une recomposition de l'ancien système et se pose en seule force d'alternance face au bloc central et à la gauche.",
-              "src": ""
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement l'union des droites, y compris avec ses propres figures, et rejette toute primaire limitée au bloc central et à LR.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "Public Sénat – « La fébrilité est de leur côté, pas du sien » : sous pression du camp Attal et Retailleau, Edouard Philippe reste droit dans ses bottes et refuse la primaire",
-              "u": "https://www.publicsenat.fr/actualites/politique/la-febrilite-est-de-leur-cote-pas-du-sien-sous-pression-du-camp-attal-et-retailleau-edouard-philippe-reste-droit-dans-ses-bottes-et-refuse-la-primaire"
-            }
-          ],
-          "image": {
-            "u": "https://www.publicsenat.fr/app/uploads/2026/11/EP-e1793991794166-1200x630.jpg",
-            "credit": "Public Sénat",
-            "alt": "Illustration de l'article de Public Sénat"
-          }
-        },
-        {
-          "id": "2026-11-07-plfss-senat",
-          "rubrique": "Budget",
-          "titre": "Budget de la Sécu : plus de 1 200 amendements au Sénat, le gel partiel des pensions et le retour de la réforme de 2023 au cœur des débats",
-          "chapo": "Les sénateurs examinent à partir de lundi le projet de loi de financement de la Sécurité sociale pour 2027, rejeté en bloc par l'Assemblée. Vote solennel le 18 novembre.",
-          "faits": [
-            "Plus de 1 200 amendements ont été déposés sur le texte, examiné du 9 au 17 novembre.",
-            "L'article 35 ne revalorise au 1er janvier que les pensions jusqu'à 1 260 euros ; la commission des affaires sociales porte ce seuil à 1 500 euros, et les groupes de gauche comme le groupe RN-UDR veulent supprimer la mesure.",
-            "La commission proposera aussi de rétablir la réforme des retraites de 2023, suspendue l'an dernier.",
-            "L'article 37, qui impose un an de résidence aux étrangers hors UE pour certaines prestations familiales et les APL, divise : la gauche veut le supprimer, des sénateurs de droite proposent d'allonger la durée.",
-            "Le gouvernement veut aussi abaisser de 65 % à 15 % la prise en charge des cures thermales, pour 200 millions d'euros d'économies."
-          ],
-          "enjeu": "Le Sénat, dominé par la droite et le centre, va réécrire un texte que les députés n'ont pas pu examiner jusqu'au bout, en durcissant la maîtrise des dépenses. Le rétablissement de la réforme de 2023 rouvrirait le conflit sur les retraites en pleine mobilisation sociale, avant une commission mixte paritaire incertaine.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant rejette habituellement tout gel des pensions et toute mesure d'économie sur la Sécurité sociale, et réclame le retour de la retraite à 60 ans financé par les profits.",
-              "src": ""
-            },
-            "gr": {
-              "type": "lecture",
-              "texte": "Le courant combat habituellement la désindexation des pensions et les conditions de résidence pour les prestations, et s'oppose frontalement au rétablissement de la réforme de 2023.",
-              "src": ""
-            },
-            "soc": {
-              "type": "declare",
-              "texte": "Les sénateurs socialistes Victorin Lurel et Catherine Conconne (PS) ont déposé des amendements pour exclure les outre-mer du gel partiel des pensions.",
-              "src": "Public Sénat, 6 novembre 2026"
-            },
-            "eco": {
-              "type": "lecture",
-              "texte": "Le courant s'oppose habituellement au gel des petites et moyennes pensions et aux mesures visant les étrangers, et défend des recettes nouvelles sur les hauts revenus et le capital.",
-              "src": ""
-            },
-            "ren": {
-              "type": "declare",
-              "texte": "Brigitte Bourguignon, ancienne ministre (Renaissance), relève que la condition d'un an de résidence ne rapporterait que 62 millions d'euros par an.",
-              "src": "Public Sénat, 6 novembre 2026"
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement l'effort de redressement des comptes sociaux tout en demandant de protéger les petites retraites, et reste attentif aux mesures qui touchent les classes moyennes.",
-              "src": ""
-            },
-            "hor": {
-              "type": "declare",
-              "texte": "Le sénateur Vincent Louault (Horizons) propose de porter à deux ans et demi la durée de résidence exigée pour les prestations familiales et les APL.",
-              "src": "Public Sénat, 6 novembre 2026"
-            },
-            "d": {
-              "type": "declare",
-              "texte": "Marie-Do Aeschlimann (LR), rapporteure de la branche vieillesse, juge ses finances « fragiles » et veut retirer à l'exécutif la possibilité d'augmenter davantage les pensions par décret en 2027.",
-              "src": "Public Sénat, 6 novembre 2026"
-            },
-            "dn": {
-              "type": "declare",
-              "texte": "La sénatrice Gaëlle Frontoni (UDR) propose cinq ans de résidence pour les prestations, quand les sénateurs RN en demandent trois ; le groupe RN-UDR veut supprimer le gel des pensions.",
-              "src": "Public Sénat, 6 novembre 2026"
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement la priorité nationale pour les prestations sociales, des durées de résidence beaucoup plus longues et des économies sur l'immigration plutôt que sur les retraités.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "Public Sénat – Budget 2027 : les points chauds lors des débats au Sénat du 9 au 17 novembre",
-              "u": "https://www.publicsenat.fr/actualites/politique/budget-2027-les-points-chauds-lors-des-debats-au-senat-du-9-au-17-novembre"
-            }
-          ],
-          "image": {
-            "u": "https://www.publicsenat.fr/app/uploads/2026/11/SIPA_01313527_000002-1200x630.jpg",
-            "credit": "Public Sénat",
-            "alt": "Illustration de l'article de Public Sénat"
-          }
-        },
-        {
-          "id": "2026-11-07-a69-ouverture",
-          "rubrique": "Transports",
-          "titre": "Après quatre ans de bataille, l'A69 Toulouse-Castres ouvre à la circulation, avec un péage à 20,40 euros l'aller-retour",
-          "chapo": "L'autoroute contestée par les défenseurs de l'environnement a été mise en service vendredi, sans inauguration. Son prix au péage déçoit jusqu'à ses partisans.",
-          "faits": [
-            "Les premiers automobilistes ont emprunté vendredi vers 10 h 45, à Verfeil (Haute-Garonne), cette section de 53 km exploitée par le concessionnaire Atosca, qui table sur 10 000 véhicules par jour.",
-            "L'aller-retour Toulouse-Castres coûte 20,40 euros selon les tarifs parus jeudi au Journal officiel, après un avis défavorable du Conseil d'État sur un dispositif de subventions qui devait réduire le péage d'environ un tiers.",
-            "Lancés en 2023, les travaux avaient été suspendus fin février 2025 par le tribunal administratif de Toulouse, faute d'« intérêt public majeur » démontré, avant de reprendre fin mai 2025 sur décision de la cour administrative d'appel.",
-            "Le collectif d'opposants La Voie est libre dénonce une « mise en service glauque »."
-          ],
-          "enjeu": "L'ouverture clôt un chantier devenu emblématique des conflits entre aménagement du territoire et protection de l'environnement. Le niveau du péage relance le débat sur les concessions autoroutières et sur la promesse de désenclavement faite au sud du Tarn.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant dénonce habituellement les grands projets autoroutiers comme des cadeaux aux concessionnaires privés et soutient les collectifs d'opposants et la nationalisation des autoroutes.",
-              "src": ""
-            },
-            "gr": {
-              "type": "lecture",
-              "texte": "Le courant a habituellement combattu l'A69 au nom de la bifurcation écologique, dénonce un projet coûteux pour les usagers et réclame la renationalisation des autoroutes.",
-              "src": ""
-            },
-            "soc": {
-              "type": "declare",
-              "texte": "Christophe Ramond (PS), président du conseil départemental du Tarn et soutien du projet, juge que le tarif « ne correspond pas à la parole donnée par l'État » et que les prix sont « beaucoup trop élevés pour les Tarnais ».",
-              "src": "Sud Radio (AFP), 6 novembre 2026"
-            },
-            "eco": {
-              "type": "lecture",
-              "texte": "Le courant a habituellement été en première ligne contre l'A69, qu'il considère comme un non-sens climatique et une atteinte à la biodiversité, et plaide pour une alternative ferroviaire et routière gratuite.",
-              "src": ""
-            },
-            "ren": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement l'achèvement des projets autorisés par la justice au nom de l'État de droit et du désenclavement, tout en appelant à un dialogue sur les tarifs.",
-              "src": ""
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement le désenclavement des territoires ruraux et appelle à des tarifs de péage supportables pour les habitants.",
-              "src": ""
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement les infrastructures de transport utiles aux territoires et au développement économique, en dénonçant les blocages et recours à répétition.",
-              "src": ""
-            },
-            "d": {
-              "type": "declare",
-              "texte": "Philippe Tabarot (LR), ministre des Transports, salue l'aboutissement d'un projet « soutenu par les élus du territoire » qui « entre désormais dans sa phase d'exploitation ».",
-              "src": "Sud Radio (AFP), 6 novembre 2026"
-            },
-            "dn": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement l'A69 au nom de la France périphérique, mais dénonce le prix des péages et la rente des sociétés concessionnaires.",
-              "src": ""
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement les projets routiers face à ce qu'il appelle l'écologie punitive, et réclame la fermeté envers les opposants radicaux.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "Sud Radio (AFP) – Après quatre ans de bras de fer, l'autoroute A69 ouvre aux automobilistes",
-              "u": "https://www.sudradio.fr/societe/apres-quatre-ans-de-bras-de-fer-lautoroute-a69-ouvre-aux-automobilistes"
-            },
-            {
-              "t": "L'Info durable (AFP) – Ouverture aux automobilistes de l'A69 Toulouse-Castres, après quatre ans de bras de fer",
-              "u": "https://www.linfodurable.fr/ouverture-aux-automobilistes-de-la69-toulouse-castres-apres-quatre-ans-de-bras-de-fer-59672"
-            },
-            {
-              "t": "France 3 Occitanie – A69 : après 30 ans d'attente, l'autoroute Toulouse-Castres est ouverte",
-              "u": "https://france3-regions.franceinfo.fr/occitanie/tarn/albi/video-a69-apres-30-ans-d-attente-l-autoroute-toulouse-castres-est-ouverte-depuis-10h32-3445371.html"
-            }
-          ],
-          "image": {
-            "u": "https://www.sudradio.fr/wp-content/uploads/2026/11/cc74b665422c302d980dc750207a5ad05fe74e43.jpg",
-            "credit": "Sud Radio (AFP)",
-            "alt": "Illustration de l'article de Sud Radio (AFP)"
-          }
-        },
-        {
-          "id": "2026-11-07-trump-elections-truquees",
-          "rubrique": "International",
-          "titre": "États-Unis : après la déroute républicaine aux midterms, Donald Trump dénonce des élections « truquées »",
-          "chapo": "Deux jours après le scrutin, les démocrates s'assurent une large majorité à la Chambre et au moins 54 sièges au Sénat. Le président américain, qui avait promis d'accepter les résultats, conteste désormais le décompte en Alaska.",
-          "faits": [
-            "Selon les projections de CNN et Fox News, les démocrates sont assurés d'au moins 250 sièges à la Chambre des représentants et ont gagné sept sièges au Sénat, où ils disposeront d'au moins 54 sièges sur 100.",
-            "« Nos élections sont tellement truquées, vous n'avez pas idée », a lancé Donald Trump jeudi dans le Bureau ovale.",
-            "En Alaska, où la démocrate Mary Peltola devance d'environ 600 voix le sénateur sortant Dan Sullivan, il exige que les voix d'un candidat homonyme soient attribuées au « vrai » Dan Sullivan.",
-            "Le vice-président JD Vance a attribué la défaite à la guerre contre l'Iran, et le nouveau Congrès siégera le 3 janvier."
-          ],
-          "enjeu": "Privé du Congrès pour les deux dernières années de son mandat, Donald Trump voit ses marges de manœuvre fondre et sa succession s'ouvrir chez les républicains. Sa contestation des résultats ravive les inquiétudes sur la solidité des institutions américaines, scrutée de près en Europe.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant voit habituellement dans l'alternance entre républicains et démocrates deux visages d'un même impérialisme américain, et refuse de présenter les démocrates comme une alternative.",
-              "src": ""
-            },
-            "gr": {
-              "type": "lecture",
-              "texte": "Le courant dénonce habituellement la politique étrangère de Donald Trump et sa remise en cause des résultats électoraux, et plaide pour une France indépendante des États-Unis, hors du commandement intégré de l'Otan.",
-              "src": ""
-            },
-            "soc": {
-              "type": "lecture",
-              "texte": "Le courant salue habituellement les revers électoraux de Donald Trump comme un sursaut démocratique et dénonce toute contestation des résultats comme une menace pour l'État de droit.",
-              "src": ""
-            },
-            "eco": {
-              "type": "lecture",
-              "texte": "Le courant se réjouit habituellement des défaites de Donald Trump, notamment pour ses conséquences sur la politique climatique, et appelle l'Europe à s'affranchir de Washington.",
-              "src": ""
-            },
-            "ren": {
-              "type": "lecture",
-              "texte": "Le courant appelle habituellement au respect des résultats électoraux chez les alliés de la France et en tire argument pour une Europe plus autonome sur le plan stratégique.",
-              "src": ""
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant insiste habituellement sur le respect des règles démocratiques et sur la nécessité pour l'Europe de renforcer sa souveraineté face aux incertitudes américaines.",
-              "src": ""
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement le lien transatlantique tout en appelant l'Europe à se réarmer et à ne pas dépendre des aléas politiques de Washington.",
-              "src": ""
-            },
-            "d": {
-              "type": "lecture",
-              "texte": "Le courant reste habituellement attaché à l'alliance américaine, tout en prenant ses distances avec les outrances de Donald Trump et en plaidant pour une Europe de la défense.",
-              "src": ""
-            },
-            "dn": {
-              "type": "lecture",
-              "texte": "Le courant se garde habituellement de commenter les contestations de Donald Trump, défend une diplomatie fondée sur les intérêts nationaux et refuse l'alignement automatique sur Washington comme sur Bruxelles.",
-              "src": ""
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant affiche habituellement sa proximité avec le camp trumpiste et met en doute l'impartialité des médias et des institutions dans le traitement des élections américaines.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "Public Sénat – Midterms 2026 : la déroute républicaine rebat les cartes pour la succession de Donald Trump",
-              "u": "https://www.publicsenat.fr/actualites/international/midterms-2026-la-deroute-republicaine-rebat-les-cartes-pour-la-succession-de-donald-trump"
-            },
-            {
-              "t": "TRT Français (AFP) – Midterms 2026 : après avoir accepté les résultats, Trump dénonce à présent des élections « truquées »",
-              "u": "https://www.trtfrancais.com/article/8b3f927a6e35"
-            },
-            {
-              "t": "franceinfo – Donald Trump s'emporte contre des élections « truquées », après la défaite des républicains aux midterms 2026",
-              "u": "https://www.franceinfo.fr/monde/usa/midterms-2018/donald-trump-s-emporte-contre-des-elections-truquees-apres-la-defaite-des-republicains-aux-midterms-2026_8269964.html"
-            }
-          ],
-          "image": {
-            "u": "https://www.publicsenat.fr/app/uploads/2026/11/SIPA_sipahub60145621_000013-1200x630.jpg",
-            "credit": "Public Sénat",
-            "alt": "Illustration de l'article de Public Sénat"
-          }
-        }
-      ],
-      "breves": [
-        {
-          "titre": "Accident de car dans l'Ain : deux morts, le chauffeur en garde à vue",
-          "texte": "Un car de la ligne Lyon–Bourg-en-Bresse a quitté la route vendredi vers 7 h 30 près de Lent, faisant deux morts, un jeune homme de 18 ans et une fillette de 7 ans, et seize blessés dont quatre graves. Le chauffeur, âgé de 26 ans, a dit s'être assoupi ; ses tests toxicologiques sont négatifs.",
-          "src": {
-            "t": "franceinfo – Deux morts de 7 et 18 ans, le chauffeur placé en garde à vue : ce que l'on sait de l'accident de car près de Bourg-en-Bresse",
-            "u": "https://www.franceinfo.fr/faits-divers/accident/deux-morts-une-enquete-ouverte-ce-que-l-on-sait-de-l-accident-de-car-pres-de-bourg-en-bresse-dans-l-ain_8270546.html"
-          }
-        },
-        {
-          "titre": "Intempéries : deux morts en Corse",
-          "texte": "Dans la nuit de jeudi à vendredi, une voiture a été emportée par les eaux entre Bonifacio et Porto-Vecchio ; ses deux occupants sont morts, un troisième a été hélitreuillé. Les deux départements corses étaient en vigilance orange pluie-inondation et 120 personnes ont été évacuées à Porto-Vecchio.",
-          "src": {
-            "t": "L'Express (via Orange) – Les trois infos à retenir du vendredi 6 novembre",
-            "u": "https://actu.orange.fr/france/les-trois-infos-a-retenir-du-vendredi-6-novembre-l-express-via-6medias-CNT000002tAQ3N.html"
-          }
-        },
-        {
-          "titre": "Lycées à rénover : les régions dénoncent la méthode du gouvernement",
-          "texte": "La liste de 200 lycées à rénover en priorité, tirée d'une consultation lancée en octobre en réponse à la crise, irrite les régions, compétentes pour le bâti scolaire : « Le gouvernement a inventé le TripAdvisor des lycées », fustigent-elles.",
-          "src": {
-            "t": "Public Sénat – Liste des 200 établissements à rénover : « Le gouvernement a inventé le TripAdvisor des lycées »",
-            "u": "https://www.publicsenat.fr/actualites/politique/liste-des-200-etablissements-a-renover-le-gouvernement-a-invente-le-tripadvisor-des-lycees-les-regions-fustigent-la-methode-du-gouvernement"
-          }
-        },
-        {
-          "titre": "Au Sénat, le patronat dénonce la baisse des allègements de charges",
-          "texte": "Devant la délégation sénatoriale aux entreprises, le président du Medef, Patrick Martin, a prévenu que les choix budgétaires « nuiront gravement à l'économie ». Les organisations patronales chiffrent à 11,5 milliards d'euros la hausse de prélèvements liée à la réduction des allègements généraux.",
-          "src": {
-            "t": "Public Sénat – « Ils nuiront gravement à l'économie » : au Sénat, le grand ras-le-bol des patrons face aux choix budgétaires du gouvernement",
-            "u": "https://www.publicsenat.fr/actualites/economie/ils-nuiront-gravement-a-leconomie-au-senat-le-grand-ras-le-bol-des-patrons-face-aux-choix-budgetaires-du-gouvernement"
-          }
-        }
-      ],
-      "agenda": [
-        {
-          "d": "Sam. 7 nov.",
-          "t": "« Acte IV » : rassemblement interdit des gilets jaunes place de la Concorde, cortège intersyndical de République à Nation ; meeting de LFI au Bourget"
-        },
-        {
-          "d": "Lun. 9 nov.",
-          "t": "Conférence sociale à Matignon sur les salaires ; l'intersyndicale décide le soir des suites du mouvement ; début de l'examen du budget de la Sécurité sociale au Sénat"
-        },
-        {
-          "d": "Mar. 10 nov.",
-          "t": "Pourparlers entre Russes et Ukrainiens à Abou Dhabi, sous l'égide des États-Unis (jusqu'au 11 novembre)"
-        },
-        {
-          "d": "Mer. 11 nov.",
-          "t": "Commémorations de l'Armistice de 1918"
-        },
-        {
-          "d": "Mer. 18 nov.",
-          "t": "Vote solennel du Sénat sur le budget de la Sécurité sociale"
         },
         {
           "d": "Jeu. 19 nov.",
