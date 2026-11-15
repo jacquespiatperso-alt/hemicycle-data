@@ -84,7 +84,12 @@
               "t": "France 24 – Acte V du mouvement social : des revendications variées, une affluence en baisse",
               "u": "https://www.france24.com/fr/france/20261114-acte-v-du-mouvement-social-des-revendications-vari%C3%A9es-une-affluence-en-baisse"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://imazpress.com/thumbs/1200x630/source/14994ebac3d04b86a41e7183b0e45d7a36253f22.jpg",
+            "credit": "Imaz Press (AFP)",
+            "alt": "Illustration de l'article de Imaz Press (AFP)"
+          }
         },
         {
           "id": "2026-11-15-presomption-usage-arme-senat",
@@ -163,7 +168,12 @@
               "t": "Sénat – Proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre",
               "u": "https://www.senat.fr/travaux-parlementaires/textes-legislatifs/la-loi-en-clair/proposition-de-loi-visant-a-reconnaitre-une-presomption-de-legitime-defense-pour-les-forces-de-lordre-dans-lexercice-de-leurs-fonctions.html"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2022-03/080_HL_XBOUZAS_1690307.jpg?itok=VtcxAI3-",
+            "credit": "LCP",
+            "alt": "Illustration de l'article de LCP"
+          }
         },
         {
           "id": "2026-11-15-manche-migrants-pas-de-calais",
@@ -234,7 +244,12 @@
               "t": "La Gazette France (AFP) – Dans les dunes du Pas-de-Calais, avec la police qui tente de limiter les départs de migrants vers l'Angleterre",
               "u": "https://www.lagazettefrance.fr/article/dans-les-dunes-du-pas-de-calais-avec-la-police-qui-tente-de-limiter-les-departs-de-migrants-vers-l-angleterre"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.lagazettefrance.fr/cache/thumb_discover_1200/media/2026/11/D7G47ZQ.jpg",
+            "credit": "La Gazette France (AFP)",
+            "alt": "Dans les dunes du Pas-de-Calais, avec la police qui tente de limiter l ..."
+          }
         },
         {
           "id": "2026-11-15-presidentielle-larcher-riner",
@@ -313,7 +328,12 @@
               "t": "La Libre (AFP) – Teddy Riner affirme qu'il n'est « pas un macroniste » et réagit aux félicitations du président",
               "u": "https://www.lalibre.be/international/europe/elections-france/2026/11/14/teddy-riner-affirme-quil-nest-pas-un-macroniste-et-reagit-aux-felicitations-du-president-un-baiser-empoisonne-6XKWEEJI2NDV7OLLAZT3YOR7T4/"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.lagazettefrance.fr/cache/thumb_discover_1200/media/2026/11/D7EN29E.jpg",
+            "credit": "La Gazette France (AFP)",
+            "alt": "Présidentielle: Larcher veut réunir les candidats de la droite et du c ..."
+          }
         },
         {
           "id": "2026-11-15-ukraine-otan-donbass-macron",
@@ -396,7 +416,12 @@
               "t": "Paris Match Belgique – Si elle arrive à l'Élysée, Marine Le Pen promet de couper l'aide à l'Ukraine",
               "u": "https://www.parismatch.be/actualites/monde/2026/10/15/presidentielle-francaise-si-elle-arrive-a-lelysee-marine-le-pen-promet-de-couper-laide-a-lukraine-je-ne-prends-personne-en-traitre-EKOIX7JLGZBBTPVJXNLDVDTVXY/"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.lavenir.net/resizer/v2/ZQSQCPYPU5EMXPHXK3GNCLPHVE.jpg?auth=46980bbfc9f7acc3be89987e0ea349e317f4882205a1402f811c3bbcba4b3e85&width=1200&height=630&quality=85&focal=2500%2C1733",
+            "credit": "L'Avenir (AFP)",
+            "alt": "Illustration de l'article de L'Avenir (AFP)"
+          }
         }
       ],
       "breves": [
