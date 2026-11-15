@@ -1,6 +1,445 @@
 {
-  "updated": "2026-11-14T06:26:00+01:00",
+  "updated": "2026-11-15T06:33:00+01:00",
   "editions": [
+    {
+      "date": "2026-11-15",
+      "label": "Dimanche 15 novembre 2026",
+      "maj": "Mise à jour à 6 h 33",
+      "intro": "Le cinquième samedi de mobilisation contre la vie chère a rassemblé moins de monde, avant la grève de mardi dans la fonction publique. Le texte sur la présomption d'usage légitime de l'arme, dénoncé dans les cortèges, arrive jeudi au Sénat, et un reportage sur la côte d'Opale fait le point sur les traversées de la Manche. Gérard Larcher veut réunir les candidats de la droite et du centre, pendant que Teddy Riner refuse l'étiquette macroniste. À l'international, Volodymyr Zelensky évoque une offre américaine liant Otan et Donbass, et Emmanuel Macron refuse une « paix injuste ».",
+      "stories": [
+        {
+          "id": "2026-11-15-acte-v-mouvement-social",
+          "rubrique": "Social",
+          "titre": "Acte V du mouvement social : une affluence en recul, 219 interpellations, la grève de mardi en ligne de mire",
+          "chapo": "Pour le cinquième samedi consécutif, lycéens, étudiants, syndicats et gilets jaunes ont défilé contre la vie chère. La participation baisse encore selon l'Intérieur, mais les organisations de jeunesse donnent rendez-vous mardi, jour de grève dans la fonction publique.",
+          "faits": [
+            "Le ministère de l'Intérieur a compté 106 000 manifestants en France samedi, contre 200 000 selon l'intersyndicale de la jeunesse (Union étudiante, USL, Fage, Unef) ; à Paris, les estimations vont de 24 000 à près de 100 000 personnes, selon l'AFP.",
+            "Le ministère a recensé 219 interpellations à 18 h et dix policiers légèrement blessés ; à Paris, le parquet fait état de 45 interpellations. Des projectiles et des mortiers ont visé les forces de l'ordre à Marseille, Grenoble, Lyon, Bordeaux et Montpellier, et une équipe de BFMTV a été agressée en marge du cortège lyonnais, selon la préfecture du Rhône.",
+            "Les revendications portaient sur les salaires, les moyens de l'enseignement, la protection des mineurs et le rejet de la proposition de loi sur la « présomption d'usage légitime de l'arme » des forces de l'ordre, examinée jeudi au Sénat.",
+            "Mardi 17 novembre, l'intersyndicale de la fonction publique (CGT, Unsa, FSU, Solidaires, CFE-CGC, FA-FP), rejointe par la CFDT, appelle à la grève pour le dégel du point d'indice ; la CGT étend l'appel au privé, et des perturbations sont possibles à la SNCF et dans les écoles."
+          ],
+          "enjeu": "La baisse de la participation conforte l'exécutif, qui mise sur les discussions salariales ouvertes vendredi. Mais l'unité syndicale retrouvée pour mardi pourrait redonner de l'élan à un mouvement qui dure depuis plus d'un mois.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant appelle habituellement à faire converger lycéens, étudiants et salariés dans une grève générale reconductible, et dénonce la répression policière des manifestations.",
+              "src": ""
+            },
+            "gr": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement les mobilisations de la jeunesse et des salariés, réclame une hausse générale des salaires et du point d'indice, et critique la réponse policière du gouvernement.",
+              "src": ""
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement les revendications salariales et éducatives du mouvement, tout en condamnant les violences et en appelant le gouvernement à ouvrir de vraies négociations.",
+              "src": ""
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant appuie habituellement les mobilisations de la jeunesse, en y associant les questions de climat et de libertés publiques, et s'oppose aux textes renforçant les pouvoirs des forces de l'ordre.",
+              "src": ""
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "Sébastien Lecornu (Renaissance) dit vouloir « sceller des avancées dès la mi-décembre » sur les bas salaires des fonctionnaires, tout en maintenant le gel du point d'indice au nom du redressement des comptes.",
+              "src": "X et AFP, 13 novembre 2026"
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant appelle habituellement au dialogue social et à des mesures ciblées sur les bas salaires, tout en condamnant fermement les violences en marge des cortèges.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant insiste habituellement sur le maintien de l'ordre et la maîtrise de la dépense publique, et juge qu'une hausse générale des salaires publics n'est pas finançable.",
+              "src": ""
+            },
+            "d": {
+              "type": "lecture",
+              "texte": "Le courant réclame habituellement une réponse pénale ferme contre les casseurs et les blocages, et s'oppose à toute hausse de dépenses qui creuserait le déficit.",
+              "src": ""
+            },
+            "dn": {
+              "type": "lecture",
+              "texte": "Le courant se pose habituellement en défenseur du pouvoir d'achat tout en condamnant les violences et les blocages, qu'il impute à l'extrême gauche.",
+              "src": ""
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant dénonce habituellement les blocages et les violences, qu'il attribue à l'extrême gauche, et réclame des sanctions sévères contre les fauteurs de troubles.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Imaz Press (AFP) – Acte V du mouvement social : des revendications variées, un peu moins d'affluence",
+              "u": "https://imazpress.com/toute-l-actu/acte-v-du-mouvement-social-des-revendications-variees-un-peu-moins-d-affluence"
+            },
+            {
+              "t": "L'Échiquier social – Grève générale du 17 novembre : vers un front commun du public et du privé",
+              "u": "https://www.lechiquiersocial.com/journee-de-greve-et-de-manifestation-mardi-17-novembre/"
+            },
+            {
+              "t": "France 24 – Acte V du mouvement social : des revendications variées, une affluence en baisse",
+              "u": "https://www.france24.com/fr/france/20261114-acte-v-du-mouvement-social-des-revendications-vari%C3%A9es-une-affluence-en-baisse"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-15-presomption-usage-arme-senat",
+          "rubrique": "Sécurité",
+          "titre": "Présomption d'usage légitime de l'arme : le texte contesté dans la rue arrive jeudi au Sénat",
+          "chapo": "Adoptée par l'Assemblée en juillet, la proposition de loi qui protège les policiers et gendarmes ayant fait usage de leur arme sera examinée jeudi 19 novembre par les sénateurs. Une adoption conforme la rendrait définitive.",
+          "faits": [
+            "Le texte, porté par le député Éric Pauget (Droite républicaine), crée une présomption d'usage légitime de l'arme pour les forces de l'ordre dans les cas prévus par le code de la sécurité intérieure ; cette présomption « peut, à tout moment, être renversée par tout élément de preuve contraire ».",
+            "L'Assemblée l'a adopté en première lecture le 7 juillet 2026 par 313 voix contre 199, avec les voix du socle gouvernemental, de LR et de l'alliance RN-UDR ; LFI, le PS, les écologistes et les communistes ont voté contre.",
+            "Le 10 novembre, la commission des lois du Sénat l'a adopté sans modification, estimant qu'il « sécurisera l'action des forces de l'ordre sans atténuer le contrôle judiciaire » ; s'il est voté dans les mêmes termes jeudi, il sera définitivement adopté.",
+            "Amnesty International France, la LDH et le Syndicat de la magistrature s'y opposent ; les manifestants de samedi l'ont qualifié de « permis de tuer »."
+          ],
+          "enjeu": "Le texte oppose deux lectures : la protection juridique des agents pour les uns, le risque d'affaiblir les enquêtes après un tir policier pour les autres. Son examen intervient en plein mouvement social, où les violences policières sont l'un des griefs des manifestants.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant combat habituellement tout renforcement des pouvoirs de la police, qu'il juge porteur d'impunité, et appelle à manifester contre ce type de texte.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Manuel Bompard (LFI) estime qu'avec cette présomption, « il sera trop tard pour récolter les éléments nécessaires à la manifestation de la vérité » après un tir.",
+              "src": "LCP, 7 juillet 2026"
+            },
+            "soc": {
+              "type": "declare",
+              "texte": "Olivier Faure (PS) accuse le gouvernement d'offrir une victoire au RN sur un thème longtemps porté par Jean-Marie Le Pen, et son groupe a voté contre le texte.",
+              "src": "LCP, 7 juillet 2026"
+            },
+            "eco": {
+              "type": "declare",
+              "texte": "Pouria Amirshahi (groupe Écologiste et social) juge que « ce texte ne protège pas les bons policiers, il abrite les autres ».",
+              "src": "LCP, 7 juillet 2026"
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "Le groupe Ensemble pour la République, dont Renaissance est le pilier, a voté le texte en première lecture, après un amendement du gouvernement qui a remplacé la « présomption de légitime défense » par une « présomption d'usage légitime de l'arme ».",
+              "src": "LCP, 7 juillet 2026"
+            },
+            "modem": {
+              "type": "declare",
+              "texte": "Le groupe Les Démocrates a voté le texte en première lecture, dans sa version amendée par le gouvernement, qui laisse au procureur la possibilité de renverser la présomption.",
+              "src": "LCP, 7 juillet 2026"
+            },
+            "hor": {
+              "type": "declare",
+              "texte": "Le groupe Horizons a voté le texte en première lecture, aux côtés des autres groupes du socle gouvernemental.",
+              "src": "LCP, 7 juillet 2026"
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Le texte est porté par Éric Pauget (Droite républicaine) ; au Sénat, la commission des lois présidée par Muriel Jourda (LR) l'a adopté sans modification, jugeant qu'il protège les agents sans réduire le contrôle des juges.",
+              "src": "LCP, 7 juillet 2026 ; Sénat, 10 novembre 2026"
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Les députés de l'alliance RN-UDR ont voté le texte en première lecture, conformément à leur demande ancienne d'une meilleure protection juridique des forces de l'ordre.",
+              "src": "LCP, 7 juillet 2026"
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant réclame habituellement une présomption de légitime défense pleine et entière pour les policiers et gendarmes, et juge souvent insuffisantes les versions de compromis.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "LCP – L'Assemblée approuve la « présomption d'usage légitime de l'arme » pour les forces de l'ordre dans une ambiance très houleuse",
+              "u": "https://lcp.fr/actualites/l-assemblee-approuve-la-presomption-d-usage-legitime-de-l-arme-pour-les-forces-de-l"
+            },
+            {
+              "t": "Politique Matin – Usage des armes : le Sénat maintient en commission le texte sur la présomption de légitimité",
+              "u": "https://www.politiquematin.fr/senat-presomption-usage-armes-commission-lois-10-novembre-2026-1136"
+            },
+            {
+              "t": "Sénat – Proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre",
+              "u": "https://www.senat.fr/travaux-parlementaires/textes-legislatifs/la-loi-en-clair/proposition-de-loi-visant-a-reconnaitre-une-presomption-de-legitime-defense-pour-les-forces-de-lordre-dans-lexercice-de-leurs-fonctions.html"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-15-manche-migrants-pas-de-calais",
+          "rubrique": "Société",
+          "titre": "Traversées de la Manche : 23 500 arrivées en Angleterre depuis janvier, la police multiplie les « évictions » sur la côte",
+          "chapo": "Une nuit de patrouille avec la police aux frontières dans les dunes du Pas-de-Calais montre une baisse des traversées, mais des départs toujours nombreux et un nouveau décès samedi à Camiers.",
+          "faits": [
+            "Selon les statistiques britanniques citées par l'AFP, environ 23 500 personnes sont arrivées en Angleterre par la mer depuis le début de l'année, soit près de 40 % de moins qu'un an plus tôt ; 924 arrivées ont été enregistrées depuis le 6 novembre.",
+            "Vendredi soir, près de 400 personnes ont été repérées sur la côte ; « il y a des nuits où ça a été jusqu'à 1 000 personnes », indique le préfet du Pas-de-Calais, François-Xavier Lauch. Dans la nuit, cinq départs ont eu lieu, dont quatre en « taxi-boats », et deux tentatives ont été empêchées.",
+            "Un homme d'une vingtaine d'années a été retrouvé mort samedi matin à Camiers et cinq autres ont été pris en charge pour hypothermie ; au moins 25 personnes sont mortes en mer depuis janvier, selon le décompte de l'AFP.",
+            "Les policiers ont pour consigne de multiplier les « évictions » de groupes sur les plages ; des associations dénoncent des méthodes disproportionnées."
+          ],
+          "enjeu": "Les arrivées reculent nettement selon les chiffres britanniques, mais les passeurs s'adaptent avec des « taxi-boats » et des embarcations pouvant transporter plus de 200 personnes. Le sujet reste au cœur de la campagne présidentielle, entre fermeté réclamée à droite et alertes humanitaires à gauche.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant dénonce habituellement la politique de fermeture des frontières, qu'il tient pour responsable des morts en mer, et réclame des voies d'accès légales et sûres.",
+              "src": ""
+            },
+            "gr": {
+              "type": "lecture",
+              "texte": "Le courant critique habituellement la sous-traitance du contrôle de la frontière britannique par la France et réclame un accueil digne et des voies légales de passage.",
+              "src": ""
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement une coopération européenne et franco-britannique renforcée contre les passeurs, assortie de garanties humanitaires pour les exilés.",
+              "src": ""
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant met habituellement en avant l'urgence humanitaire sur le littoral et dénonce les démantèlements de campements et les méthodes policières jugées disproportionnées.",
+              "src": ""
+            },
+            "ren": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement la coopération avec Londres, financée en partie par le Royaume-Uni, et met en avant la baisse des traversées comme preuve de son efficacité.",
+              "src": ""
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant plaide habituellement pour une réponse européenne commune, alliant lutte contre les réseaux de passeurs et respect du droit d'asile.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant réclame habituellement plus de fermeté contre les passeurs et une renégociation des accords avec le Royaume-Uni pour que Londres assume davantage sa frontière.",
+              "src": ""
+            },
+            "d": {
+              "type": "lecture",
+              "texte": "Le courant réclame habituellement une politique migratoire plus restrictive, des moyens accrus pour la police aux frontières et des sanctions plus lourdes contre les passeurs.",
+              "src": ""
+            },
+            "dn": {
+              "type": "lecture",
+              "texte": "Le courant demande habituellement la remise en cause des accords du Touquet et un contrôle strict des frontières nationales, en liant la question à celle de l'immigration en général.",
+              "src": ""
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant prône habituellement l'arrêt de l'immigration et le renvoi systématique des migrants en situation irrégulière, et juge les dispositifs actuels inefficaces.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "La Gazette France (AFP) – Dans les dunes du Pas-de-Calais, avec la police qui tente de limiter les départs de migrants vers l'Angleterre",
+              "u": "https://www.lagazettefrance.fr/article/dans-les-dunes-du-pas-de-calais-avec-la-police-qui-tente-de-limiter-les-departs-de-migrants-vers-l-angleterre"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-15-presidentielle-larcher-riner",
+          "rubrique": "Présidentielle 2027",
+          "titre": "Présidentielle : Larcher veut réunir les candidats de la droite et du centre, Riner se dit « pas macroniste »",
+          "chapo": "Le président du Sénat propose une réunion pour fixer une « méthode de départage » entre prétendants, alors qu'Édouard Philippe refuse toujours la primaire. Teddy Riner qualifie de « baiser empoisonné » les félicitations d'Emmanuel Macron.",
+          "faits": [
+            "Dans une déclaration transmise samedi à l'AFP, Gérard Larcher propose de réunir « dans les meilleurs délais » les candidats de la droite et du centre pour définir une « méthode de départage » et désigner début 2027 un candidat unique ; Éric Zemmour et Raphaël Glucksmann ne sont pas concernés.",
+            "Édouard Philippe maintient son refus de toute primaire : « Je ne changerai pas d'avis, je suis constant et cohérent », a-t-il dit vendredi. Bruno Retailleau a proposé un scrutin les 31 janvier et 7 février, et les équipes d'Attal, Retailleau et Lisnard se réunissent mardi.",
+            "Au salon du Made in France, Teddy Riner a déclaré : « Je ne suis pas l'envoyé du président. Je ne suis pas un macroniste », en se disant « ni de droite ni de gauche » ; Emmanuel Macron avait jugé que sa candidature ne pouvait « qu'apporter au pays ».",
+            "Le quintuple champion olympique, candidat depuis le 9 novembre, propose dans Le Parisien une réforme des retraites et un allègement des cotisations sociales."
+          ],
+          "enjeu": "Avec plusieurs prétendants sous les 10 % dans les sondages, la droite et le centre cherchent un mode de désignation avant l'hiver. L'entrée de Teddy Riner brouille encore l'offre au centre, qu'il refuse de voir assimilée au macronisme.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant juge habituellement ces tractations comme des querelles d'appareil entre candidats qui partagent, selon lui, la même politique libérale, et présente ses propres candidatures comme celles du monde du travail.",
+              "src": ""
+            },
+            "gr": {
+              "type": "lecture",
+              "texte": "Le courant renvoie habituellement dos à dos les prétendants de la droite et du centre, qu'il présente comme les héritiers du macronisme, et se pose en seule alternative au RN.",
+              "src": ""
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant critique habituellement le « ni droite ni gauche », qu'il associe au bilan d'Emmanuel Macron, et défend l'idée d'un rassemblement de la gauche sociale-démocrate.",
+              "src": ""
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant reproche habituellement aux candidats de la droite et du centre de délaisser l'écologie, et plaide pour une candidature commune de la gauche et des écologistes.",
+              "src": ""
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "Gabriel Attal (Renaissance) soutient une primaire de la droite et du centre mais refuse d'y intégrer Éric Zemmour, la primaire ne devant pas « servir de marche-pied à l'extrême droite ».",
+              "src": "AFP, 13 novembre 2026"
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant plaide habituellement pour un candidat unique du centre et de la droite modérée, choisi sur un projet commun plutôt que par une compétition interne.",
+              "src": ""
+            },
+            "hor": {
+              "type": "declare",
+              "texte": "Édouard Philippe (Horizons) refuse toute primaire : « Je ne changerai pas d'avis, je suis constant et cohérent » ; ses proches la jugent « une course vers le bas ».",
+              "src": "AFP, 13 et 14 novembre 2026"
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Gérard Larcher (LR) propose de réunir les candidats de la droite et du centre pour trouver une « méthode de départage », disant faire « confiance au sens de l'État » de chacun.",
+              "src": "AFP, 14 novembre 2026"
+            },
+            "dn": {
+              "type": "lecture",
+              "texte": "Le courant présente habituellement ces discussions comme la preuve de l'éparpillement de ses adversaires, et met en avant l'avance de sa candidate dans les sondages.",
+              "src": ""
+            },
+            "ed": {
+              "type": "declare",
+              "texte": "Éric Zemmour (Reconquête) s'est dit « ravi d'être candidat à cette primaire » et a demandé à David Lisnard de l'y intégrer, ce que Gabriel Attal refuse.",
+              "src": "AFP, 13 novembre 2026"
+            }
+          },
+          "sources": [
+            {
+              "t": "La Gazette France (AFP) – Présidentielle : Larcher veut réunir les candidats de la droite et du centre, la pression monte sur Philippe",
+              "u": "https://www.lagazettefrance.fr/article/presidentielle-larcher-veut-reunir-les-candidats-de-la-droite-et-du-centre-la-pression-monte-sur-philippe"
+            },
+            {
+              "t": "Europe 1 (AFP) – « Je ne suis pas un macroniste », affirme Teddy Riner, qualifiant les félicitations du président de « baiser empoisonné »",
+              "u": "https://www.europe1.fr/politique/je-ne-suis-pas-un-macroniste-affirme-teddy-riner-qualifiant-les-felicitations-du-president-de-baiser-empoisonne-1233182"
+            },
+            {
+              "t": "La Libre (AFP) – Teddy Riner affirme qu'il n'est « pas un macroniste » et réagit aux félicitations du président",
+              "u": "https://www.lalibre.be/international/europe/elections-france/2026/11/14/teddy-riner-affirme-quil-nest-pas-un-macroniste-et-reagit-aux-felicitations-du-president-un-baiser-empoisonne-6XKWEEJI2NDV7OLLAZT3YOR7T4/"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-15-ukraine-otan-donbass-macron",
+          "rubrique": "International",
+          "titre": "Ukraine : Zelensky affirme que Washington a évoqué l'Otan contre le Donbass, Macron refuse une « paix injuste »",
+          "chapo": "Pour la première fois, selon le président ukrainien, les Américains ont lié une adhésion à l'Alliance à un retrait du Donbass. À Paris, Emmanuel Macron s'en prend à « ceux qui veulent rationner » l'aide à Kiev.",
+          "faits": [
+            "Selon des propos diffusés samedi, Volodymyr Zelensky rapporte que les Américains lui ont posé la question : « Et si l'Ukraine rejoignait l'Otan ? L'Ukraine se retirerait-elle du Donbass ? », une première selon lui.",
+            "Le président ukrainien pose ses conditions : d'abord un cessez-le-feu, puis la fin de la guerre et des garanties de sécurité ; il affirme que Moscou a rejeté à Abou Dhabi une trêve sur les frappes énergétiques.",
+            "À Dublin, les Européens ont convenu d'être représentés aux prochaines négociations par cinq pays (France, Allemagne, Royaume-Uni, Pologne, Italie) et par l'UE ; aucune date n'est fixée.",
+            "Dans un message sur X samedi, Emmanuel Macron estime que vouloir « rationner les moyens de l'Ukraine » pour « l'obliger à une paix injuste », c'est « la recette pour la guerre d'après », et que « cela ne peut pas être la position de la France »."
+          ],
+          "enjeu": "La piste américaine touche au cœur du conflit, la souveraineté de l'Ukraine sur ses territoires. En France, l'aide à Kiev devient un clivage de la présidentielle, entre l'exécutif et une candidate du RN qui promet de la réduire.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant s'oppose habituellement à l'Otan comme à l'invasion russe, refuse le soutien militaire au nom de l'antimilitarisme et dénonce une paix négociée entre grandes puissances sur le dos des peuples.",
+              "src": ""
+            },
+            "gr": {
+              "type": "lecture",
+              "texte": "Le courant plaide habituellement pour une conférence de paix et des frontières garanties, critique l'élargissement de l'Otan et refuse l'escalade militaire, tout en condamnant l'agression russe.",
+              "src": ""
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement fermement l'Ukraine, défend son intégrité territoriale et réclame un rôle central de l'Europe dans les négociations et dans les garanties de sécurité.",
+              "src": ""
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement un soutien européen sans faille à l'Ukraine, l'usage des avoirs russes gelés et le refus de toute paix imposée par la force.",
+              "src": ""
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "Emmanuel Macron, fondateur de Renaissance, juge que « Vladimir Poutine ne veut pas négocier » et que « aider l'Ukraine à se défendre, c'est protéger la France et les Français ».",
+              "src": "X, via BFMTV et Quartz, 14 novembre 2026"
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement l'Ukraine et plaide pour une défense européenne plus intégrée, capable de garantir un futur cessez-le-feu.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement le soutien à Kiev et une hausse de l'effort de défense, en insistant sur la nécessité pour l'Europe de ne pas dépendre des seuls États-Unis.",
+              "src": ""
+            },
+            "d": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement l'Ukraine face à la Russie, tout en appelant à un réarmement de la France et à une vigilance sur le coût de l'aide.",
+              "src": ""
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Marine Le Pen (RN) promet, si elle est élue, de maintenir l'aide pendant six mois puis de cesser l'aide financière à l'Ukraine, « car nous n'avons plus les moyens de le faire ».",
+              "src": "VRT, via Paris Match Belgique, 15 octobre 2026"
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant prône habituellement l'arrêt de l'aide à l'Ukraine et une négociation rapide avec la Russie, au nom des intérêts nationaux et du refus de l'escalade.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "L'Avenir (AFP) – Zelensky affirme que Washington a proposé des concessions territoriales en échange d'une adhésion de l'Ukraine à l'Otan",
+              "u": "https://www.lavenir.net/actu/monde/2026/11/14/zelensky-affirme-que-washington-a-propose-des-concessions-territoriales-en-echange-dune-adhesion-de-lukraine-a-lotan-XHDRZ3IA3BACZLGTSRUE7CKO6I/"
+            },
+            {
+              "t": "Quartz – Emmanuel Macron critique le rationnement de l'aide à l'Ukraine",
+              "u": "https://fr.qz.com/emmanuel-macron-critique-rationnement-aide-ukraine-x-111426"
+            },
+            {
+              "t": "Yahoo Actualités (BFMTV) – Guerre en Ukraine : Emmanuel Macron estime que « ceux qui veulent rationner » l'aide à Kiev veulent « obliger » les Ukrainiens « à une paix injuste »",
+              "u": "https://fr.news.yahoo.com/guerre-ukraine-emmanuel-macron-estime-190025728.html"
+            },
+            {
+              "t": "Paris Match Belgique – Si elle arrive à l'Élysée, Marine Le Pen promet de couper l'aide à l'Ukraine",
+              "u": "https://www.parismatch.be/actualites/monde/2026/10/15/presidentielle-francaise-si-elle-arrive-a-lelysee-marine-le-pen-promet-de-couper-laide-a-lukraine-je-ne-prends-personne-en-traitre-EKOIX7JLGZBBTPVJXNLDVDTVXY/"
+            }
+          ]
+        }
+      ],
+      "breves": [
+        {
+          "titre": "Macron en visite d'État au Cambodge",
+          "texte": "Emmanuel Macron effectue du 14 au 16 novembre une visite d'État au Cambodge, la première d'un président français depuis François Mitterrand en 1993. Au programme : une audience avec le roi Norodom Sihamoni, des entretiens avec Hun Manet et Hun Sen, et à Siem Reap la clôture de la restauration du temple du Mebon occidental, menée pendant quatorze ans avec la France, en marge du sommet de la Francophonie à Phnom Penh.",
+          "src": {
+            "t": "The Star (Xinhua) – French president to pay landmark visit at royal invite",
+            "u": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/10/french-president-to-pay-landmark-visit-at-royal-invite"
+          }
+        },
+        {
+          "titre": "Grève de mardi : les transports dans l'incertitude",
+          "texte": "À la SNCF, la CGT-Cheminots, SUD-Rail et la CFDT appellent à la grève mardi, avec des perturbations possibles sur les TER et le Transilien ; les grévistes du rail et les contrôleurs aériens devaient se déclarer au plus tard ce dimanche. Aucun préavis national n'a été déposé dans l'aérien, et les prévisions de trafic sont attendues lundi.",
+          "src": {
+            "t": "Mistertravel – Grève du 17 novembre : ce que l'on sait pour les trains, les avions et les transports",
+            "u": "https://mistertravel.news/2026/11/12/greve-du-17-novembre-ce-que-lon-sait-pour-les-trains-les-avions-et-les-transports/"
+          }
+        }
+      ],
+      "agenda": [
+        {
+          "d": "Lun. 16 nov.",
+          "t": "Le Sénat poursuit l'examen des dépenses du budget de la Sécu ; Conseil des ministres des Affaires étrangères de l'UE ; fin de la visite d'Emmanuel Macron au Cambodge"
+        },
+        {
+          "d": "Mar. 17 nov.",
+          "t": "Grève dans la fonction publique à l'appel de tous les syndicats, appel interprofessionnel de la CGT ; réunion des équipes Attal, Retailleau et Lisnard sur la primaire"
+        },
+        {
+          "d": "Mer. 18 nov.",
+          "t": "Vote solennel du Sénat sur le budget de la Sécurité sociale"
+        },
+        {
+          "d": "Jeu. 19 nov.",
+          "t": "Examen au Sénat de la proposition de loi sur la présomption d'usage légitime de l'arme ; réunion de la coalition des volontaires pour l'Ukraine en Allemagne"
+        },
+        {
+          "d": "Ven. 20 nov.",
+          "t": "Début de l'examen du budget 2027 de l'État au Sénat ; clôture prévue de la COP31 à Antalya"
+        }
+      ]
+    },
     {
       "date": "2026-11-14",
       "label": "Samedi 14 novembre 2026",
@@ -2999,486 +3438,6 @@
         {
           "d": "Mar. 10 nov.",
           "t": "Grève dans l'éducation et les universités ; vote de la commission des Affaires culturelles sur la pétition contre CNews (13 h) ; pourparlers sur l'Ukraine à Abou Dhabi (jusqu'au 11 novembre)"
-        },
-        {
-          "d": "Mer. 11 nov.",
-          "t": "Commémorations de l'Armistice de 1918"
-        },
-        {
-          "d": "Mer. 18 nov.",
-          "t": "Vote solennel du Sénat sur le budget de la Sécurité sociale ; sommet de l'Apec à Shenzhen (18-19 novembre)"
-        },
-        {
-          "d": "Jeu. 19 nov.",
-          "t": "Le Sénat examine la présomption de légitime défense pour les forces de l'ordre"
-        },
-        {
-          "d": "Ven. 20 nov.",
-          "t": "Début de l'examen du projet de loi de finances 2027 en séance au Sénat"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-08",
-      "label": "Dimanche 8 novembre 2026",
-      "maj": "Mise à jour à 6 h 31",
-      "intro": "La rue reflue : l'acte IV n'a rassemblé que 146 000 manifestants selon l'Intérieur, et le rassemblement interdit de la Concorde a tourné court. Tout se joue désormais lundi à Matignon, où le gouvernement envisage un coup de pouce au Smic dès décembre. Au Bourget, LFI a lancé sa « Nouvelle France » pendant que le PCF sanctionnait ses députés ralliés à Mélenchon, et la victime de l'attentat raciste de Trappes a été inhumée. À l'international, Russes, Ukrainiens et Américains se retrouvent mardi à Abou Dhabi.",
-      "stories": [
-        {
-          "id": "2026-11-08-acte-iv-recul",
-          "rubrique": "Social",
-          "titre": "Acte IV : 146 000 manifestants selon l'Intérieur, une mobilisation en net recul et 360 interpellations",
-          "chapo": "Le quatrième samedi de mobilisation contre la vie chère a rassemblé moins de monde que les précédents. Place de la Concorde, le rassemblement interdit des gilets jaunes n'a réuni qu'une trentaine de personnes, et deux de leurs figures ont été placées en garde à vue.",
-          "faits": [
-            "Le ministère de l'Intérieur a compté 146 000 manifestants en France samedi, dont 46 000 à Paris selon la préfecture de police, contre 65 000 dans la capitale jeudi ; l'intersyndicale de la jeunesse en revendique 250 000.",
-            "À 19 h, Beauvau recensait 360 interpellations sur le territoire et décrivait une situation « globalement calme et maîtrisée », malgré des affrontements à Lyon, où un cortège non déclaré a été dispersé au gaz lacrymogène, et quelques tensions en fin de cortège à Paris.",
-            "Place de la Concorde, une trentaine de gilets jaunes ont été verbalisés pour non-respect de l'arrêté préfectoral puis évacués vers 15 h 40.",
-            "Benjamin Ball et Azelma Sigaux, figures de la coordination, ont été interpellés aux abords de l'Assemblée nationale et placés en garde à vue, selon leur avocat.",
-            "Le cortège intersyndical est arrivé place de la Nation dans le calme."
-          ],
-          "enjeu": "Le reflux de la rue intervient à la veille de la conférence sociale de Matignon, que l'exécutif présente comme le moment des réponses sur les salaires. L'intersyndicale ne dira que lundi soir si elle appelle à de nouvelles journées, et le mouvement des gilets jaunes, sans relais syndical, doit trouver un second souffle.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant appelle habituellement à poursuivre et durcir la mobilisation par la grève, et dénonce les interdictions de manifester et les interpellations comme une répression du mouvement social.",
-              "src": ""
-            },
-            "gr": {
-              "type": "declare",
-              "texte": "Au Bourget, Jean-Luc Mélenchon (LFI) affirme que « la France est en état d'ébullition sociale » et évoque « l'agonie macroniste », appelant à « tout changer ».",
-              "src": "Public Sénat, 7 novembre 2026"
-            },
-            "soc": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement les revendications salariales portées par les syndicats et le droit de manifester, tout en condamnant les violences et en appelant le gouvernement à des réponses concrètes.",
-              "src": ""
-            },
-            "eco": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement les mobilisations contre la vie chère et la jeunesse, critique les interdictions de rassemblement et réclame une hausse des bas salaires.",
-              "src": ""
-            },
-            "ren": {
-              "type": "lecture",
-              "texte": "Le courant met habituellement en avant le dialogue avec les partenaires sociaux comme réponse à la colère, tout en défendant la fermeté face aux rassemblements interdits.",
-              "src": ""
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant reconnaît habituellement la légitimité des inquiétudes sur le pouvoir d'achat et plaide pour l'apaisement et la négociation entre gouvernement et syndicats.",
-              "src": ""
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant insiste habituellement sur le respect de l'ordre public et des décisions préfectorales, et sur la nécessité de ne pas céder à la pression de la rue sur les finances publiques.",
-              "src": ""
-            },
-            "d": {
-              "type": "lecture",
-              "texte": "Le courant réclame habituellement la fermeté face aux rassemblements interdits et aux casseurs, et salue l'action des forces de l'ordre.",
-              "src": ""
-            },
-            "dn": {
-              "type": "lecture",
-              "texte": "Le courant dit habituellement comprendre la colère sur le pouvoir d'achat, qu'il impute à la politique d'Emmanuel Macron, tout en condamnant les violences et l'extrême gauche.",
-              "src": ""
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant accuse habituellement l'extrême gauche d'instrumentaliser la colère sociale et réclame des sanctions sévères contre les fauteurs de troubles.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "Sud Radio – En direct : mobilisation du 7 novembre, 146 000 manifestants en France, tensions en fin de cortège",
-              "u": "https://www.sudradio.fr/sud-radio/en-direct-lacte-4-des-gilets-jaunes-avec-90-mobilisations-dans-toute-la-france"
-            },
-            {
-              "t": "Europe 1 – Acte IV : 146 000 manifestants en France selon le ministère de l'Intérieur, 250 000 selon l'intersyndicale de la jeunesse",
-              "u": "https://europe1.fr/international/en-direct-acte-iv-situation-calme-dans-lagglomeration-parisienne-plus-de-5800-controles-effectues-1214852"
-            },
-            {
-              "t": "ici – Mobilisation du 7 novembre : « situation calme et maîtrisée », participation en « net recul » selon le gouvernement",
-              "u": "https://www.ici.fr/infos/societe/direct-mobilisation-du-7-novembre-suivez-l-acte-iv-des-manifestations-contre-la-vie-chere-1202790"
-            }
-          ],
-          "image": {
-            "u": "https://www.sudradio.fr/wp-content/uploads/2026/11/AFP__20261107__D6R28BK__v1__HighRes__FranceSocialPoliticsDemo.jpg",
-            "credit": "Sud Radio",
-            "alt": "Illustration de l'article de Sud Radio"
-          }
-        },
-        {
-          "id": "2026-11-08-smic-coup-de-pouce",
-          "rubrique": "Social",
-          "titre": "Smic : avant la conférence sociale de lundi, Jean-Pierre Farandou ouvre la porte à un coup de pouce dès le 1er décembre",
-          "chapo": "Le ministre du Travail veut franchir la barre des 1 500 euros net, mais refuse toute hausse qui « nuirait à l'emploi ». Les syndicats réclament bien davantage, alors qu'aucun coup de pouce n'a été accordé depuis 2012.",
-          "faits": [
-            "Dans un entretien à La Tribune Dimanche, Jean-Pierre Farandou affirme qu'une hausse du Smic « serait possible dès le 1er décembre, si les discussions aboutissent rapidement », tout en prévenant : « Je ne proposerai pas de mesure qui nuirait à l'emploi ».",
-            "Selon lui, porter le Smic à 1 700 euros net « détruirait plus de 230 000 emplois ».",
-            "Le Smic s'élève aujourd'hui à 1 477,93 euros net ; vendredi sur TF1, le ministre jugeait « important » de franchir la barre des 1 500 euros, ce qui suppose une hausse d'au moins 1,49 %.",
-            "La CFDT demande 100 euros net de plus par mois, la CGT 10 %, soit environ 150 euros.",
-            "Le dernier coup de pouce, de 0,6 % hors inflation, remonte à juin 2012."
-          ],
-          "enjeu": "La conférence sociale convoquée lundi à Matignon par Sébastien Lecornu doit « apporter des réponses aux questions de pouvoir d'achat et de salaires ». Le niveau du geste sur le Smic, et ce qu'il prévoit pour les salaires au-dessus, pèsera sur la décision de l'intersyndicale de poursuivre ou non le mouvement.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant réclame habituellement de fortes hausses de salaires pour tous, leur indexation sur les prix et un Smic nettement relevé, et juge les coups de pouce insuffisants.",
-              "src": ""
-            },
-            "gr": {
-              "type": "declare",
-              "texte": "Hadrien Clouet (LFI), co-auteur du programme insoumis, promet de porter le Smic à 1 700 euros net, l'une des mesures phares présentées au Bourget.",
-              "src": "Public Sénat, 7 novembre 2026"
-            },
-            "soc": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement un coup de pouce au Smic et l'ouverture de négociations salariales dans les branches, en rappelant celui accordé en 2012 sous François Hollande.",
-              "src": ""
-            },
-            "eco": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement une hausse significative du Smic et des bas salaires, financée par une fiscalité plus forte sur les hauts patrimoines.",
-              "src": ""
-            },
-            "ren": {
-              "type": "lecture",
-              "texte": "Le courant privilégie habituellement la prime d'activité et la baisse des cotisations pour augmenter le revenu net, en mettant en garde contre les effets d'une hausse du Smic sur l'emploi peu qualifié.",
-              "src": ""
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant se dit habituellement ouvert à un geste sur les bas salaires, à condition de préserver la compétitivité des petites entreprises et de relancer les négociations de branche.",
-              "src": ""
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant met habituellement en garde contre une hausse du coût du travail et préfère agir sur les cotisations salariales pour améliorer le salaire net.",
-              "src": ""
-            },
-            "d": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement l'idée que le travail doit mieux payer par la baisse des charges plutôt que par une hausse administrée du Smic, jugée risquée pour les PME.",
-              "src": ""
-            },
-            "dn": {
-              "type": "lecture",
-              "texte": "Le courant propose habituellement d'augmenter les salaires en exonérant de cotisations patronales les hausses consenties par les entreprises, et s'interroge sur le financement d'un coup de pouce.",
-              "src": ""
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant prône habituellement la baisse des charges et des impôts pour augmenter le salaire net, et se montre réservé sur une hausse du Smic imposée aux entreprises.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "LCP – Hausse du Smic : le dernier « coup de pouce » remonte à 2012 sous François Hollande",
-              "u": "https://lcp.fr/actualites/hausse-du-smic-le-dernier-coup-de-pouce-remonte-a-2012-sous-francois-hollande-444846"
-            },
-            {
-              "t": "Boursorama (AFP) – Hausse du Smic : ne pas nuire à l'emploi, demande Farandou",
-              "u": "https://www.boursorama.com/actualite-economique/actualites/hausse-du-smic-ne-pas-nuire-a-l-emploi-demande-farandou-ba9443d494f86afdb032db70efa87e68"
-            },
-            {
-              "t": "L'Express (via Orange) – Hausse du Smic : le ministre du Travail veut « franchir la barre des 1 500 euros nets »",
-              "u": "https://actu.orange.fr/politique/hausse-du-smic-le-ministre-du-travail-veut-franchir-la-barre-des-1-500-euros-nets-l-express-via-6medias-CNT000002tArYw.html"
-            }
-          ],
-          "image": {
-            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2026-09/Capture%20d%27%C3%A9cran%202026-09-16%20084435.png?itok=n61-DS57",
-            "credit": "LCP",
-            "alt": "Illustration de l'article de LCP"
-          }
-        },
-        {
-          "id": "2026-11-08-lfi-bourget-pcf",
-          "rubrique": "Présidentielle 2027",
-          "titre": "Au Bourget, LFI lance sa « Nouvelle France » ; le PCF écarte de ses instances les députés ralliés à Mélenchon",
-          "chapo": "Devant 20 000 personnes selon le parti, Jean-Luc Mélenchon a promis de « tout changer » et refusé de « mettre de l'eau dans son vin ». Quelques heures plus tôt, la direction communiste sanctionnait Stéphane Peu et les élus qui le soutiennent.",
-          "faits": [
-            "LFI revendique plus de 20 000 participants samedi au Bourget (Seine-Saint-Denis) pour la présentation de la nouvelle édition de « L'Avenir en commun », dont la première impression de 80 000 exemplaires serait épuisée selon le député Antoine Léaument, 50 000 autres étant réimprimés.",
-            "« Il est l'heure de tout changer », a lancé Jean-Luc Mélenchon, qui a défendu un programme appliqué « à 100 % » et proposé « liberté, égalité, solidarité » comme nouvelle devise.",
-            "Jeudi, neuf des dix-sept députés du groupe GDR, dont son président Stéphane Peu et quatre des huit communistes, ont annoncé soutenir Mélenchon plutôt que Fabien Roussel, candidat du PCF.",
-            "Samedi, le conseil national du PCF a jugé que « celui ou celle qui fait ce choix se met de lui-même en dehors du parti et de ses instances » ; Stéphane Peu, présent au meeting, dit s'y attendre et entend rester président du groupe."
-          ],
-          "enjeu": "LFI veut faire de son programme le point de ralliement de la gauche et affaiblir les candidatures concurrentes, à commencer par celle de Fabien Roussel, crédité d'environ 2 % des intentions de vote selon l'AFP. La sanction communiste ouvre une crise au sein du groupe GDR à l'Assemblée.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant partage habituellement plusieurs revendications sociales des insoumis, mais refuse de se ranger derrière un candidat qu'il juge réformiste et présente ses propres candidatures révolutionnaires.",
-              "src": ""
-            },
-            "gr": {
-              "type": "declare",
-              "texte": "Le conseil national du PCF estime que les élus qui soutiennent Mélenchon se mettent « en dehors du parti et de ses instances » ; pour Jean-Luc Mélenchon (LFI), Stéphane Peu « est tout aussi communiste qu'il l'était hier ».",
-              "src": "LCP, 7 novembre 2026"
-            },
-            "soc": {
-              "type": "lecture",
-              "texte": "Le courant juge habituellement que la stratégie insoumise divise la gauche et rend une victoire improbable au second tour, et défend une candidature sociale-démocrate distincte.",
-              "src": ""
-            },
-            "eco": {
-              "type": "lecture",
-              "texte": "Le courant reconnaît habituellement des convergences programmatiques avec LFI, notamment sur l'écologie, mais conteste l'idée d'un ralliement de toute la gauche derrière Jean-Luc Mélenchon.",
-              "src": ""
-            },
-            "ren": {
-              "type": "lecture",
-              "texte": "Le courant présente habituellement le programme insoumis comme irréaliste sur le plan budgétaire et dangereux pour l'économie, et fait de LFI l'un de ses principaux adversaires.",
-              "src": ""
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant met habituellement en garde contre les promesses de dépenses non financées et contre la radicalité qu'il prête à LFI.",
-              "src": ""
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant dénonce habituellement les hausses d'impôts et de dépenses du programme insoumis et se pose en rempart contre les extrêmes.",
-              "src": ""
-            },
-            "d": {
-              "type": "lecture",
-              "texte": "Le courant rejette habituellement le programme insoumis comme un projet de matraquage fiscal et accuse LFI de complaisance envers le communautarisme.",
-              "src": ""
-            },
-            "dn": {
-              "type": "lecture",
-              "texte": "Le courant voit habituellement en Jean-Luc Mélenchon son principal adversaire à gauche et combat un projet qu'il juge ruineux et communautariste.",
-              "src": ""
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant présente habituellement LFI comme son adversaire principal et dénonce ce qu'il appelle l'islamo-gauchisme.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "Public Sénat – « Il est l'heure de tout changer » : au Bourget, LFI met en scène sa « Nouvelle France »",
-              "u": "https://www.publicsenat.fr/actualites/politique/il-est-lheure-de-tout-changer-au-bourget-lfi-met-en-scene-sa-nouvelle-france"
-            },
-            {
-              "t": "LCP – « Je vais l'offrir à mes grands-parents » : au meeting de Mélenchon, les militants repartent avec le programme et une mission",
-              "u": "https://lcp.fr/actualites/je-vais-l-offrir-a-mes-grands-parents-au-meeting-de-melenchon-les-militants-repartent"
-            },
-            {
-              "t": "LCP – Écarté des instances du PCF après son soutien à Jean-Luc Mélenchon, Stéphane Peu veut toujours diriger le groupe à l'Assemblée",
-              "u": "https://lcp.fr/actualites/ecarte-des-instances-du-pcf-apres-son-soutien-a-jean-luc-melenchon-stephane-peu-veut"
-            },
-            {
-              "t": "L'Express (via Orange) – Fabien Roussel lâché par le groupe communiste à l'Assemblée, qui choisit de soutenir Jean-Luc Mélenchon",
-              "u": "https://actu.orange.fr/politique/presidentielle-2027-fabien-roussel-lache-par-le-groupe-communiste-a-l-assemblee-qui-choisit-de-soutenir-jean-luc-melenchon-l-express-via-6medias-CNT000002tzzCs.html"
-            }
-          ],
-          "image": {
-            "u": "https://www.publicsenat.fr/app/uploads/2026/11/SIPA_01314537_000013-scaled.jpg",
-            "credit": "Public Sénat",
-            "alt": "Illustration de l'article de Public Sénat"
-          }
-        },
-        {
-          "id": "2026-11-08-trappes-obseques",
-          "rubrique": "Société",
-          "titre": "Attentat raciste de Trappes : des centaines de personnes aux obsèques de Pengo Bossio Wangi",
-          "chapo": "Deux semaines après l'attaque qui a fait un mort et sept blessés dans les Yvelines, la famille de la victime a tenu des obsèques à Guyancourt, à l'écart des responsables politiques. Un hommage national a été annoncé par l'Élysée, sans date à ce stade.",
-          "faits": [
-            "Pengo Bossio Wangi, 26 ans, Français d'origine congolaise et pratiquant de MMA, a été tué le 23 octobre lorsqu'un homme a tiré en rafales depuis sa voiture à Trappes puis à La Verrière ; sept personnes ont été blessées, dont une fillette de 11 ans.",
-            "Ses obsèques ont eu lieu samedi au cimetière de Guyancourt, la famille ayant demandé l'absence de journalistes et de responsables politiques.",
-            "Le suspect, Kévin T., 39 ans, a été mis en examen le 29 octobre par le parquet national antiterroriste pour « assassinats et tentatives d'assassinats en relation avec une entreprise terroriste », avec la circonstance aggravante du mobile raciste.",
-            "Selon le procureur Olivier Christen, il a reconnu avoir « spécifiquement ciblé des personnes de type musulman, africain ou nord-africain », mais conteste toute intention terroriste.",
-            "Il avait été interpellé trois jours plus tôt à Levallois-Perret pour des violences dans une station-service."
-          ],
-          "enjeu": "Emmanuel Macron a parlé d'« un tournant » et d'« un attentat terroriste, raciste ». L'affaire relance le débat sur la place du racisme dans le discours public et sur la détection des profils violents, alors qu'un hommage national reste à organiser.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant dénonce habituellement le racisme comme produit d'un climat politique et médiatique qu'il attribue à la droite et à l'extrême droite, et appelle à la mobilisation antiraciste.",
-              "src": ""
-            },
-            "gr": {
-              "type": "declare",
-              "texte": "Jean-Luc Mélenchon (LFI) a réagi par ces mots : « Le racisme tue. » Samedi au Bourget, LFI a observé une minute de silence pour la victime.",
-              "src": "AFP, 23 octobre 2026 ; LCP, 7 novembre 2026"
-            },
-            "soc": {
-              "type": "lecture",
-              "texte": "Le courant condamne habituellement les violences racistes avec la plus grande fermeté, appelle à l'unité républicaine et réclame des moyens contre la haine en ligne.",
-              "src": ""
-            },
-            "eco": {
-              "type": "lecture",
-              "texte": "Le courant dénonce habituellement la banalisation des discours racistes et réclame une politique publique ambitieuse contre les discriminations.",
-              "src": ""
-            },
-            "ren": {
-              "type": "lecture",
-              "texte": "Le courant appelle habituellement à l'unité nationale face aux actes terroristes et soutient la réponse judiciaire et l'hommage aux victimes voulus par l'exécutif.",
-              "src": ""
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant insiste habituellement sur la concorde républicaine et la condamnation sans réserve de toute violence fondée sur l'origine ou la religion.",
-              "src": ""
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant condamne habituellement fermement le terrorisme sous toutes ses formes et appelle à renforcer la détection des profils dangereux.",
-              "src": ""
-            },
-            "d": {
-              "type": "lecture",
-              "texte": "Le courant condamne habituellement les actes terroristes quelle qu'en soit l'inspiration et réclame une justice sévère, en mettant en garde contre toute récupération politique.",
-              "src": ""
-            },
-            "dn": {
-              "type": "declare",
-              "texte": "Marine Le Pen (RN) a dénoncé « un acte criminel de nature terroriste aggravé par le mobile abject du racisme » et estimé que « la justice se devra d'être implacable ».",
-              "src": "AFP, 23 octobre 2026"
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant condamne habituellement les violences tout en refusant qu'on l'associe à leurs auteurs, et dénonce ce qu'il considère comme une instrumentalisation politique.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "France 24 – Attentat raciste de Trappes : des centaines de personnes aux obsèques de Pengo Bossio Wangi",
-              "u": "https://www.france24.com/fr/france/20261107-attentat-racisme-trappes-obs%C3%A8ques-pengo-bossio-wangi-samedi-guyancourt"
-            },
-            {
-              "t": "ici – Aux obsèques de Pengo Bossio Wangi, une foule de proches et d'anonymes réunis « pour pleurer »",
-              "u": "https://ici.fr/infos/societe/aux-obseques-de-pengo-bossio-wangi-une-foule-de-proches-et-anonymes-reunis-pour-pleurer-7671931"
-            },
-            {
-              "t": "Brut – Ce qu'a dit le procureur antiterroriste sur Kévin T., auteur de l'attentat de Trappes",
-              "u": "https://www.brut.media/fr/articles/ce-que-l-on-sait-du-profil-de-kevin-t-auteur-de-l-attentat-de-trappes"
-            },
-            {
-              "t": "Le360 (AFP) – Tirs meurtriers dans les Yvelines : « un tournant » pour Macron, qui dénonce une attaque raciste",
-              "u": "https://fr.le360.ma/monde/tirs-meurtriers-dans-les-yvelines-un-tournant-pour-macron-qui-denonce-une-attaque-raciste_HPXYEIXS6RDSHFXU4636G7MIVQ/"
-            }
-          ],
-          "image": {
-            "u": "https://s.france24.com/media/display/63c65ebe-da90-11f1-af91-bf1914cabd52/w:1280/p:16x9/000-D66746K.jpg",
-            "credit": "France 24",
-            "alt": "Illustration de l'article de France 24"
-          }
-        },
-        {
-          "id": "2026-11-08-ukraine-abou-dhabi",
-          "rubrique": "International",
-          "titre": "Ukraine : Russes, Ukrainiens et Américains se retrouvent mardi à Abou Dhabi, sans les Européens à la table",
-          "chapo": "Premier cycle de pourparlers trilatéraux depuis février, la réunion des 10 et 11 novembre doit porter sur la désescalade et les garanties d'après-guerre. Kiev espère qu'elle ouvrira la voie à une rencontre entre Volodymyr Zelensky et Vladimir Poutine.",
-          "faits": [
-            "Annoncés le 2 novembre par l'envoyé spécial américain Steve Witkoff, les pourparlers doivent aborder « les accords de sécurité d'après-guerre, la désescalade, les mesures humanitaires et la fin de la guerre », selon Reuters ; Witkoff et Jared Kushner représenteront les États-Unis.",
-            "Le Kremlin a confirmé l'envoi d'une délégation conduite par Vladimir Medinsky.",
-            "Le dernier cycle de ce type remontait à février 2026, avant la guerre déclenchée contre l'Iran.",
-            "En visite à Berlin le 3 novembre, Volodymyr Zelensky a dit espérer un sommet des dirigeants et chiffré à 70 milliards d'euros l'aide européenne supplémentaire nécessaire l'an prochain.",
-            "Les Européens, qui réclament d'être associés, ne participeront pas à la réunion ; des négociateurs américains devaient rencontrer cette semaine à Bruxelles des représentants de la France, de l'Allemagne, du Royaume-Uni, de l'UE et de l'Otan."
-          ],
-          "enjeu": "Washington cherche une percée avant l'hiver alors que Kiev et Moscou restent très éloignés sur le fond. Pour la France, l'enjeu est de peser sur les garanties de sécurité et de ne pas se voir imposer un accord négocié sans les Européens.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant s'oppose habituellement à la guerre et aux livraisons d'armes, renvoie dos à dos les puissances impliquées et défend une paix décidée par les peuples.",
-              "src": ""
-            },
-            "gr": {
-              "type": "lecture",
-              "texte": "Le courant plaide habituellement pour une conférence de paix et des négociations sous l'égide de l'ONU, tout en condamnant l'invasion russe et en se méfiant de la tutelle américaine sur le processus.",
-              "src": ""
-            },
-            "soc": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement fermement l'Ukraine et insiste pour qu'aucun accord ne soit conclu sans Kiev ni sans les Européens.",
-              "src": ""
-            },
-            "eco": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement un soutien accru à l'Ukraine, des sanctions renforcées contre la Russie et une place centrale de l'Europe dans les négociations.",
-              "src": ""
-            },
-            "ren": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement une paix « juste et durable » avec des garanties de sécurité solides pour l'Ukraine, portées notamment par la coalition des volontaires conduite avec le Royaume-Uni.",
-              "src": ""
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant insiste habituellement sur l'unité européenne et sur la nécessité que l'Europe soit associée à toute négociation qui engage sa sécurité.",
-              "src": ""
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement l'effort de défense européen et l'aide à l'Ukraine, et se méfie d'un accord qui récompenserait l'agression russe.",
-              "src": ""
-            },
-            "d": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement l'Ukraine tout en appelant au réalisme diplomatique et à la défense des intérêts français et européens.",
-              "src": ""
-            },
-            "dn": {
-              "type": "lecture",
-              "texte": "Le courant appelle habituellement à une issue négociée au conflit, se montre réservé sur l'escalade de l'aide militaire et met en avant le coût de la guerre pour les Français.",
-              "src": ""
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant prône habituellement une paix négociée rapide, critique l'engagement européen aux côtés de Kiev et juge les sanctions coûteuses pour la France.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "Al Jazeera (AFP) – Zelenskyy hopes Abu Dhabi talks will open way to meeting with Putin",
-              "u": "https://www.aljazeera.com/news/2026/11/3/zelenskyy-hopes-abu-dhabi-talks-will-open-way-to-meeting-with-putin"
-            },
-            {
-              "t": "Al-Monitor (Reuters) – US to mediate trilateral talks with Ukraine, Russia in Abu Dhabi next week, US envoy says",
-              "u": "https://www.al-monitor.com/originals/2026/11/us-mediate-trilateral-talks-ukraine-russia-abu-dhabi-next-week-us-envoy-says"
-            }
-          ],
-          "image": {
-            "u": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6ae9f6cd4c4cd-1793717965.jpg?resize=1920%2C1440",
-            "credit": "Al Jazeera (AFP)",
-            "alt": "Ukraine’s Zelenskyy hopes Abu Dhabi talks will open path to Putin meeting"
-          }
-        }
-      ],
-      "breves": [
-        {
-          "titre": "Budget de la Sécu : le Sénat entame lundi l'examen en séance",
-          "texte": "La majorité sénatoriale veut rétablir la réforme des retraites de 2023, pour 600 millions d'euros d'économies l'an prochain, tout en tenant le déficit de 12,7 milliards prévu par le gouvernement. « Ce n'est pas notre projet de loi de financement de la Sécurité sociale », prévient le rapporteur centriste Olivier Henno.",
-          "src": {
-            "t": "Public Sénat – Budget de la Sécu : le Sénat prévoit de voter le retour de la réforme des retraites de 2023",
-            "u": "https://www.publicsenat.fr/actualites/politique/budget-de-la-secu-le-senat-prevoit-de-voter-le-retour-de-la-reforme-des-retraites-de-2023"
-          }
-        },
-        {
-          "titre": "Iran : Téhéran met en garde Washington après les frappes sur l'île de Qeshm",
-          "texte": "Donald Trump a confirmé des frappes américaines, dans la nuit du 2 au 3 novembre, contre une infrastructure antiaérienne sur l'île de Qeshm, dans le détroit d'Ormuz, une « attaque mineure » selon lui. Le président iranien Massoud Pezeshkian a averti qu'une reprise des hostilités ne profiterait « à personne » ; le Qatar assure que les deux parties restent engagées dans la négociation.",
-          "src": {
-            "t": "La Gazette France (AFP) – Trump confirme des frappes sur une île iranienne, Téhéran met en garde contre une reprise des hostilités",
-            "u": "https://www.lagazettefrance.fr/article/trump-confirme-des-frappes-sur-une-ile-iranienne"
-          }
-        }
-      ],
-      "agenda": [
-        {
-          "d": "Lun. 9 nov.",
-          "t": "Conférence sociale à Matignon sur les salaires et le pouvoir d'achat ; l'intersyndicale décide le soir des suites du mouvement ; début de l'examen du budget de la Sécurité sociale en séance au Sénat"
-        },
-        {
-          "d": "Mar. 10 nov.",
-          "t": "Pourparlers entre Russes, Ukrainiens et Américains à Abou Dhabi (jusqu'au 11 novembre)"
         },
         {
           "d": "Mer. 11 nov.",
