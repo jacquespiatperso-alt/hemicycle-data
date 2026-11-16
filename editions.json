@@ -84,7 +84,12 @@
               "t": "Sud Radio (AFP) – Mobilisation sociale : « pas de division du front syndical », dit Marylise Léon",
               "u": "https://www.sudradio.fr/societe/mobilisation-sociale-pas-de-division-du-front-syndical-dit-marylise-leon"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://proxymedia.woopic.com/api/v1/images/2275%2Factu%2Farticles6medias%2Fe79%2F0da%2Ff755ac4a9f269c1e667ed88b5e%2Fpexels-matreding-11421113-optimized-261115215710_FileVert-980x450.jpg?format=1200x630&facedetect=1&quality=85",
+            "credit": "L'Express (via Orange)",
+            "alt": "Illustration de l'article de L'Express (via Orange)"
+          }
         },
         {
           "id": "2026-11-16-primaire-grande-convergence",
@@ -163,7 +168,12 @@
               "t": "franceinfo – Présidentielle 2027 : « Cette primaire, je n'y participerai pas », répète Édouard Philippe",
               "u": "https://www.franceinfo.fr/elections/direct-presidentielle-2027-l-entourage-d-emmanuel-macron-etrille-les-candidats-qui-veulent-baisser-l-aide-financiere-a-l-ukraine-dont-marine-le-pen_8283293.html"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://proxymedia.woopic.com/api/v1/images/2275%2Factu%2Farticles6medias%2Fcc9%2Fec5%2F9da1c43f09a77ca70015cbfd57%2FABACA_1023005_024-optimized-261115164659_FileVert-980x450.jpg?format=1200x630&facedetect=1&quality=85",
+            "credit": "L'Express (via Orange)",
+            "alt": "Illustration de l'article de L'Express (via Orange)"
+          }
         },
         {
           "id": "2026-11-16-ecologistes-rousseau-tondelier",
@@ -242,7 +252,12 @@
               "t": "LCP – Présidentielle : une dynamique Mélenchon chez Les Écologistes au risque de fracturer le parti ?",
               "u": "https://lcp.fr/actualites/presidentielle-une-dynamique-melenchon-chez-les-ecologistes-au-risque-de-fracturer-le"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://proxymedia.woopic.com/api/v1/images/2275%2Factu%2Farticles6medias%2F705%2F4dd%2Fbff2fe0165ce3347162ba57906%2FABACA_sandrine-rousseau-980x450.jpg?format=1200x630&facedetect=1&quality=85",
+            "credit": "L'Express (via Orange)",
+            "alt": "Illustration de l'article de L'Express (via Orange)"
+          }
         },
         {
           "id": "2026-11-16-maileva-cyberattaque",
@@ -321,7 +336,12 @@
               "t": "L'Express (via Orange) – Les trois infos à retenir de ce dimanche 15 novembre",
               "u": "https://actu.orange.fr/france/les-trois-infos-a-retenir-de-ce-dimanche-15-novembre-l-express-via-6medias-CNT000002tJGB4.html"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.franceinfo.fr/pictures/L43pbLYm_AcsC85stXcPSJ9xfNQ/0x557:5354x3569/1500x843/2026/11/14/6af8b9d543bae768990004.jpg",
+            "credit": "franceinfo",
+            "alt": "Un bureau de La Poste à Clichy La Garenne, dans les Hauts-de-Seine, le 2 mars 2026."
+          }
         },
         {
           "id": "2026-11-16-herault-pluies",
@@ -400,7 +420,12 @@
               "t": "Quartz – Des automobilistes ont été piégés par les inondations dans l'Hérault",
               "u": "https://fr.qz.com/automobilistes-pieges-inondations-herault-septuagenaire-helitreuillee-111526"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://proxymedia.woopic.com/api/v1/images/2275%2Factu%2Farticles6medias%2Ff1a%2F808%2F88ec975ff2422b4339156267ba%2Fcapture-twitter-968x450.jpg?format=1200x630&facedetect=1&quality=85",
+            "credit": "6Medias (via Orange)",
+            "alt": "Illustration de l'article de 6Medias (via Orange)"
+          }
         },
         {
           "id": "2026-11-16-ukraine-aide-macron-le-pen",
@@ -479,7 +504,12 @@
               "t": "Public Sénat – Ukraine : « L'Amérique ne peut pas négocier à notre place », alerte la cheffe de la diplomatie européenne",
               "u": "https://www.publicsenat.fr/actualites/politique/ukraine-lamerique-ne-peut-pas-negocier-a-notre-place-alerte-la-cheffe-de-la-diplomatie-europeenne"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://images.euronews.com/articles/stories/09/99/30/78/1200x675_cmsv2_ffc73983-8ee0-5a9a-bedc-87b57337928b-9993078.jpg",
+            "credit": "Euronews",
+            "alt": "Emmanuel Macron dénonce \"ceux qui veulent rationner\" l'aide à l'Ukraine, Marine Le Pen lui répond"
+          }
         }
       ],
       "breves": [
