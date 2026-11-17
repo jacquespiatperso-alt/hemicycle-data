@@ -88,7 +88,12 @@
               "t": "PolitiqueMatin – Invités politiques du 16 novembre 2026",
               "u": "https://www.politiquematin.fr/invites-politiques-16-novembre-2026"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://cdn.sortiraparis.com/images/80/1467/1338204-greve-sncf-et-ratp-du-17-novembre-rer-transilien-metro-a-quoi-s-attendre.jpg",
+            "credit": "Sortiraparis",
+            "alt": "Illustration de l'article de Sortiraparis"
+          }
         },
         {
           "id": "2026-11-17-senat-retraites-pensions",
@@ -246,7 +251,12 @@
               "t": "Var Actu – Le Pen, Mélenchon, Attal… cinq candidats face à face ce lundi soir sur TF1",
               "u": "https://www.varactu.fr/le-pen-melenchon-attal-cinq-candidats-face-a-face-ce-lundi-soir-sur-tf1-mais-un-grand-absent/"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.publicsenat.fr/app/uploads/2026/11/Video-e1794870168323-1200x630.jpg",
+            "credit": "Public Sénat",
+            "alt": "Illustration de l'article de Public Sénat"
+          }
         },
         {
           "id": "2026-11-17-loi-logement-assemblee",
@@ -317,7 +327,12 @@
               "t": "LCP – Crise du logement : le gouvernement veut assouplir les règles pour construire et louer davantage",
               "u": "https://lcp.fr/actualites/crise-du-logement-le-gouvernement-veut-assouplir-les-regles-pour-construire-et-louer"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2023-10/Immeuble_en_r%C3%A9novation_%C3%A0_Meudon_le_17_d%C3%A9cembre_2017_-_2.jpg?itok=dDWBPlOL",
+            "credit": "LCP",
+            "alt": "Illustration de l'article de LCP"
+          }
         },
         {
           "id": "2026-11-17-ukraine-negociations-berlin",
@@ -396,7 +411,12 @@
               "t": "PolitiqueMatin – Invités politiques du 16 novembre 2026",
               "u": "https://www.politiquematin.fr/invites-politiques-16-novembre-2026"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://s1.dmcdn.net/v/gzXbM1g-o1Lu19VdF/1280x720",
+            "credit": "Public Sénat",
+            "alt": "Illustration de l'article de Public Sénat"
+          }
         }
       ],
       "breves": [
