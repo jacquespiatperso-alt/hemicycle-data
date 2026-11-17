@@ -1,6 +1,449 @@
 {
-  "updated": "2026-11-16T06:27:00+01:00",
+  "updated": "2026-11-17T06:26:00+01:00",
   "editions": [
+    {
+      "date": "2026-11-17",
+      "label": "Mardi 17 novembre 2026",
+      "maj": "Mise à jour à 6 h 26",
+      "intro": "Toute la fonction publique est en grève ce mardi, avec des perturbations sur le RER D et plusieurs lignes Transilien. Cette nuit, le Sénat a réactivé la réforme des retraites de 2023 et supprimé le gel des pensions, pendant que l'Assemblée ouvrait le débat sur la loi logement. Lundi soir, cinq candidats à la présidentielle se sont opposés sur la pauvreté aux Restos du cœur, sans Édouard Philippe. À l'international, de nouvelles discussions sur l'Ukraine précèdent la réunion de jeudi à Berlin.",
+      "stories": [
+        {
+          "id": "2026-11-17-greve-fonction-publique",
+          "rubrique": "Social",
+          "titre": "Grève dans toute la fonction publique : RER D et lignes J, N et R perturbés, 17 stations fermées à Paris",
+          "chapo": "Pour la première fois depuis le début du mouvement contre la vie chère, toutes les organisations syndicales de la fonction publique appellent à cesser le travail ce mardi pour le dégel du point d'indice. La CGT étend l'appel au privé.",
+          "faits": [
+            "L'intersyndicale de la fonction publique, rejointe par FO puis par la CFDT, réclame une hausse immédiate du point d'indice ; le gouvernement l'exclut et a ouvert le 13 novembre un mois de discussions sur les bas salaires.",
+            "Selon les prévisions publiées lundi à 17 h par la SNCF, les RER A, B, C et E circulent normalement sur leurs parties SNCF ; deux trains sur trois sont prévus sur une partie du RER D et sur les lignes J, N et R. Le 5 novembre, le RER C ne roulait qu'à un train sur deux.",
+            "La CGT-Cheminots, SUD-Rail et la CFDT-Cheminots jugent insuffisante la prime de 400 euros annoncée le 3 novembre et réclament des négociations salariales immédiates, prévues pour l'instant en janvier 2027.",
+            "À la RATP, aucun préavis spécifique n'a été déposé ; à Paris, 17 stations de métro et de RER sont fermées dès 11 h à la demande de la préfecture de police, en raison de la manifestation."
+          ],
+          "enjeu": "L'unité syndicale retrouvée donne à cette journée un poids que les derniers samedis n'avaient plus. Le gouvernement parie sur une négociation ciblée sur les bas salaires d'ici la mi-décembre ; une forte mobilisation compliquerait cette stratégie, en pleine discussion budgétaire.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant appelle habituellement à faire des journées de grève le point de départ d'un mouvement reconductible, public et privé ensemble, et à l'indexation des salaires sur les prix.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Clémentine Autain (L'Après) réclame une revalorisation générale du point d'indice des fonctionnaires et critique les interdictions de rassemblement autour des lycées, sans justifier l'usage de mortiers d'artifice.",
+              "src": "franceinfo, 16 novembre 2026"
+            },
+            "soc": {
+              "type": "declare",
+              "texte": "Olivier Faure (PS) défend un smic à 1 700 euros, avec un accompagnement des PME, et prévient que les socialistes voteraient la censure si le gouvernement recourait aux ordonnances budgétaires.",
+              "src": "BFMTV-RMC, 16 novembre 2026"
+            },
+            "eco": {
+              "type": "declare",
+              "texte": "Marine Tondelier (Les Écologistes) plaide pour un smic à 2 000 euros brut et pour des exonérations de cotisations conditionnées aux hausses de salaires et à l'égalité salariale.",
+              "src": "LCI, 16 novembre 2026"
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "Sébastien Lecornu (Renaissance) a ouvert une discussion d'un mois sur « les bas salaires » dans la fonction publique, tout en maintenant le gel du point d'indice au nom du redressement des comptes.",
+              "src": "LCP, 13 novembre 2026"
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant privilégie habituellement le dialogue social et des mesures ciblées sur les plus bas salaires, compatibles avec la réduction du déficit public.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant juge habituellement qu'une hausse générale des salaires publics n'est pas finançable et plaide pour lier rémunération, réforme de l'État et efficacité des services.",
+              "src": ""
+            },
+            "d": {
+              "type": "lecture",
+              "texte": "Le courant s'oppose habituellement à toute hausse générale de la dépense publique et critique les grèves qui perturbent les transports et les écoles.",
+              "src": ""
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Jean-Philippe Tanguy (RN) se dit favorable à une hausse ciblée des rémunérations publiques, à condition qu'elle soit soumise au vote du Parlement.",
+              "src": "France 2, 16 novembre 2026"
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant critique habituellement les grèves dans les services publics et des syndicats qu'il juge politisés, et plaide pour une réduction du nombre de fonctionnaires.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Sortiraparis – Grève SNCF et RATP du 17 novembre : les prévisions de trafic RER, Transilien et métro",
+              "u": "https://www.sortiraparis.com/actualites/a-paris/articles/358322-greve-sncf-et-ratp-du-17-novembre-rer-transilien-metro-a-quoi-s-attendre"
+            },
+            {
+              "t": "Mistertravel – Grève du 17 novembre : ce qu'il faut savoir à la veille du mouvement",
+              "u": "https://mistertravel.news/2026/11/16/greve-du-17-novembre-ce-quil-faut-savoir-a-la-veille-du-mouvement/"
+            },
+            {
+              "t": "LCP – Fonction publique : Sébastien Lecornu ouvre une discussion d'un mois sur « les bas salaires »",
+              "u": "https://lcp.fr/actualites/fonction-publique-sebastien-lecornu-ouvre-une-discussion-d-un-mois-sur-les-bas-salaires"
+            },
+            {
+              "t": "PolitiqueMatin – Invités politiques du 16 novembre 2026",
+              "u": "https://www.politiquematin.fr/invites-politiques-16-novembre-2026"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-17-senat-retraites-pensions",
+          "rubrique": "Budget",
+          "titre": "Budget de la Sécu : le Sénat réactive la réforme des retraites de 2023 et indexe toutes les pensions",
+          "chapo": "Dans la nuit de lundi à mardi, la majorité sénatoriale a rétabli le relèvement de l'âge légal à 64 ans, suspendu l'an dernier, contre l'avis du gouvernement. Elle a aussi supprimé le gel des pensions supérieures à 1 260 euros.",
+          "faits": [
+            "Peu après minuit et demi, le Sénat a adopté par 200 voix contre 129 les amendements qui rétablissent le calendrier de la réforme de 2023 (64 ans et 172 trimestres) ; la gauche, le RDSE et les 15 sénateurs RN et UDR ont voté contre, 13 sénateurs, surtout du groupe RDPI, se sont abstenus.",
+            "La rapporteure Marie-Do Aeschlimann (LR) chiffre le coût de la suspension à au moins dix milliards d'euros entre 2026 et 2032 ; la commission estime que le rétablissement améliorerait les comptes de 600 millions d'euros en 2027.",
+            "Plus tôt dans la nuit, les sénateurs ont supprimé par 329 voix contre 0 l'article 35, qui ne revalorisait que les pensions jusqu'à 1 260 euros par mois, une mesure évaluée à 4 milliards d'euros. La majorité sénatoriale veut compenser en supprimant l'abattement fiscal de 10 % des retraités dans le budget de l'État.",
+            "Le ministre du Travail Jean-Pierre Farandou s'est opposé à la « suspension de la suspension » mais s'est dit « prêt à suivre l'avis du Sénat » sur les pensions. Le vote solennel sur l'ensemble du texte a lieu mercredi 18 novembre ; rien n'est définitif avant la navette avec l'Assemblée."
+          ],
+          "enjeu": "Le Sénat dessine un budget de la Sécu très différent de l'accord passé l'an dernier entre le gouvernement et les socialistes. Le retour de la réforme a peu de chances de survivre à l'Assemblée, mais il pèse sur la négociation finale et sur la campagne présidentielle.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant réclame habituellement l'abrogation pure et simple de la réforme de 2023 et le retour de la retraite à 60 ans, financé par les profits des entreprises.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Céline Brulin (PCF) qualifie de « cadeau empoisonné » la suppression du gel des pensions, compensée par la fin de l'abattement fiscal de 10 % des retraités ; les sénateurs communistes ont voté contre le retour de la réforme.",
+              "src": "Public Sénat, 17 novembre 2026"
+            },
+            "soc": {
+              "type": "declare",
+              "texte": "Patrick Kanner, président du groupe socialiste au Sénat, dénonce une « forme d'irresponsabilité » ; Monique Lubin (PS) rappelle que « la parole a été donnée l'année dernière » sur la suspension.",
+              "src": "Public Sénat, 17 novembre 2026"
+            },
+            "eco": {
+              "type": "declare",
+              "texte": "Anne Souyris (Les Écologistes) s'oppose à la compensation envisagée pour l'indexation des pensions ; le groupe écologiste a voté contre le rétablissement de la réforme de 2023.",
+              "src": "Public Sénat, 17 novembre 2026"
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "Martin Lévrier (Renaissance) a déposé l'un des amendements de rétablissement : « La solidarité intergénérationnelle, elle existe aussi. » La majorité de son groupe RDPI s'est toutefois abstenue.",
+              "src": "Public Sénat, 17 novembre 2026"
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement la stabilité des comptes sociaux tout en privilégiant le compromis avec la gauche modérée, et s'est montré ouvert à la suspension de la réforme en échange de la stabilité gouvernementale.",
+              "src": ""
+            },
+            "hor": {
+              "type": "declare",
+              "texte": "Emmanuel Capus (Horizons) a déposé un amendement identique pour rétablir la réforme de 2023, que le courant juge indispensable à l'équilibre du système.",
+              "src": "Public Sénat, 17 novembre 2026"
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Marie-Do Aeschlimann (LR) juge la suspension « coûteuse » et estime qu'il était « insupportable » de pénaliser les deux tiers des pensions par le gel.",
+              "src": "Public Sénat, 17 novembre 2026"
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Les 15 sénateurs RN et UDR ont voté contre le retour de la réforme ; Gaëlle Frontoni (UDR) a critiqué la compensation par la fin de l'abattement fiscal des retraités.",
+              "src": "Public Sénat, 17 novembre 2026"
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement un allongement de la durée du travail et un système de retraite plus favorable aux familles, en critiquant la dépense sociale liée à l'immigration.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Public Sénat – Le Sénat vote la réactivation de la réforme des retraites de 2023, contre l'avis du gouvernement",
+              "u": "https://www.publicsenat.fr/actualites/politique/le-senat-vote-la-reactivation-de-la-reforme-des-retraites-de-2023-contre-lavis-du-gouvernement"
+            },
+            {
+              "t": "Public Sénat – Retraites : le Sénat vote l'indexation complète des pensions sur l'inflation en 2027",
+              "u": "https://www.publicsenat.fr/actualites/politique/retraites-le-senat-vote-lindexation-complete-des-pensions-sur-linflation-en-2027"
+            },
+            {
+              "t": "Sénat – Financement de la sécurité sociale pour 2027",
+              "u": "https://www.senat.fr/dossier-legislatif/plfss2027.html"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-17-debat-restos-du-coeur",
+          "rubrique": "Présidentielle 2027",
+          "titre": "Débat aux Restos du cœur : cinq candidats s'opposent sur la pauvreté, Édouard Philippe absent",
+          "chapo": "Marine Le Pen, Jean-Luc Mélenchon, Raphaël Glucksmann, Gabriel Attal et Bruno Retailleau ont débattu lundi soir sur TF1 et LCI de pouvoir d'achat, de logement et de solidarité, à la veille de la 42e campagne des Restos du cœur.",
+          "faits": [
+            "Enregistré dans un entrepôt des Restos du cœur en Île-de-France, le débat a mis les candidats face aux questions de bénévoles et de bénéficiaires ; l'association dit avoir distribué 186 millions de repas lors de sa dernière campagne.",
+            "Les échanges les plus vifs ont porté sur la priorité nationale dans le logement social, défendue par Marine Le Pen, et sur les associations : la candidate du RN veut des associations « apolitiques » et a visé la Ligue des droits de l'homme ; Gabriel Attal l'accuse de vouloir 3,7 milliards d'euros d'économies sur le secteur associatif.",
+            "Sur les retraites, Jean-Luc Mélenchon et Raphaël Glucksmann défendent la répartition et une hausse des petites pensions ; Bruno Retailleau propose un départ à 65 ans avec une part de capitalisation, Gabriel Attal une refonte du système.",
+            "Édouard Philippe, troisième dans les sondages, présidait le conseil municipal du Havre ; son directeur de campagne, Jérémie Patrier-Leitus, a dit à Libération qu'il souhaitait être « représenté », sans suite de la chaîne."
+          ],
+          "enjeu": "C'est le deuxième grand face-à-face de la campagne, et le premier consacré à la pauvreté. Il fait apparaître deux lignes nettes, travail et création de richesses d'un côté, redistribution de l'autre, et met en lumière l'absence d'Édouard Philippe au moment où sa position sur la primaire est contestée.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant juge habituellement que la pauvreté ne recule pas sans une hausse générale des salaires et l'expropriation des grands groupes, et se méfie de la charité comme substitut aux droits sociaux.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Jean-Luc Mélenchon (LFI) propose la gratuité des cantines, 400 000 logements sociaux par an et une allocation d'autonomie de 1 337 euros pour les étudiants : « La règle entre nous doit être le partage. »",
+              "src": "Public Sénat, 17 novembre 2026"
+            },
+            "soc": {
+              "type": "declare",
+              "texte": "Raphaël Glucksmann (Place publique) dénonce la « théorie du ruissellement », veut relancer le logement social et propose un passe mobilité à un euro par jour pour les moins de 25 ans.",
+              "src": "Public Sénat, 17 novembre 2026"
+            },
+            "eco": {
+              "type": "declare",
+              "texte": "Marine Tondelier (Les Écologistes), absente du débat, a confirmé lundi sa candidature et défendu un smic à 2 000 euros brut ; les adhérents trancheront en décembre.",
+              "src": "LCI, 16 novembre 2026"
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "Gabriel Attal (Renaissance) met le salaire au cœur du sujet, propose une « banque nationale pour le logement » et reproche à Marine Le Pen de faire « une différence entre les Français et les étrangers ».",
+              "src": "Public Sénat, 17 novembre 2026"
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement une politique de lutte contre la pauvreté fondée sur le soutien aux associations, l'accès au logement et l'insertion par l'emploi, dans le cadre budgétaire existant.",
+              "src": ""
+            },
+            "hor": {
+              "type": "declare",
+              "texte": "Jérémie Patrier-Leitus (Horizons), directeur de campagne d'Édouard Philippe, assure que celui-ci souhaitait être représenté au débat et qu'il est « attaché aux Restos du cœur ».",
+              "src": "Libération, cité par LCP, 16 novembre 2026"
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Bruno Retailleau (LR) estime que pour réduire la pauvreté il faut « plus de travail » et conclut : « Oui à la solidarité, non à l'assistanat » ; il propose un accès prioritaire au logement pour les actifs.",
+              "src": "Public Sénat, 17 novembre 2026"
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Marine Le Pen (RN) propose une TVA à 0 % sur les produits de première nécessité et la priorité aux Français dans le logement social : « Avant, avec un salaire, on faisait vivre une famille. »",
+              "src": "Public Sénat, 17 novembre 2026"
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant lie habituellement la pauvreté au coût de l'immigration et plaide pour réserver les aides sociales aux Français et pour une baisse des impôts sur le travail.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Public Sénat – Présidentielle 2027 : pauvreté, pouvoir d'achat, logement… Le Pen, Mélenchon, Glucksmann, Retailleau, Attal confrontent leurs visions de la solidarité aux Restos",
+              "u": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-pauvrete-pouvoir-dachat-logement-le-pen-melenchon-glucksmann-retailleau-attal-confrontent-leurs-visions-de-la-solidarite-aux-restos"
+            },
+            {
+              "t": "LCP – Présidentielle 2027 : pourquoi Édouard Philippe sera absent du débat face à Marine Le Pen et Jean-Luc Mélenchon sur TF1",
+              "u": "https://lcp.fr/actualites/presidentielle-2027-pourquoi-edouard-philippe-sera-absent-du-debat-face-a-marine-le-pen"
+            },
+            {
+              "t": "Var Actu – Le Pen, Mélenchon, Attal… cinq candidats face à face ce lundi soir sur TF1",
+              "u": "https://www.varactu.fr/le-pen-melenchon-attal-cinq-candidats-face-a-face-ce-lundi-soir-sur-tf1-mais-un-grand-absent/"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-17-loi-logement-assemblee",
+          "rubrique": "Logement",
+          "titre": "Logement : l'Assemblée examine le projet de loi Jeanbrun, qui repousse l'interdiction de louer les passoires thermiques",
+          "chapo": "Adopté par le Sénat, le texte « de relance et de décentralisation du logement » arrive dans l'hémicycle. Il donne plus de latitude aux maires pour construire et reporte de trois à cinq ans l'interdiction de louer les logements classés F et G.",
+          "faits": [
+            "Le gouvernement vise 2 millions de logements neufs ou réhabilités d'ici 2030 ; le texte crée des « opérations d'intérêt local » à l'initiative des maires, avec des dérogations au plan local d'urbanisme après validation du préfet.",
+            "L'avis conforme de l'architecte des bâtiments de France pourrait devenir un avis simple, et un troisième programme de renouvellement urbain (2030-2040) serait doté de 5 milliards d'euros.",
+            "L'interdiction de louer les logements F et G serait reportée de trois ans pour les maisons et de cinq ans pour les copropriétés ; le gouvernement estime que 650 000 à 700 000 logements seraient ainsi maintenus ou remis sur le marché d'ici 2028.",
+            "Le Sénat a ajouté une dérogation quand les travaux dépassent 50 % de la valeur du bien et un délai de 18 mois si l'assemblée de copropriété refuse les travaux, selon LCP."
+          ],
+          "enjeu": "Le texte arbitre entre l'urgence de l'offre locative et les objectifs climatiques de la loi de 2021. Le débat porte sur le pouvoir des maires face aux protections patrimoniales et sur le confort des locataires de logements mal isolés.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement la réquisition des logements vacants, le gel des loyers et un grand service public du logement, et s'oppose aux reculs sur la rénovation.",
+              "src": ""
+            },
+            "gr": {
+              "type": "lecture",
+              "texte": "Le courant critique habituellement tout report de l'interdiction de louer les passoires thermiques, au nom de la santé et des factures des locataires, et réclame un encadrement des loyers généralisé.",
+              "src": ""
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant plaide habituellement pour une relance massive du logement social et pour le maintien du calendrier de rénovation, accompagné d'aides renforcées aux propriétaires modestes.",
+              "src": ""
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant s'oppose habituellement à tout report du calendrier de la loi Climat et résilience et défend la protection du patrimoine et des sols face à l'assouplissement des règles d'urbanisme.",
+              "src": ""
+            },
+            "ren": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement le choc d'offre et la simplification des normes, tout en défendant le principe de la rénovation énergétique des logements.",
+              "src": ""
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement la décentralisation de la politique du logement et une plus grande latitude donnée aux élus locaux, avec un accompagnement des propriétaires.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant, très implanté chez les maires, défend habituellement la libération du foncier, la simplification des normes et le pouvoir des élus locaux en matière d'urbanisme.",
+              "src": ""
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Vincent Jeanbrun (LR), ministre du Logement, veut sortir du « labyrinthe administratif dans lequel on finit par étouffer les porteurs de projet ».",
+              "src": "LCP, 16 novembre 2026 (propos de septembre)"
+            },
+            "dn": {
+              "type": "lecture",
+              "texte": "Le courant réclame habituellement la suppression ou le report des contraintes liées au DPE, jugées responsables de la pénurie de logements, et la priorité aux Français dans le logement social.",
+              "src": ""
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant critique habituellement les normes environnementales sur le logement, qu'il juge punitives pour les propriétaires, et lie la crise du logement à l'immigration.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "LCP – Crise du logement : le gouvernement veut assouplir les règles pour construire et louer davantage",
+              "u": "https://lcp.fr/actualites/crise-du-logement-le-gouvernement-veut-assouplir-les-regles-pour-construire-et-louer"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-17-ukraine-negociations-berlin",
+          "rubrique": "International",
+          "titre": "Ukraine : nouvelles discussions avec les émissaires de Trump et les Européens, rendez-vous jeudi à Berlin",
+          "chapo": "Volodymyr Zelensky annonce de nouveaux entretiens avec Washington et cinq pays européens, dont la France, et une réunion de la coalition des volontaires à Berlin. Le Kremlin refuse pour l'instant la présence des Européens à la table.",
+          "faits": [
+            "Dans son allocution de lundi soir, le président ukrainien a fait état de nouvelles discussions, qu'il juge « difficiles », avec les émissaires de Donald Trump et des représentants de la France, de l'Allemagne, du Royaume-Uni, de l'Italie et de la Pologne, selon Reuters.",
+            "Elles font suite, moins d'une semaine plus tard, aux pourparlers tripartites d'Abou Dhabi, les premiers entre Américains, Ukrainiens et Russes depuis neuf mois. Les participants doivent se retrouver jeudi à Berlin avec la coalition des volontaires.",
+            "Le conseiller du Kremlin Iouri Ouchakov affirme que la Russie n'a pas accepté la participation des Européens au prochain cycle, contredisant des responsables américains.",
+            "Volodymyr Zelensky dit disposer de renseignements sur d'importantes frappes russes en préparation et affirme que la Corée du Nord livre chaque mois des « dizaines » de missiles balistiques à la Russie."
+          ],
+          "enjeu": "La place des Européens, et donc de la France, dans la négociation se joue cette semaine. Le sujet s'invite dans la présidentielle, où le niveau de l'aide à Kiev oppose désormais ouvertement les candidats.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant dénonce habituellement à la fois l'invasion russe et la logique des blocs militaires, et s'oppose aux livraisons d'armes et à la hausse des budgets de défense.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Clémentine Autain (L'Après) conteste l'idée d'un référendum limité au Donbass pour trancher l'avenir de la région.",
+              "src": "franceinfo, 16 novembre 2026"
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement fermement l'Ukraine, réclame que les Européens soient associés à toute négociation et refuse toute paix imposée à Kiev.",
+              "src": ""
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement l'aide militaire et financière à l'Ukraine et réclame des sanctions renforcées contre la Russie, notamment sur l'énergie.",
+              "src": ""
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "Emmanuel Macron (Renaissance) estime que vouloir « rationner les moyens de l'Ukraine » pour lui imposer une « paix injuste » est « la recette pour la guerre d'après ».",
+              "src": "X, 14 novembre 2026"
+            },
+            "modem": {
+              "type": "declare",
+              "texte": "Jean-Louis Bourlanges (MoDem) juge que « l'obsession de Poutine, c'est la reconstitution de l'URSS ».",
+              "src": "Public Sénat, 16 novembre 2026"
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement un soutien durable à l'Ukraine, une défense européenne renforcée et la présence des Européens dans toute négociation.",
+              "src": ""
+            },
+            "d": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement l'Ukraine et l'effort de défense, tout en insistant sur la souveraineté française et sur le contrôle de l'aide financière.",
+              "src": ""
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Marine Le Pen (RN) entend cesser l'aide financière à Kiev six mois après son élection et reproche au chef de l'État d'avoir « ruiné notre pays en dix ans ».",
+              "src": "AFP, 15 novembre 2026"
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant plaide habituellement pour une sortie négociée rapide du conflit, la fin de l'aide financière à Kiev et une diplomatie indépendante de l'Otan.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Boursorama (Reuters) – Ukraine : Zelensky évoque de nouvelles discussions avec les Occidentaux",
+              "u": "https://www.boursorama.com/actualite-economique/actualites/ukraine-zelensky-evoque-de-nouvelles-discussions-avec-les-occidentaux-9cd9f831b29fc7dd746a2a114ed875b4"
+            },
+            {
+              "t": "Public Sénat – Jean-Louis Bourlanges : « L'obsession de Poutine, c'est la reconstitution de l'URSS »",
+              "u": "https://www.publicsenat.fr/emission/bonjour-chez-vous/jean-louis-bourlanges-lobsession-de-poutine-cest-la-reconstitution-de-lurss-e0"
+            },
+            {
+              "t": "PolitiqueMatin – Invités politiques du 16 novembre 2026",
+              "u": "https://www.politiquematin.fr/invites-politiques-16-novembre-2026"
+            }
+          ]
+        }
+      ],
+      "breves": [
+        {
+          "titre": "Primaire : les équipes d'Attal, Retailleau et Lisnard se réunissent ce mardi",
+          "texte": "Les directeurs de campagne de Gabriel Attal, Bruno Retailleau et David Lisnard se retrouvent ce mardi pour discuter du calendrier d'une primaire de la droite et du centre ; Bruno Retailleau a proposé un vote les 31 janvier et 7 février. Édouard Philippe refuse toujours d'y participer, et Éric Zemmour réclame la présence de Reconquête.",
+          "src": {
+            "t": "Touch Actu – Primaire de la droite et du centre : candidats, dates proposées et ce qui se joue le 17 novembre",
+            "u": "https://touch-actu.fr/actualites/portraits-politiques-8958-primaire-de-la-droite-et-du-centre-candidats-dates-proposees-et-ce-qui-se-joue-le-17-novembre"
+          }
+        },
+        {
+          "titre": "Le Sénat vote une « taxe lapin » de 5 euros",
+          "texte": "Les sénateurs ont adopté lundi une pénalité forfaitaire de 5 euros pour les patients qui ne se présentent pas à un rendez-vous médical sans motif légitime, annulable jusqu'à 24 heures avant. Censurée en 2025 par le Conseil constitutionnel, la mesure a été réécrite ; la ministre de la Santé, Stéphanie Rist, s'en est remise à la sagesse du Sénat.",
+          "src": {
+            "t": "Public Sénat – Le Sénat adopte la « taxe lapin » contre les patients qui ne se présentent pas",
+            "u": "https://www.publicsenat.fr/actualites/sante/il-faut-des-messages-clairs-pour-sanctionner-ceux-qui-se-foutent-du-systeme-le-senat-adopte-la-taxe-lapin-contre-les-patients-qui-n"
+          }
+        },
+        {
+          "titre": "Épargne salariale : un déblocage exceptionnel en débat",
+          "texte": "Les députés examinent une proposition de loi qui permettrait, pendant un an, de débloquer jusqu'à 5 000 euros nets de participation et d'intéressement placés avant 2026. La gauche, qui préfère parler de hausses de salaires, avait supprimé l'article en commission ; la rapporteure Sylvie Bonnet (Droite républicaine) veut le rétablir.",
+          "src": {
+            "t": "LCP – Pouvoir d'achat : les Français vont-ils pouvoir débloquer leur épargne salariale de manière « exceptionnelle » ?",
+            "u": "https://lcp.fr/actualites/pouvoir-d-achat-les-francais-vont-ils-pouvoir-debloquer-leur-epargne-salariale-de"
+          }
+        }
+      ],
+      "agenda": [
+        {
+          "d": "Mar. 17 nov.",
+          "t": "Grève dans la fonction publique, appel interprofessionnel de la CGT ; réunion des équipes Attal, Retailleau et Lisnard sur la primaire ; lancement de la 42e campagne des Restos du cœur"
+        },
+        {
+          "d": "Mer. 18 nov.",
+          "t": "Vote solennel du Sénat sur le budget de la Sécurité sociale"
+        },
+        {
+          "d": "Jeu. 19 nov.",
+          "t": "Examen au Sénat de la proposition de loi sur la présomption d'usage légitime de l'arme ; réunion de la coalition des volontaires pour l'Ukraine à Berlin"
+        },
+        {
+          "d": "Ven. 20 nov.",
+          "t": "Début de l'examen du budget 2027 de l'État au Sénat ; clôture prévue de la COP31 à Antalya"
+        }
+      ]
+    },
     {
       "date": "2026-11-16",
       "label": "Lundi 16 novembre 2026",
@@ -2991,495 +3434,6 @@
         {
           "d": "Mar. 17 nov.",
           "t": "Journée de grève et de manifestations à l'appel de la CGT, d'une intersyndicale de la fonction publique et des organisations de jeunesse"
-        },
-        {
-          "d": "Mer. 18 nov.",
-          "t": "Vote solennel du Sénat sur le budget de la Sécurité sociale"
-        },
-        {
-          "d": "Jeu. 19 nov.",
-          "t": "Journée réservée au PS à l'Assemblée (régularisation des travailleurs sans papiers) ; le Sénat examine la présomption de légitime défense des forces de l'ordre"
-        },
-        {
-          "d": "Ven. 20 nov.",
-          "t": "Début de l'examen du projet de loi de finances 2027 en séance au Sénat"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-10",
-      "label": "Mardi 10 novembre 2026",
-      "maj": "Mise à jour à 6 h 29",
-      "intro": "Le Smic passera à 1 502 euros net le 1er décembre : Sébastien Lecornu accorde le premier coup de pouce depuis 2012, mais les syndicats parlent de « miettes » et la CGT appelle à la grève le 17 novembre. Ce mardi, lycéens, étudiants et enseignants manifestent, pendant que le Sénat poursuit l'examen du budget de la Sécu. Le PS défend sa proposition de loi pour régulariser les travailleurs sans papiers. À l'international, les pourparlers sur l'Ukraine reprennent à Abou Dhabi, avec les Européens en marge.",
-      "stories": [
-        {
-          "id": "2026-11-10-smic-1502-euros",
-          "rubrique": "Social",
-          "titre": "Smic à 1 502 euros net dès le 1er décembre : le premier coup de pouce depuis 2012 ne calme pas les syndicats, la CGT appelle à la grève le 17 novembre",
-          "chapo": "À l'issue de la conférence sociale de Matignon, Sébastien Lecornu a annoncé lundi une hausse de 1,6 % du Smic, avancée d'un mois, et des aides aux entreprises liées aux négociations de branche. Syndicats et oppositions jugent le geste insuffisant.",
-          "faits": [
-            "Le Smic passera le 1er décembre de 1 477,93 à 1 502 euros net par mois (+1,6 %) : 1 % au titre de la revalorisation automatique, avancée de janvier, et 0,6 % de coup de pouce, le premier depuis 2012.",
-            "Un décret attendu cette semaine conditionne les allègements de cotisations patronales au respect des minima de branche ; selon le gouvernement, 69 branches ont encore des grilles qui démarrent sous le Smic, et un comité de suivi des salaires doit être installé.",
-            "Par amendements au budget, le gouvernement veut porter à 10 000 euros le plafond de défiscalisation des heures supplémentaires, étendre la prime de partage de la valeur aux entreprises de plus de 50 salariés et maintenir la prime carburant à 1 000 euros en 2027.",
-            "Sophie Binet (CGT) parle de « miettes » et chiffre le coup de pouce à cinq euros ; Marylise Léon (CFDT) juge la hausse « insuffisante » mais salue la conditionnalité des aides ; le Medef estime que les branches devront « négocier à l'aveugle ».",
-            "La CGT appelle à une journée de grève et de manifestations le 17 novembre, date retenue aussi par une intersyndicale de la fonction publique, dont les syndicats seront reçus vendredi à Matignon."
-          ],
-          "enjeu": "Le gouvernement mise sur les négociations de branche pour éviter un nouveau durcissement du mouvement social, avec un point d'étape d'ici début décembre. La date du 17 novembre dira si la colère sur les salaires s'étend du public au privé.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant juge habituellement ces hausses très insuffisantes, réclame une augmentation générale des salaires et leur indexation sur les prix, et appelle à amplifier la grève plutôt qu'à négocier branche par branche.",
-              "src": ""
-            },
-            "gr": {
-              "type": "declare",
-              "texte": "Fabien Roussel (PCF) plaide pour une augmentation généralisée des salaires au-delà du seul Smic ; LFI réclame, comme le PS, une hausse de 200 euros, loin du geste annoncé par Matignon.",
-              "src": "franceinfo et AFP, 9 novembre 2026"
-            },
-            "soc": {
-              "type": "declare",
-              "texte": "Olivier Faure (PS) estime que « le compte n'y est pas » et réclame une hausse du Smic de 200 euros, en demandant des contreparties salariales réelles aux aides versées aux entreprises.",
-              "src": "AFP, 9 novembre 2026"
-            },
-            "eco": {
-              "type": "declare",
-              "texte": "Marine Tondelier (Les Écologistes) voit dans l'annonce « une provocation » : « Il faut quand même être sacrément déconnecté pour penser que ça suffira », a-t-elle déclaré sur TF1.",
-              "src": "TF1, 9 novembre 2026"
-            },
-            "ren": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement les mesures de revenu net comme la défiscalisation des heures supplémentaires et la prime de partage de la valeur, et met en garde contre des hausses du Smic trop fortes pour l'emploi peu qualifié.",
-              "src": ""
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant se montre habituellement favorable à un geste sur les bas salaires et à une meilleure association des salariés à la valeur créée, en veillant à la situation des petites entreprises.",
-              "src": ""
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant privilégie habituellement la baisse du coût du travail et la réforme des allègements de charges, et se méfie des hausses administrées du Smic qui tassent l'échelle des salaires.",
-              "src": ""
-            },
-            "d": {
-              "type": "declare",
-              "texte": "Bruno Retailleau (LR) met en garde contre une hausse qui pourrait mettre des entreprises en « faillite » et propose plutôt de « massivement baisser les charges » pour augmenter le salaire net.",
-              "src": "AFP, 9 novembre 2026"
-            },
-            "dn": {
-              "type": "declare",
-              "texte": "Sébastien Chenu (RN) juge que la hausse « ne satisfera personne » et propose d'augmenter de 10 % les salaires jusqu'à trois Smic, en échange d'un gel des cotisations patronales.",
-              "src": "LCP, 9 novembre 2026"
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant privilégie habituellement la baisse des charges et des impôts pesant sur les entreprises et les ménages plutôt qu'une hausse du Smic, présentée comme une charge pour les petits patrons.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "Public Sénat – Pouvoir d'achat : Sébastien Lecornu annonce une hausse anticipée du Smic à 1 502 euros par mois dès le 1er décembre",
-              "u": "https://www.publicsenat.fr/actualites/politique/pouvoir-dachat-sebastien-lecornu-annonce-une-hausse-anticipee-du-smic-a-1-502-euros-des-le-1er-decembre"
-            },
-            {
-              "t": "Public Sénat – Hausse du Smic : les syndicats jugent la réponse insuffisante et la CGT appelle à la grève le 17 novembre",
-              "u": "https://www.publicsenat.fr/actualites/politique/hausse-du-smic-les-syndicats-jugent-la-reponse-insuffisante-et-la-cgt-appelle-a-la-greve-le-17-novembre"
-            },
-            {
-              "t": "Boursorama (AFP) – Lecornu donne un coup de pouce au Smic, la colère ne retombe pas",
-              "u": "https://www.boursorama.com/actualite-economique/actualites/lecornu-donne-un-coup-de-pouce-au-smic-la-colere-ne-retombe-pas-af8819f6d438d3e1c5dbaa0c90d8b89c"
-            },
-            {
-              "t": "LCP – La hausse du Smic « ne satisfera personne », réagit Sébastien Chenu",
-              "u": "https://lcp.fr/actualites/la-hausse-du-smic-ne-satisfera-personne-reagit-sebastien-chenu-444936"
-            },
-            {
-              "t": "franceinfo – Revalorisation du Smic : Fabien Roussel souhaite « l'augmentation généralisée des salaires »",
-              "u": "https://franceinfo.fr/replay-magazine/franceinfo/avant-le-20h/revalorisation-du-smic-fabien-roussel-souhaite-l-augmentation-generalisee-des-salaires_8273774.html"
-            }
-          ],
-          "image": {
-            "u": "https://www.publicsenat.fr/app/uploads/2026/11/SIPA_01296400_000002-1200x630.jpg",
-            "credit": "Public Sénat",
-            "alt": "Illustration de l'article de Public Sénat"
-          }
-        },
-        {
-          "id": "2026-11-10-greve-education-universites",
-          "rubrique": "Éducation",
-          "titre": "Grève dans l'éducation et les universités ce mardi : un seul cortège autorisé à Paris, du Panthéon à la place d'Italie",
-          "chapo": "Lycéens, étudiants et personnels de l'éducation se mobilisent ce mardi pour les salaires, les postes et contre Parcoursup, au lendemain d'une conférence sociale qui ne les concernait pas directement.",
-          "faits": [
-            "L'appel commun réunit une quinzaine d'organisations, dont la FSU, la FERC-CGT, FO, SUD éducation et Sup'Recherche-UNSA côté personnels, l'USL, l'Union étudiante, l'UNEF et la FAGE côté jeunesse ; l'intersyndicale interprofessionnelle n'appelle pas à manifester ce mardi.",
-            "Les revendications portent sur le dégel du point d'indice, des créations de postes (enseignants, AESH, infirmiers, psychologues), un plan de rénovation des bâtiments et, dans le supérieur, 15 000 postes de titulaires et la fin de Parcoursup.",
-            "À Paris, la préfecture de police n'autorise qu'un défilé : rassemblement à 12 h 30 place du Panthéon, départ à 14 h vers la place d'Italie ; deux autres cortèges étudiants sont interdits.",
-            "Lundi, le comité de réforme de Parcoursup a tourné court, une grande partie des organisations de jeunesse ayant quitté la réunion ; le ministre de l'Éducation Édouard Geffray a jugé « illégal » le blocage des lycées et évoqué des cours de rattrapage pendant les vacances."
-          ],
-          "enjeu": "Le mouvement de la jeunesse, apparu début novembre, cherche à durer jusqu'à la journée interprofessionnelle et fonction publique du 17 novembre. Le gouvernement, qui a annoncé fin octobre 5 milliards d'euros pour lycées et universités, doit éviter que les blocages s'installent jusqu'aux vacances.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement les blocages lycéens et étudiants et appelle à la convergence avec la grève des salariés, en réclamant des moyens massifs pour l'école publique et l'abrogation de la sélection à l'université.",
-              "src": ""
-            },
-            "gr": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement la mobilisation de la jeunesse, défend l'abrogation de Parcoursup, le dégel du point d'indice et des recrutements massifs d'enseignants, et dénonce la répression des blocages.",
-              "src": ""
-            },
-            "soc": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement les revendications sur les moyens et les salaires des enseignants, défend une réforme profonde de Parcoursup et appelle le gouvernement au dialogue avec les organisations de jeunesse.",
-              "src": ""
-            },
-            "eco": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement la mobilisation des jeunes, réclame un plan de rénovation thermique des établissements, plus de moyens pour l'université et une réforme de l'orientation.",
-              "src": ""
-            },
-            "ren": {
-              "type": "lecture",
-              "texte": "Le courant met habituellement en avant les moyens déjà engagés pour l'école, défend une réforme de Parcoursup plutôt que sa suppression et rappelle que le blocage des établissements prive les élèves de cours.",
-              "src": ""
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement la revalorisation des enseignants et l'autonomie des établissements, et appelle à la concertation tout en refusant les blocages qui empêchent les élèves d'étudier.",
-              "src": ""
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant insiste habituellement sur le respect de l'ordre dans les établissements, la fermeté face aux blocages et une réforme de l'orientation fondée sur l'exigence et la sélection.",
-              "src": ""
-            },
-            "d": {
-              "type": "lecture",
-              "texte": "Le courant réclame habituellement la fermeté face aux blocages de lycées et d'universités, défend la sélection à l'entrée de l'université et une école centrée sur les savoirs fondamentaux.",
-              "src": ""
-            },
-            "dn": {
-              "type": "lecture",
-              "texte": "Le courant dénonce habituellement les blocages, qu'il attribue à la gauche radicale, tout en critiquant la baisse du niveau scolaire et en promettant de revaloriser les enseignants.",
-              "src": ""
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant condamne habituellement les blocages et l'influence syndicale à l'école, et défend une école de l'autorité, de la transmission et de la sélection au mérite.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "France 3 Paris Île-de-France – Grève du 10 novembre à Paris : école, fonction publique, parcours de la manifestation, à quoi s'attendre ce mardi ?",
-              "u": "https://france3-regions.franceinfo.fr/paris-ile-de-france/paris/greve-du-10-novembre-a-paris-ecole-fonction-publique-parcours-de-la-manifestation-a-quoi-s-attendre-ce-mardi-3446184.html"
-            },
-            {
-              "t": "Sortiraparis – Grève dans l'éducation et manifestation étudiante ce mardi 10 novembre, le point",
-              "u": "https://www.sortiraparis.com/actualites/a-paris/articles/357741-greve-dans-l-education-et-manifestation-etudiante-ce-mardi-10-novembre-le-point"
-            },
-            {
-              "t": "Public Sénat – Mouvement lycéen : des cours de rattrapage possibles pendant les vacances, annonce Édouard Geffray",
-              "u": "https://www.publicsenat.fr/actualites/politique/mouvement-lyceen-des-cours-de-rattrapage-possibles-pendant-les-vacances-en-fevrier-ou-a-paques-annonce-edouard-geffray"
-            }
-          ],
-          "image": {
-            "u": "https://france3-regions.franceinfo.fr/image/jPodV01ainmo3ECKGTd75CMy1D8/930x620/regions/2026/11/05/6aec93832562a992532187.jpg",
-            "credit": "France 3 Paris Île-de-France",
-            "alt": "Illustration de l'article de France 3 Paris Île-de-France"
-          }
-        },
-        {
-          "id": "2026-11-10-budget-secu-senat",
-          "rubrique": "Budget",
-          "titre": "Budget de la Sécu : le Sénat prend la main, la droite veut rétablir la réforme des retraites et protéger les pensions jusqu'à 1 500 euros",
-          "chapo": "Rejeté à l'Assemblée, le projet de loi de financement de la Sécurité sociale pour 2027 est examiné en séance au Sénat jusqu'au 17 novembre. La majorité sénatoriale veut faire « quelques gains » pour éviter au gouvernement le recours aux ordonnances.",
-          "faits": [
-            "Les débats ont commencé lundi, pour un vote solennel prévu le 18 novembre ; le texte prévoit de ramener le déficit de la Sécurité sociale à 12,7 milliards d'euros en 2027, contre 21,8 milliards en 2026.",
-            "La majorité de droite et du centre veut rétablir la réforme des retraites de 2023, suspendue l'an dernier ; selon le rapporteur Olivier Henno (centriste), la mesure allégerait les comptes de 600 millions d'euros l'an prochain.",
-            "Le gouvernement veut mettre à contribution les pensions supérieures à 1 260 euros par mois ; le Sénat pourrait relever ce seuil à 1 500 euros, ce que le ministre du Travail Jean-Pierre Farandou accueille avec « un certain intérêt ».",
-            "Le ministre des Comptes publics David Amiel reconnaît que « plusieurs milliards d'efforts supplémentaires » restent à trouver ; Matignon renvoie à décembre la recherche d'un compromis."
-          ],
-          "enjeu": "Même voté au Sénat, le retour de la réforme de 2023 a peu de chances de survivre au texte final. Faute d'accord entre les deux chambres, le gouvernement devra choisir entre le 49.3, au risque d'une censure, et les ordonnances.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant rejette habituellement toute mesure d'économies sur la Sécurité sociale, réclame l'abrogation pure et simple de la réforme des retraites et le retour à 60 ans, financé par les cotisations patronales.",
-              "src": ""
-            },
-            "gr": {
-              "type": "lecture",
-              "texte": "Le courant combat habituellement le rétablissement de la réforme de 2023 et toute sous-indexation des pensions, et défend de nouvelles recettes sur les dividendes et les exonérations patronales.",
-              "src": ""
-            },
-            "soc": {
-              "type": "declare",
-              "texte": "Annie Le Houérou (PS), sénatrice chargée du budget de la Sécu pour son groupe, dénonce un « rabotage des droits des assurés sociaux » et défend la suspension de la réforme obtenue l'an dernier.",
-              "src": "AFP, 9 novembre 2026"
-            },
-            "eco": {
-              "type": "lecture",
-              "texte": "Le courant s'oppose habituellement au retour de la réforme des retraites et au gel des prestations, et plaide pour des recettes nouvelles sur les hauts revenus et pour la prévention en santé.",
-              "src": ""
-            },
-            "ren": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement la réforme de 2023 sur le fond tout en assumant le compromis de sa suspension, et appelle à un budget adopté pour éviter les ordonnances.",
-              "src": ""
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant appelle habituellement à un compromis entre les deux chambres et à un effort réparti avec justice, en protégeant les petites pensions et en ciblant les niches sociales.",
-              "src": ""
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement la réforme de 2023 et un effort marqué sur les dépenses sociales, en jugeant la suspension des retraites trop coûteuse pour les comptes publics.",
-              "src": ""
-            },
-            "d": {
-              "type": "declare",
-              "texte": "Philippe Mouiller (LR), président de la commission des Affaires sociales, veut obtenir « quelques gains » : « Notre responsabilité, c'est de faire en sorte qu'on puisse éviter les ordonnances. »",
-              "src": "AFP, 9 novembre 2026"
-            },
-            "dn": {
-              "type": "lecture",
-              "texte": "Le courant s'oppose habituellement au rétablissement de la réforme de 2023 et à toute désindexation des pensions, et propose de réaliser des économies sur la fraude sociale et l'immigration.",
-              "src": ""
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement des économies sur la fraude sociale et les prestations versées aux étrangers, et se montre ouvert à un allongement de la durée de travail.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "Boursorama (AFP) – Budget : le Sénat prend la main, l'incertitude demeure",
-              "u": "https://www.boursorama.com/actualite-economique/actualites/budget-le-senat-prend-la-main-l-incertitude-demeure-6be4b41510cc847db36a637ddb43ad09"
-            },
-            {
-              "t": "Public Sénat – Budget de la Sécu : le Sénat prévoit de voter le retour de la réforme des retraites de 2023",
-              "u": "https://www.publicsenat.fr/actualites/politique/budget-de-la-secu-le-senat-prevoit-de-voter-le-retour-de-la-reforme-des-retraites-de-2023"
-            }
-          ],
-          "image": {
-            "u": "https://www.boursorama.com/static/i/content/images/1/1/7/117e9ab3b390c2d744b7cccf83edd334-1200x800.jpg",
-            "credit": "Boursorama (AFP)",
-            "alt": "Balayés par l'Assemblée nationale, les textes budgétaires sont examinés à partir de lundi au Sénat, hémicycle dominé par la droite qui entend faire preuve de \"responsabilité\" face aux finances en berne ( AFP / SIMON WOHLFAHRT )"
-          }
-        },
-        {
-          "id": "2026-11-10-regularisation-sans-papiers-ps",
-          "rubrique": "Immigration",
-          "titre": "Régularisation des travailleurs sans papiers : la proposition de loi du PS passe en commission, le RN et Horizons veulent la supprimer",
-          "chapo": "Les députés socialistes défendent un texte qui ouvrirait un titre de séjour « salarié » à environ 300 000 personnes. Examiné lundi en commission des lois, il pourrait venir en séance le 19 novembre.",
-          "faits": [
-            "Porté par Paul Christophle (PS, Drôme), l'article unique accorde une carte de séjour mention « salarié » à tout étranger justifiant de six mois d'activité, consécutifs ou non, sur les 24 derniers mois, sans condition d'ancienneté de séjour.",
-            "Ses auteurs estiment entre 300 000 et 400 000 le nombre de sans-papiers en France et citent l'exemple de la régularisation engagée en Espagne en 2025 ; les secteurs visés vont du bâtiment à l'aide à domicile.",
-            "Douze amendements ont été déposés en commission, dont deux, du RN et d'Horizons, qui suppriment l'article unique.",
-            "Le texte pourrait être débattu en séance le 19 novembre, lors de la journée réservée au groupe socialiste, selon l'avancement des travaux."
-          ],
-          "enjeu": "Le PS veut placer l'immigration de travail au cœur du débat présidentiel, sur une ligne que défend aussi Raphaël Glucksmann. Le sort du texte dépend du bloc central, partagé entre les besoins de main-d'œuvre et le refus d'une régularisation de plein droit.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant réclame habituellement la régularisation de tous les sans-papiers, sans condition de travail, et soutient les grèves de travailleurs sans titre de séjour.",
-              "src": ""
-            },
-            "gr": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement la régularisation des travailleurs sans papiers et leur accès aux mêmes droits que les autres salariés, et dénonce leur exploitation dans certains secteurs.",
-              "src": ""
-            },
-            "soc": {
-              "type": "declare",
-              "texte": "Paul Christophle (PS) appelle à « sortir de l'hypocrisie » et estime que son texte « peut aboutir » si le bloc central « renonce aux postures » ; Raphaël Glucksmann y voit une question de « dignité ».",
-              "src": "LCP, 9 novembre 2026"
-            },
-            "eco": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement la régularisation des travailleurs sans papiers et une politique d'accueil fondée sur les droits, en dénonçant la précarité qu'entretient l'absence de titre.",
-              "src": ""
-            },
-            "ren": {
-              "type": "lecture",
-              "texte": "Le courant privilégie habituellement des régularisations au cas par cas dans les métiers en tension, sans droit automatique, en les liant à une politique ferme d'éloignement.",
-              "src": ""
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant se dit habituellement favorable à la régularisation des travailleurs déjà intégrés dans les métiers en tension, au cas par cas et sous conditions.",
-              "src": ""
-            },
-            "hor": {
-              "type": "declare",
-              "texte": "Horizons, qui a déposé un amendement de suppression, juge qu'« il n'existe pas, et il ne doit pas exister, de droit à la régularisation » et conteste l'absence de durée minimale de séjour.",
-              "src": "LCP, 9 novembre 2026"
-            },
-            "d": {
-              "type": "lecture",
-              "texte": "Le courant s'oppose habituellement à toute régularisation massive, qu'il juge source d'appel d'air, et réclame la limitation des admissions exceptionnelles au séjour.",
-              "src": ""
-            },
-            "dn": {
-              "type": "declare",
-              "texte": "Le RN, qui demande aussi la suppression de l'article, juge le texte « particulièrement dangereux » et estime qu'il « encouragerait des passeurs » et l'immigration irrégulière.",
-              "src": "LCP, 9 novembre 2026"
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant rejette habituellement toute régularisation et défend l'expulsion systématique des étrangers en situation irrégulière ainsi que l'arrêt de l'immigration de travail.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "LCP – « Il faut sortir de l'hypocrisie » : les députés PS défendent un texte pour régulariser 300 000 travailleurs sans-papiers",
-              "u": "https://lcp.fr/actualites/il-faut-sortir-de-l-hypocrisie-les-deputes-ps-defendent-un-texte-pour-regulariser-300000"
-            },
-            {
-              "t": "Entrevue – Immigration : le PS propose de régulariser jusqu'à 400 000 travailleurs sans papiers, le RN et Horizons s'y opposent",
-              "u": "https://entrevue.fr/politique/immigration-le-ps-propose-de-regulariser-jusqua-400-000-travailleurs/"
-            }
-          ],
-          "image": {
-            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2026-11/Capture%20d%27%C3%A9cran%202026-11-06%20131317.png?itok=UWyWJkVc",
-            "credit": "LCP",
-            "alt": "Illustration de l'article de LCP"
-          }
-        },
-        {
-          "id": "2026-11-10-ukraine-abou-dhabi",
-          "rubrique": "International",
-          "titre": "Ukraine : Russes, Ukrainiens et Américains reprennent les pourparlers à Abou Dhabi, avec la France et les Européens en marge",
-          "chapo": "Pour la première fois depuis février, les trois délégations se retrouvent ce mardi et mercredi aux Émirats. Une équipe européenne, associée à la France, l'Allemagne et le Royaume-Uni, fait le déplacement, pendant que les ministres du G7 sont réunis à Paris.",
-          "faits": [
-            "La délégation russe est conduite par Vladimir Medinsky, conseiller de Vladimir Poutine, l'ukrainienne par Roustem Oumerov ; Washington est représenté par Steve Witkoff et Jared Kushner.",
-            "La Commission et le Conseil européen envoient une équipe conjointe, à laquelle sont associés les conseillers à la sécurité nationale français, allemand et britannique ; selon Reuters, Moscou refuse que les Européens participent à la négociation proprement dite.",
-            "Selon Reuters, le plan américain prévoit la fin de la guerre, des garanties de sécurité et une perspective européenne pour l'Ukraine ; Moscou exige le retrait ukrainien de tout le Donbass, ce que Kiev refuse.",
-            "Les ministres des Affaires étrangères du G7 sont réunis à Paris lundi et mardi ; l'Ukraine et l'Iran sont au menu."
-          ],
-          "enjeu": "Les Européens veulent peser sur un accord qui redessinerait la sécurité du continent, alors que le cadre proposé par Jared Kushner n'avait pas été discuté avec eux. En France, le dossier ukrainien s'invite dans la précampagne et divise la gauche.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant dénonce habituellement à la fois l'invasion russe et les ambitions des puissances occidentales, rejette l'envoi d'armes et défend une paix décidée par les peuples plutôt que par les grandes puissances.",
-              "src": ""
-            },
-            "gr": {
-              "type": "declare",
-              "texte": "Jean-Luc Mélenchon (LFI) a refusé au Bourget toute paix avec des concessions territoriales « sans qu'on demande aux populations concernées », en évoquant le Donbass, ce que le gouvernement lui a reproché.",
-              "src": "AFP, 8 novembre 2026"
-            },
-            "soc": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement l'Ukraine sans réserve, défend une défense européenne commune et refuse tout accord imposé à Kiev par Washington et Moscou.",
-              "src": ""
-            },
-            "eco": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement l'Ukraine et le renforcement des sanctions contre la Russie, et réclame que l'Union européenne siège à la table de toute négociation sur la sécurité du continent.",
-              "src": ""
-            },
-            "ren": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement la ligne d'Emmanuel Macron : soutien à l'Ukraine, garanties de sécurité solides et présence des Européens dans toute négociation qui engage leur sécurité.",
-              "src": ""
-            },
-            "modem": {
-              "type": "declare",
-              "texte": "Jean-Noël Barrot (MoDem), ministre des Affaires étrangères, a assuré que « les Européens seront bien représentés et la France sera à Abu Dhabi », en insistant sur le format E3 aux côtés de l'Union.",
-              "src": "Grand Jury RTL-Public Sénat, 8 novembre 2026"
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement l'Ukraine et l'effort de défense européen, et met en garde contre une paix qui récompenserait l'agression russe.",
-              "src": ""
-            },
-            "d": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement l'Ukraine et la fermeté face à Moscou, tout en appelant à une défense européenne fondée sur les nations et à un réalisme sur l'issue du conflit.",
-              "src": ""
-            },
-            "dn": {
-              "type": "lecture",
-              "texte": "Le courant appelle habituellement à un cessez-le-feu rapide et à une solution négociée, se montre réservé sur les livraisons d'armes et refuse l'envoi de troupes françaises.",
-              "src": ""
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant plaide habituellement pour une paix négociée au plus vite, critique le soutien militaire à Kiev et met en avant les intérêts propres de la France face aux engagements européens.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "Boursorama (Reuters) – Reprise des pourparlers Russie-Ukraine sous l'égide des Etats-Unis",
-              "u": "https://www.boursorama.com/actualite-economique/actualites/reprise-des-pourparlers-russie-ukraine-sous-l-egide-des-etats-unis-05cf3a6f0966c14dd98026c58f8b855d"
-            },
-            {
-              "t": "Euronews – EU to send joint team to Ukraine-Russia peace talks in Abu Dhabi",
-              "u": "https://www.euronews.com/2026/11/09/eu-to-send-joint-team-to-ukraine-russia-peace-talks-in-abu-dhabi"
-            },
-            {
-              "t": "RTBF – Russes, Ukrainiens et Américains à Abou Dhabi : qui accompagnera la France aux pourparlers de paix ?",
-              "u": "https://www.rtbf.be/article/russes-ukrainiens-et-americains-a-abou-dhabi-qui-representera-l-europe-aux-cotes-de-la-france-a-la-table-des-negociations-de-paix-11812604"
-            },
-            {
-              "t": "Arab News (AFP) – France's far-left leader attacked for remarks on Ukraine",
-              "u": "https://www.arabnews.com/world/frances-far-left-leader-attacked-for-remarks-on-ukraine-3010591"
-            }
-          ],
-          "image": {
-            "u": "https://images.euronews.com/articles/stories/09/98/50/55/1200x675_cmsv2_44ce4c47-78ca-5f8c-b794-dc4df2bd0135-9985055.jpg",
-            "credit": "Euronews",
-            "alt": "EU to send joint team to Ukraine-Russia peace talks in Abu Dhabi"
-          }
-        }
-      ],
-      "breves": [
-        {
-          "titre": "Présidentielle : Teddy Riner se déclare candidat",
-          "texte": "Le judoka, 37 ans, a annoncé lundi sa candidature dans une vidéo et un entretien au Parisien. Il se dit « ni de droite, ni de gauche », veut être « le président qui réconcilie » et rejoint une liste de prétendants déjà longue, avant le premier tour prévu le 18 avril 2027.",
-          "src": {
-            "t": "Public Sénat – Présidentielle 2027 : le judoka Teddy Riner se lance dans la course à l'Élysée",
-            "u": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-le-judoka-teddy-riner-se-lance-dans-la-course-a-lelysee-au-milieu-dune-multitude-de-candidats"
-          }
-        },
-        {
-          "titre": "Cybersécurité : 15 000 entités bientôt soumises à de nouvelles obligations",
-          "texte": "Les députés ont commencé lundi l'examen du projet de loi qui transpose la directive européenne NIS 2. Le nombre d'entités régulées passerait d'environ 500 à près de 15 000, avec des amendes pouvant atteindre 10 millions d'euros ou 2 % du chiffre d'affaires mondial.",
-          "src": {
-            "t": "LCP – Cybersécurité : les secteurs « hautement critiques » bientôt inscrits dans la loi",
-            "u": "https://lcp.fr/actualites/cybersecurite-les-secteurs-hautement-critiques-bientot-inscrits-dans-la-loi-444844"
-          }
-        },
-        {
-          "titre": "La Cour des comptes avance jusqu'à 38 milliards d'euros d'économies",
-          "texte": "Gel d'un an des promotions des fonctionnaires, non-revalorisation de certaines prestations, baisse des dotations aux collectivités : la Cour publie 18 pistes d'économies, en plein examen budgétaire au Sénat.",
-          "src": {
-            "t": "Public Sénat – Gel des promotions des fonctionnaires, non-revalorisation des prestations : la Cour des comptes avance ses idées d'économies",
-            "u": "https://www.publicsenat.fr/actualites/politique/gel-dun-an-des-promotions-des-fonctionnaires-non-revalorisation-des-prestations-baisse-des-dotations-la-cour-des-comptes-avance-ses-idees-deconomies"
-          }
-        }
-      ],
-      "agenda": [
-        {
-          "d": "Mar. 10 nov.",
-          "t": "Grève et manifestations dans l'éducation et les universités (Paris : départ à 14 h du Panthéon) ; vote de la commission des Affaires culturelles sur la pétition contre CNews ; pourparlers sur l'Ukraine à Abou Dhabi (jusqu'au 11) ; fin du G7 des ministres des Affaires étrangères à Paris"
-        },
-        {
-          "d": "Mer. 11 nov.",
-          "t": "Commémorations de l'Armistice de 1918"
-        },
-        {
-          "d": "Ven. 13 nov.",
-          "t": "Sébastien Lecornu reçoit les syndicats de la fonction publique"
-        },
-        {
-          "d": "Mar. 17 nov.",
-          "t": "Journée de grève et de manifestations à l'appel de la CGT et d'une intersyndicale de la fonction publique"
         },
         {
           "d": "Mer. 18 nov.",
