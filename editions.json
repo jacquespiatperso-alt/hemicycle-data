@@ -1,6 +1,473 @@
 {
-  "updated": "2026-11-17T06:26:00+01:00",
+  "updated": "2026-11-18T06:27:00+01:00",
   "editions": [
+    {
+      "date": "2026-11-18",
+      "label": "Mercredi 18 novembre 2026",
+      "maj": "Mise à jour à 6 h 27",
+      "intro": "Au lendemain de la grève, les fonctionnaires attendent toujours un geste sur le point d'indice, et Marine Le Pen a fait des retraites le cœur de sa journée en présentant un retour à 62 ans. Le Sénat vote cet après-midi son budget de la Sécu, après avoir imposé un an de résidence aux étrangers pour les prestations familiales. À droite, les équipes d'Attal, Retailleau et Lisnard visent une primaire en janvier. À l'international, la présence de militaires français en Ukraine fait débat avant la réunion de Berlin jeudi.",
+      "stories": [
+        {
+          "id": "2026-11-18-greve-fonction-publique-bilan",
+          "rubrique": "Social",
+          "titre": "Fonction publique : 146 000 manifestants selon l'Intérieur, les syndicats réclament toujours le dégel du point d'indice",
+          "chapo": "Appelés par toutes leurs organisations syndicales, les agents publics ont manifesté mardi dans de nombreuses villes contre la vie chère. Le gouvernement maintient son refus d'une hausse générale et renvoie à une négociation sur les grilles après les élections professionnelles de décembre.",
+          "faits": [
+            "Le ministère de l'Intérieur a compté 146 000 manifestants en France mardi 17 novembre ; une source policière en attendait entre 220 000 et 300 000 selon l'AFP. Les 5,8 millions d'agents publics étaient appelés à la grève, et plusieurs syndicats de cheminots avaient rejoint l'appel.",
+            "Selon la CFDT Fonction publique, les agents ont perdu plus de 16 % de pouvoir d'achat depuis 2017. Le point d'indice est gelé depuis 2011, hormis en 2016, 2017, 2022 et 2023.",
+            "Après la hausse du Smic au 1er décembre, 1,1 million d'agents, près de 20 %, auraient eu un traitement de base inférieur au salaire minimum ; après les mesures annoncées à Matignon, environ 660 000 resteront dans ce cas et toucheront une indemnité compensatrice, qui ne compte pas pour la retraite.",
+            "Le ministre des Comptes publics, David Amiel, chiffre à plus d'un milliard d'euros le coût de la hausse du Smic et des mesures pour les agents les moins payés. L'exécutif exclut une augmentation générale pour la quatrième année consécutive."
+          ],
+          "enjeu": "Les syndicats veulent transformer la journée en rapport de force avant les élections professionnelles de décembre. Pour le gouvernement, tout geste sur le point d'indice pèserait lourd sur un budget 2027 que le Sénat commence à examiner vendredi.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement les grèves de la fonction publique, réclame une hausse générale des salaires indexée sur les prix et appelle à étendre le mouvement au privé.",
+              "src": ""
+            },
+            "gr": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement le dégel et la revalorisation du point d'indice, le rattrapage des pertes de pouvoir d'achat depuis 2017 et des recrutements dans les services publics.",
+              "src": ""
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant plaide habituellement pour une revalorisation du point d'indice et une négociation salariale annuelle dans la fonction publique, tout en appelant à tenir les comptes publics.",
+              "src": ""
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement les revendications salariales des agents publics et défend des services publics renforcés, en particulier à l'hôpital et à l'école.",
+              "src": ""
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "David Amiel (Renaissance), ministre des Comptes publics, chiffre à plus d'un milliard d'euros le coût des mesures pour les bas salaires ; le porte-parole Mathieu Lefèvre (Renaissance) promet des « chantiers plus structurels » après les élections professionnelles.",
+              "src": "AFP et Public Sénat, 17 novembre 2026"
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement des mesures ciblées sur les agents les moins payés et une refonte des grilles plutôt qu'une hausse uniforme du point d'indice, dans le respect de la trajectoire budgétaire.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant met habituellement en avant la maîtrise de la masse salariale publique et plaide pour des réformes de la fonction publique plutôt que pour un dégel général du point d'indice.",
+              "src": ""
+            },
+            "d": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement une réduction des effectifs publics et une rémunération davantage liée au mérite, en jugeant une hausse générale incompatible avec l'état des finances.",
+              "src": ""
+            },
+            "dn": {
+              "type": "lecture",
+              "texte": "Le courant se dit habituellement attaché au pouvoir d'achat des agents de terrain tout en promettant des économies sur les agences de l'État et le train de vie de l'administration.",
+              "src": ""
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant critique habituellement les grèves dans le service public et défend une baisse des dépenses publiques et des effectifs administratifs.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Public Sénat – « Smicardisation », « tassement des salaires » : les fonctionnaires appellent à la mobilisation ce mardi 17 novembre",
+              "u": "https://www.publicsenat.fr/actualites/societe/smicardisation-tassement-des-salaires-les-fonctionnaires-appellent-a-la-mobilisation-ce-mardi-17-novembre"
+            },
+            {
+              "t": "AFP via Orange – Après Matignon, les fonctionnaires de retour dans la rue pour demander des hausses de salaire",
+              "u": "https://actu.orange.fr/economie/apres-matignon-les-fonctionnaires-de-retour-dans-la-rue-pour-demander-des-hausses-de-salaire-CNT000002tLbA0.html"
+            },
+            {
+              "t": "L'Express via Orange – Les trois infos à retenir du mardi 17 novembre",
+              "u": "https://actu.orange.fr/france/les-trois-infos-a-retenir-du-mardi-17-novembre-l-express-via-6medias-CNT000002tLSDs.html"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-18-le-pen-reforme-retraites",
+          "rubrique": "Présidentielle 2027",
+          "titre": "Retraites : Marine Le Pen présente une réforme à 62 ans, voire 60, et un pilier de capitalisation obligatoire",
+          "chapo": "La candidate du RN a détaillé mardi avec Jordan Bardella le projet qu'elle promet d'engager « dès [son] arrivée au pouvoir », pour une application au 1er janvier 2028. Les équipes de Bruno Retailleau, d'Édouard Philippe et de Gabriel Attal contestent son financement.",
+          "faits": [
+            "L'âge légal reviendrait à 62 ans, et à 60 ans pour ceux qui ont eu un premier emploi stable avant 20 ans, avec 40 ans de cotisation ; ceux qui ont commencé après 23 ans devraient cotiser 42 ans. La décote serait de 5 % par trimestre manquant, dans la limite de 50 %.",
+            "Un trimestre serait validé par au moins un trimestre travaillé à mi-temps, au lieu de 150 heures au Smic aujourd'hui ; les critères de pénibilité seraient supprimés. La majoration de pension des mères de trois enfants passerait à 12 %, celle des pères serait progressivement supprimée.",
+            "Le RN chiffre le coût brut à 18,6 milliards d'euros en 2032 et annonce un excédent net de 4,7 milliards à cet horizon, notamment grâce à une partie des excédents de l'Unédic. Un pilier de capitalisation obligatoire, alimenté par des fonds du logement et de la formation, rapporterait selon lui près de 900 milliards d'euros en une génération.",
+            "Marine Le Pen privilégie un débat parlementaire mais n'exclut pas un référendum si elle n'obtient pas de majorité absolue."
+          ],
+          "enjeu": "Les retraites deviennent un marqueur central de la campagne, au moment où le Sénat vient de voter le retour de la réforme de 2023. Le RN cherche à rassurer sur sa crédibilité budgétaire ; ses concurrents de droite et du centre attaquent précisément ce point.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant réclame habituellement le retour de la retraite à 60 ans pour tous avec 37,5 annuités, financé par les profits, et rejette toute forme de capitalisation.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Jean-Luc Mélenchon (LFI) propose l'abrogation de la réforme de 2023, un retour à 62 ans « dans un premier temps » puis à 60 ans « le plus vite possible », sans capitalisation.",
+              "src": "Public Sénat, 30 septembre 2026"
+            },
+            "soc": {
+              "type": "declare",
+              "texte": "Raphaël Glucksmann (Place publique) veut abroger la réforme Borne et fonder une future réforme « sur la pénibilité », sans fixer d'âge ; Olivier Faure (PS) défend un retour à 62 ans avec des durées de cotisation modulées selon la pénibilité.",
+              "src": "Public Sénat, 30 septembre 2026"
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement l'abrogation de la réforme de 2023, un retour vers 62 ans et une meilleure prise en compte de la pénibilité, et s'oppose à la capitalisation.",
+              "src": ""
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "Paul Midy (Renaissance), au nom de l'équipe de Gabriel Attal, dénonce « une vaste arnaque financière » ; le ministre David Amiel (Renaissance) juge la réforme « insoutenable financièrement et terriblement injuste socialement ».",
+              "src": "Public Sénat, 17 novembre 2026"
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement une réforme négociée avec les partenaires sociaux, juge le retour à 62 ans infinançable et plaide pour l'équilibre du système par répartition.",
+              "src": ""
+            },
+            "hor": {
+              "type": "declare",
+              "texte": "Maël de Calan, porte-parole d'Édouard Philippe (Horizons), estime que Marine Le Pen « n'a proposé que des dépenses supplémentaires » et parle de « l'ère de la post-vérité ».",
+              "src": "Public Sénat, 17 novembre 2026"
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Bruno Retailleau (LR) qualifie la réforme d'« injuste et bancale » et de « catalogue de contradictions » ; il chiffre à 600 millions d'euros par an au plus le gain des nouvelles règles de validation et juge la capitalisation « financée par aucune ressource nouvelle ».",
+              "src": "Public Sénat, 17 novembre 2026"
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Marine Le Pen (RN) promet d'« abolir la réforme Borne au 1er janvier 2028 » ; Jordan Bardella (RN) affirme que « les plus avantagés de notre réforme seront les moins diplômés », Jean-Philippe Tanguy (RN) défend la suppression des critères de pénibilité.",
+              "src": "AFP et LCP, 17 novembre 2026"
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant juge habituellement le retour à 62 ans irréaliste, défend un allongement de la durée du travail et une retraite plus favorable aux familles nombreuses.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "AFP via Orange – Le Pen affirme que sa réforme des retraites sera « engagée dès son arrivée au pouvoir » et appliquée au 1er janvier 2028",
+              "u": "https://actu.orange.fr/france/le-pen-affirme-que-sa-reforme-des-retraites-sera-quot-engagee-des-son-arrivee-au-pouvoir-quot-et-sera-appliquee-au-1er-janvier-2028-CNT000002tLo2Q.html"
+            },
+            {
+              "t": "Public Sénat – Présidentielle 2027 : que contient la réforme des retraites présentée par Marine Le Pen ?",
+              "u": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-que-contient-la-reforme-des-retraites-presentee-par-marine-le-pen"
+            },
+            {
+              "t": "Public Sénat – « Catalogue de contradictions », « vaste arnaque financière » : la réforme des retraites du RN suscite la critique de certains candidats",
+              "u": "https://www.publicsenat.fr/actualites/politique/catalogue-de-contradictions-vaste-arnaque-financiere-la-reforme-des-retraites-du-rn-suscite-la-critique-de-certains-candidats"
+            },
+            {
+              "t": "LCP – Réforme des retraites : pourquoi le RN veut supprimer les critères de pénibilité du travail",
+              "u": "https://lcp.fr/actualites/reforme-des-retraites-pourquoi-le-rn-veut-supprimer-les-criteres-de-penibilite-du"
+            },
+            {
+              "t": "Public Sénat – Reculer ou avancer l'âge légal : ce que proposent les principaux candidats sur les retraites",
+              "u": "https://www.publicsenat.fr/actualites/politique/reculer-ou-avancer-lage-legal-avec-ou-sans-capitalisation-ce-que-proposent-les-principaux-candidats-a-lelection-presidentielle-sur-les-retraites"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-18-senat-secu-prestations-etrangers",
+          "rubrique": "Budget",
+          "titre": "Budget de la Sécu : le Sénat impose un an de résidence aux étrangers pour les prestations familiales, vote solennel ce mercredi",
+          "chapo": "Après des débats houleux, la majorité sénatoriale a adopté mardi l'article 37 du budget de la Sécurité sociale, qui instaure un délai de carence d'un an. Les sénateurs se prononcent sur l'ensemble du texte cet après-midi, après les questions au gouvernement.",
+          "faits": [
+            "L'article exige un an de séjour régulier pour la plupart des prestations familiales (Paje, allocation de rentrée scolaire, complément familial, allocation de soutien familial) et les APL, pour les ressortissants extra-européens. Sont exemptés les réfugiés, les bénéficiaires de la protection subsidiaire, les apatrides, les titulaires d'un titre autorisant à travailler et les nationaux de pays liés par une convention de réciprocité.",
+            "Les amendements de suppression ont été rejetés par 206 voix contre 132. Les amendements RN et UDR qui portaient le délai à trois ou cinq ans ont tous été rejetés.",
+            "Selon Public Sénat, la mesure ferait économiser 1,8 million d'euros par an à la branche famille, mais coûterait environ 60 millions d'euros par an de plus à l'État au titre des APL. Une condition de cinq ans figurant dans la loi immigration de 2023 avait été censurée par le Conseil constitutionnel comme cavalier législatif.",
+            "La veille, le Sénat avait réactivé la réforme des retraites de 2023 et supprimé le gel des pensions. Le texte repartira ensuite vers l'Assemblée nationale."
+          ],
+          "enjeu": "Le Sénat imprime une ligne plus restrictive sur l'accès des étrangers aux aides, un sujet très politique à quelques mois de la présidentielle. La gauche y voit une « préférence nationale », la majorité sénatoriale une mesure « proportionnée » ; l'Assemblée aura le dernier mot.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant s'oppose habituellement à toute condition de nationalité ou de durée de séjour pour l'accès aux prestations sociales, qu'il juge discriminatoire envers les travailleurs immigrés.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Silvana Silvani (PCF) dénonce une « discrimination contraire aux engagements constitutionnels et internationaux de la France » ; une quarantaine d'associations ont protesté contre l'article.",
+              "src": "Public Sénat, 17 novembre 2026"
+            },
+            "soc": {
+              "type": "declare",
+              "texte": "Corinne Féret (PS) estime que la mesure « répond à une des demandes historiques de l'extrême droite : la préférence nationale » ; Marion Canalès (PS) parle d'« économies de bouts de chandelles ».",
+              "src": "Public Sénat, 17 novembre 2026"
+            },
+            "eco": {
+              "type": "declare",
+              "texte": "Mélanie Vogel, présidente du groupe écologiste, dénonce « un cadeau idéologique » à l'extrême droite ; Ghislaine Senée (Les Écologistes) y voit « une préférence nationale déguisée ».",
+              "src": "Public Sénat, 17 novembre 2026"
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "Xavier Iacovelli (Renaissance) a critiqué l'inutilité de l'article, au vu de l'économie attendue pour la branche famille.",
+              "src": "Public Sénat, 17 novembre 2026"
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement une politique d'intégration équilibrée et se montre réservé sur les conditions de durée de séjour pour les aides aux familles, au nom de l'intérêt des enfants.",
+              "src": ""
+            },
+            "hor": {
+              "type": "declare",
+              "texte": "Emmanuel Capus (Horizons) a mis en garde dans le débat contre « un jeu extrêmement dangereux » qui reviendrait à « porter l'extrême droite au pinacle ».",
+              "src": "Public Sénat, 17 novembre 2026"
+            },
+            "d": {
+              "type": "declare",
+              "texte": "La majorité LR et centriste a maintenu l'article, jugé « véritablement proportionné » par la rapporteure ; Laurent Burgoa (LR) a lancé dans l'hémicycle : « C'est tapis rouge que vous faites pour le RN ».",
+              "src": "Public Sénat, 17 novembre 2026"
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Aymeric Durox (RN) a invoqué une « immigration massive » que les Français veulent voir stoppée ; les amendements RN et UDR portant le délai à trois et cinq ans ont été rejetés.",
+              "src": "Public Sénat, 17 novembre 2026"
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant réclame habituellement de réserver les prestations familiales aux Français et juge un délai d'un an très insuffisant.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Public Sénat – Budget 2027 de la Sécu : après des débats houleux, le Sénat adopte le délai de carence d'un an pour l'accès aux prestations familiales des étrangers",
+              "u": "https://www.publicsenat.fr/actualites/politique/budget-2027-de-la-secu-apres-des-debats-houleux-le-senat-adopte-le-delai-de-carence-dun-an-pour-lacces-aux-prestations-familiales-des-etrangers"
+            },
+            {
+              "t": "Public Sénat – Le Sénat vote la réactivation de la réforme des retraites de 2023, contre l'avis du gouvernement",
+              "u": "https://www.publicsenat.fr/actualites/politique/le-senat-vote-la-reactivation-de-la-reforme-des-retraites-de-2023-contre-lavis-du-gouvernement"
+            },
+            {
+              "t": "Public Sénat – Le Sénat rétablit la réforme des retraites de 2023 : Pierre Moscovici alerte",
+              "u": "https://www.publicsenat.fr/actualites/economie/le-senat-retablit-la-reforme-des-retraites-de-2023-elle-ne-marchait-pas-sans-quoi-elle-naurait-pas-ete-suspendue-avertit-pierre-moscovici"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-18-primaire-droite-janvier",
+          "rubrique": "Présidentielle 2027",
+          "titre": "Primaire de la droite et du centre : les équipes d'Attal, Retailleau et Lisnard visent un vote en janvier",
+          "chapo": "Réunis mardi sans représentant d'Édouard Philippe, les directeurs de campagne des trois candidats se sont rapprochés sur une primaire ouverte à deux tours en janvier. La question d'une participation d'Éric Zemmour les divise encore.",
+          "faits": [
+            "Selon un participant cité par Public Sénat, les équipes s'accordent sur une primaire ouverte à deux tours, avec vote électronique et une participation de 2 à 5 euros. Deux calendriers sont envisagés : 17 et 24 janvier, ou 24 et 31 janvier 2027.",
+            "Nouvelle Énergie, le parti de David Lisnard, affirme qu'« aucun accord n'a été conclu à ce stade ». Bruno Retailleau avait proposé la semaine dernière les 31 janvier et 7 février.",
+            "Édouard Philippe a redit qu'il ne participerait pas à une primaire, tout en se disant prêt à une discussion proposée par Gérard Larcher sur une « méthode de départage ». Environ un millier d'élus locaux ont réclamé une primaire dans une tribune au Figaro.",
+            "L'entourage de Gabriel Attal exclut une primaire avec Reconquête ; chez Lisnard, Alexandra Martin répond « pas forcément » à la question d'une exclusion d'Éric Zemmour."
+          ],
+          "enjeu": "La droite et le centre cherchent à éviter un second tour entre Marine Le Pen et Jean-Luc Mélenchon. Sans Édouard Philippe, la primaire perdrait une partie de son sens ; avec Reconquête, elle changerait de nature.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant se tient habituellement à l'écart de ces débats de stratégie et dénonce une recomposition qu'il juge interne au camp libéral et conservateur.",
+              "src": ""
+            },
+            "gr": {
+              "type": "lecture",
+              "texte": "Le courant critique habituellement les primaires, qu'il juge source de division et d'affichage, et mise sur une candidature construite autour de son programme.",
+              "src": ""
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant a lui-même engagé un processus de départage à gauche et observe habituellement ces débats à droite sous l'angle d'un possible second tour face à l'extrême droite.",
+              "src": ""
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement le principe de primaires ouvertes pour désigner un candidat commun, mais dans son propre camp, à gauche.",
+              "src": ""
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "Gabriel Attal (Renaissance) juge la primaire « inéluctable », estimant qu'« aucun candidat n'est en situation d'être au deuxième tour » ; son équipe exclut d'y associer Reconquête.",
+              "src": "LCP, 16 novembre 2026, et Public Sénat, 17 novembre 2026"
+            },
+            "modem": {
+              "type": "declare",
+              "texte": "Marc Fesneau (Les Démocrates) plaide pour une primaire qui ne soit pas « trop étriquée », de Bruno Retailleau à Raphaël Glucksmann, et constate : « On a un problème de leadership ».",
+              "src": "LCP, 16 novembre 2026"
+            },
+            "hor": {
+              "type": "declare",
+              "texte": "Édouard Philippe (Horizons) maintient : « Cette primaire, je n'y participerai pas », tout en se disant « enchanté » de participer à une discussion proposée par Gérard Larcher.",
+              "src": "LCP, 16 novembre 2026"
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Bruno Retailleau (LR) a proposé un vote les 31 janvier et 7 février ; un de ses conseillers prévient : « On ne va pas lui donner un droit de veto sur la primaire », à propos d'Édouard Philippe.",
+              "src": "Public Sénat, 17 novembre 2026"
+            },
+            "dn": {
+              "type": "lecture",
+              "texte": "Le courant présente habituellement ces discussions comme une manœuvre de partis en perte de vitesse et met en avant la candidature de Marine Le Pen comme la seule en position de gagner.",
+              "src": ""
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant plaide habituellement pour une union des droites incluant Reconquête et réclame de pouvoir participer à tout processus de départage à droite.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Public Sénat – Primaire : les équipes d'Attal, Retailleau et Lisnard s'alignent sur un vote en janvier, moins sur le cas d'Éric Zemmour",
+              "u": "https://www.publicsenat.fr/actualites/politique/primaire-les-equipes-dattal-retailleau-et-lisnard-salignent-sur-un-vote-en-janvier-moins-sur-le-cas-deric-zemmour"
+            },
+            {
+              "t": "LCP – « Je n'y participerai pas » : Édouard Philippe accepte une discussion à droite mais ferme toujours la porte à une primaire",
+              "u": "https://lcp.fr/actualites/je-n-y-participerai-pas-edouard-philippe-accepte-une-discussion-a-droite-mais-ferme"
+            },
+            {
+              "t": "LCP – Présidentielle 2027 : Marc Fesneau plaide pour une primaire large de Bruno Retailleau à Raphaël Glucksmann",
+              "u": "https://lcp.fr/actualites/presidentielle-2027-marc-fesneau-plaide-pour-une-primaire-large-de-bruno-retailleau-a"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-18-ukraine-soldats-francais-berlin",
+          "rubrique": "International",
+          "titre": "Ukraine : la présence de militaires français fait débat, Marine Le Pen veut couper l'aide financière, les alliés à Berlin jeudi",
+          "chapo": "Selon RFI, des militaires français interviennent en Ukraine depuis plusieurs mois pour l'entretien du matériel livré et la formation. Le ministère des Armées dément toute « intervention », le Parlement demande des explications, à deux jours de la réunion de la coalition des volontaires à Berlin.",
+          "faits": [
+            "D'après RFI, cité par Public Sénat, une force baptisée « Volia », dirigée par un général français, s'appuie sur le détachement « Gerfaut », officiellement déployé en Pologne dans le cadre de la mission européenne EUMAM-Ukraine. Moscou y voit, par la voix de Sergueï Lavrov, « une participation directe au conflit ».",
+            "La ministre déléguée Alice Rufo a jugé mardi « absurde » d'imaginer des forces françaises engagées au front, invoquant « le caractère extrêmement ponctuel de ces missions ». L'article 35 de la Constitution impose d'informer le Parlement de toute intervention à l'étranger.",
+            "Lundi, après avoir reçu l'ambassadeur d'Ukraine, Marine Le Pen a affirmé son « soutien sans faille » à Kiev mais annoncé qu'une France dirigée par le RN ne pourrait plus aider financièrement l'Ukraine, tout en respectant les engagements pris sur le prêt européen de 90 milliards d'euros.",
+            "Le chancelier Friedrich Merz réunit jeudi 19 novembre à Berlin la coalition des volontaires, avec Volodymyr Zelensky. Celui-ci a indiqué vendredi que les émissaires américains l'avaient interrogé sur un retrait du Donbass en échange d'une adhésion à l'Otan, une décision qu'il dit ne pas pouvoir prendre seul."
+          ],
+          "enjeu": "Le soutien militaire à l'Ukraine devient un sujet de politique intérieure, entre exigence de transparence du Parlement et débat sur le coût de l'aide. Les Européens veulent peser sur des négociations que Washington mène directement avec Moscou et Kiev.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant s'oppose habituellement à tout engagement militaire français et à la course aux armements, en renvoyant dos à dos l'impérialisme russe et l'Otan.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Manuel Bompard (LFI) réclame un débat à l'Assemblée nationale sur la présence de militaires français en Ukraine.",
+              "src": "Public Sénat, 17 novembre 2026"
+            },
+            "soc": {
+              "type": "declare",
+              "texte": "Hélène Conway-Mouret (PS) regrette : « Nous n'avons pas été directement informés », estimant que « cette absence d'information nourrit les spéculations et les discours complotistes ».",
+              "src": "Public Sénat, 17 novembre 2026"
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement un soutien ferme à l'Ukraine, y compris militaire, et une défense européenne commune, tout en demandant un contrôle parlementaire des engagements.",
+              "src": ""
+            },
+            "ren": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement un soutien militaire et financier durable à l'Ukraine, la participation de la France à des garanties de sécurité et une place pour les Européens dans les négociations.",
+              "src": ""
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement le soutien à l'Ukraine et une Europe de la défense plus autonome, en insistant sur l'information du Parlement.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement l'aide militaire à l'Ukraine et l'effort de réarmement européen, et juge nécessaire que l'Europe soit à la table des négociations.",
+              "src": ""
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Cédric Perrin (LR), président de la commission des affaires étrangères du Sénat, veut auditionner « très rapidement » la ministre des Armées et dénonce « de l'amateurisme » dans l'information du Parlement.",
+              "src": "Public Sénat, 17 novembre 2026"
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Marine Le Pen (RN) revendique un « soutien sans faille à l'Ukraine » mais affirme que la France ne pourrait plus l'« aider financièrement » dans les prochains mois, vu l'état des finances publiques.",
+              "src": "LCP, 17 novembre 2026"
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant s'oppose habituellement à tout envoi de militaires français en Ukraine et à la poursuite de l'aide, et plaide pour une négociation rapide avec la Russie.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Public Sénat – Soldats français en Ukraine : Cédric Perrin veut auditionner la ministre des Armées",
+              "u": "https://www.publicsenat.fr/actualites/parlementaire/soldats-francais-en-ukraine-je-proposerai-tres-rapidement-dauditionner-la-ministre-de-la-defense-annonce-cedric-perrin-le-president-de-la-commission-des-affaires-etrangeres"
+            },
+            {
+              "t": "LCP – Ukraine : Marine Le Pen revendique un « soutien sans faille » mais veut fermer le robinet financier",
+              "u": "https://lcp.fr/actualites/ukraine-marine-le-pen-revendique-un-soutien-sans-faille-mais-veut-fermer-le-robinet"
+            },
+            {
+              "t": "Euronews – Volodymyr Zelensky affirme que Washington évoque une cession de territoires en échange d'une adhésion à l'Otan",
+              "u": "https://fr.euronews.com/2026/11/14/volodymyr-zelensky-affirme-que-washington-evoque-une-cession-de-territoires-en-echange-dun"
+            },
+            {
+              "t": "France 24 – Les alliés de l'Ukraine en sommet à Berlin le 19 novembre",
+              "u": "https://www.france24.com/fr/europe/20261113-en-direct-ukraine-russie-europeens-presents-prochaines-negociations-zelensky-poutine"
+            }
+          ]
+        }
+      ],
+      "breves": [
+        {
+          "titre": "Universités bloquées : le ministre redoute plus d'échecs en licence",
+          "texte": "Devant la commission de la culture du Sénat, Philippe Baptiste a indiqué mardi que le conflit touche chaque jour 20 à 30 % des établissements et dit s'attendre à « un taux d'échec encore plus important cette année ». Il exclut une hausse des frais d'inscription en licence, master et doctorat.",
+          "src": {
+            "t": "Public Sénat – Blocages d'universités : le ministre s'attend à un taux d'échec en licence encore plus important",
+            "u": "https://www.publicsenat.fr/actualites/politique/blocages-duniversites-le-ministre-de-lenseignement-superieur-sattend-a-un-taux-dechec-encore-plus-important-cette-annee"
+          }
+        },
+        {
+          "titre": "Jean-Luc Mélenchon dîne avec de grands patrons",
+          "texte": "Le candidat insoumis était invité mardi soir par le club Entreprise & Cité, avec notamment Bernard Arnault et Patrick Pouyanné. « Ce n'est pas un dîner, c'est une présentation de programme », a expliqué Manuel Bompard.",
+          "src": {
+            "t": "LCP – Présidentielle 2027 : pourquoi Jean-Luc Mélenchon va dîner ce mardi avec des grands patrons",
+            "u": "https://lcp.fr/actualites/presidentielle-2027-pourquoi-jean-luc-melenchon-va-diner-ce-mardi-avec-des-grands"
+          }
+        },
+        {
+          "titre": "Macron reconnaît « parfois des erreurs »",
+          "texte": "Dix ans jour pour jour après l'annonce de sa première candidature, Emmanuel Macron a écrit lundi sur X avoir « fait de [son] mieux pour l'intérêt supérieur du pays », en admettant des erreurs, et promis de s'engager « jusqu'au bout ».",
+          "src": {
+            "t": "LCP – « Il y a eu parfois des erreurs » : Emmanuel Macron affirme avoir « fait de son mieux »",
+            "u": "https://lcp.fr/actualites/il-y-a-eu-parfois-des-erreurs-emmanuel-macron-affirme-avoir-fait-de-son-mieux-pendant"
+          }
+        },
+        {
+          "titre": "Somme et Pas-de-Calais en vigilance orange",
+          "texte": "Météo-France a placé les deux départements en vigilance orange pluie-inondation depuis mardi 23 heures et au moins jusqu'à mercredi en fin d'après-midi. Des rafales jusqu'à 90 km/h sont attendues dans le Nord, et plus de 150 km/h sur les côtes corses.",
+          "src": {
+            "t": "L'Express via Orange – Les trois infos à retenir du mardi 17 novembre",
+            "u": "https://actu.orange.fr/france/les-trois-infos-a-retenir-du-mardi-17-novembre-l-express-via-6medias-CNT000002tLSDs.html"
+          }
+        }
+      ],
+      "agenda": [
+        {
+          "d": "Mer. 18 nov.",
+          "t": "Vote solennel du Sénat sur le budget de la Sécurité sociale, après les questions au gouvernement ; vigilance orange pluie-inondation dans la Somme et le Pas-de-Calais"
+        },
+        {
+          "d": "Jeu. 19 nov.",
+          "t": "Réunion de la coalition des volontaires pour l'Ukraine à Berlin ; examen au Sénat de la proposition de loi sur la présomption d'usage légitime de l'arme"
+        },
+        {
+          "d": "Ven. 20 nov.",
+          "t": "Début de l'examen du budget 2027 de l'État au Sénat ; clôture prévue de la COP31 à Antalya"
+        },
+        {
+          "d": "Jeu. 26 nov.",
+          "t": "Niche parlementaire LR à l'Assemblée : violences dans les manifestations, responsabilité pénale des mineurs à 16 ans"
+        }
+      ]
+    },
     {
       "date": "2026-11-17",
       "label": "Mardi 17 novembre 2026",
@@ -2945,527 +3412,6 @@
         {
           "d": "Jeu. 19 nov.",
           "t": "Réunion de la coalition des volontaires pour l'Ukraine en Allemagne"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-11",
-      "label": "Mercredi 11 novembre 2026",
-      "maj": "Mise à jour à 6 h 38",
-      "intro": "À Chelles, une élue régionale a été atteinte par une bouteille d'essence devant un lycée bloqué : le parquet a ouvert une enquête pour tentative d'homicide, et l'exécutif promet la fermeté face aux violences en marge du mouvement lycéen. La présidentielle se peuple : Éric Zemmour confirme sa candidature, et celle de Teddy Riner fait réagir toute la classe politique. Au Sénat, la taxe sur les produits trop sucrés revient dans le budget de la Sécu. À l'international, Kamel Daoud est condamné à cinq ans de prison en Algérie.",
-      "stories": [
-        {
-          "id": "2026-11-11-chelles-elue-essence-lycees",
-          "rubrique": "Sécurité",
-          "titre": "Une élue atteinte par une bouteille d'essence devant un lycée bloqué à Chelles : enquête pour tentative d'homicide, l'exécutif promet la fermeté",
-          "chapo": "Mardi, jour de grève dans l'éducation, une conseillère régionale d'Île-de-France a été visée devant le lycée Gaston-Bachelard. Le mouvement lycéen s'essouffle en nombre d'établissements bloqués, mais les violences en marge inquiètent le gouvernement.",
-          "faits": [
-            "Selon le procureur de Meaux, Jean-Baptiste Bladier, une bouteille pleine d'un liquide à l'odeur d'essence a frappé à la poitrine Angela Pascoa Dos Santos, conseillère régionale et adjointe au maire de Chelles (Seine-et-Marne), venue aider à la reprise des cours ; une enquête pour tentative d'homicide volontaire est ouverte et l'auteur n'avait pas été identifié mardi midi.",
-            "Le ministère de l'Éducation a compté 49 lycées bloqués mardi matin, sur environ 3 700, et 1,6 % d'enseignants grévistes ; à Paris, le cortège parti du Panthéon a réuni 5 900 personnes selon la police, 10 000 selon les organisateurs.",
-            "Le gouvernement chiffre à 240 le nombre de personnels de l'Éducation nationale blessés depuis la mi-septembre, après un premier chiffre de près de 300 avancé par le porte-parole Mathieu Lefèvre ; la région Île-de-France évoque une centaine de tirs de mortiers d'artifice en dix jours.",
-            "Laurent Nuñez parle de « violences urbaines » et réclame « la réponse la plus ferme », Emmanuel Macron estime que « la violence n'a pas sa place en démocratie » ; la région se portera partie civile.",
-            "Les organisations de jeunesse appellent à marcher samedi 14 novembre puis à rejoindre la journée interprofessionnelle et fonction publique du mardi 17 novembre."
-          ],
-          "enjeu": "Le gouvernement veut distinguer la mobilisation lycéenne et étudiante des violences commises en marge, au moment où le nombre de lycées bloqués recule. Les syndicats, eux, veulent faire du 17 novembre le point de jonction entre la jeunesse, les fonctionnaires et les salariés du privé.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement la mobilisation de la jeunesse, dénonce la répression policière et judiciaire des blocages et réclame l'amnistie des lycéens interpellés, en renvoyant la responsabilité des tensions au gouvernement.",
-              "src": ""
-            },
-            "gr": {
-              "type": "declare",
-              "texte": "Bally Bagayoko (LFI), maire de Saint-Denis, a apporté un « soutien indéfectible » aux personnels mobilisés d'un lycée de sa ville et demandé à Emmanuel Macron de « cesser sa stratégie du pourrissement ».",
-              "src": "Sud Radio (AFP), 8 novembre 2026"
-            },
-            "soc": {
-              "type": "declare",
-              "texte": "Olivier Faure (PS) estime que les manifestations s'arrêteront quand le gouvernement répondra aux revendications des lycéens, et prévient que restreindre le droit de manifester mettrait en cause la démocratie.",
-              "src": "Le Grand Jury RTL-Public Sénat-M6, 25 octobre 2026"
-            },
-            "eco": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement les revendications des jeunes et des enseignants sur les moyens de l'école, condamne les violences tout en interrogeant la conduite du maintien de l'ordre, et réclame un dialogue réel avec les organisations lycéennes.",
-              "src": ""
-            },
-            "ren": {
-              "type": "declare",
-              "texte": "Gabriel Attal (Renaissance) a adressé son soutien à l'élue de Chelles, qui « tentait d'empêcher qu'une poubelle soit incendiée » : « Rien ne justifie cela. Aucune cause. »",
-              "src": "X, 10 novembre 2026"
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant condamne habituellement toute violence contre les élus et les personnels, appelle au calme et à la reprise des cours, et plaide pour une concertation approfondie sur l'orientation et les moyens de l'école.",
-              "src": ""
-            },
-            "hor": {
-              "type": "declare",
-              "texte": "Laurent Marcangeli, président du groupe Horizons à l'Assemblée, a prévenu que « c'est ceux qui cassent qui devront payer » les dégâts causés dans les établissements.",
-              "src": "Public Sénat, 6 octobre 2026"
-            },
-            "d": {
-              "type": "declare",
-              "texte": "Bruno Retailleau (LR) juge criminel d'avoir jeté « une bouteille remplie d'essence sur une élue de la République » et demande que l'État « reprenne le contrôle » ; Valérie Pécresse (LR) veut une réponse judiciaire « implacable ».",
-              "src": "X et AFP, 10 novembre 2026"
-            },
-            "dn": {
-              "type": "declare",
-              "texte": "Jordan Bardella (RN) estime qu'« on n'est plus dans des revendications » ; Éric Ciotti (UDR) qualifie l'agression de Chelles d'« abomination ».",
-              "src": "BFMTV, 10 novembre 2026"
-            },
-            "ed": {
-              "type": "declare",
-              "texte": "Éric Zemmour (Reconquête) a réclamé la fin de « l'excuse de minorité » pour les jeunes auteurs de violences lors des blocages, en jugeant que « nous n'avons plus les mêmes jeunes ».",
-              "src": "CNews, 13 octobre 2026"
-            }
-          },
-          "sources": [
-            {
-              "t": "Boursorama (AFP) – Une élue francilienne atteinte par une bouteille d'essence, enquête pour tentative d'homicide",
-              "u": "https://www.boursorama.com/actualite-economique/actualites/une-elue-francilienne-atteinte-par-une-bouteille-d-essence-enquete-pour-tentative-d-homicide-4f033133edc930d3dd1dc34b123f4cee"
-            },
-            {
-              "t": "Orange (6Medias) – Mobilisation lycéenne : une élue aspergée d'essence à Chelles",
-              "u": "https://actu.orange.fr/france/mobilisation-lyceenne-une-elue-aspergee-d-essence-a-chelles-6medias-CNT000002tEgtp.html"
-            },
-            {
-              "t": "Public Sénat – Reportage : « La bataille n'est pas finie », quand les enseignants se joignent aux lycéens et étudiants dans la rue",
-              "u": "https://www.publicsenat.fr/actualites/education/reportage-la-bataille-nest-pas-finie-quand-les-enseignants-se-joignent-aux-lyceens-et-etudiants-dans-la-rue"
-            },
-            {
-              "t": "Orange (AFP) – Crise dans l'éducation : étudiants, lycéens et enseignants appellent à une nouvelle journée d'action",
-              "u": "https://actu.orange.fr/france/crise-dans-l-education-etudiants-lyceens-et-enseignants-appellent-a-une-nouvelle-journee-d-action-mardi-CNT000002tDqHK.html"
-            },
-            {
-              "t": "Sud Radio (AFP) – Rassemblement contre la répression policière et administrative dans un lycée en grève à Saint-Denis",
-              "u": "https://www.sudradio.fr/societe/rassemblement-contre-la-repression-policiere-et-administrative-dans-un-lycee-en-greve-a-saint-denis"
-            }
-          ],
-          "image": {
-            "u": "https://www.boursorama.com/static/i/content/images/6/8/9/689984deb7e69f7d781827722b6b83a7-1200x800.jpg",
-            "credit": "Boursorama (AFP)",
-            "alt": "Le procureur de la République de Meaux Jean-Baptiste Bladier, à Meaux en Seine-et-Marne le 26 décembre 2023 ( AFP / ALAIN JOCARD )"
-          }
-        },
-        {
-          "id": "2026-11-11-zemmour-candidat",
-          "rubrique": "Présidentielle 2027",
-          "titre": "Éric Zemmour confirme sa candidature à la présidentielle pour « conserver une France française »",
-          "chapo": "Sur TF1 mardi soir, le président de Reconquête a officialisé sa deuxième candidature à l'Élysée, avec l'immigration au cœur de son projet. Le RN appelle les électeurs de droite à ne pas se disperser.",
-          "faits": [
-            "Interrogé au journal de 20 heures de TF1, Éric Zemmour, 68 ans, a déclaré : « Oui, je vous le confirme, je suis bien candidat à l'élection présidentielle », après l'avoir déjà annoncé sur BFMTV le 17 septembre.",
-            "Il propose une « immigration négative », avec deux millions d'immigrés en moins d'ici la fin du quinquennat, notamment par l'expulsion des détenus étrangers et des étrangers au chômage depuis plus de six mois, un référendum sur la politique migratoire et 280 milliards d'euros de baisses de dépenses et d'impôts.",
-            "Arrivé quatrième en 2022 avec 7,07 % des voix, il est crédité d'environ 4 % dans les sondages, loin derrière Marine Le Pen, à qui il reproche de refuser l'union des droites.",
-            "Sarah Knafo, qui s'était mise en retrait en septembre, l'avait présenté comme le « candidat naturel » de Reconquête ; comme tous les candidats, il doit réunir 500 parrainages d'élus."
-          ],
-          "enjeu": "Cette candidature divise à nouveau l'électorat de la droite nationale, que le RN veut rassembler derrière Marine Le Pen. Elle relance aussi le débat sur l'union des droites, au moment où les candidatures se multiplient à cinq mois du premier tour.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant combat habituellement l'extrême droite sous toutes ses formes, dénonce un discours qui divise les travailleurs selon leur origine et appelle à lui répondre par la mobilisation sociale plutôt que dans les urnes.",
-              "src": ""
-            },
-            "gr": {
-              "type": "declare",
-              "texte": "Fabien Roussel (PCF), lui-même candidat, a réagi en demandant que les responsables politiques condamnés pour racisme soient rendus inéligibles.",
-              "src": "AFP, 10 novembre 2026"
-            },
-            "soc": {
-              "type": "lecture",
-              "texte": "Le courant dénonce habituellement chez Éric Zemmour un projet contraire aux valeurs républicaines et à l'égalité des citoyens, et appelle la gauche à s'unir pour faire barrage à l'extrême droite.",
-              "src": ""
-            },
-            "eco": {
-              "type": "lecture",
-              "texte": "Le courant voit habituellement dans le discours d'Éric Zemmour sur l'immigration et le « grand remplacement » une menace pour la cohésion du pays, et défend une politique d'accueil fondée sur les droits.",
-              "src": ""
-            },
-            "ren": {
-              "type": "lecture",
-              "texte": "Le courant présente habituellement Éric Zemmour comme le candidat d'une rupture avec l'État de droit et l'Europe, et appelle les électeurs modérés à se rassembler autour d'un projet central.",
-              "src": ""
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant récuse habituellement les thèses d'Éric Zemmour sur l'identité et l'immigration au nom de l'humanisme et de l'unité nationale, et met en garde contre la radicalisation du débat.",
-              "src": ""
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant insiste habituellement sur la nécessité de maîtriser l'immigration tout en rejetant les propositions d'Éric Zemmour, jugées contraires au droit et irréalistes.",
-              "src": ""
-            },
-            "d": {
-              "type": "lecture",
-              "texte": "Le courant partage habituellement l'objectif d'une forte baisse de l'immigration mais refuse l'alliance avec Reconquête, et voit dans cette candidature un risque de dispersion des voix de droite.",
-              "src": ""
-            },
-            "dn": {
-              "type": "declare",
-              "texte": "Jordan Bardella (RN) a appelé les électeurs qui veulent que la France reste la France à voter pour Marine Le Pen, plutôt que de disperser leurs voix.",
-              "src": "AFP, 10 novembre 2026"
-            },
-            "ed": {
-              "type": "declare",
-              "texte": "Éric Zemmour (Reconquête) dit se présenter « pour conserver une France française » et reproche à Marine Le Pen de refuser l'union des droites et de ne pas combattre le « grand remplacement ».",
-              "src": "TF1, 10 novembre 2026"
-            }
-          },
-          "sources": [
-            {
-              "t": "Boursorama (AFP) – Éric Zemmour annonce sa candidature à la présidentielle pour « conserver une France française »",
-              "u": "https://www.boursorama.com/actualite-economique/actualites/eric-zemmour-annonce-sa-candidature-a-la-presidentielle-pour-conserver-une-france-francaise-e3c40be163c3d2a1e333c3363a109ca3"
-            },
-            {
-              "t": "Boursorama (Reuters) – Éric Zemmour confirme sa candidature à la présidentielle",
-              "u": "https://www.boursorama.com/actualite-economique/actualites/france-eric-zemmour-confirme-sa-candidature-a-la-presidentielle-c6e0d3f18ca4b5451746a094f938ab4c"
-            },
-            {
-              "t": "Quartz – Éric Zemmour confirme sa candidature à la présidentielle 2027",
-              "u": "https://fr.qz.com/eric-zemmour-confirme-candidature-presidentielle-2027-tf1-111026"
-            },
-            {
-              "t": "LCP – Présidentielle 2027 : la liste des candidats déclarés et potentiels",
-              "u": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932"
-            }
-          ],
-          "image": {
-            "u": "https://www.boursorama.com/static/i/content/images/5/f/d/5fdebabe38653747655f98133275a8e1-1200x800.jpg",
-            "credit": "Boursorama (AFP)",
-            "alt": "Le dirigeant du parti Reconquête! Eric Zemmour à la foire de Châlons-en-Champagne, dans la Marne, le 3 septembre 2026 ( AFP / Sameer AL-DOUMY )"
-          }
-        },
-        {
-          "id": "2026-11-11-riner-reactions",
-          "rubrique": "Présidentielle 2027",
-          "titre": "Candidature de Teddy Riner : entre accueil poli et soupçon d'une « opération » de l'Élysée",
-          "chapo": "Au lendemain de l'entrée en campagne du judoka, la classe politique s'interroge sur son positionnement « ni l'un, ni l'autre » et sur le rôle d'Emmanuel Macron, qui a salué une candidature qui « ne peut qu'apporter au pays ».",
-          "faits": [
-            "Teddy Riner, 37 ans, quintuple champion olympique, a annoncé lundi sa candidature sous le slogan « La France qu'on veut », en se voulant « le président qui réconcilie et qui fédère ».",
-            "Ses premières pistes : baisse de la dépense publique et de la dette, réduction de l'écart entre salaire brut et net, dépassement des 35 heures sans les supprimer et une réforme des retraites qui n'exclut pas « une part de capitalisation ».",
-            "Selon l'AFP et Le Parisien, l'association qui finance sa campagne est présidée par l'homme d'affaires Philippe Véran, soutien d'Emmanuel Macron en 2017 ; le chef de l'État a jugé sur France 5 que cette candidature « ne peut qu'apporter au pays ».",
-            "Selon un sondage Toluna-Harris Interactive pour L'Opinion, 10 % des Français pourraient envisager de voter pour lui ; il doit encore réunir 500 parrainages avant le 12 mars."
-          ],
-          "enjeu": "La candidature d'une personnalité très populaire mais sans expérience politique peut capter des électeurs de tous bords, en particulier dans le bloc central déjà divisé. Ses concurrents cherchent à la fois à ne pas l'attaquer de front et à le rattacher au camp présidentiel.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant voit habituellement dans les candidatures de personnalités issues de la société civile une manière de contourner les questions sociales, et oppose à ce type de profil un programme centré sur les salaires et les services publics.",
-              "src": ""
-            },
-            "gr": {
-              "type": "declare",
-              "texte": "Mathilde Panot (LFI) a balayé la question : « Ça ne nous concerne pas tellement », a-t-elle dit à propos de cette candidature.",
-              "src": "BFMTV, 10 novembre 2026"
-            },
-            "soc": {
-              "type": "declare",
-              "texte": "Patrick Kanner, président du groupe PS au Sénat, dit ne pas prendre cette candidature « à la rigolade » : « je pense qu'Emmanuel Macron est derrière ».",
-              "src": "Public Sénat, 10 novembre 2026"
-            },
-            "eco": {
-              "type": "lecture",
-              "texte": "Le courant juge habituellement que la présidentielle doit se jouer sur les projets, notamment écologiques et sociaux, plutôt que sur la notoriété, et se méfie des candidatures présentées comme au-dessus des clivages.",
-              "src": ""
-            },
-            "ren": {
-              "type": "declare",
-              "texte": "Gabriel Attal (Renaissance) a souhaité la « bienvenue » au judoka dans la course, tandis que son conseiller Patrick Vignal réfute toute manœuvre du chef de l'État.",
-              "src": "Public Sénat, 10 novembre 2026"
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant salue habituellement l'engagement de personnalités de la société civile au nom du dépassement des clivages, tout en appelant à éviter l'éparpillement des candidatures du centre.",
-              "src": ""
-            },
-            "hor": {
-              "type": "declare",
-              "texte": "Édouard Philippe (Horizons) voit en Teddy Riner « un candidat de poids » : « Est-ce qu'il me fait peur ? Non, je l'admire. » La sénatrice Laure Darcos juge qu'« on n'a pas besoin d'une candidature de plus ».",
-              "src": "BFMTV, 9 novembre, et Public Sénat, 10 novembre 2026"
-            },
-            "d": {
-              "type": "declare",
-              "texte": "Max Brisson, sénateur LR proche de Bruno Retailleau, y voit « le révélateur de la crise politique profonde de notre pays ».",
-              "src": "Public Sénat, 10 novembre 2026"
-            },
-            "dn": {
-              "type": "declare",
-              "texte": "Jordan Bardella (RN) estime que Teddy Riner « a le droit d'être candidat », quand Éric Ciotti (UDR) se demande si la démarche est « téléguidée pour soutenir le Titanic macroniste ».",
-              "src": "BFMTV et franceinfo, 10 novembre 2026"
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant voit habituellement dans les candidatures de personnalités médiatiques une diversion orchestrée par le camp présidentiel, et oppose à ce profil les questions d'immigration et d'identité.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "Public Sénat – Teddy Riner candidat : « Opération téléguidée » par l'Élysée, ou « révélateur d'une crise politique profonde » ?",
-              "u": "https://www.publicsenat.fr/actualites/politique/teddy-riner-candidat-operation-teleguidee-par-lelysee-ou-revelateur-dune-crise-politique-profonde"
-            },
-            {
-              "t": "LCP – Retraites, salaires, sécurité : que propose Teddy Riner pour la présidentielle ?",
-              "u": "https://lcp.fr/actualites/retraites-salaires-securite-que-propose-teddy-riner-pour-la-presidentielle-444935"
-            },
-            {
-              "t": "Public Sénat – Teddy Riner au défi de transformer « son capital sympathie en capital électoral »",
-              "u": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-teddy-riner-au-defi-de-transformer-son-capital-sympathie-en-capital-electoral"
-            },
-            {
-              "t": "Quartz – Les députés réagissent à la candidature de Teddy Riner",
-              "u": "https://fr.qz.com/deputes-reagissent-candidature-teddy-riner-presidentielle-111026"
-            }
-          ],
-          "image": {
-            "u": "https://www.publicsenat.fr/app/uploads/2026/11/Riner-1200x630.jpg",
-            "credit": "Public Sénat",
-            "alt": "Illustration de l'article de Public Sénat"
-          }
-        },
-        {
-          "id": "2026-11-11-plfss-senat-taxe-sucre",
-          "rubrique": "Budget",
-          "titre": "Budget de la Sécu : le Sénat vote la taxe sur les produits trop sucrés, artisans exclus, et sauve les chantiers d'insertion",
-          "chapo": "Supprimée par les députés en octobre, la taxe sur les produits sucrés a été rétablie mardi par les sénateurs, qui en ont exonéré les produits artisanaux. Ils ont aussi refusé de supprimer les exonérations de cotisations des chantiers d'insertion publics.",
-          "faits": [
-            "Les amendements de suppression de l'article 8 ont été rejetés par 274 voix contre 66 ; la taxe vise les produits industriels contenant au moins 10 g de sucre pour 100 g et un additif, ou des édulcorants de synthèse, pour environ 300 millions d'euros par an.",
-            "Selon la ministre de la Santé Stéphanie Rist, il en coûterait environ un centime de plus pour une barre chocolatée et six centimes pour un paquet de gâteaux ; les sénateurs ont exclu les produits artisanaux, ceux emballés sur le lieu de vente et les aliments à des fins médicales.",
-            "À une très large majorité, le Sénat a supprimé l'article 5, qui mettait fin aux exonérations de cotisations des chantiers d'insertion portés par des employeurs publics : plus de 200 structures et environ 9 000 salariés, pour 15 millions d'euros de recettes.",
-            "L'Assemblée ayant rejeté le texte en première lecture, les sénateurs examinent la version du gouvernement jusqu'au 17 novembre ; le vote solennel est prévu le 18 novembre, avant une commission mixte paritaire."
-          ],
-          "enjeu": "Le Sénat réécrit le budget de la Sécurité sociale à sa main avant une navette difficile avec une Assemblée sans majorité. La taxe sur le sucre oppose santé publique et pouvoir d'achat, avec un clivage qui traverse la droite et le centre.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant s'oppose habituellement aux taxes sur la consommation, jugées payées d'abord par les classes populaires, et réclame de faire contribuer les profits de l'industrie agroalimentaire.",
-              "src": ""
-            },
-            "gr": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement la taxation des produits trop sucrés au nom de la santé publique, en demandant qu'elle pèse sur les industriels plutôt que sur les consommateurs, et défend les structures d'insertion.",
-              "src": ""
-            },
-            "soc": {
-              "type": "declare",
-              "texte": "Bernard Jomier (Place publique), sénateur de Paris, a soutenu la taxe sur les produits sucrés lors du débat dans l'hémicycle.",
-              "src": "Public Sénat, 10 novembre 2026"
-            },
-            "eco": {
-              "type": "declare",
-              "texte": "Ghislaine Senée (Les Écologistes) a défendu au Sénat la suppression de l'article qui mettait fin aux exonérations des chantiers d'insertion publics.",
-              "src": "Public Sénat, 10 novembre 2026"
-            },
-            "ren": {
-              "type": "declare",
-              "texte": "Xavier Iacovelli (Renaissance) a fait exclure de la taxe les denrées alimentaires destinées à des fins médicales spéciales.",
-              "src": "Public Sénat, 10 novembre 2026"
-            },
-            "modem": {
-              "type": "declare",
-              "texte": "Cyrille Isaac-Sibille (MoDem) avait défendu la taxe sur les produits sucrés à l'Assemblée, au nom de la prévention, lorsque les députés l'avaient supprimée.",
-              "src": "Journal du Net, 23 octobre 2026"
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant se montre habituellement partagé sur ce type de taxe : favorable à la prévention en santé, il se méfie des hausses de prélèvements qui pèsent sur les entreprises et le pouvoir d'achat.",
-              "src": ""
-            },
-            "d": {
-              "type": "declare",
-              "texte": "Philippe Mouiller (LR), président de la commission des affaires sociales, s'est rallié à la taxe au vu des données de santé, tandis que Frédérique Puissat (LR) y voit surtout un moyen de « faire rentrer de l'argent ».",
-              "src": "Public Sénat, 10 novembre 2026"
-            },
-            "dn": {
-              "type": "declare",
-              "texte": "Christophe Bentz (RN) s'était opposé à la taxe à l'Assemblée, que le RN, LR et l'UDR ont fait supprimer ; au Sénat, les élus RN-UDR ont voté sa suppression.",
-              "src": "Journal du Net, 23 octobre, et Public Sénat, 10 novembre 2026"
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant rejette habituellement toute nouvelle taxe, présentée comme une atteinte au pouvoir d'achat et une ingérence dans les choix alimentaires des Français.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "Public Sénat – Une hausse de 6 centimes du paquet de gâteau : la taxe sur les produits trop sucrés votée au Sénat après exclusion des produits artisanaux",
-              "u": "https://www.publicsenat.fr/actualites/sante/une-hausse-de-6-centimes-du-paquet-de-gateau-la-taxe-sur-les-produits-trop-sucres-votee-au-senat-apres-exclusion-des-produits-artisanaux"
-            },
-            {
-              "t": "Public Sénat – Budget 2027 de la Sécurité sociale : unanime, le Sénat s'oppose à la fin des exonérations de cotisations sociales en faveur des chantiers d'insertion publics",
-              "u": "https://www.publicsenat.fr/actualites/economie/budget-2027-de-la-securite-sociale-unanime-le-senat-soppose-a-la-fin-des-exonerations-de-cotisations-sociales-en-faveur-des-chantiers-dinsertion-publics"
-            },
-            {
-              "t": "Public Sénat – Budget 2027 : les points chauds lors des débats au Sénat du 9 au 17 novembre",
-              "u": "https://www.publicsenat.fr/actualites/politique/budget-2027-les-points-chauds-lors-des-debats-au-senat-du-9-au-17-novembre"
-            },
-            {
-              "t": "Journal du Net – Les députés rejettent la taxe sur les produits sucrés proposée par le gouvernement",
-              "u": "https://www.journaldunet.com/business/action-publique/1557031-les-deputes-rejettent-la-taxe-sur-les-produits-sucres-proposee-par-le-gouvernement/"
-            }
-          ],
-          "image": {
-            "u": "https://www.publicsenat.fr/app/uploads/2026/11/SIPA_01144868_000024-1200x630.jpg",
-            "credit": "Public Sénat",
-            "alt": "Illustration de l'article de Public Sénat"
-          }
-        },
-        {
-          "id": "2026-11-11-kamel-daoud-condamne-algerie",
-          "rubrique": "International",
-          "titre": "Algérie : Kamel Daoud condamné par défaut à cinq ans de prison dans l'affaire liée à son roman « Houris »",
-          "chapo": "Le tribunal d'Oran a condamné mardi l'écrivain franco-algérien, prix Goncourt 2024, et son épouse psychiatre, à la veille des 500 jours de détention du journaliste Christophe Gleizes en Algérie.",
-          "faits": [
-            "Le tribunal correctionnel de Fellaoucène, à Oran, a condamné par défaut Kamel Daoud et son épouse, la psychiatre Aïcha Dahdouh, à cinq ans de prison ferme et 300 000 dinars d'amende chacun, et confirmé les mandats d'arrêt internationaux visant le couple ; le parquet avait requis six ans.",
-            "Ils étaient poursuivis pour divulgation du secret professionnel, soustraction d'un dossier médical et atteinte à la vie privée, sur plainte de Saâda Arbane, rescapée d'un massacre de la « décennie noire », qui affirme que son histoire a été utilisée sans son accord pour le personnage d'Aube.",
-            "Kamel Daoud dénonce « un procès sans défense ni justice » ; il avait déjà été condamné en avril à trois ans de prison en Algérie, et la plainte de Saâda Arbane contre lui et Gallimard doit être examinée à Paris le 9 décembre.",
-            "Le journaliste français Christophe Gleizes, condamné à sept ans de prison en Algérie, atteint ce mercredi 500 jours de détention ; aucune réaction officielle française au verdict n'avait été relevée mardi soir."
-          ],
-          "enjeu": "Ce jugement s'ajoute au contentieux entre Paris et Alger autour des écrivains et journalistes poursuivis en Algérie. Il pèse sur une relation bilatérale déjà fragile, où la France espère encore une grâce pour Christophe Gleizes.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement la liberté d'expression face aux régimes autoritaires, tout en se tenant à distance des débats qu'il juge instrumentalisés contre l'Algérie, et rappelle le passé colonial de la France.",
-              "src": ""
-            },
-            "gr": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement la liberté de création et appelle à une relation apaisée avec l'Algérie, en privilégiant le dialogue diplomatique à l'escalade verbale.",
-              "src": ""
-            },
-            "soc": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement la liberté d'expression des écrivains et des journalistes et demande à la diplomatie française d'agir avec fermeté et discrétion pour obtenir la libération des Français détenus en Algérie.",
-              "src": ""
-            },
-            "eco": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement la liberté de création et les droits humains, et appelle à soutenir les écrivains et journalistes poursuivis tout en évitant l'escalade entre Paris et Alger.",
-              "src": ""
-            },
-            "ren": {
-              "type": "lecture",
-              "texte": "Le courant affirme habituellement l'attachement de la France à la liberté de création et privilégie une diplomatie exigeante mais ouverte avec Alger pour obtenir des gestes, notamment sur Christophe Gleizes.",
-              "src": ""
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement la liberté d'expression et appelle à préserver un dialogue exigeant avec l'Algérie, en raison des liens humains entre les deux pays.",
-              "src": ""
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant plaide habituellement pour un rapport de force avec Alger, y compris sur les accords migratoires de 1968, afin d'obtenir le respect des libertés et la libération des Français détenus.",
-              "src": ""
-            },
-            "d": {
-              "type": "declare",
-              "texte": "Bruno Retailleau (LR) avait dénoncé la première condamnation de Kamel Daoud, « condamné à 3 ans de prison par l'Algérie pour avoir écrit la vérité », et plaide pour une ligne de fermeté envers Alger.",
-              "src": "X, 23 avril 2026"
-            },
-            "dn": {
-              "type": "lecture",
-              "texte": "Le courant réclame habituellement des mesures de rétorsion contre l'Algérie, comme la remise en cause de l'accord de 1968 et la réduction des visas, et dénonce une diplomatie française jugée trop conciliante.",
-              "src": ""
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant dénonce habituellement la politique du gouvernement algérien envers la France et réclame une rupture nette, avec la fin des accords migratoires et des aides au développement.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "Orange (AFP) – Algérie : Kamel Daoud condamné à 5 ans de prison dans l'affaire liée à son roman « Houris »",
-              "u": "https://actu.orange.fr/societe/people/algerie-kamel-daoud-condamne-a-5-ans-de-prison-dans-l-affaire-liee-a-son-roman-quot-houris-quot-CNT000002tEsey.html"
-            },
-            {
-              "t": "ActuaLitté – Houris : Kamel Daoud et son épouse condamnés à cinq ans de prison",
-              "u": "https://actualitte.com/article/135178/droit-justice/houris-kamel-daoud-et-son-epouse-condamnes-a-cinq-ans-de-prison"
-            },
-            {
-              "t": "TSA Algérie – Kamel Daoud et sa femme lourdement condamnés en Algérie",
-              "u": "https://www.tsa-algerie.com/kamel-daoud-et-sa-femme-lourdement-condamnes-en-algerie/"
-            }
-          ],
-          "image": {
-            "u": "https://proxymedia.woopic.com/api/v1/images/2275%2Factu%2Fafp-news%2Fa61c9006-04e6-4352-992e-d5fed5c5b942.jpg?format=1200x630&facedetect=1&quality=85",
-            "credit": "Orange (AFP)",
-            "alt": "Illustration de l'article de Orange (AFP)"
-          }
-        }
-      ],
-      "breves": [
-        {
-          "titre": "Le RN trouve deux banques européennes pour financer sa campagne",
-          "texte": "Le Rassemblement national a obtenu un préaccord de deux banques européennes non françaises pour un prêt d'environ 10,6 millions d'euros destiné à la campagne de Marine Le Pen, a confirmé son trésorier Kévin Pfeffer, qui attend une réponse définitive d'ici fin novembre. Aucune banque française n'avait accepté.",
-          "src": {
-            "t": "Boursorama (AFP) – Présidentielle : le RN a obtenu un préaccord de deux banques européennes pour financer sa campagne",
-            "u": "https://www.boursorama.com/actualite-economique/actualites/presidentielle-le-rn-a-obtenu-un-preaccord-de-deux-banques-europeennes-pour-financer-sa-campagne-2db3f3c031abef20ab0b1c660a3fc489"
-          }
-        },
-        {
-          "titre": "Michel Houellebecq mis en examen pour des propos sur les musulmans",
-          "texte": "Un juge d'instruction de Nanterre a mis en examen mardi l'écrivain pour complicité de provocation à la haine, à la suite d'une plainte de l'Union des mosquées de France visant un entretien publié en 2022 dans la revue Front populaire. Ses avocats contestent l'infraction et invoquent la liberté d'expression.",
-          "src": {
-            "t": "Orange (AFP) – Michel Houellebecq mis en examen pour des propos hostiles aux musulmans",
-            "u": "https://actu.orange.fr/societe/people/michel-houellebecq-mis-en-examen-pour-des-propos-hostiles-aux-musulmans-CNT000002tEpxa.html"
-          }
-        },
-        {
-          "titre": "Chômage : léger recul à 8,2 % au troisième trimestre",
-          "texte": "Selon l'Insee, le taux de chômage a baissé de 0,1 point au troisième trimestre, première baisse depuis début 2025, mais il progresse de 0,4 point sur un an. Le gouverneur de la Banque de France prévoit une croissance plutôt autour de 0,3 % en 2026. Le décret qui pénalise les branches aux minima sous le Smic est paru au Journal officiel.",
-          "src": {
-            "t": "Journal du Net – Le taux de chômage en France baisse à 8,2 % au troisième trimestre 2026",
-            "u": "https://www.journaldunet.com/business/action-publique/1557805-le-taux-de-chomage-en-france-baisse-a-8-2-au-troisieme-trimestre-2026/"
-          }
-        },
-        {
-          "titre": "Ukraine : Paris insiste, pas d'accord « sans les Européens »",
-          "texte": "Les pourparlers entre Russes, Ukrainiens et Américains se poursuivent ce mercredi à Abou Dhabi après une première journée jugée « constructive » par Volodymyr Zelensky. L'Élysée, représenté en marge par ses conseillers, prévient qu'aucun règlement durable n'est possible sans prise en compte de la sécurité européenne.",
-          "src": {
-            "t": "Boursorama (Reuters) – Ukraine : pas d'accord « sans les Européens », dit Paris",
-            "u": "https://www.boursorama.com/actualite-economique/actualites/ukraine-pas-d-accord-sans-les-europeens-dit-paris-0a56c78b68979cccd1db29f135742585"
-          }
-        }
-      ],
-      "agenda": [
-        {
-          "d": "Mer. 11 nov.",
-          "t": "Commémorations de l'Armistice de 1918 ; deuxième jour des pourparlers sur l'Ukraine à Abou Dhabi ; 500 jours de détention de Christophe Gleizes en Algérie"
-        },
-        {
-          "d": "Jeu. 12 nov.",
-          "t": "Examen du projet de loi de finances de fin de gestion 2026 à l'Assemblée ; le Sénat reprend le budget de la Sécurité sociale"
-        },
-        {
-          "d": "Ven. 13 nov.",
-          "t": "Sébastien Lecornu reçoit les syndicats de la fonction publique"
-        },
-        {
-          "d": "Sam. 14 nov.",
-          "t": "Marche des organisations lycéennes et étudiantes"
-        },
-        {
-          "d": "Lun. 16 nov.",
-          "t": "Conseil des ministres des Affaires étrangères de l'UE, avec les cyberattaques à l'ordre du jour"
-        },
-        {
-          "d": "Mar. 17 nov.",
-          "t": "Journée de grève et de manifestations à l'appel de la CGT, d'une intersyndicale de la fonction publique et des organisations de jeunesse"
-        },
-        {
-          "d": "Mer. 18 nov.",
-          "t": "Vote solennel du Sénat sur le budget de la Sécurité sociale"
-        },
-        {
-          "d": "Jeu. 19 nov.",
-          "t": "Journée réservée au PS à l'Assemblée (régularisation des travailleurs sans papiers) ; le Sénat examine la présomption de légitime défense des forces de l'ordre"
-        },
-        {
-          "d": "Ven. 20 nov.",
-          "t": "Début de l'examen du projet de loi de finances 2027 en séance au Sénat"
         }
       ]
     }
