@@ -84,7 +84,12 @@
               "t": "L'Express via Orange – Les trois infos à retenir du mardi 17 novembre",
               "u": "https://actu.orange.fr/france/les-trois-infos-a-retenir-du-mardi-17-novembre-l-express-via-6medias-CNT000002tLSDs.html"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.publicsenat.fr/app/uploads/2026/11/SIPA_01315345_000008-scaled.jpg",
+            "credit": "Public Sénat",
+            "alt": "Illustration de l'article de Public Sénat"
+          }
         },
         {
           "id": "2026-11-18-le-pen-reforme-retraites",
@@ -171,7 +176,12 @@
               "t": "Public Sénat – Reculer ou avancer l'âge légal : ce que proposent les principaux candidats sur les retraites",
               "u": "https://www.publicsenat.fr/actualites/politique/reculer-ou-avancer-lage-legal-avec-ou-sans-capitalisation-ce-que-proposent-les-principaux-candidats-a-lelection-presidentielle-sur-les-retraites"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://proxymedia.woopic.com/api/v1/images/2275%2Factu%2Fafp-news%2Fc35774c6-944c-44f2-bac0-b451c85b35e8.jpg?format=1200x630&facedetect=1&quality=85",
+            "credit": "AFP via Orange",
+            "alt": "Illustration de l'article de AFP via Orange"
+          }
         },
         {
           "id": "2026-11-18-senat-secu-prestations-etrangers",
@@ -329,7 +339,12 @@
               "t": "LCP – Présidentielle 2027 : Marc Fesneau plaide pour une primaire large de Bruno Retailleau à Raphaël Glucksmann",
               "u": "https://lcp.fr/actualites/presidentielle-2027-marc-fesneau-plaide-pour-une-primaire-large-de-bruno-retailleau-a"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.publicsenat.fr/app/uploads/2026/11/Ret-attal-scaled-e1794945422807-1200x630.jpg",
+            "credit": "Public Sénat",
+            "alt": "Illustration de l'article de Public Sénat"
+          }
         },
         {
           "id": "2026-11-18-ukraine-soldats-francais-berlin",
@@ -412,7 +427,12 @@
               "t": "France 24 – Les alliés de l'Ukraine en sommet à Berlin le 19 novembre",
               "u": "https://www.france24.com/fr/europe/20261113-en-direct-ukraine-russie-europeens-presents-prochaines-negociations-zelensky-poutine"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.publicsenat.fr/app/uploads/2026/11/SIPA_01196051_000066-scaled.jpg",
+            "credit": "Public Sénat",
+            "alt": "Illustration de l'article de Public Sénat"
+          }
         }
       ],
       "breves": [
