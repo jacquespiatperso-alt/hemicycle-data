@@ -1,6 +1,461 @@
 {
-  "updated": "2026-11-18T06:27:00+01:00",
+  "updated": "2026-11-19T06:27:00+01:00",
   "editions": [
+    {
+      "date": "2026-11-19",
+      "label": "Jeudi 19 novembre 2026",
+      "maj": "Mise à jour à 6 h 27",
+      "intro": "Contre l'avis du gouvernement, les députés ont supprimé l'interdiction de louer les passoires thermiques, et le Sénat a adopté un budget de la Sécu qui rétablit la réforme des retraites de 2023. Ce jeudi, les sénateurs examinent la présomption de légitime défense pour les policiers et gendarmes, tandis qu'un sondage Ifop place Jean-Luc Mélenchon nettement devant Édouard Philippe. À l'international, Trump, Poutine et Xi se réunissent à Shenzhen pendant que les alliés de l'Ukraine se retrouvent à Berlin.",
+      "stories": [
+        {
+          "id": "2026-11-19-loi-logement-passoires-thermiques",
+          "rubrique": "Logement",
+          "titre": "Loi logement : contre l'avis du gouvernement, les députés suppriment l'interdiction de louer les passoires thermiques",
+          "chapo": "Un amendement du RN, adopté à six voix d'écart avec l'appui de LR et d'une partie d'Horizons, efface le calendrier de la loi Climat qui sortait du marché locatif les logements classés G, F puis E. Le vote solennel sur l'ensemble du texte est prévu mardi.",
+          "faits": [
+            "Mardi 17 novembre, l'Assemblée a adopté par 108 voix contre 102 (7 abstentions) l'amendement n° 85 de Frédéric Falcon (RN), à l'article 6 du projet de loi de relance et de décentralisation du logement porté par Vincent Jeanbrun.",
+            "Le RN, l'UDR, Les Républicains et une partie du groupe Horizons ont voté pour, la gauche contre. Le ministre avait donné un avis défavorable.",
+            "La loi Climat et résilience de 2021 interdit de louer les logements classés G depuis le 1er janvier 2025, puis les F au 1er janvier 2028 et les E en 2034. Le gouvernement proposait seulement d'autoriser la remise en location des F et G sous condition de travaux, avec un délai de trois ans pour les maisons et cinq ans pour les copropriétés.",
+            "Le texte, déjà adopté par le Sénat le 8 juillet en procédure accélérée, doit être voté solennellement par les députés le mardi 24 novembre avant une commission mixte paritaire. Une seconde délibération reste possible."
+          ],
+          "enjeu": "Le vote rouvre l'arbitrage entre l'offre de logements à louer et la rénovation énergétique, que le gouvernement voulait concilier par des délais. La version finale se jouera en commission mixte paritaire, où associations et gauche demandent déjà le rétablissement des interdictions.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement les droits des locataires face aux bailleurs, réclame l'encadrement des loyers et une rénovation massive financée par l'État plutôt que par les ménages modestes.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Anaïs Belouassa-Cherifi (LFI) dénonce « un recul considérable pour tous les locataires » et accuse la majorité de l'hémicycle d'exonérer les bailleurs ; pour elle, « le logement est une question de santé publique ».",
+              "src": "LCP, 17 novembre 2026"
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement le calendrier de la loi Climat, assorti d'aides renforcées à la rénovation, et juge que les locataires modestes ne doivent pas supporter le coût des passoires thermiques.",
+              "src": ""
+            },
+            "eco": {
+              "type": "declare",
+              "texte": "Julie Laernoes (Les Écologistes) attribue au gouvernement « une lourde responsabilité » pour avoir ouvert une brèche, et promet de se battre pour empêcher ce qu'elle appelle un « recul social et climatique historique ».",
+              "src": "Actu-Environnement, 18 novembre 2026"
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "Vincent Jeanbrun, ministre de la Ville et du Logement, s'est opposé à l'amendement : il veut « redonner de la souplesse, redonner du temps » aux propriétaires tout en gardant le cap de la rénovation ; son entourage rappelle que « le Gouvernement propose, le Parlement dispose ».",
+              "src": "LCP et Actu-Environnement, 17-18 novembre 2026"
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement un assouplissement du calendrier de rénovation, avec des aides et des délais, sans renoncer à l'objectif d'un parc locatif décent sur le plan énergétique.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant plaide habituellement pour desserrer les contraintes qui retirent des logements du marché locatif ; une partie de ses députés a voté l'amendement, une autre s'en est tenue à la ligne du gouvernement.",
+              "src": ""
+            },
+            "d": {
+              "type": "lecture",
+              "texte": "Le courant réclame habituellement la fin des interdictions de louer liées au DPE, jugées responsables de la pénurie de logements, et ses députés ont voté l'amendement du RN.",
+              "src": ""
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Frédéric Falcon (RN), auteur de l'amendement, se félicite : « Nous venons de supprimer les contraintes DPE, et ce n'est pas rien ! » ; il dit vouloir mettre fin à un « véritable carnage sur le marché locatif » et espère que la mesure survivra à la CMP.",
+              "src": "LCP, 17 novembre 2026"
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant dénonce habituellement les normes environnementales imposées aux propriétaires et défend la suppression des interdictions de louer fondées sur le diagnostic énergétique.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "LCP – Logement : un amendement du RN visant à supprimer l'interdiction de louer des passoires thermiques voté à l'Assemblée",
+              "u": "https://lcp.fr/actualites/logement-un-amendement-du-rn-visant-a-supprimer-l-interdiction-de-louer-des-passoires"
+            },
+            {
+              "t": "Actu-Environnement – Loi logement : les députés suppriment l'obligation de rénovation des passoires énergétiques",
+              "u": "https://www.actu-environnement.com/ae/news/suppression-interdiction-location-passoires-thermiques-assemblee-projet-loi-relance-logement-48816.php4"
+            },
+            {
+              "t": "Planet – Passoires thermiques : les députés votent la fin de l'interdiction de louer les G, F et E, par 108 voix contre 102",
+              "u": "https://www.planet.fr/passoires-thermiques-les-deputes-votent-la-fin-de-linterdiction-de-louer-les-g-f-et-e-par-108-voix-contre-102.3000417.817020.html"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-19-budget-secu-adopte-senat",
+          "rubrique": "Budget",
+          "titre": "Budget de la Sécu : le Sénat adopte sa version, avec le retour de la réforme des retraites, avant une CMP le 26 novembre",
+          "chapo": "Après six jours de débats, les sénateurs ont voté mercredi un budget de la Sécurité sociale très remanié par la majorité de droite et du centre. Un accord avec l'Assemblée, qui avait rejeté le texte en octobre, paraît peu probable.",
+          "faits": [
+            "Le Sénat a adopté le projet de loi de financement de la Sécurité sociale pour 2027 le mercredi 18 novembre par 201 voix contre 124 et 15 abstentions. Les trois groupes de gauche et le groupe RN-UDR ont voté contre, ainsi qu'une grande partie du RDSE.",
+            "La copie sénatoriale rétablit la réforme des retraites de 2023 (âge légal porté progressivement à 64 ans et 172 trimestres), supprime la désindexation partielle des pensions et impose un an de résidence régulière aux étrangers hors UE pour la plupart des prestations familiales.",
+            "Le déficit atteint 14 milliards d'euros dans la version du Sénat, contre 12,7 milliards visés par le gouvernement et 21,8 milliards attendus en 2026.",
+            "Le Sénat a aussi décalé au 1er avril 2027 la réforme des allègements de cotisations (3,7 milliards d'euros), voté une taxe sur les produits transformés sucrés et une « taxe lapin » sur les rendez-vous médicaux non honorés. La commission mixte paritaire est convoquée le 26 novembre."
+          ],
+          "enjeu": "Faute de majorité à l'Assemblée, le gouvernement devra choisir entre un compromis, le 49.3 ou des ordonnances. Le retour de la réforme de 2023 et la condition de résidence sont des lignes rouges pour la gauche, dont dépend en partie le sort d'une éventuelle censure.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant rejette habituellement les budgets de la Sécurité sociale fondés sur les économies, réclame la retraite à 60 ans et l'égalité des droits sociaux entre Français et étrangers.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Céline Brulin (PCF) a qualifié de « cadeau empoisonné » la compensation de l'indexation des pensions par la suppression de l'abattement fiscal des retraités ; la gauche dénonce une « préférence nationale déguisée » dans la condition de résidence.",
+              "src": "Public Sénat, 17-18 novembre 2026"
+            },
+            "soc": {
+              "type": "declare",
+              "texte": "Monique Lubin (PS) a dit ne pas comprendre qu'une telle disposition sur les pensions puisse être présentée ; les sénateurs socialistes jugent l'ensemble du projet « très marqué à droite » et regrettent l'absence de dialogue avec Matignon.",
+              "src": "Public Sénat, 17-18 novembre 2026"
+            },
+            "eco": {
+              "type": "declare",
+              "texte": "Anne Souyris (Les Écologistes) a jugé injuste le financement de l'indexation des pensions par la fin de l'abattement des retraités, et son groupe a voté contre l'ensemble du texte.",
+              "src": "Public Sénat, 17 novembre 2026"
+            },
+            "ren": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement la suspension de la réforme des retraites négociée par le gouvernement Lecornu et une trajectoire de réduction du déficit, et s'oppose au retour des 64 ans voté par le Sénat.",
+              "src": ""
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement un compromis entre maîtrise des dépenses et équité, et se montre réservé sur les mesures visant spécifiquement les prestations des étrangers.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement le report de l'âge de départ et une réduction plus rapide du déficit social, tout en soutenant le gouvernement dans la recherche d'un accord.",
+              "src": ""
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Marie-Do Aeschlimann (LR), rapporteure, a justifié le retour sur le gel des pensions : « il était insupportable de laisser faire » ; Christine Lavarde (LR) y voit un « équilibre socialement plus juste ».",
+              "src": "Public Sénat, 17 novembre 2026"
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Gaëlle Frontoni (UDR) a fustigé « dix années de dérives de nos finances publiques » ; le groupe RN-UDR a voté contre l'ensemble du texte, qui rétablit la réforme des retraites de 2023.",
+              "src": "Public Sénat, 17-18 novembre 2026"
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement la priorité nationale pour les prestations sociales et la lutte contre la fraude, et critique le niveau des prélèvements obligatoires.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Public Sénat – Budget 2027 de la Sécurité sociale : les modifications à retenir après l'adoption du projet de loi au Sénat",
+              "u": "https://www.publicsenat.fr/actualites/politique/budget-2027-de-la-securite-sociale-les-modifications-a-retenir-apres-le-passage-du-projet-de-loi-au-senat"
+            },
+            {
+              "t": "Toute l'Europe – Le Sénat adopte le budget 2027 de la Sécurité sociale en première lecture",
+              "u": "https://www.touteleurope.eu/vie-politique-des-etats-membres/le-senat-adopte-le-budget-2027-de-la-securite-sociale-en-premiere-lecture/"
+            },
+            {
+              "t": "Public Sénat – Retraites : le Sénat vote l'indexation complète des pensions sur l'inflation en 2027",
+              "u": "https://publicsenat.fr/actualites/politique/retraites-le-senat-vote-lindexation-complete-des-pensions-sur-linflation-en-2027"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-19-presomption-legitime-defense-senat",
+          "rubrique": "Sécurité",
+          "titre": "Présomption de légitime défense pour les policiers et gendarmes : le Sénat examine le texte ce jeudi",
+          "chapo": "Adoptée par l'Assemblée en juillet, la proposition de loi du député LR Eric Pauget arrive au Sénat, inscrite par le gouvernement avant la niche du RN qui comptait la porter en décembre. Syndicats de police favorables, gauche et magistrats opposés.",
+          "faits": [
+            "Le texte, adopté par l'Assemblée nationale le 7 juillet 2026, modifie l'article L. 435-1 du code de la sécurité intérieure : les policiers et gendarmes qui font usage de leur arme seraient présumés avoir agi dans un cas autorisé, avec absolue nécessité et stricte proportionnalité.",
+            "Cette présomption pourrait être renversée « à tout moment » par tout élément de preuve contraire. Le texte crée aussi un nouveau cas d'usage de l'arme pour empêcher la réitération imminente d'un meurtre.",
+            "Le groupe RN-UDR du Sénat avait inscrit le texte dans sa niche du 10 décembre ; le gouvernement l'a avancé au 19 novembre lors de la conférence des présidents du 3 novembre.",
+            "L'examen intervient alors que se tient à Paris, jusqu'au 20 novembre, le procès de trois policiers poursuivis pour violences et faux dans l'affaire Michel Zecler, frappé en 2020 dans son studio."
+          ],
+          "enjeu": "La présomption inverserait en pratique la charge de la preuve lors des enquêtes sur les tirs des forces de l'ordre. Le vote dira si la majorité sénatoriale de droite et du centre adopte le texte conforme, ce qui le rendrait définitif, ou le modifie.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant dénonce habituellement les violences policières et s'oppose à tout élargissement des règles d'usage des armes par les forces de l'ordre.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Les députés LFI estiment que « le RN prend le relais de la macronie » sur ce texte, signe selon eux de leur « complicité politique » ; la gauche qualifie régulièrement la mesure de « permis de tuer ».",
+              "src": "Sud Ouest, 2-4 novembre 2026"
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant s'oppose habituellement à une présomption de légitime défense, jugeant que le cadre de 2017 suffit et que le contrôle du juge doit rester entier.",
+              "src": ""
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant s'oppose habituellement à l'extension de l'usage des armes par la police et réclame un contrôle indépendant des forces de l'ordre.",
+              "src": ""
+            },
+            "ren": {
+              "type": "lecture",
+              "texte": "Le courant met habituellement en avant la protection juridique des forces de l'ordre ; le gouvernement a choisi d'inscrire lui-même le texte à l'ordre du jour du Sénat.",
+              "src": ""
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant se montre habituellement prudent sur les présomptions en droit pénal et insiste sur l'équilibre entre protection des agents et contrôle judiciaire.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement les mesures de protection des forces de l'ordre et une réponse pénale ferme aux refus d'obtempérer.",
+              "src": ""
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Le député Eric Pauget (LR), auteur de la proposition, défend une meilleure protection juridique des policiers et gendarmes qui font usage de leur arme ; le texte a été adopté par l'Assemblée le 7 juillet.",
+              "src": "Quartz, d'après Le Monde, 18 novembre 2026"
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Edwige Diaz (RN) affirme que le gouvernement « est démasqué dans sa manœuvre » et ne voulait pas voter un texte du RN ; le groupe RN-UDR revendique une « double légitimité, parlementaire et populaire ».",
+              "src": "Sud Ouest, 4 novembre 2026"
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant réclame habituellement une présomption de légitime défense pour les forces de l'ordre et des peines plus lourdes pour les violences commises contre elles.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Quartz – Le Sénat examine la présomption d'usage légitime des armes",
+              "u": "https://fr.qz.com/senat-examine-presomption-usage-legitime-armes-policiers-111826"
+            },
+            {
+              "t": "Sud Ouest via Head Topics – Présomption de légitime défense pour les gendarmes et les policiers : le gouvernement devance le RN",
+              "u": "https://fr.headtopics.com/news/presomption-de-legitime-defense-pour-les-gendarmes-et-les-89526466"
+            },
+            {
+              "t": "Sénat – Reconnaître une présomption de légitime défense pour les forces de l'ordre",
+              "u": "https://www.senat.fr/leg/ppl25-866.html"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-19-sondage-ifop-melenchon-philippe",
+          "rubrique": "Présidentielle 2027",
+          "titre": "Sondage Ifop : Mélenchon creuse l'écart sur Philippe pour la deuxième place, Le Pen entre 32 et 36 %",
+          "chapo": "Selon la vague Ifop-Fiducial publiée mercredi, le mouvement social profite aux deux pôles. À droite et au centre, David Lisnard progresse au détriment de Bruno Retailleau, à l'heure où se négocie une primaire.",
+          "faits": [
+            "Dans ce sondage Ifop-Fiducial pour TF1, LCI, Le Figaro et Sud Radio publié le 18 novembre, Marine Le Pen (RN) obtient 32 à 36 % des intentions de vote au premier tour selon les hypothèses, en léger recul depuis octobre.",
+            "Jean-Luc Mélenchon (LFI) recueille 17 à 19,5 %, en hausse de 1 à 2 points, et devance Édouard Philippe d'au moins quatre points ; ce dernier plafonne à 15 % dans son scénario le plus favorable.",
+            "Dans une configuration testée, David Lisnard atteint 12 %, Édouard Philippe 14 % et Bruno Retailleau 7 % ; Gabriel Attal ne dépasse pas 9 % dans le meilleur des cas.",
+            "Selon l'Ifop, 47 % des électeurs d'Édouard Philippe se disent sûrs de leur choix, contre 88 % pour Marine Le Pen et 85 % pour Jean-Luc Mélenchon. L'élection est prévue le 18 avril 2027."
+          ],
+          "enjeu": "Édouard Philippe perd son principal argument, celui d'être le mieux placé pour éviter un second tour Le Pen-Mélenchon. Le sondage pèse sur les discussions d'une primaire de la droite et du centre, qu'il refuse jusqu'ici.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant accorde habituellement peu de crédit aux sondages et présente ses propres candidatures comme celles du camp des travailleurs, indépendamment de la course en tête.",
+              "src": ""
+            },
+            "gr": {
+              "type": "lecture",
+              "texte": "Le courant met habituellement en avant la dynamique de Jean-Luc Mélenchon comme preuve qu'il est le mieux placé à gauche pour accéder au second tour, et appelle les autres forces à le rejoindre.",
+              "src": ""
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant conteste habituellement l'idée que Jean-Luc Mélenchon serait le seul candidat de gauche qualifiable et défend une candidature sociale-démocrate capable de rassembler au second tour.",
+              "src": ""
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant renvoie habituellement le choix de sa stratégie présidentielle à ses adhérents, qui doivent se prononcer le 13 décembre, entre candidature propre et rassemblement.",
+              "src": ""
+            },
+            "ren": {
+              "type": "lecture",
+              "texte": "Le courant plaide habituellement pour l'unité du bloc central et met en garde contre un second tour entre extrêmes ; Gabriel Attal reste candidat à une primaire de la droite et du centre.",
+              "src": ""
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant appelle habituellement au rassemblement du centre derrière une candidature unique pour éviter un duel entre le RN et LFI.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant met habituellement en avant la capacité d'Édouard Philippe à l'emporter au second tour et refuse de se plier à une primaire.",
+              "src": ""
+            },
+            "d": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement une primaire ouverte pour départager Bruno Retailleau, David Lisnard et Gabriel Attal, et voit dans la progression de David Lisnard l'espace d'une droite affirmée.",
+              "src": ""
+            },
+            "dn": {
+              "type": "lecture",
+              "texte": "Le courant présente habituellement ses scores en tête comme le signe d'une alternance attendue et cible Jean-Luc Mélenchon comme principal adversaire.",
+              "src": ""
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant revendique habituellement une candidature propre à droite et conteste l'idée d'un vote utile en faveur du RN dès le premier tour.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "20 Minutes via Yahoo – Présidentielle 2027 : Mélenchon creuse l'écart avec Philippe et Riner à 4 % dans un nouveau sondage",
+              "u": "https://fr.news.yahoo.com/sport/pr%C3%A9sidentielle-2027-m%C3%A9lenchon-creuse-l-123445437.html"
+            },
+            {
+              "t": "L'Avenir – Présidentielle 2027 en France : Marine Le Pen atteint jusqu'à 36 % des intentions de vote dans ce sondage",
+              "u": "https://www.lavenir.net/actu/monde/2026/11/18/election-presidentielle-2027-en-france-marine-le-pen-atteint-jusqua-36-des-intentions-de-vote-dans-les-sondages-NJ6VZVVI3FCZXPWN6Z5ZE2FWME/"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-19-sommet-shenzhen-berlin-ukraine",
+          "rubrique": "International",
+          "titre": "Trump, Poutine et Xi réunis à Shenzhen, les alliés de l'Ukraine se retrouvent au même moment à Berlin",
+          "chapo": "Les trois dirigeants tiennent ce jeudi un sommet inédit en marge de l'APEC, qui fait craindre en Europe un « Yalta 2.0 ». Plus de trente dirigeants de la coalition des volontaires se réunissent à Berlin pour réaffirmer les garanties de sécurité à Kiev.",
+          "faits": [
+            "Donald Trump, Vladimir Poutine et Xi Jinping se sont retrouvés mercredi 18 novembre à Shenzhen, dans le sud de la Chine, pour le dîner de l'APEC ; leur sommet à trois est prévu jeudi vers 14 h 30 heure locale (7 h 30 à Paris). C'est la première rencontre entre Trump et Poutine depuis l'Alaska en août 2025.",
+            "L'ordre du jour reste flou : Ukraine, arsenaux nucléaires après l'expiration du traité New START en février, Iran et commerce. Donald Trump a jugé un accord sur l'Ukraine « très proche ».",
+            "À Berlin, la coalition des volontaires tient son 18e sommet de dirigeants, avec plus de trente chefs d'État et de gouvernement attendus ainsi que les émissaires américains Steve Witkoff et Jared Kushner. Berlin veut réaffirmer des garanties de sécurité juridiquement contraignantes, applicables après un cessez-le-feu.",
+            "L'Élysée fixe trois priorités : défense aérienne de l'Ukraine, garanties de sécurité avec une force multinationale, et pleine participation de l'Europe aux pourparlers de paix repris à Abou Dhabi."
+          ],
+          "enjeu": "Les Européens redoutent que l'avenir de l'Ukraine et la sécurité du continent se décident sans eux ; le chancelier Friedrich Merz a demandé à Donald Trump de « rester aux côtés de l'Europe ». En France, le débat sur l'aide à Kiev et sur la présence de militaires français en Ukraine se poursuit.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant dénonce habituellement les rivalités entre grandes puissances et la course aux armements, et s'oppose à l'envoi de troupes françaises comme à l'agression russe.",
+              "src": ""
+            },
+            "gr": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement une solution diplomatique sous l'égide de l'ONU, refuse l'escalade militaire et critique la dépendance de l'Europe envers les États-Unis.",
+              "src": ""
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement un soutien ferme à l'Ukraine, des garanties de sécurité européennes et une Europe de la défense capable de peser face à Washington, Moscou et Pékin.",
+              "src": ""
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement l'Ukraine, réclame des sanctions renforcées contre la Russie et refuse toute paix imposée au détriment des Ukrainiens.",
+              "src": ""
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "Pour le sommet de Berlin, l'Élysée fixe à Emmanuel Macron trois priorités : protéger le ciel ukrainien, bâtir des garanties de sécurité avec une force multinationale, et obtenir la pleine participation de l'Europe aux négociations de paix.",
+              "src": "Ukrinform via UA.NEWS, 18 novembre 2026"
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement l'unité européenne face aux grandes puissances et le maintien de l'aide à l'Ukraine jusqu'à une paix juste et durable.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement un effort de défense accru, le soutien militaire à l'Ukraine et une Europe autonome sur le plan stratégique.",
+              "src": ""
+            },
+            "d": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement l'Ukraine et l'effort de défense européen, tout en restant réservé sur l'envoi de soldats français sans mandat clair du Parlement.",
+              "src": ""
+            },
+            "dn": {
+              "type": "lecture",
+              "texte": "Le courant plaide habituellement pour une sortie négociée du conflit, s'oppose à l'envoi de militaires français en Ukraine et veut limiter l'aide financière à Kiev.",
+              "src": ""
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement une diplomatie fondée sur les intérêts nationaux, une paix négociée rapide et refuse tout engagement de troupes françaises en Ukraine.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Euronews – Trump and Putin shake hands ahead of high-stakes trilateral summit in China",
+              "u": "https://www.euronews.com/2026/11/18/trump-arrives-in-china-for-unprecedented-trilateral-encounter-with-xi-and-putin"
+            },
+            {
+              "t": "AFP via DH – Xi, Trump et Poutine réunis pour une réception à la veille de leur sommet inédit",
+              "u": "https://www.dhnet.be/actu/monde/2026/11/18/xi-trump-et-poutine-reunis-pour-une-reception-a-la-veille-de-leur-sommet-inedit-7XRROKEMNNC5ZCKYVCIXT4XVSQ/"
+            },
+            {
+              "t": "L'Express via Orange – Sommet entre Poutine, Trump et Xi Jinping à Shenzhen : la crainte d'un Yalta 2.0",
+              "u": "https://actu.orange.fr/monde/sommet-entre-vladimir-poutine-donald-trump-et-xi-jinping-a-shenzhen-la-crainte-d-un-yalta-2-0-l-express-CNT000002tLgmE.html"
+            },
+            {
+              "t": "Reuters via Boursorama – Réunion de la « Coalition des volontaires » prévue jeudi à Berlin",
+              "u": "https://www.boursorama.com/actualite-economique/actualites/reunion-de-la-coalition-des-volontaires-prevue-jeudi-a-berlin-7ca857b8c3fa213584784c8708ede198"
+            },
+            {
+              "t": "UA.NEWS – The Élysée Palace outlined Macron's three priorities at the Coalition of the Willing meeting in Berlin",
+              "u": "https://ua.news/en/world/eliseiskii-palats-nazvav-tri-prioriteti-makrona-na-zustrichi-koalitsiyi-okhochikh-u-berlini"
+            }
+          ]
+        }
+      ],
+      "breves": [
+        {
+          "titre": "Encadrement des loyers : course contre la montre",
+          "texte": "Les députés examinent en deuxième lecture la proposition de loi d'Iñaki Echaniz (PS) qui prolonge de deux ans, jusqu'en novembre 2028, l'encadrement des loyers dans quelque 70 communes. Faute d'un vote conforme à la version du Sénat, l'expérimentation s'arrêterait le 23 novembre.",
+          "src": {
+            "t": "Capital via Shango – Encadrement des loyers : les députés se prononcent sur une prolongation de deux ans",
+            "u": "https://www.shango.media/capital-encadrement-des-loyers-les-deputes-se-prononcent-sur-une-prolongation-de-deux-ans-12059956"
+          }
+        },
+        {
+          "titre": "Soldats français en Ukraine : audition au Sénat le 25 novembre",
+          "texte": "Alice Rüfo, ministre déléguée auprès de la ministre des Armées, sera entendue par les sénateurs mercredi prochain, après avoir confirmé la présence de militaires français en Ukraine, hors opérations de combat.",
+          "src": {
+            "t": "Public Sénat – Soldats français en Ukraine : la ministre déléguée auprès de la ministre des Armées auditionnée au Sénat le 25 novembre",
+            "u": "https://www.publicsenat.fr/actualites/politique/soldats-francais-en-ukraine-la-ministre-deleguee-aupres-de-la-ministre-des-armees-auditionnee-au-senat-le-25-novembre-prochain"
+          }
+        },
+        {
+          "titre": "Pensions : l'indexation complète votée sans voix contre",
+          "texte": "Avant le vote final, le Sénat avait supprimé par 329 voix contre 0 le gel partiel des pensions au-delà de 1 260 euros, en le compensant par la fin de l'abattement fiscal de 10 % des retraités, soit environ 4 milliards d'euros.",
+          "src": {
+            "t": "Public Sénat – Retraites : le Sénat vote l'indexation complète des pensions sur l'inflation en 2027",
+            "u": "https://publicsenat.fr/actualites/politique/retraites-le-senat-vote-lindexation-complete-des-pensions-sur-linflation-en-2027"
+          }
+        }
+      ],
+      "agenda": [
+        {
+          "d": "Jeu. 19 nov.",
+          "t": "Sommet Trump-Poutine-Xi à Shenzhen ; réunion de la coalition des volontaires pour l'Ukraine à Berlin ; examen au Sénat de la présomption de légitime défense des forces de l'ordre"
+        },
+        {
+          "d": "Ven. 20 nov.",
+          "t": "Début de l'examen du budget 2027 de l'État au Sénat ; fin du procès de l'affaire Zecler à Paris ; clôture prévue de la COP31 à Antalya"
+        },
+        {
+          "d": "Mar. 24 nov.",
+          "t": "Vote solennel de l'Assemblée sur le projet de loi logement"
+        },
+        {
+          "d": "Mer. 25 nov.",
+          "t": "Audition au Sénat d'Alice Rüfo sur la présence de militaires français en Ukraine"
+        },
+        {
+          "d": "Jeu. 26 nov.",
+          "t": "Commission mixte paritaire sur le budget de la Sécu ; niche parlementaire LR à l'Assemblée"
+        }
+      ]
+    },
     {
       "date": "2026-11-18",
       "label": "Mercredi 18 novembre 2026",
@@ -3002,428 +3457,6 @@
         {
           "d": "Mar. 17 nov.",
           "t": "Journée de mobilisation interprofessionnelle et fonction publique ; réunion des équipes Attal, Retailleau et Lisnard sur la primaire ; fin de l'examen du budget de la Sécu au Sénat"
-        },
-        {
-          "d": "Mer. 18 nov.",
-          "t": "Vote solennel du Sénat sur le budget de la Sécurité sociale"
-        },
-        {
-          "d": "Jeu. 19 nov.",
-          "t": "Réunion de la coalition des volontaires pour l'Ukraine en Allemagne"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-12",
-      "label": "Jeudi 12 novembre 2026",
-      "maj": "Mise à jour à 6 h 33",
-      "intro": "Face à la colère étudiante, Sébastien Lecornu promet 5 000 places de plus en licence, pendant qu'Édouard Geffray dénonce une « violence inouïe » dans quelques lycées. Emmanuel Macron a présidé son dernier 11-Novembre, Marine Le Pen et Jean-Luc Mélenchon livrant chacun leur lecture de la mémoire nationale. À l'Assemblée, le collectif budgétaire de fin d'année arrive en séance avec un déficit revu à 5,4 % du PIB. À l'international, les pourparlers d'Abou Dhabi sur l'Ukraine s'achèvent sur un accord d'échange de prisonniers, sans percée sur le fond.",
-      "stories": [
-        {
-          "id": "2026-11-12-lycees-licence-geffray",
-          "rubrique": "Éducation",
-          "titre": "Mouvement lycéen et étudiant : Lecornu promet 5 000 places en licence, Geffray dénonce une « violence inouïe » dans quelques lycées",
-          "chapo": "Dans un courrier aux présidents d'université, le Premier ministre annonce des moyens pour accueillir 5 000 étudiants de plus en licence. Les organisations de jeunesse, qui en réclament 250 000, maintiennent leurs appels à manifester samedi et le 17 novembre.",
-          "faits": [
-            "Dans une lettre datée du 10 novembre, dont l'AFP a eu connaissance mercredi, Sébastien Lecornu écrit que « des moyens supplémentaires » seront apportés pour ouvrir 5 000 places en licence ; aucun montant ni calendrier précis n'est donné. Il rappelle que 15 000 places ont déjà été annoncées, dont 4 000 en IUT.",
-            "Le projet de loi sur l'enseignement supérieur privé, adopté par le Sénat en juin et qui conditionne l'accès des établissements privés à Parcoursup à une validation de l'État, sera examiné à l'Assemblée la semaine du 14 décembre.",
-            "Mobilisées depuis la mi-septembre, les organisations étudiantes réclament 250 000 places ; lundi soir, elles avaient quitté la première réunion du comité Parcoursup. L'intersyndicale de la jeunesse (Union étudiante, USL, UNEF, Fage) appelle à manifester samedi puis à rejoindre la journée de mobilisation du 17 novembre.",
-            "Sur BFMTV mercredi, le ministre de l'Éducation nationale Édouard Geffray a dénoncé une « violence inouïe » dans « quelques établissements », chiffré à 245 le nombre de personnels blessés depuis la mi-septembre et regretté de ne pas voir de « condamnation massive unanime et sans ambiguïté » de ces actes, au lendemain de l'agression à Chelles d'une élue régionale visée par une bouteille d'essence.",
-            "Le SNPDEN-Unsa, premier syndicat de chefs d'établissement, appelle à un rassemblement vendredi à 15 h devant des lycées ; son secrétaire national Nicolas Bonnet assure sur RTL que les proviseurs « ont de plus en plus peur » pour eux-mêmes et leurs familles."
-          ],
-          "enjeu": "L'exécutif tente de désamorcer le mouvement par un geste sur l'accès à l'université tout en durcissant le ton sur les violences. L'écart entre 5 000 et 250 000 places laisse peu d'espoir d'apaisement avant la journée interprofessionnelle du 17 novembre.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement la mobilisation de la jeunesse, juge dérisoires les places annoncées face aux besoins, dénonce la répression des blocages et renvoie la responsabilité des tensions au gouvernement.",
-              "src": ""
-            },
-            "gr": {
-              "type": "declare",
-              "texte": "Manuel Bompard (LFI) a jugé « ridicules » les accusations du gouvernement contre son mouvement et lui impute la responsabilité de la mobilisation ; Fabien Roussel (PCF) a affirmé qu'« aucune violence n'est légitime » tout en réclamant un professeur dans chaque classe.",
-              "src": "Entrevue et AFP, 4 octobre 2026"
-            },
-            "soc": {
-              "type": "declare",
-              "texte": "Olivier Faure (PS) estime que les manifestations s'arrêteront quand le gouvernement répondra aux revendications des lycéens, et prévient que restreindre le droit de manifester mettrait en cause la démocratie.",
-              "src": "Le Grand Jury RTL-Public Sénat-M6, 25 octobre 2026"
-            },
-            "eco": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement les revendications des jeunes sur l'accès aux études et les moyens de l'université, condamne les violences tout en interrogeant le maintien de l'ordre, et réclame un dialogue réel avec les organisations de jeunesse.",
-              "src": ""
-            },
-            "ren": {
-              "type": "declare",
-              "texte": "Gabriel Attal (Renaissance) a adressé son soutien à l'élue de Chelles, qui « tentait d'empêcher qu'une poubelle soit incendiée » : « Rien ne justifie cela. Aucune cause. »",
-              "src": "X, 10 novembre 2026"
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant condamne habituellement toute violence contre les élus et les personnels, salue les gestes d'ouverture sur l'orientation et plaide pour une concertation approfondie sur Parcoursup et les capacités d'accueil.",
-              "src": ""
-            },
-            "hor": {
-              "type": "declare",
-              "texte": "Laurent Marcangeli, président du groupe Horizons à l'Assemblée, a prévenu que « c'est ceux qui cassent qui devront payer » les dégâts causés dans les établissements.",
-              "src": "Public Sénat, 6 octobre 2026"
-            },
-            "d": {
-              "type": "declare",
-              "texte": "Bruno Retailleau (LR) juge criminel d'avoir jeté « une bouteille remplie d'essence sur une élue de la République » et demande que l'État « reprenne le contrôle » ; Valérie Pécresse (LR) a annoncé que la Région Île-de-France se porterait partie civile.",
-              "src": "X et AFP, 10 novembre 2026"
-            },
-            "dn": {
-              "type": "declare",
-              "texte": "Jordan Bardella (RN) estime qu'« on n'est plus dans des revendications » ; Éric Ciotti (UDR) qualifie l'agression de Chelles d'« abomination ».",
-              "src": "BFMTV, 10 novembre 2026"
-            },
-            "ed": {
-              "type": "declare",
-              "texte": "Éric Zemmour (Reconquête) a réclamé la fin de « l'excuse de minorité » pour les jeunes auteurs de violences lors des blocages, en jugeant que « nous n'avons plus les mêmes jeunes ».",
-              "src": "CNews, 13 octobre 2026"
-            }
-          },
-          "sources": [
-            {
-              "t": "Sud Radio (AFP) – Lecornu formalise la création de 5 000 places supplémentaires en licence",
-              "u": "https://www.sudradio.fr/societe/lecornu-formalise-la-creation-de-5-000-places-supplementaires-en-licence"
-            },
-            {
-              "t": "Sud Radio (AFP) – Édouard Geffray dénonce une violence inouïe dans les lycées",
-              "u": "https://www.sudradio.fr/societe/geffray-appelle-a-la-responsabilite-collective-et-a-une-condamnation-unanime-des-violences"
-            },
-            {
-              "t": "L'essentiel (AFP) – Une violence inouïe dans quelques établissements",
-              "u": "https://www.lessentiel.lu/fr/story/crises-en-france-une-violence-inouie-dans-quelques-etablissements-103644650"
-            },
-            {
-              "t": "Watson (ATS) – France : des milliers de places seront créées dans les universités",
-              "u": "https://www.watson.ch/fr/international/france/626034111-france-des-milliers-de-places-creees-dans-les-universites"
-            },
-            {
-              "t": "Entrevue – Mobilisation lycéenne : Manuel Bompard rejette les accusations du gouvernement",
-              "u": "https://entrevue.fr/politique/mobilisation-lyceenne-manuel-bompard-rejette-les-accusations/"
-            }
-          ],
-          "image": {
-            "u": "https://www.sudradio.fr/wp-content/uploads/2026/11/5c66620ff0503623b4baa98e3682c7bb41c126a0.jpg",
-            "credit": "Sud Radio (AFP)",
-            "alt": "Illustration de l'article de Sud Radio (AFP)"
-          }
-        },
-        {
-          "id": "2026-11-12-dernier-11-novembre-macron",
-          "rubrique": "Institutions",
-          "titre": "Dernier 11-Novembre pour Emmanuel Macron, Le Pen appelle à « l'unité », Mélenchon à se souvenir de l'Histoire",
-          "chapo": "Pour la dernière fois de son mandat, le chef de l'État a présidé la commémoration de l'Armistice à l'Arc de Triomphe, puis annoncé plusieurs mesures pour le monde combattant. Les deux candidats en tête des sondages ont livré chacun leur hommage, à Hénin-Beaumont et dans la Creuse.",
-          "faits": [
-            "Accueilli par Sébastien Lecornu en bas des Champs-Élysées, Emmanuel Macron a déposé une gerbe au pied de la statue de Clemenceau, ravivé la flamme du Soldat inconnu et écouté la lecture des noms de cinq militaires morts en service en 2026, au Levant, en Irak et au Liban ; Nicolas Sarkozy et Jean-Pierre Raffarin étaient présents.",
-            "Plus tôt, un hommage a été rendu aux étudiants et lycéens qui avaient manifesté contre l'occupant le 11 novembre 1940 sur les Champs-Élysées.",
-            "Lors d'un déjeuner à l'Élysée avec le monde combattant, le Président a jugé que « l'esprit du 11 novembre est le plus puissant des antidotes contre l'esprit de défaite » et annoncé, à l'issue des Assises du monde combattant, un « Conseil du monde combattant » en janvier 2027, une future Fondation du Bleuet de France et un nouveau plan pour les blessés.",
-            "À Hénin-Beaumont, Marine Le Pen a appelé à « la lucidité, la volonté et l'unité » ; à Gentioux-Pigerolles (Creuse), devant le monument pacifiste « Maudite soit la guerre », Jean-Luc Mélenchon a lancé « À bas la guerre ! ».",
-            "Des syndicats enseignants contestent l'instauration d'une cérémonie annuelle du 11-Novembre dans les écoles, y voyant une « militarisation » de l'école."
-          ],
-          "enjeu": "À cinq mois de la présidentielle, la mémoire de la Grande Guerre devient un terrain de campagne, entre appel à l'unité nationale, pacifisme et place de l'armée dans la société. Le chef de l'État cherche à inscrire durablement ses réformes du monde combattant avant la fin de son mandat.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant célèbre habituellement le 11-Novembre sous l'angle pacifiste et internationaliste, rend hommage aux fusillés pour l'exemple et dénonce la hausse des budgets militaires et la place de l'armée à l'école.",
-              "src": ""
-            },
-            "gr": {
-              "type": "declare",
-              "texte": "Jean-Luc Mélenchon (LFI), dans la Creuse, a lancé « À bas la guerre ! Nous ne la ferons pas, nous ne la préparerons pas ! » et estimé que « c'est notre mission, à nous les Insoumis, de porter l'Histoire ».",
-              "src": "Euronews et AFP, 11 novembre 2026"
-            },
-            "soc": {
-              "type": "lecture",
-              "texte": "Le courant associe habituellement l'hommage aux morts de 14-18 à la défense de la paix et de la construction européenne, et soutient l'enseignement de la mémoire à l'école sans en faire un instrument politique.",
-              "src": ""
-            },
-            "eco": {
-              "type": "lecture",
-              "texte": "Le courant inscrit habituellement le 11-Novembre dans une mémoire pacifiste, attentive aux fusillés pour l'exemple, et se montre réservé sur la présence militaire dans les cérémonies scolaires.",
-              "src": ""
-            },
-            "ren": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement la politique mémorielle d'Emmanuel Macron, la reconnaissance du monde combattant et le lien entre la mémoire de 14-18, la défense européenne et la cohésion nationale.",
-              "src": ""
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant met habituellement en avant, le 11-Novembre, la réconciliation franco-allemande et la construction européenne comme héritage de la Grande Guerre.",
-              "src": ""
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant insiste habituellement sur le lien armée-nation, la reconnaissance des militaires morts en opération et le renforcement de l'effort de défense.",
-              "src": ""
-            },
-            "d": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement une mémoire patriotique, l'hommage aux soldats morts pour la France et la transmission de l'histoire nationale à l'école.",
-              "src": ""
-            },
-            "dn": {
-              "type": "declare",
-              "texte": "Marine Le Pen (RN), à Hénin-Beaumont, s'est engagée à préserver « la souveraineté, la liberté et l'amour de notre Patrie » et a jugé qu'on ne construit pas la paix ni le sentiment d'appartenance nationale « sur l'oubli ».",
-              "src": "Euronews et AFP, 11 novembre 2026"
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant célèbre habituellement le 11-Novembre comme une victoire nationale, exalte le sacrifice des poilus et dénonce ce qu'il présente comme une repentance mémorielle.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "Euronews – 11-Novembre : entre mémoire nationale et pacifisme, les hommages de Macron, Le Pen et Mélenchon",
-              "u": "https://fr.euronews.com/2026/11/11/11-novembre-entre-memoire-nationale-et-pacifisme-les-hommages-de-macron-le-pen-et-melencho"
-            },
-            {
-              "t": "Imaz Press (AFP) – Dernier 11-Novembre pour Macron, Le Pen appelle à « l'unité », Mélenchon à se souvenir de l'Histoire",
-              "u": "https://imazpress.com/france-monde/dernier-11-novembre-pour-macron-le-pen-appelle-a-l-unite-melenchon-a-se-souvenir-de-l-histoire"
-            },
-            {
-              "t": "Élysée – Cérémonie de commémoration du 108e anniversaire de l'Armistice du 11 novembre 1918",
-              "u": "https://www.elysee.fr/emmanuel-macron/2026/11/11/ceremonie-de-commemoration-du-108e-anniversaire-de-larmistice-du-11-novembre-1918"
-            },
-            {
-              "t": "Ministère des Armées – Programme du 11 novembre 2026",
-              "u": "https://www.defense.gouv.fr/actualites/programme-du-11-novembre-2026-hommage-aux-etudiants-1940-ravivage-flamme"
-            }
-          ],
-          "image": {
-            "u": "https://images.euronews.com/articles/stories/09/98/85/71/1200x675_cmsv2_7e7ce9d2-09d9-5449-8008-b68097a8c694-9988571.jpg",
-            "credit": "Euronews",
-            "alt": "11-Novembre : entre mémoire nationale et pacifisme, les hommages de Macron, Le Pen et Mélenchon"
-          }
-        },
-        {
-          "id": "2026-11-12-plfg-2026-assemblee",
-          "rubrique": "Budget",
-          "titre": "Collectif budgétaire de fin d'année : le texte arrive à l'Assemblée avec un déficit 2026 revu à 5,4 %, après un rejet en commission",
-          "chapo": "Les députés examinent ce jeudi le projet de loi de finances de fin de gestion, qui ajuste les crédits de l'État pour 2026. La commission des finances l'a rejeté, après avoir supprimé deux articles à l'initiative de LFI et du RN.",
-          "faits": [
-            "Présenté le 4 novembre par Roland Lescure et David Amiel, le texte prévoit un déficit public de 5,4 % du PIB en 2026, soit 166 milliards d'euros, contre 5 % dans la loi de finances initiale ; la croissance reste prévue à 0,5 %, un scénario que le Haut Conseil des finances publiques juge « difficilement atteignable ».",
-            "Il ouvre 7,18 milliards d'euros de crédits de paiement, dont 3,5 milliards pour la charge de la dette, notamment pour les aides au logement et l'hébergement d'urgence, l'allocation aux adultes handicapés et le repas à 1 euro dans les Crous, et en annule 3,85 milliards, surtout dans la réserve de précaution, dont 1,2 milliard sur les énergies renouvelables.",
-            "Les dotations d'investissement des collectivités reculent de 206 millions d'euros en autorisations d'engagement ; le texte réduit aussi de 739 millions la part de TVA affectée à la Sécurité sociale.",
-            "En commission, deux amendements de suppression déposés par la députée Bentorki (LFI) et Jean-Philippe Tanguy (RN) ont été adoptés, puis le projet a été rejeté ; 118 amendements sont déposés pour la séance, le texte étant examiné en procédure accélérée."
-          ],
-          "enjeu": "Ce texte technique acte le dérapage du déficit 2026 au moment où l'Assemblée débat du budget 2027. Un rejet en séance n'empêcherait pas sa transmission au Sénat, mais affaiblirait encore la crédibilité de la trajectoire budgétaire du gouvernement.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant dénonce habituellement les annulations de crédits sur les dépenses sociales et écologiques et l'augmentation de la charge de la dette, qu'il présente comme un transfert vers les créanciers.",
-              "src": ""
-            },
-            "gr": {
-              "type": "declare",
-              "texte": "La députée Bentorki (LFI) a fait adopter en commission un amendement de suppression d'un article du texte, avant que la commission rejette l'ensemble du projet de loi.",
-              "src": "Rapport de la commission des finances, 9 novembre 2026"
-            },
-            "soc": {
-              "type": "lecture",
-              "texte": "Le courant critique habituellement les gels et annulations de crédits en cours d'année, notamment sur la transition écologique et l'investissement local, et réclame des recettes nouvelles sur les plus hauts revenus.",
-              "src": ""
-            },
-            "eco": {
-              "type": "lecture",
-              "texte": "Le courant s'oppose habituellement aux coupes dans les crédits des énergies renouvelables et de France 2030, jugées contraires aux engagements climatiques de la France.",
-              "src": ""
-            },
-            "ren": {
-              "type": "declare",
-              "texte": "Roland Lescure (Renaissance), ministre de l'Économie, a présenté le texte en évoquant une « année difficile » pour les finances publiques et un effort de maîtrise des dépenses de l'État.",
-              "src": "LCP, 10 novembre 2026"
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement le sérieux budgétaire et la sincérité des comptes, tout en mettant en garde contre des coupes qui pénaliseraient l'investissement des collectivités.",
-              "src": ""
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant réclame habituellement une baisse plus franche des dépenses publiques et alerte sur la dérive du déficit et de la charge de la dette.",
-              "src": ""
-            },
-            "d": {
-              "type": "lecture",
-              "texte": "Le courant dénonce habituellement le dérapage du déficit et réclame des économies structurelles, tout en défendant les dotations des collectivités locales, chères au Sénat.",
-              "src": ""
-            },
-            "dn": {
-              "type": "declare",
-              "texte": "Jean-Philippe Tanguy (RN) a fait adopter en commission un amendement de suppression d'un article du texte, avant que la commission rejette le projet de loi.",
-              "src": "Rapport de la commission des finances, 9 novembre 2026"
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant dénonce habituellement la dérive des comptes publics et réclame des économies sur l'immigration, l'aide au développement et la contribution française à l'Union européenne.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "LCP – Projet de loi de finances de fin de gestion : c'est quoi, ce texte examiné à l'Assemblée cette semaine ?",
-              "u": "https://lcp.fr/actualites/projet-de-loi-de-finances-de-fin-de-gestion-c-est-quoi-ce-texte-examine-a-l-assemblee"
-            },
-            {
-              "t": "Banque des Territoires – Budget 2026 : le projet de loi de « fin de gestion » réduit les dotations à l'investissement local",
-              "u": "https://www.banquedesterritoires.fr/budget-2026-le-projet-de-loi-de-fin-de-gestion-reduit-les-dotations-linvestissement-local"
-            },
-            {
-              "t": "Assemblée nationale – Rapport n° 3443 sur le projet de loi de finances de fin de gestion pour 2026",
-              "u": "https://www.assemblee-nationale.fr/dyn/opendata/RAPPANR5L17B3443.html"
-            },
-            {
-              "t": "Assemblée nationale – Dossier législatif du projet de loi de finances de fin de gestion pour 2026",
-              "u": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N55223"
-            }
-          ],
-          "image": {
-            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2026-10/bercy.png?itok=hu_-uxrg",
-            "credit": "LCP",
-            "alt": "Illustration de l'article de LCP"
-          }
-        },
-        {
-          "id": "2026-11-12-ukraine-abou-dhabi-fin",
-          "rubrique": "International",
-          "titre": "Ukraine : les pourparlers d'Abou Dhabi s'achèvent sur un grand échange de prisonniers, les émissaires américains attendus à Moscou",
-          "chapo": "Russes, Ukrainiens et Américains se sont quittés mercredi sans percée sur les territoires, mais avec un accord de principe sur un échange « à grande échelle ». Steve Witkoff et Jared Kushner doivent rencontrer Vladimir Poutine ce jeudi.",
-          "faits": [
-            "La séance de mercredi a duré environ deux heures ; le négociateur ukrainien Roustem Oumerov et le Russe Vladimir Medinski ont annoncé un accord sur un échange de prisonniers à grande échelle, sans date ni chiffre officiels ; la veille, Volodymyr Zelensky évoquait un format de 1 000 ou 1 500 prisonniers de chaque côté.",
-            "Jared Kushner a parlé d'une « étape positive » et annoncé que la délégation américaine se rendrait à Moscou jeudi pour rencontrer Vladimir Poutine ; la question des territoires reste le principal point de blocage.",
-            "Les conseillers diplomatiques français, allemand, britannique et italien, dont Emmanuel Bonne pour l'Élysée, ainsi que des responsables de l'UE et de l'Otan, ont rencontré séparément Ukrainiens et Américains ; la place des Européens à la table doit être tranchée d'ici fin novembre, possiblement lors de la réunion de la coalition des volontaires le 19 novembre.",
-            "Dans la nuit de mardi à mercredi, l'armée de l'air ukrainienne a recensé 163 drones et plusieurs missiles russes, qui ont touché six grandes sous-stations électriques ; à Tchornomorsk, près d'Odessa, une frappe sur un marché a fait au moins quatre morts selon le gouverneur régional."
-          ],
-          "enjeu": "Le processus mené par Washington avance sur l'humanitaire mais bute toujours sur le Donbass et les garanties de sécurité. Pour Paris, l'enjeu est d'obtenir que les Européens siègent à la table avant qu'un accord ne se dessine entre Américains et Russes.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant dénonce habituellement à la fois l'invasion russe et les ambitions des puissances occidentales, rejette l'envoi d'armes et défend une paix décidée par les peuples plutôt que par les grandes puissances.",
-              "src": ""
-            },
-            "gr": {
-              "type": "declare",
-              "texte": "Jean-Luc Mélenchon (LFI) a affirmé à l'occasion du 11-Novembre qu'« il faut que la Russie évacue l'Ukraine où elle n'a rien à faire », après avoir plaidé au Bourget pour consulter les populations du Donbass.",
-              "src": "AFP, 11 novembre 2026"
-            },
-            "soc": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement l'Ukraine sans réserve, défend une défense européenne commune et refuse tout accord imposé à Kiev par Washington et Moscou.",
-              "src": ""
-            },
-            "eco": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement l'Ukraine et le renforcement des sanctions contre la Russie, et réclame que l'Union européenne siège à la table de toute négociation sur la sécurité du continent.",
-              "src": ""
-            },
-            "ren": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement la ligne d'Emmanuel Macron : soutien à l'Ukraine, garanties de sécurité solides et présence des Européens dans toute négociation qui engage leur sécurité.",
-              "src": ""
-            },
-            "modem": {
-              "type": "declare",
-              "texte": "Jean-Noël Barrot (MoDem), ministre des Affaires étrangères, avait assuré que « les Européens seront bien représentés et la France sera à Abu Dhabi », en insistant sur le format E3 aux côtés de l'Union.",
-              "src": "Grand Jury RTL-Public Sénat, 8 novembre 2026"
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement l'Ukraine et l'effort de défense européen, et met en garde contre une paix qui récompenserait l'agression russe.",
-              "src": ""
-            },
-            "d": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement l'Ukraine et la fermeté face à Moscou, tout en appelant à une défense européenne fondée sur les nations et à un réalisme sur l'issue du conflit.",
-              "src": ""
-            },
-            "dn": {
-              "type": "lecture",
-              "texte": "Le courant appelle habituellement à un cessez-le-feu rapide et à une solution négociée, se montre réservé sur les livraisons d'armes et refuse l'envoi de troupes françaises.",
-              "src": ""
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant plaide habituellement pour une paix négociée au plus vite, critique le soutien militaire à Kiev et met en avant les intérêts propres de la France face aux engagements européens.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "ABC News – Russia-Ukraine talks end without breakthrough announcement amid barrage of drones",
-              "u": "https://abcnews.com/International/ukraine-russia-exchange-hundreds-drones-day-2-abu/story?id=138038984"
-            },
-            {
-              "t": "Kyiv Independent – Large-scale prisoner exchange agreed as 2nd day of Abu Dhabi talks concludes, Umerov says",
-              "u": "https://kyivindependent.com/ukraine-war-latest-large-scale-prisoner-exchange-agreed-as-2nd-day-of-abu-dhabi-talks-concludes-umerov-says/"
-            },
-            {
-              "t": "Kyiv Post – Ukraine, US and Russia end second day of Abu Dhabi peace talks as key territorial disputes remain",
-              "u": "https://www.kyivpost.com/post/89761"
-            },
-            {
-              "t": "Imaz Press (AFP) – Dernier 11-Novembre pour Macron, Le Pen appelle à « l'unité », Mélenchon à se souvenir de l'Histoire",
-              "u": "https://imazpress.com/france-monde/dernier-11-novembre-pour-macron-le-pen-appelle-a-l-unite-melenchon-a-se-souvenir-de-l-histoire"
-            }
-          ],
-          "image": {
-            "u": "https://i.abcnewsfe.com/a/b287da27-23c9-41c0-b231-1ce4ec0e611b/Ukraine-drone-DB-261111_1794393065641_hpMain_16x9.jpg?w=1600",
-            "credit": "ABC News",
-            "alt": "Illustration de l'article de ABC News"
-          }
-        }
-      ],
-      "breves": [
-        {
-          "titre": "Gaz : le prix repère augmente de 5,8 % au 1er décembre",
-          "texte": "La Commission de régulation de l'énergie a annoncé lundi une hausse moyenne de 5,8 % du prix repère du gaz, à 206,26 euros le MWh, soit environ 16 euros de plus sur la facture de décembre pour les ménages au contrat indexé. C'est la quatrième hausse mensuelle d'affilée, liée à la flambée des cours de gros ; la présidente de la CRE, Emmanuelle Wargon, rappelle que la France importe l'essentiel de son gaz.",
-          "src": {
-            "t": "Orange (L'Express) – Prix du gaz : une hausse de 5,8 % en décembre, jusqu'à 16 euros de plus sur la facture",
-            "u": "https://actu.orange.fr/france/prix-du-gaz-une-hausse-de-5-8-en-decembre-jusqu-a-16-euros-de-plus-sur-la-facture-l-express-via-6medias-CNT000002tDhTc.html"
-          }
-        },
-        {
-          "titre": "Les chefs d'établissement se rassemblent vendredi",
-          "texte": "Le SNPDEN-Unsa appelle les personnels de direction à se rassembler vendredi 13 novembre à 15 h devant des établissements, pour dénoncer les violences en marge des blocages. Son secrétaire national Nicolas Bonnet réclame aussi « une réponse politique d'ampleur » aux revendications des lycéens, qu'il juge « légitimes ».",
-          "src": {
-            "t": "Sud Radio (AFP) – Édouard Geffray dénonce une violence inouïe dans les lycées",
-            "u": "https://www.sudradio.fr/societe/geffray-appelle-a-la-responsabilite-collective-et-a-une-condamnation-unanime-des-violences"
-          }
-        },
-        {
-          "titre": "Ukraine : frappes massives sur le réseau électrique",
-          "texte": "Dans la nuit de mardi à mercredi, six grandes sous-stations ont été touchées dans quatre régions, provoquant des coupures dans huit oblasts selon l'opérateur Ukrenergo. De son côté, le ministère russe de la Défense affirme avoir abattu 627 drones ukrainiens la même nuit.",
-          "src": {
-            "t": "Kyiv Independent – Large-scale prisoner exchange agreed as 2nd day of Abu Dhabi talks concludes",
-            "u": "https://kyivindependent.com/ukraine-war-latest-large-scale-prisoner-exchange-agreed-as-2nd-day-of-abu-dhabi-talks-concludes-umerov-says/"
-          }
-        }
-      ],
-      "agenda": [
-        {
-          "d": "Jeu. 12 nov.",
-          "t": "Projet de loi de finances de fin de gestion 2026 en séance à l'Assemblée ; le Sénat poursuit le budget de la Sécurité sociale ; émissaires américains attendus à Moscou"
-        },
-        {
-          "d": "Ven. 13 nov.",
-          "t": "Rassemblement des chefs d'établissement à 15 h ; Sébastien Lecornu reçoit les syndicats de la fonction publique"
-        },
-        {
-          "d": "Sam. 14 nov.",
-          "t": "Marche des organisations lycéennes et étudiantes"
-        },
-        {
-          "d": "Lun. 16 nov.",
-          "t": "Conseil des ministres des Affaires étrangères de l'UE"
-        },
-        {
-          "d": "Mar. 17 nov.",
-          "t": "Journée de mobilisation interprofessionnelle et fonction publique ; fin de l'examen du budget de la Sécu au Sénat"
         },
         {
           "d": "Mer. 18 nov.",
