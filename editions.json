@@ -84,7 +84,12 @@
               "t": "Planet – Passoires thermiques : les députés votent la fin de l'interdiction de louer les G, F et E, par 108 voix contre 102",
               "u": "https://www.planet.fr/passoires-thermiques-les-deputes-votent-la-fin-de-linterdiction-de-louer-les-g-f-et-e-par-108-voix-contre-102.3000417.817020.html"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2026-11/Fr%C3%A9d%C3%A9ric%20Falcon.jpg?itok=1RksXpfI",
+            "credit": "LCP",
+            "alt": "Illustration de l'article de LCP"
+          }
         },
         {
           "id": "2026-11-19-budget-secu-adopte-senat",
@@ -163,7 +168,12 @@
               "t": "Public Sénat – Retraites : le Sénat vote l'indexation complète des pensions sur l'inflation en 2027",
               "u": "https://publicsenat.fr/actualites/politique/retraites-le-senat-vote-lindexation-complete-des-pensions-sur-linflation-en-2027"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.publicsenat.fr/app/uploads/2026/11/SIPA_01311091_000065-1200x630.jpg",
+            "credit": "Public Sénat",
+            "alt": "Illustration de l'article de Public Sénat"
+          }
         },
         {
           "id": "2026-11-19-presomption-legitime-defense-senat",
@@ -242,7 +252,12 @@
               "t": "Sénat – Reconnaître une présomption de légitime défense pour les forces de l'ordre",
               "u": "https://www.senat.fr/leg/ppl25-866.html"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://i.headtopics.com/images/2026/11/4/sudouest/presomption-de-legitime-defense-pour-les-gendarmes-presomption-de-legitime-defense-pour-les-gendarmes-BA1FD1EACB195D4BD598EDA35F309BD8-16x9.webp",
+            "credit": "Sud Ouest via Head Topics",
+            "alt": "Présomption de légitime défense pour les gendarmes et les policiers : le gouvernement devance le RN, le texte examiné dès le 19 novembre au Sénat"
+          }
         },
         {
           "id": "2026-11-19-sondage-ifop-melenchon-philippe",
@@ -317,7 +332,12 @@
               "t": "L'Avenir – Présidentielle 2027 en France : Marine Le Pen atteint jusqu'à 36 % des intentions de vote dans ce sondage",
               "u": "https://www.lavenir.net/actu/monde/2026/11/18/election-presidentielle-2027-en-france-marine-le-pen-atteint-jusqua-36-des-intentions-de-vote-dans-les-sondages-NJ6VZVVI3FCZXPWN6Z5ZE2FWME/"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://s.yimg.com/lo/mysterio/api/9b320578affa0f2351acfe2c5888d7af3241f6e288e79108a120677ed4a4fd90/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Ffr%2F20minutes.fr%2F9c2392f15dcd78a6ac6cbe3976527938.jpg",
+            "credit": "20 Minutes via Yahoo",
+            "alt": "Illustration de l'article de 20 Minutes via Yahoo"
+          }
         },
         {
           "id": "2026-11-19-sommet-shenzhen-berlin-ukraine",
@@ -404,7 +424,12 @@
               "t": "UA.NEWS – The Élysée Palace outlined Macron's three priorities at the Coalition of the Willing meeting in Berlin",
               "u": "https://ua.news/en/world/eliseiskii-palats-nazvav-tri-prioriteti-makrona-na-zustrichi-koalitsiyi-okhochikh-u-berlini"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://images.euronews.com/articles/stories/09/99/75/97/1200x675_cmsv2_8f446056-29dd-51f3-ae8a-c2fe8da78523-9997597.jpg",
+            "credit": "Euronews",
+            "alt": "Trump and Putin shake hands ahead of high-stakes trilateral summit in China"
+          }
         }
       ],
       "breves": [
