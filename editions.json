@@ -84,7 +84,12 @@
               "t": "Parlons Politique – Après un tir policier, qui doit prouver que l'usage de l'arme était légal ? Le Sénat face à un choix décisif",
               "u": "https://www.parlons-politique.fr/actualite-nationale/apres-un-tir-policier-qui-doit-prouver-que-lusage-de-larme-etait-legal-le-senat-face-a-un-choix-decisif_31545/"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.parlons-politique.fr/wp-content/uploads/2026/11/senateurs-entree-palais.webp",
+            "credit": "Parlons Politique",
+            "alt": "Illustration de l'article de Parlons Politique"
+          }
         },
         {
           "id": "2026-11-20-niche-ps-loyers-tzcld",
@@ -163,7 +168,12 @@
               "t": "LCP – Lutte contre la vie chère en Outre-mer : le texte présenté par les députés socialistes définitivement adopté",
               "u": "https://lcp.fr/actualites/lutte-contre-la-vie-chere-en-outre-mer-le-texte-presente-par-les-deputes-socialistes"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2026-11/I%C3%B1aki%20Echaniz.jpg?itok=RtzaW7ht",
+            "credit": "LCP",
+            "alt": "Illustration de l'article de LCP"
+          }
         },
         {
           "id": "2026-11-20-budget-etat-senat",
@@ -246,7 +256,12 @@
               "t": "Sénat – Projet de loi de finances pour 2027 : la loi en clair",
               "u": "https://www.senat.fr/travaux-parlementaires/textes-legislatifs/la-loi-en-clair/projet-de-loi-de-finances-pour-2027.html"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.publicsenat.fr/app/uploads/2026/11/SIPA_01241650_000021-1200x630.jpg",
+            "credit": "Public Sénat",
+            "alt": "Illustration de l'article de Public Sénat"
+          }
         },
         {
           "id": "2026-11-20-cybersecurite-lecornu",
@@ -321,7 +336,12 @@
               "t": "Quartz – Lecornu annonce un plan de renforcement de la cybersécurité",
               "u": "https://fr.qz.com/lecornu-annonce-plan-renforcement-cybersecurite-etat-111926"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.economiematin.fr/wp-content/uploads/2026/02/caf-piratage-donnees.jpg",
+            "credit": "Économie Matin",
+            "alt": "fuite CAF"
+          }
         },
         {
           "id": "2026-11-20-shenzhen-berlin-ukraine",
@@ -404,7 +424,12 @@
               "t": "Euronews – Marine Le Pen : « La France continuerait à soutenir l'Ukraine », mais pas financièrement",
               "u": "https://fr.euronews.com/2026/11/16/marine-le-pen-la-france-continuerait-a-soutenir-lukraine-mais-pas-financierement"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://images.euronews.com/articles/stories/09/99/89/11/1200x675_cmsv2_0f4caaa5-809a-5e25-bde5-e81782758de6-9998911.jpg",
+            "credit": "Euronews",
+            "alt": "Trilateral summit ends with 'peace declaration' but no mention of Ukraine and Iran"
+          }
         },
         {
           "id": "2026-11-20-cop31-fossiles",
@@ -483,7 +508,12 @@
               "t": "Bourse Direct (AFP) – COP31 sur le climat : les énergies fossiles disparaissent du projet de décision finale",
               "u": "https://www.boursedirect.fr/fr/actualites/categorie/economie/cop31-sur-le-climat-la-reference-aux-energies-fossiles-disparait-dans-le-projet-de-decision-finale-afp-476c4c9f6ad0d6663e274a14afad20ea4e7955b9"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.lalibre.be/resizer/v2/ODKLKJBY5JHBZGGEX5JO7VIOG4.png?auth=99992c0249edfd0f59ed7caae24c0f483574cfcaa1b362acfcac9717c690a301&width=1200&height=630&quality=85&smart=true",
+            "credit": "La Libre (AFP)",
+            "alt": "Illustration de l'article de La Libre (AFP)"
+          }
         }
       ],
       "breves": [
