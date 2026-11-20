@@ -1,6 +1,532 @@
 {
-  "updated": "2026-11-19T06:27:00+01:00",
+  "updated": "2026-11-20T06:32:00+01:00",
   "editions": [
+    {
+      "date": "2026-11-20",
+      "label": "Vendredi 20 novembre 2026",
+      "maj": "Mise à jour à 6 h 32",
+      "intro": "Faute de temps, le Sénat n'a pas pu voter jeudi la présomption d'usage légitime de l'arme pour les policiers et gendarmes : le débat reprend ce vendredi, jour où les sénateurs ouvrent aussi l'examen du budget de l'État. À l'Assemblée, la niche socialiste a prolongé de deux ans l'encadrement des loyers et pérennisé Territoires zéro chômeur, tandis que Sébastien Lecornu durcit la cybersécurité de l'État. À l'international, le sommet Trump-Poutine-Xi de Shenzhen s'achève sans un mot sur l'Ukraine, et la COP31 bute sur les énergies fossiles.",
+      "stories": [
+        {
+          "id": "2026-11-20-usage-armes-senat-report",
+          "rubrique": "Sécurité",
+          "titre": "Usage des armes par les policiers : faute de temps, le Sénat reporte à ce vendredi le vote sur la présomption",
+          "chapo": "Soutenu par le gouvernement et la majorité sénatoriale, le texte n'a pas pu être mis aux voix jeudi soir avant l'heure limite. Le ministre de l'Intérieur et le RN accusent la gauche d'obstruction ; l'examen reprend ce vendredi en fin d'après-midi.",
+          "faits": [
+            "Le Sénat n'a pas pu voter jeudi 19 novembre la proposition de loi du député Éric Pauget (LR), adoptée par l'Assemblée le 7 juillet par 313 voix contre 199. L'examen reprend ce vendredi 20 novembre en fin d'après-midi, avec 76 amendements restant à étudier, selon l'AFP.",
+            "Réécrit par le gouvernement, le texte prévoit que les policiers et gendarmes qui font usage de leur arme « sont présumés avoir agi » dans le cadre légal. Cette présomption peut être renversée par tout élément contraire et ne supprime pas les conditions d'absolue nécessité et de stricte proportionnalité.",
+            "La commission des lois l'a adopté sans modification le 10 novembre : un vote conforme en séance vaudrait adoption définitive par le Parlement.",
+            "Le ministre de l'Intérieur, Laurent Nuñez, assure que la présomption « lèvera simplement l'automaticité de la garde à vue » des agents. Amnesty International France, la LDH, la CGT, la CFDT et le Syndicat de la magistrature s'y opposent."
+          ],
+          "enjeu": "Une adoption conforme ce vendredi clôturerait le parcours parlementaire d'un texte réclamé de longue date par les syndicats de police. La gauche, qui juge la mesure dangereuse, prépare déjà une saisine du Conseil constitutionnel.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant dénonce habituellement les violences policières et ce qu'il considère comme l'impunité des forces de l'ordre, et s'oppose à toute mesure qui renforcerait leur protection juridique.",
+              "src": ""
+            },
+            "gr": {
+              "type": "lecture",
+              "texte": "Le courant s'oppose habituellement à tout élargissement de l'usage des armes par la police, réclame l'abrogation de la loi de 2017 sur les refus d'obtempérer et un contrôle indépendant des forces de l'ordre.",
+              "src": ""
+            },
+            "soc": {
+              "type": "declare",
+              "texte": "Patrick Kanner (PS), président du groupe socialiste au Sénat, dénonce une « course à l'échalote entre l'extrême droite, la droite et le gouvernement » et promet de saisir le Conseil constitutionnel si le texte est adopté.",
+              "src": "AFP via Sud Radio, 19 novembre 2026"
+            },
+            "eco": {
+              "type": "declare",
+              "texte": "Mélanie Vogel (Les Écologistes), présidente du groupe écologiste au Sénat, estime que le texte revient à créer un « permis de tuer » pour les forces de l'ordre.",
+              "src": "BFMTV, cité par Quartz, 19-20 novembre 2026"
+            },
+            "ren": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement les mesures de protection juridique des forces de l'ordre portées par le gouvernement, à condition qu'elles ne créent pas d'immunité pénale ni ne modifient les règles d'engagement du tir.",
+              "src": ""
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant se montre habituellement attentif à l'équilibre entre protection des forces de l'ordre et contrôle du juge, et appuie les versions encadrées défendues par le gouvernement.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement un renforcement de l'autorité de l'État et du soutien aux forces de l'ordre, et appuie le texte dans sa version réécrite par le gouvernement.",
+              "src": ""
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Lauriane Josende (LR), rapporteure, juge que « les forces de l'ordre ont besoin d'être soutenues » et assure que la loi « ne bouleversera absolument pas » le cadre légal de l'usage des armes ni le déroulement des enquêtes.",
+              "src": "AFP via Sud Radio, 19 novembre 2026"
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Edwige Diaz (RN), présidente du groupe RN au Sénat, soutient le texte, que son groupe voulait inscrire dans sa niche de décembre, et souhaite ironiquement « bon courage » au gouvernement pour convaincre la gauche qu'il ne suit pas les idées du RN.",
+              "src": "AFP via Sud Radio, 19 novembre 2026"
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant réclame habituellement une présomption de légitime défense large pour les policiers et gendarmes, et juge souvent insuffisantes les versions encadrées par le gouvernement.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Sud Radio – Usage des armes par la police : un vote sous haute tension au Sénat",
+              "u": "https://www.sudradio.fr/societe/usage-des-armes-par-la-police-un-vote-sous-haute-tension-au-senat"
+            },
+            {
+              "t": "Quartz – Le Sénat reporte le vote sur l'usage légitime des armes par la police",
+              "u": "https://fr.qz.com/senat-reporte-vote-presomption-usage-legitime-armes-112026"
+            },
+            {
+              "t": "Parlons Politique – Après un tir policier, qui doit prouver que l'usage de l'arme était légal ? Le Sénat face à un choix décisif",
+              "u": "https://www.parlons-politique.fr/actualite-nationale/apres-un-tir-policier-qui-doit-prouver-que-lusage-de-larme-etait-legal-le-senat-face-a-un-choix-decisif_31545/"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-20-niche-ps-loyers-tzcld",
+          "rubrique": "Logement",
+          "titre": "Niche socialiste : l'encadrement des loyers prolongé de deux ans, Territoires zéro chômeur pérennisé",
+          "chapo": "Lors de leur journée réservée, les députés PS ont fait adopter définitivement trois textes, dont la prolongation de l'encadrement des loyers, obtenue par un vote bloqué face à des centaines de sous-amendements du RN.",
+          "faits": [
+            "Jeudi 19 novembre, l'Assemblée a adopté définitivement, par 148 voix contre 95, la proposition de loi d'Iñaki Echaniz (PS) qui prolonge de deux ans l'expérimentation de l'encadrement des loyers, censée s'arrêter la semaine prochaine. Le texte était identique à celui voté par le Sénat en octobre.",
+            "Face aux amendements et sous-amendements du RN, un vote bloqué demandé par le rapporteur et accepté par le gouvernement a écarté plus de 400 sous-amendements, selon le gouvernement. Le ministre du Logement, Vincent Jeanbrun, a dénoncé « de l'obstruction pure et dure ».",
+            "Le dispositif Territoires zéro chômeur de longue durée, dont l'expérimentation devait finir le 31 décembre, a été pérennisé par 258 voix contre 3. Il compte 94 entreprises à but d'emploi dans 85 territoires et 4 300 salariés payés au Smic ; le budget 2027 prévoit 63 millions d'euros.",
+            "La proposition de loi de Victorin Lurel (PS) contre la vie chère outre-mer a aussi été adoptée définitivement, à l'unanimité (193 voix), dans la nuit. La séance s'étant close à minuit, les textes sur les marges des carburants, la régularisation de travailleurs sans papiers et les produits des colonies israéliennes n'ont pas abouti."
+          ],
+          "enjeu": "Pour 1,2 million de locataires d'environ 70 communes, dont Paris, Lyon, Bordeaux et Lille, le plafonnement des loyers est maintenu. Le recours au vote bloqué a nourri des soupçons d'accord entre le PS et le gouvernement, démentis par le rapporteur, au moment où l'exécutif cherche des voix pour son budget.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement un blocage, voire une baisse des loyers, et la réquisition des logements vacants ; il juge l'encadrement expérimental insuffisant pour les locataires modestes.",
+              "src": ""
+            },
+            "gr": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement la généralisation de l'encadrement des loyers à toutes les zones tendues et défend des dispositifs comme Territoires zéro chômeur, en réclamant davantage de moyens.",
+              "src": ""
+            },
+            "soc": {
+              "type": "declare",
+              "texte": "Iñaki Echaniz (PS), rapporteur, dément tout arrangement : « Non, il n'y a pas de deal avec le gouvernement » ; il a remercié « du fond du cœur » les députés qui ont permis l'adoption du texte.",
+              "src": "LCP, 19 novembre 2026"
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant plaide habituellement pour un encadrement des loyers pérenne et étendu, et soutient l'économie sociale et solidaire dont relève Territoires zéro chômeur.",
+              "src": ""
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "Guillaume Kasbarian (Renaissance), dont les amendements ont été rejetés, s'interroge sur le vote bloqué : « Qu'est-ce que vous avez négocié ? Nous, on n'était pas dans la boucle ».",
+              "src": "LCP, 19 novembre 2026"
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement un encadrement des loyers laissé au choix des collectivités volontaires, et soutient les dispositifs d'insertion comme Territoires zéro chômeur.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant juge habituellement que l'encadrement des loyers peut décourager l'offre locative et plaide pour l'assouplir ; des amendements d'Henri Alfandari (Horizons) ont été rejetés.",
+              "src": ""
+            },
+            "d": {
+              "type": "lecture",
+              "texte": "Le courant reste habituellement réservé sur l'encadrement des loyers, jugé défavorable à l'investissement locatif, mais la majorité sénatoriale de droite et du centre a voté la prolongation de deux ans en octobre.",
+              "src": ""
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Frédéric Falcon (RN) accuse le PS de monnayer son soutien : le gouvernement « a besoin des voix socialistes et le Parti socialiste les vend » ; le groupe RN a en revanche voté, à trois voix près, la pérennisation de Territoires zéro chômeur.",
+              "src": "LCP, 19 novembre 2026"
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant s'oppose habituellement à l'encadrement des loyers, présenté comme une atteinte au droit de propriété, et défend la baisse des normes et des taxes pesant sur les bailleurs.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "LCP – Encadrement des loyers : l'Assemblée prolonge l'expérimentation du dispositif, au terme d'une âpre bataille dans l'hémicycle",
+              "u": "https://lcp.fr/actualites/encadrement-des-loyers-l-assemblee-prolonge-l-experimentation-du-dispositif-au-terme-d"
+            },
+            {
+              "t": "LCP – Emploi : le dispositif « Territoires zéro chômeur de longue durée » pérennisé",
+              "u": "https://lcp.fr/actualites/emploi-le-dispositif-territoires-zero-chomeur-de-longue-duree-perennise-a-l-issue-de-l"
+            },
+            {
+              "t": "LCP – Lutte contre la vie chère en Outre-mer : le texte présenté par les députés socialistes définitivement adopté",
+              "u": "https://lcp.fr/actualites/lutte-contre-la-vie-chere-en-outre-mer-le-texte-presente-par-les-deputes-socialistes"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-20-budget-etat-senat",
+          "rubrique": "Budget",
+          "titre": "Budget de l'État : le Sénat ouvre ce vendredi l'examen d'un texte rejeté par les députés",
+          "chapo": "Après la Sécurité sociale, les sénateurs entament trois semaines de débats sur le projet de loi de finances pour 2027, dans sa version initiale, l'Assemblée ayant rejeté sa partie recettes le 4 novembre.",
+          "faits": [
+            "Les députés ont rejeté le 4 novembre la première partie du projet de loi de finances par 458 voix contre : le Sénat est donc saisi du texte initial du gouvernement, sans les amendements votés à l'Assemblée.",
+            "Le gouvernement vise un déficit public de 5 % du PIB en 2027, contre 5,4 % prévus en 2026, et une dette de 121,7 % du PIB ; la charge de la dette passerait de 79,2 à 91,2 milliards d'euros.",
+            "En commission, la majorité de droite et du centre, avec la rapporteure générale Christine Lavarde (LR), a notamment porté de 17 % à 35 % le prélèvement exceptionnel sur les avoirs en déshérence (2,9 milliards d'euros attendus) et réécrit les mesures sur les dons familiaux, la location meublée et l'assurance-vie.",
+            "Le vote solennel est prévu le 9 décembre. Le Parlement a jusqu'au 17 décembre à minuit pour se prononcer, délai au-delà duquel l'article 47 de la Constitution ouvre la voie aux ordonnances, jamais utilisées pour un budget."
+          ],
+          "enjeu": "Une commission mixte paritaire est attendue mi-décembre, mais un vote favorable de l'Assemblée paraît peu probable. Le gouvernement pourrait devoir choisir entre le 49.3, au risque d'une censure, et une loi spéciale, comme en 2024 et 2025.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant rejette habituellement les budgets d'austérité et réclame une forte taxation du capital et des grandes fortunes pour financer les services publics et les salaires.",
+              "src": ""
+            },
+            "gr": {
+              "type": "lecture",
+              "texte": "Le courant rejette habituellement les budgets fondés sur la réduction des dépenses publiques et défend une fiscalité accrue sur les hauts patrimoines, les dividendes et les superprofits.",
+              "src": ""
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement une contribution plus forte des hauts patrimoines et des grandes entreprises ; ses sénateurs ont annoncé quelque 200 amendements sur le volet fiscal.",
+              "src": ""
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant réclame habituellement une fiscalité écologique et une taxation des plus fortunés, et s'oppose aux coupes dans les crédits de la transition et des collectivités.",
+              "src": ""
+            },
+            "ren": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement la trajectoire de réduction du déficit fixée par le gouvernement et cherche un compromis pour éviter une loi spéciale ou un recours au 49.3.",
+              "src": ""
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant plaide habituellement pour un budget de compromis, associant maîtrise des dépenses et justice fiscale, et appelle les groupes à éviter la censure.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement une baisse plus franche des dépenses publiques et des réformes de structure, plutôt que de nouveaux prélèvements.",
+              "src": ""
+            },
+            "d": {
+              "type": "lecture",
+              "texte": "Le courant privilégie habituellement les économies sur les dépenses plutôt que les hausses d'impôts ; majoritaire au Sénat avec les centristes, il entend y imposer sa version du texte.",
+              "src": ""
+            },
+            "dn": {
+              "type": "lecture",
+              "texte": "Le courant dénonce habituellement la hausse des prélèvements et réclame des économies sur l'immigration, la contribution européenne et les agences de l'État ; ses députés ont voté le rejet du texte.",
+              "src": ""
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement une baisse massive des impôts et des dépenses sociales, et rejette les budgets jugés trop dépensiers.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Public Sénat – Budget 2027 : calendrier, 49.3, ordonnances… Quelles sont les échéances à venir et les scénarios possibles ?",
+              "u": "https://www.publicsenat.fr/actualites/politique/budget-2027-calendrier-49-3-ordonnancesquelles-sont-les-echeances-a-venir-et-les-scenarios-possibles"
+            },
+            {
+              "t": "LCP – Budget 2027 rejeté : quelles sont les prochaines étapes au Parlement ?",
+              "u": "https://lcp.fr/actualites/budget-2027-rejete-quelles-sont-les-prochaines-etapes-au-parlement-444753"
+            },
+            {
+              "t": "LégiFiscal – PLF 2027 : les principaux articles adoptés par la commission des finances du Sénat",
+              "u": "https://www.legifiscal.fr/actualites-fiscales/4735-plf-2027-principaux-articles-adoptes-commission-finances-senat.html"
+            },
+            {
+              "t": "Sénat – Projet de loi de finances pour 2027 : la loi en clair",
+              "u": "https://www.senat.fr/travaux-parlementaires/textes-legislatifs/la-loi-en-clair/projet-de-loi-de-finances-pour-2027.html"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-20-cybersecurite-lecornu",
+          "rubrique": "Numérique",
+          "titre": "Cybersécurité : Lecornu impose aux ministères de consacrer une part croissante de leur budget numérique à leur défense",
+          "chapo": "Face à une menace jugée « particulièrement grave et inédite », le Premier ministre a annoncé jeudi un « serrage de vis » pour l'État, après une série d'attaques et de pannes.",
+          "faits": [
+            "Chaque ministère devra consacrer au moins 5 % de son budget numérique à la cybersécurité à partir de 2027, puis 10 % en 2030, a annoncé Sébastien Lecornu le 19 novembre.",
+            "Selon le ministre de l'Économie, Roland Lescure, 200 millions d'euros du programme France 2030 financeront des outils d'intelligence artificielle contre les cyberattaques, leur déploiement dans les administrations et chez les opérateurs d'importance vitale, ainsi que la formation.",
+            "Ces annonces suivent notamment le vol de 100 millions d'euros au Crédit Mutuel Arkéa et le sabotage, le 12 octobre, d'installations frigorifiques de supermarchés, attribué par la France à l'Iran.",
+            "Le projet de loi sur la résilience des infrastructures critiques et la cybersécurité, adopté le 17 novembre par l'Assemblée (464 voix contre 64), concernera quelque 20 000 entités ; il doit encore passer en commission mixte paritaire."
+          ],
+          "enjeu": "L'État veut relever sa propre protection avant d'imposer de nouvelles obligations aux entreprises et aux collectivités, dont le coût inquiète les PME. Ces dépenses s'ajoutent au débat budgétaire, où chaque crédit nouveau est disputé.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant critique habituellement la dépendance des services publics aux grands groupes du numérique et le recours à la sous-traitance, et se méfie des dispositifs de surveillance associés à la sécurité.",
+              "src": ""
+            },
+            "gr": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement la souveraineté numérique, les logiciels libres et la sortie de la dépendance aux géants américains du cloud, plutôt que de nouveaux contrats avec des prestataires privés.",
+              "src": ""
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement le renforcement de la cybersécurité de l'État et demande que l'effort s'accompagne de moyens pour les collectivités et les hôpitaux, souvent ciblés.",
+              "src": ""
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement la sobriété numérique et les logiciels libres, et demande que la protection des données et des libertés encadre l'usage de l'intelligence artificielle.",
+              "src": ""
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "Sébastien Lecornu (Renaissance), Premier ministre, juge la menace « particulièrement grave et inédite » et prévient : « Rien ne laisse à penser que les choses vont s'arranger ».",
+              "src": "Économie Matin, 20 novembre 2026"
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement une stratégie européenne de cybersécurité et la transposition rapide des directives comme NIS 2, avec un accompagnement des petites structures.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant plaide habituellement pour un État plus efficace et mieux protégé, et soutient l'effort de défense, y compris dans le cyberespace.",
+              "src": ""
+            },
+            "d": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement le renforcement des moyens de sécurité, y compris numérique, tout en alertant sur le poids des nouvelles normes pour les entreprises et les collectivités.",
+              "src": ""
+            },
+            "dn": {
+              "type": "lecture",
+              "texte": "Le courant met habituellement en avant la souveraineté nationale face aux ingérences étrangères et critique le coût des normes européennes imposées aux entreprises.",
+              "src": ""
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant insiste habituellement sur les menaces extérieures et réclame un renforcement des moyens régaliens, tout en dénonçant les contraintes européennes.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Économie Matin – Pourquoi la France consacre désormais 10 % de ses budgets numériques à la cybersécurité",
+              "u": "https://www.economiematin.fr/cybersecurite-200-millions-euros-budget-ministeres-2027"
+            },
+            {
+              "t": "Quartz – Lecornu annonce un plan de renforcement de la cybersécurité",
+              "u": "https://fr.qz.com/lecornu-annonce-plan-renforcement-cybersecurite-etat-111926"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-20-shenzhen-berlin-ukraine",
+          "rubrique": "International",
+          "titre": "Shenzhen : Trump, Poutine et Xi adoptent une « déclaration de paix » muette sur l'Ukraine, les Européens resserrent les rangs à Berlin",
+          "chapo": "Le sommet inédit des trois dirigeants s'est achevé sans avancée sur la guerre. Au même moment, la coalition des volontaires réunie à Berlin a promis d'accélérer l'envoi de défenses antiaériennes à Kiev avant l'hiver.",
+          "faits": [
+            "Réunis jeudi 19 novembre à Shenzhen, en marge de l'APEC, Donald Trump, Vladimir Poutine et Xi Jinping ont adopté une « déclaration de paix » après environ 80 minutes d'échanges, selon le Kremlin et les médias d'État chinois.",
+            "Le texte évoque la stabilité internationale et le risque nucléaire, mais ne mentionne ni l'Ukraine ni l'Iran, et ne prévoit aucun cessez-le-feu.",
+            "Depuis Shenzhen, Vladimir Poutine a estimé que « toute forme » de coopération militaire entre l'Ukraine et les Européens lui posait « un problème », et dit avoir proposé à des Européens de venir à Moscou.",
+            "À Berlin, une trentaine de dirigeants ont retrouvé Volodymyr Zelensky et les émissaires américains Steve Witkoff et Jared Kushner. L'Élysée y a plaidé pour des livraisons accélérées de missiles intercepteurs avant l'hiver et pour des garanties de sécurité, « raison d'être » de la coalition."
+          ],
+          "enjeu": "Ce face-à-face des trois puissances, sans les Européens, nourrit la crainte d'un règlement négocié au-dessus de l'Europe. Le financement de l'Ukraine en 2027, estimé à 70 milliards, dont 45 à la charge de l'UE, doit être tranché lors d'un Conseil européen extraordinaire la semaine prochaine.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant dénonce habituellement une guerre entre puissances impérialistes, s'oppose aux livraisons d'armes comme à l'OTAN, et appelle à la solidarité entre travailleurs russes et ukrainiens.",
+              "src": ""
+            },
+            "gr": {
+              "type": "lecture",
+              "texte": "Le courant plaide habituellement pour une conférence de paix et un cessez-le-feu négocié sous l'égide de l'ONU, et rejette tout alignement sur les États-Unis comme l'envoi de troupes françaises.",
+              "src": ""
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement un soutien militaire et financier ferme à l'Ukraine, refuse toute paix imposée sans les Ukrainiens et les Européens, et soutient les garanties de sécurité.",
+              "src": ""
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement l'Ukraine et une défense européenne commune, et réclame des sanctions renforcées contre la Russie, notamment sur ses exportations d'hydrocarbures.",
+              "src": ""
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "Emmanuel Macron (Renaissance) estimait le 14 novembre que ceux qui veulent « rationner les moyens de l'Ukraine » souhaitent « au fond l'obliger à une paix injuste » ; à Berlin, il a défendu la protection du ciel ukrainien et des garanties de sécurité.",
+              "src": "Euronews, 14 et 19 novembre 2026"
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement une Europe unie et souveraine dans le soutien à l'Ukraine, associée à toute négociation de paix qui engage sa propre sécurité.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement l'aide militaire à l'Ukraine et un réarmement européen, et juge qu'aucun accord ne doit récompenser l'agression russe.",
+              "src": ""
+            },
+            "d": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement l'Ukraine et l'effort de défense européen, tout en restant prudent sur l'envoi de soldats français et en réclamant un contrôle parlementaire.",
+              "src": ""
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Marine Le Pen (RN) a dit à l'ambassadeur d'Ukraine que la France ne pourrait « plus aider financièrement » Kiev si elle était élue, en raison de l'état des finances publiques, tout en promettant de respecter les engagements déjà pris.",
+              "src": "Euronews, 16 novembre 2026"
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant plaide habituellement pour une sortie rapide du conflit par la négociation, refuse tout engagement militaire français et critique le coût de l'aide à l'Ukraine.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Euronews – Trilateral summit ends with 'peace declaration' but no mention of Ukraine and Iran",
+              "u": "https://www.euronews.com/2026/11/19/us-and-china-want-to-help-end-ukraine-war-trump-says-ahead-of-trilateral-with-russia"
+            },
+            {
+              "t": "RFI – Guerre en Ukraine : réunie à Berlin, la « coalition des volontaires » réaffirme son soutien à Kiev",
+              "u": "https://fr.news.yahoo.com/guerre-ukraine-coalition-volontaires-r%C3%A9unie-160502459.html"
+            },
+            {
+              "t": "Euronews – Coalition des volontaires réunie à Berlin : quelles priorités pour la France ?",
+              "u": "https://fr.euronews.com/2026/11/19/coalition-des-volontaires-reunie-a-berlin-quelles-priorites-pour-la-france"
+            },
+            {
+              "t": "Euronews – Marine Le Pen : « La France continuerait à soutenir l'Ukraine », mais pas financièrement",
+              "u": "https://fr.euronews.com/2026/11/16/marine-le-pen-la-france-continuerait-a-soutenir-lukraine-mais-pas-financierement"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-20-cop31-fossiles",
+          "rubrique": "International",
+          "titre": "COP31 : les énergies fossiles disparaissent du projet d'accord, Paris dénonce un « point noir »",
+          "chapo": "À quelques heures de la fin théorique des négociations d'Antalya, le texte de compromis de la présidence australo-turque ne mentionne plus le pétrole, le gaz ni le charbon.",
+          "faits": [
+            "Le projet de décision finale de neuf pages, publié jeudi 19 novembre par la présidence partagée entre la Turquie et l'Australie, ne mentionne plus explicitement les énergies fossiles, contrairement à une version précédente. Les pays producteurs, dont l'Arabie saoudite, s'opposent à toute mention.",
+            "Le texte appelle à porter à 35 % d'ici 2035 la part de l'électricité dans la consommation finale d'énergie mondiale, contre un peu plus de 20 % aujourd'hui, sans préciser son origine, et propose de « discuter » d'un triplement du financement de l'adaptation.",
+            "La ministre française de la Transition écologique, Monique Barbut, a qualifié cette absence de « point noir ». Le Panama menace de bloquer le consensus sans mention d'une sortie progressive du pétrole.",
+            "Les Européens ont prévenu qu'ils n'avaient « aucunement l'intention » d'apporter des financements supplémentaires. Un accord est recherché dans la nuit de vendredi à samedi, selon l'AFP."
+          ],
+          "enjeu": "Un texte sans référence aux fossiles marquerait un recul par rapport à l'engagement pris à Dubaï, en 2023, de s'en éloigner progressivement. L'Union européenne doit arbitrer entre un accord a minima et le risque d'un échec de la conférence.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant juge habituellement les COP impuissantes face aux intérêts des multinationales de l'énergie et réclame une planification écologique sous contrôle des travailleurs.",
+              "src": ""
+            },
+            "gr": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement une sortie programmée des énergies fossiles et une planification écologique, et dénonce l'influence des pays et groupes producteurs dans les négociations.",
+              "src": ""
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement une diplomatie climatique ambitieuse, la sortie progressive des fossiles et la solidarité financière avec les pays les plus vulnérables.",
+              "src": ""
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant fait habituellement de la sortie des énergies fossiles une ligne rouge et juge inacceptable tout accord climatique qui l'abandonnerait.",
+              "src": ""
+            },
+            "ren": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement l'héritage de l'accord de Paris et une transition fondée sur l'électrification, y compris nucléaire, en appelant à maintenir l'objectif de sortie des fossiles.",
+              "src": ""
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement le multilatéralisme climatique et une position européenne commune, en cherchant un compromis qui préserve l'objectif de 1,5 °C.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement une transition pragmatique appuyée sur le nucléaire et l'électrification, et l'idée que l'Europe ne peut porter seule l'effort financier.",
+              "src": ""
+            },
+            "d": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement les objectifs climatiques à condition qu'ils ne pèsent pas sur la compétitivité, et met en avant le nucléaire comme solution.",
+              "src": ""
+            },
+            "dn": {
+              "type": "lecture",
+              "texte": "Le courant se montre habituellement critique envers les engagements climatiques internationaux jugés pénalisants pour l'économie française et défend le nucléaire contre les énergies renouvelables intermittentes.",
+              "src": ""
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant rejette habituellement ce qu'il appelle l'écologie punitive et considère les grandes conférences climatiques comme coûteuses et inefficaces.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "La Libre (AFP) – Climat : à la COP31, ultimes heures pour un accord incertain",
+              "u": "https://www.lalibre.be/dernieres-depeches/2026/11/20/climat-a-la-cop31-ultimes-heures-pour-un-accord-incertain-HILM3ZYKG5FV5PJIMQUJYMAT74/"
+            },
+            {
+              "t": "Le Petit Journal (AFP) – COP31 sur le climat : les énergies fossiles disparaissent du projet de décision finale",
+              "u": "https://lepetitjournal.com/istanbul/actualites/cop31-sur-le-climat-les-energies-fossiles-disparaissent-du-projet-de-decision-finale-459327"
+            },
+            {
+              "t": "Bourse Direct (AFP) – COP31 sur le climat : les énergies fossiles disparaissent du projet de décision finale",
+              "u": "https://www.boursedirect.fr/fr/actualites/categorie/economie/cop31-sur-le-climat-la-reference-aux-energies-fossiles-disparait-dans-le-projet-de-decision-finale-afp-476c4c9f6ad0d6663e274a14afad20ea4e7955b9"
+            }
+          ]
+        }
+      ],
+      "breves": [
+        {
+          "titre": "Mort du député David Habib",
+          "texte": "Le député des Pyrénées-Atlantiques David Habib, élu depuis 2002 et membre du groupe Liot après avoir siégé chez les socialistes, est mort dans la nuit de mercredi à jeudi à 65 ans. Yaël Braun-Pivet a annoncé un hommage de l'Assemblée ; Boris Vallaud a salué « un homme de conviction, de courage ».",
+          "src": {
+            "t": "LCP – David Habib, député des Pyrénées-Atlantiques depuis 24 ans, est mort à 65 ans",
+            "u": "https://lcp.fr/actualites/david-habib-depute-des-pyrenees-atlantiques-depuis-24-ans-est-mort-a-65-ans-445340"
+          }
+        },
+        {
+          "titre": "Affaire Zecler : verdict attendu ce vendredi",
+          "texte": "La cour criminelle de Paris doit rendre ce vendredi son verdict dans le procès de trois policiers jugés pour les violences commises en 2020 contre le producteur de musique Michel Zecler, frappé dans son studio.",
+          "src": {
+            "t": "Mediaterranée – Procès Zecler : ses proches témoignent, verdict attendu le 20 novembre",
+            "u": "https://www.mediaterranee.com/1352026-proces-zecler-ses-proches-temoignent-verdict-attendu-le-20-novembre.html"
+          }
+        }
+      ],
+      "agenda": [
+        {
+          "d": "Ven. 20 nov.",
+          "t": "Début de l'examen du budget de l'État au Sénat ; reprise du débat sur l'usage des armes par les forces de l'ordre ; verdict du procès Zecler ; fin théorique de la COP31 à Antalya"
+        },
+        {
+          "d": "Mar. 24 nov.",
+          "t": "Vote solennel de l'Assemblée sur le projet de loi logement"
+        },
+        {
+          "d": "Mer. 25 nov.",
+          "t": "Audition au Sénat d'Alice Rüfo sur la présence de militaires français en Ukraine"
+        },
+        {
+          "d": "Jeu. 26 nov.",
+          "t": "Commission mixte paritaire sur le budget de la Sécu ; niche parlementaire LR à l'Assemblée"
+        },
+        {
+          "d": "Mer. 9 déc.",
+          "t": "Vote solennel du Sénat sur le budget de l'État"
+        }
+      ]
+    },
     {
       "date": "2026-11-19",
       "label": "Jeudi 19 novembre 2026",
@@ -2932,564 +3458,6 @@
         {
           "d": "Ven. 20 nov.",
           "t": "Début de l'examen du budget 2027 de l'État au Sénat"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-13",
-      "label": "Vendredi 13 novembre 2026",
-      "maj": "Mise à jour à 6 h 32",
-      "intro": "Le gouvernement promet des poursuites systématiques contre les violences visant les personnels des lycées, et la Région Île-de-France prive d'aides les élèves exclus. À l'Assemblée, le collectif budgétaire de fin d'année est rejeté, pendant que le Sénat allège la facture des entreprises dans le budget de la Sécu. Matignon dévoile un plan de relance agricole de 725 millions d'euros, et Bruno Retailleau veut une primaire même sans Édouard Philippe. À l'international, Vladimir Poutine reste inflexible face aux émissaires américains, qui annoncent les Européens à la prochaine table.",
-      "stories": [
-        {
-          "id": "2026-11-13-lycees-violences-judiciarisation",
-          "rubrique": "Éducation",
-          "titre": "Violences en marge des blocus : le gouvernement promet des poursuites systématiques, Pécresse prive d'aides régionales les lycéens exclus",
-          "chapo": "Matignon annonce la « judiciarisation » de tous les actes visant les personnels de l'Éducation nationale et chiffre à 609 le nombre de blessés dans les établissements depuis la rentrée. Les chefs d'établissement se rassemblent ce vendredi à 15 h.",
-          "faits": [
-            "Dans un communiqué publié jeudi 12 novembre, le gouvernement annonce « la judiciarisation des actes délictueux visant les personnels de l'Éducation nationale », des procédures disciplinaires contre ceux qui perturbent les cours et le maintien de la sécurisation des lycées « aussi longtemps que nécessaire ».",
-            "Selon ce bilan gouvernemental, 609 personnes ont été blessées dans les établissements, dont 364 élèves et 245 personnels, parmi lesquels 81 chefs ou adjoints ; 1 190 membres des forces de l'ordre ont aussi été blessés. Le mouvement ne concernerait plus qu'« un nombre résiduel d'établissements ».",
-            "Mardi, une réunion en visioconférence avait réuni à Matignon les cabinets de l'Éducation, de l'Intérieur et de la Justice, des proviseurs et les procureurs généraux des zones les plus touchées. Le ministre Édouard Geffray affirme que « la priorité est que tout le monde puisse revenir en classe ».",
-            "Sur RTL, Valérie Pécresse a annoncé qu'un élève exclu pour violences ou dégradations n'aurait plus accès aux aides facultatives de la Région Île-de-France pour la culture et le sport, et que des caméras seraient installées dans les lycées touchés ; la Région chiffre les dégâts à 10 millions d'euros.",
-            "Le SNPDEN-Unsa appelle les personnels de direction à se rassembler ce vendredi à 15 h ; les organisations lycéennes et étudiantes maintiennent leur marche samedi et la journée de mobilisation du 17 novembre."
-          ],
-          "enjeu": "Le gouvernement mise sur la réponse pénale pour clore un mouvement qu'il dit en reflux, sans avoir apaisé les revendications sur l'orientation et les places à l'université. La mesure de la Région Île-de-France, déjà contestée sur sa légalité, ouvre un débat sur les sanctions collectives et leurs limites.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement la mobilisation de la jeunesse, dénonce la judiciarisation des blocages et la présence policière devant les lycées, et renvoie la responsabilité des tensions au refus du gouvernement de répondre aux revendications.",
-              "src": ""
-            },
-            "gr": {
-              "type": "declare",
-              "texte": "Céline Malaisé (PCF), présidente du groupe communiste au conseil régional d'Île-de-France, annonce un recours contre la suppression des aides aux élèves exclus, en rappelant qu'une mesure comparable de Laurent Wauquiez a été annulée en justice, et juge que les caméras ne règlent rien.",
-              "src": "Public Sénat (AFP), 12 novembre 2026"
-            },
-            "soc": {
-              "type": "declare",
-              "texte": "Olivier Faure (PS) estime que les manifestations s'arrêteront quand le gouvernement répondra aux revendications des lycéens, et prévient que restreindre le droit de manifester mettrait en cause la démocratie.",
-              "src": "Le Grand Jury RTL-Public Sénat-M6, 25 octobre 2026"
-            },
-            "eco": {
-              "type": "lecture",
-              "texte": "Le courant condamne habituellement les violences contre les personnels tout en interrogeant la conduite du maintien de l'ordre, défend les revendications des jeunes sur l'accès aux études et se méfie des sanctions qui privent les familles d'aides.",
-              "src": ""
-            },
-            "ren": {
-              "type": "declare",
-              "texte": "Gabriel Attal (Renaissance) a adressé son soutien à l'élue de Chelles, qui « tentait d'empêcher qu'une poubelle soit incendiée » : « Rien ne justifie cela. Aucune cause. »",
-              "src": "X, 10 novembre 2026"
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant condamne habituellement toute violence contre les personnels et les élus, soutient une réponse judiciaire ferme et proportionnée, et plaide pour une concertation approfondie sur l'orientation et les capacités d'accueil.",
-              "src": ""
-            },
-            "hor": {
-              "type": "declare",
-              "texte": "Laurent Marcangeli, président du groupe Horizons à l'Assemblée, a prévenu que « c'est ceux qui cassent qui devront payer » les dégâts causés dans les établissements.",
-              "src": "Public Sénat, 6 octobre 2026"
-            },
-            "d": {
-              "type": "declare",
-              "texte": "Valérie Pécresse (LR), présidente de la Région Île-de-France, justifie la fin des aides facultatives pour les élèves exclus en affirmant qu'« on rentre dans le lycée avec des mortiers » et promet des caméras dans les semaines qui viennent.",
-              "src": "RTL, via Public Sénat, 12 novembre 2026"
-            },
-            "dn": {
-              "type": "declare",
-              "texte": "Jordan Bardella (RN) estime, après l'agression de Chelles, qu'« on n'est plus dans des revendications » ; Éric Ciotti (UDR) qualifie l'attaque d'« abomination ».",
-              "src": "BFMTV, 10 novembre 2026"
-            },
-            "ed": {
-              "type": "declare",
-              "texte": "Éric Zemmour (Reconquête) a réclamé la fin de « l'excuse de minorité » pour les jeunes auteurs de violences lors des blocages, en jugeant que « nous n'avons plus les mêmes jeunes ».",
-              "src": "CNews, 13 octobre 2026"
-            }
-          },
-          "sources": [
-            {
-              "t": "Public Sénat – Violences en marge des blocus lycéens : le gouvernement durcit le ton",
-              "u": "https://www.publicsenat.fr/actualites/education/violences-en-marge-des-blocus-lyceens-le-gouvernement-durcit-le-ton"
-            },
-            {
-              "t": "Public Sénat – Mouvement étudiant : le Premier ministre annonce 5 000 places supplémentaires en licence",
-              "u": "https://www.publicsenat.fr/actualites/education/mouvement-etudiant-le-premier-ministre-annonce-5-000-places-supplementaires-en-licence"
-            }
-          ],
-          "image": {
-            "u": "https://www.publicsenat.fr/app/uploads/2026/11/SIPA_sipahub60242052_000085.jpg",
-            "credit": "Public Sénat",
-            "alt": "Illustration de l'article de Public Sénat"
-          }
-        },
-        {
-          "id": "2026-11-13-collectif-budgetaire-rejete",
-          "rubrique": "Budget",
-          "titre": "Collectif budgétaire de fin d'année : l'Assemblée rejette le texte par 63 voix contre 49",
-          "chapo": "Le projet de loi de finances de fin de gestion pour 2026, qui acte un déficit revu à 5,4 % du PIB, a été repoussé jeudi soir en première lecture, avec 76 abstentions. Il part au Sénat.",
-          "faits": [
-            "Lors du scrutin public n° 9895, jeudi en deuxième séance, 63 députés ont voté contre, 49 pour et 76 se sont abstenus, sur 188 votants.",
-            "Ont voté contre LFI (41), les Écologistes (15) et le groupe GDR (6) ; ont voté pour EPR (26), les Démocrates (14), la Droite républicaine (6, deux abstentions) et Horizons (3) ; le RN (51), les socialistes (16), l'UDR (3) et LIOT (3) se sont abstenus.",
-            "Le texte prévoit un déficit public de 5,4 % du PIB en 2026, contre 5 % dans la loi de finances initiale, avec une croissance de 0,5 % que le Haut Conseil des finances publiques juge « difficilement atteignable » ; il annule environ 3,8 milliards d'euros de crédits.",
-            "Le député LIOT Michel Castellani a demandé : « Pourquoi conserver une croissance aussi contestée pour préserver l'affichage d'un déficit à 5,4 % ? » Le texte doit désormais être examiné par le Sénat."
-          ],
-          "enjeu": "Ce rejet, technique mais symbolique, montre la fragilité du gouvernement à quelques semaines des votes décisifs sur le budget 2027. Il nourrit aussi le débat sur la sincérité des prévisions de croissance et sur les annulations de crédits décidées par décret.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant rejette habituellement les annulations de crédits et les budgets d'austérité, et réclame que l'effort porte sur les grandes fortunes et les profits plutôt que sur les services publics.",
-              "src": ""
-            },
-            "gr": {
-              "type": "declare",
-              "texte": "Les 41 députés LFI et les 6 députés du groupe GDR, où siègent les communistes, ont voté contre le texte ; en commission, un amendement de suppression déposé par LFI avait déjà été adopté.",
-              "src": "Assemblée nationale, scrutin n° 9895, 12 novembre 2026"
-            },
-            "soc": {
-              "type": "declare",
-              "texte": "Les 16 députés socialistes présents se sont abstenus sur l'ensemble du texte, sans le soutenir ni joindre leurs voix à celles des groupes qui l'ont rejeté.",
-              "src": "Assemblée nationale, scrutin n° 9895, 12 novembre 2026"
-            },
-            "eco": {
-              "type": "declare",
-              "texte": "Christine Arrighi (Les Écologistes) reproche au gouvernement de faire ratifier « après coup » des annulations de crédits décidées par décret ; les 15 députés écologistes ont voté contre.",
-              "src": "AFP, 12 novembre 2026"
-            },
-            "ren": {
-              "type": "declare",
-              "texte": "David Amiel (Renaissance), ministre de l'Action et des Comptes publics, a défendu un texte qui maintient selon lui la dépense de l'État sous le niveau voté en janvier ; les 26 députés EPR ont voté pour.",
-              "src": "AFP, 12 novembre 2026"
-            },
-            "modem": {
-              "type": "declare",
-              "texte": "Les 14 députés du groupe Les Démocrates ont voté pour le collectif budgétaire, soutenant l'ajustement des crédits proposé par le gouvernement.",
-              "src": "Assemblée nationale, scrutin n° 9895, 12 novembre 2026"
-            },
-            "hor": {
-              "type": "declare",
-              "texte": "Les 3 députés Horizons présents ont voté pour le texte, en cohérence avec leur soutien au gouvernement sur les ajustements de fin d'année.",
-              "src": "Assemblée nationale, scrutin n° 9895, 12 novembre 2026"
-            },
-            "d": {
-              "type": "declare",
-              "texte": "Les députés de la Droite républicaine ont majoritairement voté pour le texte (6 pour, 2 abstentions), en soutien au collectif présenté par le gouvernement.",
-              "src": "Assemblée nationale, scrutin n° 9895, 12 novembre 2026"
-            },
-            "dn": {
-              "type": "declare",
-              "texte": "Jean-Philippe Tanguy (RN) a dénoncé « les mensonges » du gouvernement, attribuant le milliard économisé à la hausse des tarifs de l'électricité ; le RN et l'UDR se sont abstenus.",
-              "src": "AFP, 12 novembre 2026"
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant dénonce habituellement la dérive des comptes publics, réclame des économies massives sur l'immigration et les agences de l'État, et rejette tout texte qui entérine le dérapage du déficit.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "LCP – Projet de loi de finances de fin de gestion : c'est quoi, ce texte examiné à l'Assemblée cette semaine ?",
-              "u": "https://lcp.fr/actualites/projet-de-loi-de-finances-de-fin-de-gestion-c-est-quoi-ce-texte-examine-a-l-assemblee"
-            },
-            {
-              "t": "Quartz (AFP) – Les députés rejettent le projet de loi de fin de gestion 2026",
-              "u": "https://fr.qz.com/deputes-rejettent-projet-loi-fin-gestion-2026-111326"
-            },
-            {
-              "t": "Poligraph – Scrutin n° 9895 : l'ensemble du projet de loi de finances de fin de gestion pour 2026",
-              "u": "https://poligraph.fr/parlement/votes/2026-11-12-l-ensemble-du-projet-de-loi-de-finances-de-fin-de-gestion-pour-2026-p"
-            }
-          ],
-          "image": {
-            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2026-10/bercy.png?itok=hu_-uxrg",
-            "credit": "LCP",
-            "alt": "Illustration de l'article de LCP"
-          }
-        },
-        {
-          "id": "2026-11-13-secu-senat-allegements",
-          "rubrique": "Budget",
-          "titre": "Budget de la Sécu : le Sénat reporte au 1er avril la baisse des allègements de charges et freine la hausse des cotisations des collectivités",
-          "chapo": "La majorité sénatoriale a réduit d'environ 900 millions d'euros le rendement attendu de la réforme des allègements patronaux, contre l'avis du gouvernement. Elle a aussi plafonné la hausse des cotisations retraite des hôpitaux et des collectivités.",
-          "faits": [
-            "Le Sénat a adopté jeudi l'article 7 du budget de la Sécurité sociale pour 2027 par 184 voix contre 16 et 142 abstentions, après avoir repoussé du 1er janvier au 1er avril 2027 la réforme des allègements de cotisations patronales, par un amendement du rapporteur général Olivier Henno (Union centriste).",
-            "Le gouvernement en attendait 3,7 milliards d'euros pour 2027 ; la version du Sénat en rapporterait environ 2,8 milliards. Les allègements représentent au total quelque 75 milliards d'euros par an. Le ministre du Travail Jean-Pierre Farandou a refusé de suivre le Sénat : « on tutoie le milliard ».",
-            "Les sénateurs ont aussi plafonné à 40 % en 2027, au lieu de 40,65 %, le taux de cotisation employeur à la CNRACL, caisse de retraite des agents des hôpitaux et des collectivités, ce qui réduit de 400 millions d'euros une hausse estimée à 1,8 milliard.",
-            "Ils ont adopté une taxe sur les sucres ajoutés dans les aliments pour bébés et jeunes enfants, contre l'avis du gouvernement. L'examen se poursuit jusqu'au mardi 17 novembre, avant un vote solennel le mercredi 18."
-          ],
-          "enjeu": "Le Sénat allège la facture pour les entreprises et les employeurs publics, au risque de creuser un déficit de la Sécu que le gouvernement veut limiter à 12,7 milliards d'euros. Ces écarts devront être tranchés lors du retour du texte à l'Assemblée, qui l'avait rejeté en première lecture.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant dénonce habituellement les exonérations de cotisations patronales comme un manque à gagner pour la Sécurité sociale et réclame leur suppression pour financer la santé et les retraites.",
-              "src": ""
-            },
-            "gr": {
-              "type": "declare",
-              "texte": "Cathy Apourceau-Poly (PCF) juge que « les effets sur l'emploi sont nuls et les caisses de la Sécu se vident » ; Céline Brulin (PCF) voit dans l'amendement sur la CNRACL « une mission sauvetage du gouvernement ».",
-              "src": "Public Sénat, 12 novembre 2026"
-            },
-            "soc": {
-              "type": "declare",
-              "texte": "Patrick Kanner (PS) refuse que les collectivités servent de vaches à lait aux erreurs budgétaires du gouvernement ; Monique Lubin (PS) dénonce l'extension de la monétisation des jours de repos, une perte de droits selon elle.",
-              "src": "Public Sénat, 12 novembre 2026"
-            },
-            "eco": {
-              "type": "lecture",
-              "texte": "Le courant critique habituellement les allègements de cotisations sans contreparties sociales ou écologiques, et s'oppose à ce que les hôpitaux et les collectivités paient le déficit de leur caisse de retraite.",
-              "src": ""
-            },
-            "ren": {
-              "type": "declare",
-              "texte": "Xavier Iacovelli (Renaissance) a fait adopter, contre l'avis du gouvernement, une taxe sur les sucres ajoutés dans les produits alimentaires destinés aux bébés et aux jeunes enfants.",
-              "src": "Public Sénat, 12 novembre 2026"
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant appelle habituellement à un compromis entre les deux chambres, à un effort réparti avec justice entre entreprises et ménages, et à la préservation des finances des collectivités et des hôpitaux.",
-              "src": ""
-            },
-            "hor": {
-              "type": "declare",
-              "texte": "Vincent Louault (Horizons) a dénoncé un « piège » tendu par le rapporteur avec son amendement sur les cotisations retraite des collectivités et des hôpitaux.",
-              "src": "Public Sénat, 12 novembre 2026"
-            },
-            "d": {
-              "type": "declare",
-              "texte": "Clément Pernot (LR) estime que l'article 7 « aura des conséquences fâcheuses pour les salariés » ; Philippe Mouiller (LR) qualifie le plafonnement CNRACL d'« amendement de sauvetage de la caisse ».",
-              "src": "Public Sénat, 12 novembre 2026"
-            },
-            "dn": {
-              "type": "lecture",
-              "texte": "Le courant s'oppose habituellement à toute hausse du coût du travail pour les entreprises, défend les finances des collectivités et préfère chercher des économies dans la lutte contre la fraude sociale.",
-              "src": ""
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement une baisse des charges patronales pour soutenir l'emploi et réclame des économies sur la fraude sociale et les prestations versées aux étrangers.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "Public Sénat – Budget de la Sécu : le Sénat reporte au 1er avril la baisse des allègements de cotisations patronales",
-              "u": "https://www.publicsenat.fr/actualites/economie/budget-de-la-secu-le-senat-reporte-au-1er-avril-la-baisse-des-allegements-de-cotisations-patronales"
-            },
-            {
-              "t": "Public Sénat – Budget 2027 de la Sécurité sociale : le Sénat atténue la hausse prévue sur les cotisations retraites des collectivités locales et des hôpitaux",
-              "u": "https://www.publicsenat.fr/actualites/politique/budget-2027-de-la-securite-sociale-cnracl-le-senat-attenue-la-hausse-prevue-sur-les-cotisations-retraites-des-collectivites-locales-et-des-hopitaux"
-            },
-            {
-              "t": "Public Sénat – Budget 2027 de la Sécurité sociale : le Sénat adopte une taxe sur les sucres ajoutés dans les produits destinés aux bébés et petits enfants",
-              "u": "https://www.publicsenat.fr/actualites/sante/budget-2027-de-la-securite-sociale-le-senat-adopte-une-taxe-sur-les-sucres-ajoutes-contenus-dans-les-produits-alimentaires-destines-aux-bebes-et-petits-enfants"
-            }
-          ]
-        },
-        {
-          "id": "2026-11-13-plan-relance-agricole",
-          "rubrique": "Agriculture",
-          "titre": "Plan de relance agricole : 725 millions d'euros annoncés, dont la moitié suspendue au vote du budget 2027",
-          "chapo": "Sébastien Lecornu et Annie Genevard ont présenté jeudi un plan centré sur l'adaptation au climat, la souveraineté alimentaire et la transmission des fermes. Les syndicats agricoles sont partagés.",
-          "faits": [
-            "Annoncé à la clôture des Conférences de la souveraineté alimentaire, le plan de 725 millions d'euros s'ajoute au plan d'urgence de plus d'un milliard présenté à la rentrée ; environ la moitié des crédits dépend du vote du projet de loi de finances 2027, par amendements du gouvernement.",
-            "Il prévoit 100 millions d'euros pour un guichet d'équipement contre les aléas climatiques (citernes, ventilation des bâtiments d'élevage, filets anti-grêle, goutte-à-goutte), 60 millions pour le fonds hydraulique agricole et environ 100 millions pour garantir à 80 % un milliard d'euros de prêts.",
-            "400 millions sont destinés aux « projets d'avenir agricole » (volaille, fruits et légumes, fromages), dont 350 millions issus de France 2030 ; des avantages fiscaux doivent faciliter la transmission des exploitations aux jeunes agriculteurs.",
-            "Sébastien Lecornu a prévenu qu'en cas d'échec du budget, une partie des fonds pourrait être renvoyée à l'automne 2027, en assurant que la question agricole sera l'un des leviers « majeurs » du compromis budgétaire.",
-            "La FNSEA demande que l'agriculture ne soit pas « prise en otage des jeux politiques budgétaires » ; les Jeunes Agriculteurs saluent des « perspectives concrètes », tandis que la Confédération paysanne estime que « des projets individuels ne font pas une politique »."
-          ],
-          "enjeu": "Le gouvernement fait de l'agriculture un argument pour arracher un compromis sur le budget 2027. Reste à savoir si l'enveloppe répond à une crise que les syndicats jugent structurelle, entre sécheresses, revenus et disparition des exploitations.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant dénonce habituellement une politique agricole tournée vers l'agro-industrie et les grandes exploitations, et réclame des prix rémunérateurs garantis pour les petits paysans et les salariés agricoles.",
-              "src": ""
-            },
-            "gr": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement des prix planchers garantis, la fin des accords de libre-échange et la planification écologique de l'agriculture, et juge les aides ponctuelles insuffisantes face à la crise.",
-              "src": ""
-            },
-            "soc": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement l'aide à l'installation et à l'adaptation climatique, mais critique un plan conditionné au vote du budget et réclame une régulation des marges et des prix.",
-              "src": ""
-            },
-            "eco": {
-              "type": "declare",
-              "texte": "Benoît Biteau (Les Écologistes), député et agriculteur, juge l'enveloppe « ridicule » et incapable de « régler une crise structurelle ».",
-              "src": "franceinfo, 12 novembre 2026"
-            },
-            "ren": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement les plans du gouvernement sur la souveraineté alimentaire et l'adaptation au climat, et appelle les oppositions à voter le budget pour en débloquer les crédits.",
-              "src": ""
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement une agriculture familiale et ses territoires, soutient les aides à la transmission des exploitations et plaide pour un compromis budgétaire qui sécurise ces crédits.",
-              "src": ""
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement la compétitivité des filières et la simplification des normes, tout en insistant sur la maîtrise de la dépense publique dans le budget 2027.",
-              "src": ""
-            },
-            "d": {
-              "type": "declare",
-              "texte": "Annie Genevard (LR), ministre de l'Agriculture, a présenté le plan en qualifiant de « Notre-Dame agricoles » les projets d'avenir qu'il doit financer, avec un guichet pour s'équiper face aux aléas climatiques.",
-              "src": "AFP, 12 novembre 2026"
-            },
-            "dn": {
-              "type": "lecture",
-              "texte": "Le courant dénonce habituellement les accords de libre-échange et l'excès de normes, réclame la priorité aux produits français et juge les annonces gouvernementales tardives et insuffisantes.",
-              "src": ""
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement les agriculteurs contre les normes européennes et écologiques, réclame la sortie des traités de libre-échange et la protection du marché français.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "Boursorama (AFP) – Climat, souveraineté alimentaire : 725 millions d'euros pour relancer l'agriculture française",
-              "u": "https://www.boursorama.com/actualite-economique/actualites/climat-souverainete-alimentaire-725-millions-d-euros-pour-relancer-l-agriculture-francaise-8d5d6f74bf924f4a2dae726aafa6b331"
-            },
-            {
-              "t": "Réussir – Le gouvernement détaille un plan de relance agricole à 725 millions d'euros dépendant du vote du PLF 2027",
-              "u": "https://www.reussir.fr/articles/le-gouvernement-detaille-un-plan-de-relance-agricole-725-millions-deuros-dependant-du-vote"
-            },
-            {
-              "t": "Public Sénat – Plan de relance agricole : « Une des thématiques majeures du compromis budgétaire », affirme Sébastien Lecornu",
-              "u": "https://www.publicsenat.fr/actualites/politique/plan-de-relance-agricole-une-des-thematiques-majeures-du-compromis-budgetaire-affirme-sebastien-lecornu"
-            },
-            {
-              "t": "franceinfo – Plan de relance agricole : une enveloppe « ridicule » qui ne peut « régler une crise structurelle », juge le député écologiste Benoît Biteau",
-              "u": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/plan-de-relance-agricole-une-enveloppe-ridicule-qui-ne-peut-regler-une-crise-structurelle-juge-le-depute-ecologiste-benoit-biteau_8279774.html"
-            }
-          ],
-          "image": {
-            "u": "https://www.boursorama.com/static/i/content/images/b/1/b/b1b56a92e7a7e6bb5f5cdd86e9ebf311-1200x800.jpg",
-            "credit": "Boursorama (AFP)",
-            "alt": "Le Premier ministre Sébastien Lecornu lors d'une conférence de presse sur le plan de relance agricole, le 12 novembre 2026 à Paris ( POOL / GEOFFROY VAN DER HASSELT )"
-          }
-        },
-        {
-          "id": "2026-11-13-presidentielle-primaire-grand-oral",
-          "rubrique": "Présidentielle 2027",
-          "titre": "Présidentielle : Retailleau veut une primaire même sans Philippe, huit candidats au grand oral des services publics",
-          "chapo": "Le candidat LR juge que le départage de la droite et du centre doit avoir lieu, que le président d'Horizons y participe ou non. Le même jour, huit prétendants détaillaient sur Radio France leurs projets pour l'école, la santé, la justice et la fonction publique.",
-          "faits": [
-            "Sur franceinfo jeudi, Bruno Retailleau a répondu « oui » quand on lui demandait si la primaire devait se tenir même sans Édouard Philippe ; il a proposé cette semaine à Édouard Philippe, Gabriel Attal et David Lisnard un scrutin les 31 janvier et 7 février.",
-            "Édouard Philippe maintient son refus de se soumettre à une primaire ; Gabriel Attal se dit ouvert aux dates proposées. Les directeurs de campagne de Gabriel Attal, Bruno Retailleau et David Lisnard doivent se réunir le 17 novembre.",
-            "Lors d'une journée spéciale de Radio France consacrée aux services publics, Fabien Roussel, Bruno Retailleau, Marine Tondelier, Raphaël Glucksmann, Jean-Luc Mélenchon, Gabriel Attal, Éric Zemmour et Édouard Philippe ont présenté leurs propositions ; Marine Le Pen et David Lisnard étaient absents.",
-            "Les écarts sont nets sur l'emploi public : de 500 000 recrutements sur cinq ans chez Fabien Roussel à 800 000 suppressions de postes chez Éric Zemmour, en passant par le non-remplacement de 400 000 fonctionnaires chez Bruno Retailleau.",
-            "Selon un sondage Odoxa publié le 21 octobre, neuf Français sur dix disent que les programmes sur les services publics pèseront dans leur vote."
-          ],
-          "enjeu": "La droite et le centre, distancés dans les sondages par Marine Le Pen et, dans une moindre mesure, par Jean-Luc Mélenchon, cherchent une règle pour éviter la dispersion. Le débat sur les services publics dessine l'un des clivages les plus nets de la campagne, sur le nombre de fonctionnaires et la place de l'État.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement des embauches massives dans les services publics, la titularisation des précaires et de fortes hausses de salaires, et rejette toute réduction du nombre de fonctionnaires.",
-              "src": ""
-            },
-            "gr": {
-              "type": "declare",
-              "texte": "Jean-Luc Mélenchon (LFI) promet 22 milliards d'euros pour les services publics dès les premiers mois ; Fabien Roussel (PCF) veut recruter 500 000 fonctionnaires en cinq ans et augmenter d'emblée le point d'indice de 10 %.",
-              "src": "Radio France, via Public Sénat, 12 novembre 2026"
-            },
-            "soc": {
-              "type": "declare",
-              "texte": "Raphaël Glucksmann (Place publique) propose de remplacer Parcoursup et regrette que « la principale candidate qui prône la fin de l'audiovisuel public » n'ait pas participé à l'exercice.",
-              "src": "Radio France, via Public Sénat, 12 novembre 2026"
-            },
-            "eco": {
-              "type": "declare",
-              "texte": "Marine Tondelier (Les Écologistes) propose de créer 250 000 à 350 000 emplois publics, dont 9 000 postes de magistrats et 10 000 de greffiers, et de limiter la liberté d'installation des médecins.",
-              "src": "Radio France, via Public Sénat, 12 novembre 2026"
-            },
-            "ren": {
-              "type": "declare",
-              "texte": "Gabriel Attal (Renaissance) se dit ouvert aux dates de la primaire et promet qu'« il y aura un siège » pour Édouard Philippe jusqu'au bout ; il propose 100 000 départs volontaires dans les ministères.",
-              "src": "franceinfo et Radio France, 12 novembre 2026"
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant plaide habituellement pour l'unité du bloc central derrière un candidat commun, se méfie des primaires qui divisent et défend des services publics de proximité réformés plutôt que réduits.",
-              "src": ""
-            },
-            "hor": {
-              "type": "declare",
-              "texte": "Édouard Philippe (Horizons) refuse toujours la primaire : « je ne suis pas homme à changer d'avis au gré des circonstances » ; il met en garde contre une « crise financière » et propose de fusionner des agences.",
-              "src": "franceinfo et Radio France, 12 novembre 2026"
-            },
-            "d": {
-              "type": "declare",
-              "texte": "Bruno Retailleau (LR) juge que « les Français jugeront très sévèrement celui ou celle qui empêcherait » la primaire ; il propose de ne pas remplacer 400 000 fonctionnaires et de supprimer des agences, à commencer par l'Ademe.",
-              "src": "franceinfo et Radio France, 12 novembre 2026"
-            },
-            "dn": {
-              "type": "lecture",
-              "texte": "Le courant mise habituellement sur la candidature de Marine Le Pen, rejette les primaires des autres camps comme des arrangements d'appareil, et défend la suppression de l'audiovisuel public et des économies sur les agences de l'État.",
-              "src": ""
-            },
-            "ed": {
-              "type": "declare",
-              "texte": "Éric Zemmour (Reconquête) propose 800 000 suppressions de postes publics en cinq ans, hors enseignants, policiers, militaires et soignants, la fin du collège unique et 40 000 recrutements de surveillants pénitentiaires.",
-              "src": "Radio France, via Public Sénat, 12 novembre 2026"
-            }
-          },
-          "sources": [
-            {
-              "t": "Public Sénat – Présidentielle 2027 : santé, justice, éducation, culture… Que retenir du grand oral des candidats sur les services publics",
-              "u": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-sante-justice-education-cultureque-retenir-du-grand-oral-des-candidats-sur-les-services-publics"
-            },
-            {
-              "t": "Europe 1 – Présidentielle 2027 : Bruno Retailleau juge que la primaire doit se faire même sans Philippe",
-              "u": "https://www.europe1.fr/politique/presidentielle-2027-bruno-retailleau-juge-que-la-primaire-doit-se-faire-meme-sans-philippe-1228463"
-            },
-            {
-              "t": "Boursorama (AFP) – Retailleau juge que la primaire doit se faire même sans Philippe",
-              "u": "https://www.boursorama.com/actualite-economique/actualites/retailleau-juge-que-la-primaire-doit-se-faire-meme-sans-philippe-1c232913a9486dae718d8aa85a692c69"
-            }
-          ],
-          "image": {
-            "u": "https://www.publicsenat.fr/app/uploads/2026/11/SIPA_01244825_000006-e1794507398380-1200x630.jpg",
-            "credit": "Public Sénat",
-            "alt": "Illustration de l'article de Public Sénat"
-          }
-        },
-        {
-          "id": "2026-11-13-ukraine-poutine-emissaires",
-          "rubrique": "International",
-          "titre": "Ukraine : Poutine reste inflexible face aux émissaires américains, les Européens annoncés à la prochaine table de négociation",
-          "chapo": "Après plus de quatre heures d'entretien au Kremlin avec Steve Witkoff et Jared Kushner, le président russe a rejeté toute zone tampon et toute présence de troupes étrangères en Ukraine. Washington et Kiev assurent que les Européens seront associés au prochain cycle.",
-          "faits": [
-            "Vladimir Poutine a reçu jeudi au Kremlin les émissaires américains, au lendemain des pourparlers d'Abou Dhabi ; selon l'AFP, il a rejeté toute « zone grise » ou démilitarisée le long du front et jugé « absolument inacceptable » la présence de troupes étrangères en Ukraine.",
-            "Moscou continue d'exiger le retrait ukrainien de toute la région de Donetsk ; le président russe a proposé une opération « humanitaire » à Kostiantynivka, sur le modèle de la trêve locale observée à Olechky, dans la région de Kherson.",
-            "Jared Kushner a écrit sur X que les deux parties étaient « convenues d'élargir la prochaine série de négociations » aux partenaires européens, tout en reconnaissant que « d'importantes divergences subsistent » ; le Kremlin n'a pas confirmé ce point.",
-            "Les émissaires ont ensuite rejoint Dublin, où se tenait le sommet de la Communauté politique européenne ; Volodymyr Zelensky y a assuré que les Européens « auront une voix », et Emmanuel Macron a écrit qu'« aucune décision concernant la sécurité de l'Europe ne peut se prendre sans les Européens »."
-          ],
-          "enjeu": "L'entrée annoncée des Européens dans les négociations répond à une demande constante de Paris, mais Moscou ne l'a pas validée et reste ferme sur les territoires. La question des garanties de sécurité, et d'éventuelles troupes européennes après un accord, devient le principal point de friction.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant dénonce habituellement à la fois l'invasion russe et les ambitions des puissances occidentales, rejette l'envoi d'armes et de troupes, et défend une paix décidée par les peuples plutôt que par les grandes puissances.",
-              "src": ""
-            },
-            "gr": {
-              "type": "declare",
-              "texte": "Jean-Luc Mélenchon (LFI) a affirmé à l'occasion du 11-Novembre qu'« il faut que la Russie évacue l'Ukraine où elle n'a rien à faire », après avoir plaidé au Bourget pour consulter les populations du Donbass.",
-              "src": "AFP, 11 novembre 2026"
-            },
-            "soc": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement l'Ukraine sans réserve, défend une défense européenne commune et refuse tout accord imposé à Kiev par Washington et Moscou sans les Européens.",
-              "src": ""
-            },
-            "eco": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement l'Ukraine et le renforcement des sanctions contre la Russie, et réclame que l'Union européenne siège à la table de toute négociation sur la sécurité du continent.",
-              "src": ""
-            },
-            "ren": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement la ligne d'Emmanuel Macron : soutien à l'Ukraine, garanties de sécurité solides, éventuellement appuyées par une force européenne, et présence des Européens dans toute négociation.",
-              "src": ""
-            },
-            "modem": {
-              "type": "declare",
-              "texte": "Jean-Noël Barrot (MoDem), ministre des Affaires étrangères, avait assuré que « les Européens seront bien représentés » dans les pourparlers, en insistant sur le format E3 aux côtés de l'Union.",
-              "src": "Grand Jury RTL-Public Sénat, 8 novembre 2026"
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement l'Ukraine et l'effort de défense européen, et met en garde contre une paix qui récompenserait l'agression russe ou laisserait Kiev sans garanties.",
-              "src": ""
-            },
-            "d": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement l'Ukraine et la fermeté face à Moscou, tout en appelant à une défense européenne fondée sur les nations et à un réalisme sur l'issue du conflit.",
-              "src": ""
-            },
-            "dn": {
-              "type": "lecture",
-              "texte": "Le courant appelle habituellement à un cessez-le-feu rapide et à une solution négociée, se montre réservé sur les livraisons d'armes et refuse l'envoi de troupes françaises en Ukraine.",
-              "src": ""
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant plaide habituellement pour une paix négociée au plus vite, critique le soutien militaire à Kiev et rejette tout déploiement de soldats français dans le cadre d'une force de garantie.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "Ici Beyrouth (AFP) – Ukraine-Russie : Poutine inflexible lors de sa rencontre avec les envoyés américains",
-              "u": "https://icibeyrouth.com/articles/1344544/ukraine-russie-les-emissaires-americains-a-moscou-pour-rencontrer-poutine"
-            },
-            {
-              "t": "Boursorama (AFP) – Les Européens présents aux prochaines négociations sur l'Ukraine, selon Kiev et Washington",
-              "u": "https://www.boursorama.com/bourse/actualites/ukraine-russie-poutine-inflexible-lors-de-sa-rencontre-avec-les-envoyes-americains-2cf1f545d791b8407d703c10200bdcbf"
-            }
-          ],
-          "image": {
-            "u": "https://icibeyrouth.com/images/bibli/720/960/2/afp20261112d78r2cqv1highresrussiaukraineconflictusdiplomacy.jpg",
-            "credit": "Ici Beyrouth (AFP)",
-            "alt": "Illustration de l'article de Ici Beyrouth (AFP)"
-          }
-        }
-      ],
-      "breves": [
-        {
-          "titre": "Bardella porte plainte pour « faux et usage de faux »",
-          "texte": "Le parquet de Paris a annoncé jeudi que Jordan Bardella avait déposé plainte contre X pour faux et usage de faux, à la suite de l'enquête de Mediapart sur des messages antisémites datés de 2013 qui lui sont attribués. Le président du RN conteste en être l'auteur ; il avait déjà porté plainte contre Mediapart.",
-          "src": {
-            "t": "Orange (L'Express) – Les trois infos à retenir du jeudi 12 novembre",
-            "u": "https://actu.orange.fr/france/les-trois-infos-a-retenir-du-jeudi-12-novembre-l-express-via-6medias-CNT000002tGTED.html"
-          }
-        },
-        {
-          "titre": "Référendum : 110 constitutionnalistes mettent en garde Le Pen et Mélenchon",
-          "texte": "Dans une tribune, 110 constitutionnalistes rappellent que l'article 11 de la Constitution ne permet pas de réviser la Constitution par référendum, une voie évoquée par Marine Le Pen et Jean-Luc Mélenchon pour leurs projets de réforme institutionnelle.",
-          "src": {
-            "t": "Public Sénat – Révision de la Constitution : 110 constitutionnalistes rappellent à Marine Le Pen et Jean-Luc Mélenchon qu'ils ne pourront pas avoir recours au référendum via l'article 11",
-            "u": "https://www.publicsenat.fr/actualites/politique/revision-de-la-constitution-110-constitutionnalistes-rappellent-a-marine-le-pen-et-jean-luc-melenchon-quils-ne-pourront-pas-avoir-recours-au-referendum-via-larticle-11"
-          }
-        },
-        {
-          "titre": "Braquage à main armée rue de la Paix",
-          "texte": "Quatre hommes cagoulés et armés ont braqué jeudi la bijouterie De Beers de la rue de la Paix, près de la place Vendôme à Paris, avant de repartir en quelques minutes sans faire de blessé. Le butin est estimé à plus d'un million d'euros ; le parquet de Paris a ouvert une enquête.",
-          "src": {
-            "t": "Orange (L'Express) – Les trois infos à retenir du jeudi 12 novembre",
-            "u": "https://actu.orange.fr/france/les-trois-infos-a-retenir-du-jeudi-12-novembre-l-express-via-6medias-CNT000002tGTED.html"
-          }
-        }
-      ],
-      "agenda": [
-        {
-          "d": "Ven. 13 nov.",
-          "t": "Rassemblement des chefs d'établissement à 15 h ; Sébastien Lecornu reçoit les syndicats de la fonction publique ; le Sénat poursuit le budget de la Sécu"
-        },
-        {
-          "d": "Sam. 14 nov.",
-          "t": "Marche des organisations lycéennes et étudiantes"
-        },
-        {
-          "d": "Lun. 16 nov.",
-          "t": "Conseil des ministres des Affaires étrangères de l'UE"
-        },
-        {
-          "d": "Mar. 17 nov.",
-          "t": "Journée de mobilisation interprofessionnelle et fonction publique ; réunion des équipes Attal, Retailleau et Lisnard sur la primaire ; fin de l'examen du budget de la Sécu au Sénat"
-        },
-        {
-          "d": "Mer. 18 nov.",
-          "t": "Vote solennel du Sénat sur le budget de la Sécurité sociale"
-        },
-        {
-          "d": "Jeu. 19 nov.",
-          "t": "Réunion de la coalition des volontaires pour l'Ukraine en Allemagne"
         }
       ]
     }
