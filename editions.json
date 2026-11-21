@@ -93,7 +93,12 @@
               "t": "Lutte ouvrière – À bas la loi « permis de tuer » !",
               "u": "https://lutte-ouvriere.org/journal/article/bas-loi-permis-tuer-197118.html"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.lalibre.be/resizer/v2/ODKLKJBY5JHBZGGEX5JO7VIOG4.png?auth=99992c0249edfd0f59ed7caae24c0f483574cfcaa1b362acfcac9717c690a301&width=1200&height=630&quality=85&smart=true",
+            "credit": "La Libre (AFP)",
+            "alt": "Illustration de l'article de La Libre (AFP)"
+          }
         },
         {
           "id": "2026-11-21-proces-zecler-verdict",
@@ -176,7 +181,12 @@
               "t": "Révolution permanente – Procès Nuissier, Gomes et Zecler : luttons contre les violences policières",
               "u": "https://www.revolutionpermanente.fr/Proces-Nuissier-Gomes-et-Zecler-des-Antilles-aux-quartiers-populaires-luttons-contre-les-violences"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://static-content.rtbf.be/article/image/1920x1080/c/a/d/71bed58f587395f7855c6dc1fcb9c490.jpg",
+            "credit": "RTBF (AFP)",
+            "alt": "Procès Zecler : les trois policiers condamnés à des peines de un à deux ans de prison ferme"
+          }
         },
         {
           "id": "2026-11-21-budget-etat-senat",
@@ -263,7 +273,12 @@
               "t": "Sénat – Projet de loi de finances pour 2027",
               "u": "https://www.senat.fr/dossier-legislatif/pjlf2027.html"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.publicsenat.fr/app/uploads/2026/11/ecolo-senat-scaled-e1795098655883-1200x630.jpg",
+            "credit": "Public Sénat",
+            "alt": "Illustration de l'article de Public Sénat"
+          }
         },
         {
           "id": "2026-11-21-villepin-candidat-primaire",
@@ -350,7 +365,12 @@
               "t": "La Gazette France (AFP) – Primaire à droite : Zemmour espère que Lisnard fera en sorte de l'intégrer",
               "u": "https://www.lagazettefrance.fr/article/primaire-a-droite-zemmour-espere-que-lisnard-fera-en-sorte-de-l-integrer"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2026-11/AFP__20261120__D84A6UH__v1__HighRes__France2027PoliticsElection.jpg?itok=2NFdNeC6",
+            "credit": "LCP",
+            "alt": "Illustration de l'article de LCP"
+          }
         },
         {
           "id": "2026-11-21-ecologistes-jadot-melenchon",
@@ -437,7 +457,12 @@
               "t": "LCP – Philippe Poutou renonce à se présenter et se range derrière Jean-Luc Mélenchon",
               "u": "https://lcp.fr/actualites/presidentielle-2027-philippe-poutou-renonce-a-se-presenter-et-se-range-derriere-jean-luc"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.publicsenat.fr/app/uploads/2026/11/Jadot-5-1-scaled.jpg",
+            "credit": "Public Sénat",
+            "alt": "Illustration de l'article de Public Sénat"
+          }
         },
         {
           "id": "2026-11-21-fuites-interieur-rn",
@@ -516,7 +541,12 @@
               "t": "Orange (L'Express) – Le RN soupçonné d'avoir bénéficié de fuites depuis le ministère de l'Intérieur : ce que l'on sait",
               "u": "https://actu.orange.fr/politique/le-rn-soupconne-d-avoir-beneficie-de-fuites-depuis-le-ministere-de-l-interieur-ce-que-l-on-sait-de-l-affaire-l-express-CNT000002tPN4f.html"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.publicsenat.fr/app/uploads/2026/11/SIPA_01309608_000016-scaled.jpg",
+            "credit": "Public Sénat",
+            "alt": "Illustration de l'article de Public Sénat"
+          }
         },
         {
           "id": "2026-11-21-ukraine-kiev-macron",
@@ -607,7 +637,12 @@
               "t": "Lutte ouvrière – Shenzhen : rencontre entre brigands",
               "u": "https://lutte-ouvriere.org/portail/breves/shenzhen-rencontre-entre-brigands-210074.html"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://images.euronews.com/articles/stories/09/99/86/98/1200x675_cmsv2_1084be1d-cb97-5edd-a2d5-804d453cff04-9998698.jpg",
+            "credit": "Euronews",
+            "alt": "Coalition des volontaires réunie à Berlin : quelles priorités pour la France ?"
+          }
         }
       ],
       "breves": [
