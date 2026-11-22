@@ -89,7 +89,12 @@
               "t": "La Libre – Sixième samedi de mobilisation en France pour la jeunesse et contre la vie chère",
               "u": "https://www.lalibre.be/international/europe/2026/11/21/sixieme-samedi-de-mobilisation-en-france-pour-la-jeunesse-et-contre-la-vie-chere-JG53DZULENHEZMCQTYXUXQ52EQ/"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.lavenir.net/resizer/v2/C4TJJIJGCBBFVCSTNRIQX3BHME.jpg?auth=aa656baf192f7941c0f4989512ba75b1cb27f66ae06edf04a37d21b8d8415a2d&width=1200&height=630&quality=85&focal=2520%2C1679",
+            "credit": "L'Avenir",
+            "alt": "Illustration de l'article de L'Avenir"
+          }
         },
         {
           "id": "2026-11-22-ruffin-retrait",
@@ -172,7 +177,12 @@
               "t": "Boursorama – France : Le Pen et Mélenchon s'installent dans la course à l'Élysée, multiples candidatures à leur suite",
               "u": "https://www.boursorama.com/actualite-economique/actualites/france-le-pen-et-melenchon-s-installent-dans-la-course-a-l-elysee-multiples-candidatures-a-leur-suite-08e307be7146fe32f2223b8f18e0be7b"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.sudradio.fr/wp-content/uploads/2026/11/9d846f82693156bc50aa6514c5481d830ec3170c.jpg",
+            "credit": "Sud Radio",
+            "alt": "Illustration de l'article de Sud Radio"
+          }
         },
         {
           "id": "2026-11-22-budget-senat-deficit",
@@ -256,7 +266,12 @@
               "t": "Sénat – Rapport général sur le projet de loi de finances pour 2027",
               "u": "https://www.senat.fr/rap/l26-156-1/l26-156-19.html"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.publicsenat.fr/app/uploads/2026/11/IMG_3056-scaled-e1795099815845-1200x630.jpg",
+            "credit": "Public Sénat",
+            "alt": "Illustration de l'article de Public Sénat"
+          }
         },
         {
           "id": "2026-11-22-loi-logement-vote",
@@ -339,7 +354,12 @@
               "t": "NosParlementaires – Passoires thermiques : l'interdiction de louer supprimée à l'Assemblée",
               "u": "https://nosparlementaires.fr/actualites/passoires-thermiques-interdiction-louer-supprimee-assemblee-rn"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2026-11/Vincent%20Jeanbrun_0.jpg?itok=mNrT9zzB",
+            "credit": "LCP",
+            "alt": "Illustration de l'article de LCP"
+          }
         },
         {
           "id": "2026-11-22-cop31-prolongations",
@@ -422,7 +442,12 @@
               "t": "Le Petit Journal – COP31 sur le climat : les énergies fossiles disparaissent du projet de décision finale",
               "u": "https://lepetitjournal.com/istanbul/actualites/cop31-sur-le-climat-les-energies-fossiles-disparaissent-du-projet-de-decision-finale-459327"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.rte.ie/images/002561b9-1600.jpg",
+            "credit": "RTÉ",
+            "alt": "Illustration de l'article de RTÉ"
+          }
         }
       ],
       "breves": [
