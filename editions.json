@@ -1,6 +1,487 @@
 {
-  "updated": "2026-11-21T06:35:56+01:00",
+  "updated": "2026-11-22T06:34:17+01:00",
   "editions": [
+    {
+      "date": "2026-11-22",
+      "label": "Dimanche 22 novembre 2026",
+      "maj": "Mise à jour à 6 h 34",
+      "intro": "Pour le sixième samedi d'affilée, syndicats, jeunesse et gilets jaunes ont manifesté contre la vie chère, en nombre moindre, avant une grève de la fonction publique le 1er décembre. À gauche, François Ruffin renonce à la présidentielle. Au Parlement, le Sénat chiffre un déficit de l'État en hausse et l'Assemblée vote mardi la loi logement. À l'international, la COP31 joue les prolongations à Antalya.",
+      "stories": [
+        {
+          "id": "2026-11-22-acte-vi-mobilisation",
+          "rubrique": "Social",
+          "titre": "Sixième samedi de mobilisation : la participation recule, une grève de la fonction publique prévue le 1er décembre",
+          "chapo": "Syndicats, organisations de jeunesse et gilets jaunes ont de nouveau défilé samedi contre la vie chère. Les chiffres sont en baisse, mais l'intersyndicale prépare déjà la suite.",
+          "faits": [
+            "Le ministère de l'Intérieur a compté 82 500 manifestants en France samedi 21 novembre, dont 21 500 à Paris ; les organisations de jeunesse (Union étudiante, USL, Unef, Fage) en revendiquent 150 000, dont 45 000 à Paris.",
+            "Le samedi précédent, le ministère avait recensé 106 000 manifestants et les organisateurs 200 000. Le 17 octobre, au début du mouvement, le ministère en comptait 565 000.",
+            "Le ministère a annoncé 144 interpellations à 18 h (bilan provisoire). Des tensions ont été signalées à Lyon, Marseille et Lille, ainsi qu'à Grenoble, Tours, Nantes et Bordeaux ; à Paris, le cortège est allé de République à Nation. Environ 70 000 policiers et gendarmes étaient mobilisés.",
+            "La CGT, la CFDT, FO, la FSU et Solidaires appelaient à manifester pour les salaires, les pensions, les services publics et le logement. De nombreuses pancartes visaient aussi la loi sur la présomption d'usage légal des armes, adoptée la veille.",
+            "Prochaines étapes : les gilets jaunes rejoignent le 28 novembre les marches féministes de Nous Toutes, et une journée de grève dans la fonction publique est prévue le 1er décembre, que la CFDT, la CGT et l'Unsa appellent le privé à rejoindre."
+          ],
+          "enjeu": "Le reflux des cortèges du samedi pose la question du second souffle du mouvement, que les syndicats cherchent dans la grève du 1er décembre. Pour le gouvernement, l'enjeu reste de tenir l'ordre public sans raviver la contestation en pleine discussion budgétaire.",
+          "positions": {
+            "eg": {
+              "type": "declare",
+              "texte": "William Donaura, dans un éditorial du NPA-L'Anticapitaliste, estime que la mobilisation s'enracine et juge que « ce gouvernement n'a jamais été aussi minoritaire ».",
+              "src": "L'Anticapitaliste, 18 novembre 2026"
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Jean-Luc Mélenchon (LFI) soutient le mouvement et prédit, à propos d'Emmanuel Macron, qu'« il devra céder ou partir ». Il avait auparavant mis en cause le commandement policier à Paris.",
+              "src": "Entrevue, 1er novembre 2026 ; LCP, 17 octobre 2026"
+            },
+            "soc": {
+              "type": "declare",
+              "texte": "Venu défiler à Paris, Olivier Faure (PS) a regretté l'hostilité de militants envers les socialistes, estimant que cette intolérance crée « les conditions d'un divorce dont nous n'avons pas besoin ».",
+              "src": "AFP, 5 novembre 2026"
+            },
+            "eco": {
+              "type": "declare",
+              "texte": "Marine Tondelier (Les Écologistes) estime que « les appels au calme, c'est du gouvernement qu'ils doivent venir » et demande de revoir la doctrine de maintien de l'ordre.",
+              "src": "La Gazette France, 17 octobre 2026"
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "Gabriel Attal (Renaissance) a dénoncé des pillages « indignes » en marge des cortèges et une « provocation envers l'autorité de l'État ».",
+              "src": "LCP, 17 octobre 2026"
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement le dialogue social et la recherche de compromis avec les syndicats, tout en condamnant les violences et en appelant au respect de l'ordre républicain.",
+              "src": ""
+            },
+            "hor": {
+              "type": "declare",
+              "texte": "Édouard Philippe (Horizons) a demandé que les auteurs de violences soient « tous pourchassés et punis avec une grande sévérité ».",
+              "src": "LCP, 17 octobre 2026"
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Bruno Retailleau (LR) a appelé à « la force implacable de l'État » contre les violences et estime que les agresseurs de policiers ne méritent « rien d'autre que la prison ».",
+              "src": "LCP, 17 octobre 2026"
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Jordan Bardella (RN) juge que « l'ultra-gauche cherche à pourrir les revendications » et lance aux manifestants : « Manifester, c'est une chose, voter, c'est mieux. »",
+              "src": "Europe 1-CNews, 17 novembre 2026"
+            },
+            "ed": {
+              "type": "declare",
+              "texte": "Lors de son premier meeting de campagne à Toulon, Éric Zemmour (Reconquête) est revenu sur les violences du 17 octobre, qu'il a imputées à des jeunes issus de l'immigration, qualifiés par lui de « hordes ».",
+              "src": "La Gazette France, 21 novembre 2026"
+            }
+          },
+          "sources": [
+            {
+              "t": "L'Avenir – Syndicats, jeunesse et gilets jaunes un peu moins mobilisés pour le sixième samedi de manifestation",
+              "u": "https://www.lavenir.net/actu/monde/2026/11/21/syndicats-jeunesse-et-gilets-jaunes-un-peu-moins-mobilises-pour-le-sixieme-samedi-de-manifestation-OB7YUIBAKZHYHH2TGQDS22RKQM/"
+            },
+            {
+              "t": "La Gazette France – Syndicats, jeunesse et gilets jaunes dans la rue pour le sixième samedi consécutif",
+              "u": "https://www.lagazettefrance.fr/article/syndicats-jeunesse-et-gilets-jaunes-dans-la-rue-pour-le-sixieme-samedi-consecutif"
+            },
+            {
+              "t": "ICI – Mobilisation du 21 novembre : 150.000 manifestants dans la rue selon les syndicats, 82.500 selon le ministère",
+              "u": "https://www.ici.fr/infos/societe/mobilisation-du-21-novembre-syndicats-jeunesse-et-gilets-jaunes-a-nouveau-dans-la-rue-une-contestation-en-baisse-3040493"
+            },
+            {
+              "t": "La Libre – Sixième samedi de mobilisation en France pour la jeunesse et contre la vie chère",
+              "u": "https://www.lalibre.be/international/europe/2026/11/21/sixieme-samedi-de-mobilisation-en-france-pour-la-jeunesse-et-contre-la-vie-chere-JG53DZULENHEZMCQTYXUXQ52EQ/"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-22-ruffin-retrait",
+          "rubrique": "Présidentielle 2027",
+          "titre": "François Ruffin renonce à la présidentielle, faute de grande primaire à gauche",
+          "chapo": "Le député de la Somme a annoncé samedi le retrait de sa candidature, prenant « acte de l'impasse ». Il ne soutient aucun autre candidat.",
+          "faits": [
+            "Dans un communiqué publié samedi 21 novembre sur X, François Ruffin écrit : « Face au risque du pire, je retire ma candidature à l'élection présidentielle. »",
+            "Il explique que « les appareils ont rejeté cette grande primaire » qu'il appelait de ses vœux, et que « le duel des deux gauches irréconciliables est installé ». Il dit vouloir continuer à combattre le Rassemblement national avec son mouvement Debout !.",
+            "Candidat depuis janvier, il plafonnait entre 1 et 3 % dans les sondages, selon l'AFP. Il ne donne de consigne pour personne et souhaite « bonne campagne » aux autres candidats de gauche.",
+            "À gauche restent notamment en lice Jean-Luc Mélenchon (LFI), Raphaël Glucksmann (Place publique), vainqueur en octobre de la primaire sociale-démocrate avec 66 % des voix, et Fabien Roussel (PCF). Les militants écologistes doivent se prononcer du 10 au 13 décembre sur la proposition de Marine Tondelier d'une coalition autour de Jean-Luc Mélenchon."
+          ],
+          "enjeu": "Ce retrait simplifie l'offre à gauche autour de deux pôles, l'un autour de Jean-Luc Mélenchon, l'autre autour de Raphaël Glucksmann. Reste à savoir vers qui se tourneront ses soutiens, et si la pression pour une candidature unique s'accentue à cinq mois du premier tour, prévu le 18 avril 2027.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant présente habituellement ses propres candidatures, en dehors des alliances de gauche, et juge que l'union des partis de gauche ne répond pas aux intérêts des travailleurs.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Fabien Roussel (PCF) salue « ses convergences nombreuses » avec François Ruffin et l'appelle à « travailler ensemble » pour une France qui respecte « la classe travailleuse ». LFI n'a pas réagi.",
+              "src": "Keystone-ATS, 21 novembre 2026"
+            },
+            "soc": {
+              "type": "declare",
+              "texte": "Pierre Jouvet (PS), chargé de la communication de la campagne de Raphaël Glucksmann, affirme que les combats de François Ruffin pour la dignité du travail et la réindustrialisation sont « au coeur » de ceux de son candidat.",
+              "src": "Keystone-ATS, 21 novembre 2026"
+            },
+            "eco": {
+              "type": "declare",
+              "texte": "Marine Tondelier (Les Écologistes) n'a pas commenté ce retrait ; elle a proposé quelques jours plus tôt une coalition de la gauche autour de Jean-Luc Mélenchon, soumise au vote des militants en décembre.",
+              "src": "AFP, 21 novembre 2026"
+            },
+            "ren": {
+              "type": "lecture",
+              "texte": "Le courant renvoie habituellement dos à dos les divisions de la gauche et se présente comme l'alternative centrale face aux candidatures de LFI et du RN.",
+              "src": ""
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant plaide habituellement pour un rassemblement central et voit dans les recompositions à gauche la confirmation d'une offre politique fragmentée.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant estime habituellement que la gauche reste dominée par LFI et met en avant une candidature de centre droit pour l'emporter face au RN.",
+              "src": ""
+            },
+            "d": {
+              "type": "lecture",
+              "texte": "Le courant dénonce habituellement l'influence de LFI sur l'ensemble de la gauche et en tire argument pour une droite unie dès le premier tour.",
+              "src": ""
+            },
+            "dn": {
+              "type": "lecture",
+              "texte": "Le courant présente habituellement les divisions de la gauche comme le signe de son affaiblissement et se pose en principale force d'opposition.",
+              "src": ""
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant décrit habituellement la gauche comme un bloc dominé par LFI et met l'accent sur ses propres thèmes, l'immigration et l'identité.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Sud Radio – Présidentielle : Ruffin renonce, le paysage se clarifie à gauche",
+              "u": "https://www.sudradio.fr/societe/presidentielle-ruffin-renonce-le-paysage-se-clarifie-a-gauche"
+            },
+            {
+              "t": "Ouest-France – Présidentielle : François Ruffin retire sa candidature et souhaite « bonne campagne » aux « candidats de gauche »",
+              "u": "https://www.ouest-france.fr/elections/presidentielle/presidentielle-2027-francois-ruffin-retire-sa-candidature-2e91a6fc-e5cd-11f1-bd4e-6f30b8f49e21"
+            },
+            {
+              "t": "Le Temps – Dans « l'impasse » faute d'une grande primaire à gauche, François Ruffin se retire de la course à l'Elysée",
+              "u": "https://www.letemps.ch/monde/france/dans-l-impasse-faute-d-une-grande-primaire-a-gauche-francois-ruffin-se-retire-de-la-course-a-l-elysee"
+            },
+            {
+              "t": "Boursorama – France : Le Pen et Mélenchon s'installent dans la course à l'Élysée, multiples candidatures à leur suite",
+              "u": "https://www.boursorama.com/actualite-economique/actualites/france-le-pen-et-melenchon-s-installent-dans-la-course-a-l-elysee-multiples-candidatures-a-leur-suite-08e307be7146fe32f2223b8f18e0be7b"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-22-budget-senat-deficit",
+          "rubrique": "Budget",
+          "titre": "Budget de l'État : le Sénat chiffre à 156 milliards le déficit de 2027 et veut alléger l'effort des collectivités",
+          "chapo": "Le rapport de la commission des finances prévoit un déficit de l'État en hausse de 19,2 milliards. L'examen des recettes reprend lundi, à la veille du Congrès des maires.",
+          "faits": [
+            "Selon le rapport général de la commission des finances du Sénat, le déficit budgétaire de l'État atteindrait 156,4 milliards d'euros en 2027, contre 137,2 milliards en 2026 (prévision révisée), soit 19,2 milliards de plus.",
+            "Les recettes non fiscales reculent de 16,9 milliards, notamment avec la fin du plan de relance européen, tandis que les dépenses augmentent de 18,4 milliards, dont 9,6 milliards de charge de la dette et 6,7 milliards pour la défense.",
+            "Vendredi, le Sénat a rejeté par 249 voix contre 19 la question préalable des sénateurs communistes, ce qui a ouvert l'examen d'un texte que l'Assemblée avait rejeté par 458 voix contre 0. Près de 3 000 amendements restent à examiner.",
+            "La commission des finances veut ramener l'effort demandé aux collectivités, chiffré autour de 5,5 milliards, « entre 2 et 2,5 milliards », en supprimant notamment la baisse du FCTVA.",
+            "Le vote solennel du Sénat sur l'ensemble du budget est prévu le 9 décembre."
+          ],
+          "enjeu": "La droite sénatoriale veut à la fois davantage d'économies et un effort moindre pour les collectivités, un équilibre délicat. La suite dépendra du compromis avec le gouvernement, qui n'exclut pas de recourir aux ordonnances, une option que les socialistes menacent de sanctionner par la censure.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant rejette habituellement les budgets d'austérité et demande de financer salaires et services publics par la taxation des profits et des grandes fortunes.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Le sénateur Pascal Savoldelli (PCF) accuse la droite de vouloir « amplifier les injustices fiscales et sociales » et soupçonne un accord de non-censure avec le RN et l'UDR.",
+              "src": "Public Sénat, 19 novembre 2026"
+            },
+            "soc": {
+              "type": "declare",
+              "texte": "Thierry Cozic (PS), président de la commission des finances du Sénat, qualifie le projet de « budget crépusculaire ».",
+              "src": "Public Sénat, 20 novembre 2026"
+            },
+            "eco": {
+              "type": "declare",
+              "texte": "Le sénateur Thomas Dossus (Les Écologistes) estime qu'« un accord » est « en train de se décider entre le gouvernement et la droite » sur le budget.",
+              "src": "Public Sénat, 19 novembre 2026"
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "David Amiel (Renaissance), ministre des Comptes publics, juge qu'un effort supplémentaire de 6 milliards serait un minimum et voit dans les économies proposées par la rapporteure « un point de départ ».",
+              "src": "Sud Radio, 20 novembre 2026"
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement la réduction du déficit par un équilibre entre économies et recettes, avec un effort qui ménage les classes moyennes et les collectivités.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant plaide habituellement pour un redressement rapide des comptes publics par la baisse des dépenses, sans hausse générale des impôts.",
+              "src": ""
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Christine Lavarde (LR), rapporteure générale du budget au Sénat, juge le projet « suicidaire » et vise 6 à 7 milliards d'euros d'économies supplémentaires.",
+              "src": "Public Sénat, 20 novembre 2026"
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Jean-Philippe Tanguy (RN) a jugé dès sa présentation que « cette copie est très mauvaise » et réclame des économies sur d'autres postes que ceux retenus par le gouvernement.",
+              "src": "MoneyVox, 2 octobre 2026"
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant réclame habituellement des économies massives sur l'immigration et les aides sociales, ainsi qu'une baisse des prélèvements sur les entreprises et les ménages.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Public Sénat – « Ce PLF est suicidaire ! » : début de l'examen du budget au Sénat, la droite veut accroître l'effort",
+              "u": "https://www.publicsenat.fr/actualites/politique/ce-plf-est-suicidaire-debut-de-lexamen-du-budget-au-senat-la-droite-veut-accroitre-leffort"
+            },
+            {
+              "t": "Banque des Territoires – Budget 2027 : le Sénat entend ramener l'effort des collectivités entre 2 et 2,5 milliards d'euros",
+              "u": "https://www.banquedesterritoires.fr/budget-2027-le-senat-entend-ramener-leffort-des-collectivites-entre-2-et-25-milliards-deuros"
+            },
+            {
+              "t": "Public Sénat – Budget 2027 : la droite veut amplifier les injustices fiscales et sociales, accusent les sénateurs communistes",
+              "u": "https://www.publicsenat.fr/actualites/politique/budget-2027-la-droite-veut-amplifier-les-injustices-fiscales-et-sociales-accusent-les-senateurs-communistes"
+            },
+            {
+              "t": "Sénat – Rapport général sur le projet de loi de finances pour 2027",
+              "u": "https://www.senat.fr/rap/l26-156-1/l26-156-19.html"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-22-loi-logement-vote",
+          "rubrique": "Logement",
+          "titre": "Loi logement : vote solennel mardi à l'Assemblée, les passoires thermiques au cœur du débat",
+          "chapo": "Les députés ont fini vendredi l'examen du projet de loi de relance et de décentralisation du logement. Un amendement du RN a supprimé l'interdiction de louer les passoires thermiques, contre l'avis du gouvernement.",
+          "faits": [
+            "L'Assemblée nationale a achevé vendredi 20 novembre l'examen des articles du projet de loi porté par le ministre du Logement, Vincent Jeanbrun. Le vote solennel est prévu mardi 24 novembre, avant une commission mixte paritaire début décembre.",
+            "Le texte vise 2 millions de logements neufs ou rénovés d'ici 2030. Il crée des « opérations d'intérêt local » à l'initiative des maires, un statut fiscal du bailleur privé, renforce le rôle des maires dans l'attribution des logements sociaux et prévoit un nouveau programme de renouvellement urbain doté de 5 milliards d'euros.",
+            "Le 17 novembre, un amendement de Frédéric Falcon (RN) supprimant l'interdiction progressive de louer les logements classés G, F puis E a été adopté par 108 voix contre 102, avec les voix du RN, de l'UDR, de la Droite républicaine et de quelques députés d'autres groupes.",
+            "Quatre députés ont ensuite indiqué s'être trompés de vote, ce qui ne change pas le résultat officiel. Le Sénat avait adopté en juillet une version plus modérée du gouvernement : le point sera tranché en commission mixte paritaire."
+          ],
+          "enjeu": "Le texte doit relancer une construction en crise tout en conservant l'objectif de rénovation énergétique. Le sort des passoires thermiques, entre droit des locataires et contraintes des propriétaires, sera l'un des points durs du compromis entre les deux chambres.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement le blocage des loyers, la réquisition des logements vides et un vaste programme public de logements sociaux.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "La députée Anaïs Belouassa-Cherifi (LFI) a dénoncé l'amendement sur les passoires thermiques : « Vous exonérez les bailleurs et vous faites payer la facture aux locataires ! »",
+              "src": "LCP, 17 novembre 2026"
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement la production de logements sociaux, l'encadrement des loyers et le maintien du calendrier de rénovation énergétique, avec des aides aux propriétaires modestes.",
+              "src": ""
+            },
+            "eco": {
+              "type": "declare",
+              "texte": "La députée Julie Laernoes (Les Écologistes) refuse que la crise du logement « serve de prétexte » à un recul sur l'interdiction de louer les passoires thermiques.",
+              "src": "NosParlementaires, 18 novembre 2026"
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "Le député Bastien Marchive (Renaissance) défendait un sursis de cinq ans pour réaliser les travaux, plutôt que la suppression de l'interdiction de louer.",
+              "src": "NosParlementaires, 18 novembre 2026"
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement la relance de la construction et la décentralisation, avec un calendrier de rénovation énergétique assoupli mais maintenu.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant plaide habituellement pour simplifier les normes et redonner la main aux maires afin de relancer la construction.",
+              "src": ""
+            },
+            "d": {
+              "type": "lecture",
+              "texte": "Le courant demande habituellement moins de normes, plus de pouvoirs aux maires et un assouplissement des contraintes de rénovation pesant sur les propriétaires.",
+              "src": ""
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Frédéric Falcon (RN), auteur de l'amendement, s'est félicité : « Nous venons de supprimer les contraintes DPE, et ce n'est pas rien ! »",
+              "src": "LCP, 17 novembre 2026"
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement les petits propriétaires contre les normes énergétiques et réclame la priorité aux Français dans l'accès au logement social.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "LCP – Logement : passoires thermiques, relance de la construction... Ce que contient le projet de loi avant le vote prévu mardi à l'Assemblée",
+              "u": "https://lcp.fr/actualites/logement-passoires-thermiques-relance-de-la-construction-ce-que-contient-le-projet-de"
+            },
+            {
+              "t": "LCP – Logement : un amendement du RN visant à supprimer l'interdiction de louer des passoires thermiques voté à l'Assemblée",
+              "u": "https://lcp.fr/actualites/logement-un-amendement-du-rn-visant-a-supprimer-l-interdiction-de-louer-des-passoires"
+            },
+            {
+              "t": "Banque des Territoires – Logement : le projet de loi Jeanbrun entre dans sa dernière ligne droite à l'Assemblée",
+              "u": "https://www.banquedesterritoires.fr/logement-le-projet-de-loi-jeanbrun-entre-dans-sa-derniere-ligne-droite-lassemblee"
+            },
+            {
+              "t": "NosParlementaires – Passoires thermiques : l'interdiction de louer supprimée à l'Assemblée",
+              "u": "https://nosparlementaires.fr/actualites/passoires-thermiques-interdiction-louer-supprimee-assemblee-rn"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-22-cop31-prolongations",
+          "rubrique": "International",
+          "titre": "COP31 : à Antalya, un texte final soumis aux délégations après deux jours de prolongations",
+          "chapo": "La présidence turque a présenté samedi soir une nouvelle version de l'accord, qui ne mentionnait plus les énergies fossiles dans ses précédentes moutures. La France fait partie des pays qui réclament une sortie explicite des fossiles.",
+          "faits": [
+            "Prévue pour s'achever vendredi 20 novembre, la conférence de l'ONU sur le climat d'Antalya (Turquie) a été prolongée. Le président de la COP31, le ministre turc Murat Kurum, a présenté samedi soir un texte révisé qui, selon lui, peut recueillir l'accord de tous ; une séance plénière était prévue dimanche matin.",
+            "Le projet présenté jeudi ne mentionnait plus le pétrole, le gaz ni le charbon, mais appelait à accélérer le captage et le stockage du carbone. Il proposait de « discuter » d'un triplement du financement de l'adaptation, sans chiffre.",
+            "Le commissaire européen au Climat, Wopke Hoekstra, a estimé samedi qu'il n'y avait « pas encore de compromis » et qu'il valait mieux « pas d'accord qu'un mauvais accord ». Le Panama a menacé de bloquer un texte qui ne cite pas les fossiles.",
+            "La ministre française de la Transition écologique, Monique Barbut, a qualifié l'absence des fossiles de « point noir ». La France a co-animé avec le Panama une coalition d'une dizaine de pays réclamant une « transition claire et ordonnée » hors des énergies fossiles."
+          ],
+          "enjeu": "Deux ans après l'engagement de Dubaï à « s'éloigner » des énergies fossiles, la COP31 dira si cet objectif tient ou recule. Le résultat pèsera sur la crédibilité de la diplomatie climatique européenne et française.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant juge habituellement les COP impuissantes face aux intérêts des grandes entreprises et lie la lutte contre le réchauffement à une remise en cause du capitalisme.",
+              "src": ""
+            },
+            "gr": {
+              "type": "lecture",
+              "texte": "Le courant dénonce habituellement l'influence des pays et des groupes pétroliers dans les COP et défend une planification écologique avec sortie rapide des fossiles.",
+              "src": ""
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement l'accord de Paris et une sortie programmée des énergies fossiles, accompagnée d'un financement accru pour les pays du Sud.",
+              "src": ""
+            },
+            "eco": {
+              "type": "declare",
+              "texte": "La députée Julie Ozenne (Les Écologistes), de retour d'Antalya, accuse le gouvernement de figurer « sur le podium des diplomaties fossiles » et réclame une « loi d'urgence climatique ».",
+              "src": "Assemblée nationale, séance du 17 novembre 2026"
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "Mathieu Lefèvre (Renaissance), ministre délégué à la Transition écologique, défend à l'Assemblée « la sortie progressive des énergies fossiles, qui est absolument indispensable ».",
+              "src": "Assemblée nationale, séance du 17 novembre 2026"
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement le multilatéralisme climatique et une position européenne commune en faveur de la sortie des énergies fossiles.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement une transition appuyée sur le nucléaire et l'innovation, tout en veillant à la compétitivité de l'industrie européenne.",
+              "src": ""
+            },
+            "d": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement la lutte contre le réchauffement, mais met en garde contre une écologie punitive et défend le nucléaire et la compétitivité.",
+              "src": ""
+            },
+            "dn": {
+              "type": "lecture",
+              "texte": "Le courant critique habituellement les grandes conférences internationales sur le climat et privilégie une écologie de proximité appuyée sur le nucléaire et le localisme.",
+              "src": ""
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant se montre habituellement critique envers les engagements climatiques internationaux, qu'il juge coûteux pour l'économie française.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "RTÉ – Summit president says COP31 talks close to final deal",
+              "u": "https://www.rte.ie/news/world/2026/1122/1600166-cop31-turkey/"
+            },
+            {
+              "t": "ONU Info – COP31 : le bras de fer sur les énergies fossiles menace l'accord final",
+              "u": "https://news.un.org/fr/story/2026/11/1159882"
+            },
+            {
+              "t": "Ouest-France – Cop31 : au bord de l'impasse, un nouveau texte final proposé mais sans mention des énergies fossiles",
+              "u": "https://www.ouest-france.fr/environnement/cop21/cop31-au-bord-de-limpasse-un-nouveau-texte-final-propose-mais-sans-mention-des-energies-fossiles-6c1643a6-e623-11f1-bd4e-6f30b8f49e21"
+            },
+            {
+              "t": "Le Petit Journal – COP31 sur le climat : les énergies fossiles disparaissent du projet de décision finale",
+              "u": "https://lepetitjournal.com/istanbul/actualites/cop31-sur-le-climat-les-energies-fossiles-disparaissent-du-projet-de-decision-finale-459327"
+            }
+          ]
+        }
+      ],
+      "breves": [
+        {
+          "titre": "Crues dans le Pas-de-Calais",
+          "texte": "Après les pluies tombées depuis jeudi, environ 150 communes ont été touchées et près de 850 habitations inondées, selon la préfecture ; près de 800 personnes ont été évacuées, sans victime. La Canche et la Lys restaient en vigilance orange samedi, jour où le nettoyage a commencé.",
+          "src": {
+            "t": "AFP via Orange – Après les pluies, le Pas-de-Calais a encore des crues à gérer",
+            "u": "https://actu.orange.fr/france/apres-les-pluies-le-pas-de-calais-a-encore-des-crues-a-gerer-CNT000002tWfRf.html"
+          }
+        },
+        {
+          "titre": "Primaire de la droite et du centre : nouvelle réunion jeudi",
+          "texte": "Les équipes de Bruno Retailleau (LR), Gabriel Attal (Renaissance) et David Lisnard (Nouvelle Énergie) se retrouvent jeudi 26 novembre ; un scrutin fin janvier est évoqué. Édouard Philippe (Horizons) ne participe pas à ces discussions.",
+          "src": {
+            "t": "BFMTV via Yahoo – Primaire de la droite et du centre : nouvelle réunion",
+            "u": "https://fr.news.yahoo.com/primaire-droite-centre-nouvelle-r%C3%A9union-172138883.html"
+          }
+        },
+        {
+          "titre": "Prisons : le Sénat alerte sur la surpopulation",
+          "texte": "Malgré des crédits de la justice en hausse de 4 % dans le budget 2027, un rapport sénatorial juge « alarmante » l'augmentation de la surpopulation carcérale.",
+          "src": {
+            "t": "Public Sénat – Justice : malgré un budget en hausse, le Sénat alerte sur l'augmentation alarmante de la surpopulation carcérale",
+            "u": "https://www.publicsenat.fr/actualites/institutions/justice-malgre-un-budget-en-hausse-le-senat-alerte-sur-laugmentation-alarmante-de-la-surpopulation-carcerale"
+          }
+        }
+      ],
+      "agenda": [
+        {
+          "d": "Lun. 23 nov.",
+          "t": "Reprise au Sénat de l'examen de la partie recettes du budget de l'État"
+        },
+        {
+          "d": "Mar. 24 nov.",
+          "t": "Vote solennel de l'Assemblée sur le projet de loi logement ; ouverture du 108e Congrès des maires à Paris (jusqu'au 26)"
+        },
+        {
+          "d": "Mer. 25 nov.",
+          "t": "Audition au Sénat de la ministre déléguée Alice Rufo sur la présence de militaires français en Ukraine"
+        },
+        {
+          "d": "Jeu. 26 nov.",
+          "t": "Commission mixte paritaire sur le budget de la Sécu ; réunion des équipes Attal, Retailleau et Lisnard sur la primaire ; niche parlementaire LR à l'Assemblée"
+        },
+        {
+          "d": "Sam. 28 nov.",
+          "t": "Marches féministes de Nous Toutes, rejointes par les gilets jaunes"
+        },
+        {
+          "d": "Mar. 1er déc.",
+          "t": "Journée de grève et de mobilisation dans la fonction publique"
+        },
+        {
+          "d": "Mer. 9 déc.",
+          "t": "Vote solennel du Sénat sur le budget de l'État"
+        }
+      ]
+    },
     {
       "date": "2026-11-21",
       "label": "Samedi 21 novembre 2026",
@@ -3229,470 +3710,6 @@
         {
           "d": "Jeu. 19 nov.",
           "t": "Examen au Sénat de la proposition de loi sur la présomption d'usage légitime de l'arme ; réunion de la coalition des volontaires pour l'Ukraine à Berlin"
-        },
-        {
-          "d": "Ven. 20 nov.",
-          "t": "Début de l'examen du budget 2027 de l'État au Sénat ; clôture prévue de la COP31 à Antalya"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-15",
-      "label": "Dimanche 15 novembre 2026",
-      "maj": "Mise à jour à 6 h 33",
-      "intro": "Le cinquième samedi de mobilisation contre la vie chère a rassemblé moins de monde, avant la grève de mardi dans la fonction publique. Le texte sur la présomption d'usage légitime de l'arme, dénoncé dans les cortèges, arrive jeudi au Sénat, et un reportage sur la côte d'Opale fait le point sur les traversées de la Manche. Gérard Larcher veut réunir les candidats de la droite et du centre, pendant que Teddy Riner refuse l'étiquette macroniste. À l'international, Volodymyr Zelensky évoque une offre américaine liant Otan et Donbass, et Emmanuel Macron refuse une « paix injuste ».",
-      "stories": [
-        {
-          "id": "2026-11-15-acte-v-mouvement-social",
-          "rubrique": "Social",
-          "titre": "Acte V du mouvement social : une affluence en recul, 219 interpellations, la grève de mardi en ligne de mire",
-          "chapo": "Pour le cinquième samedi consécutif, lycéens, étudiants, syndicats et gilets jaunes ont défilé contre la vie chère. La participation baisse encore selon l'Intérieur, mais les organisations de jeunesse donnent rendez-vous mardi, jour de grève dans la fonction publique.",
-          "faits": [
-            "Le ministère de l'Intérieur a compté 106 000 manifestants en France samedi, contre 200 000 selon l'intersyndicale de la jeunesse (Union étudiante, USL, Fage, Unef) ; à Paris, les estimations vont de 24 000 à près de 100 000 personnes, selon l'AFP.",
-            "Le ministère a recensé 219 interpellations à 18 h et dix policiers légèrement blessés ; à Paris, le parquet fait état de 45 interpellations. Des projectiles et des mortiers ont visé les forces de l'ordre à Marseille, Grenoble, Lyon, Bordeaux et Montpellier, et une équipe de BFMTV a été agressée en marge du cortège lyonnais, selon la préfecture du Rhône.",
-            "Les revendications portaient sur les salaires, les moyens de l'enseignement, la protection des mineurs et le rejet de la proposition de loi sur la « présomption d'usage légitime de l'arme » des forces de l'ordre, examinée jeudi au Sénat.",
-            "Mardi 17 novembre, l'intersyndicale de la fonction publique (CGT, Unsa, FSU, Solidaires, CFE-CGC, FA-FP), rejointe par la CFDT, appelle à la grève pour le dégel du point d'indice ; la CGT étend l'appel au privé, et des perturbations sont possibles à la SNCF et dans les écoles."
-          ],
-          "enjeu": "La baisse de la participation conforte l'exécutif, qui mise sur les discussions salariales ouvertes vendredi. Mais l'unité syndicale retrouvée pour mardi pourrait redonner de l'élan à un mouvement qui dure depuis plus d'un mois.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant appelle habituellement à faire converger lycéens, étudiants et salariés dans une grève générale reconductible, et dénonce la répression policière des manifestations.",
-              "src": ""
-            },
-            "gr": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement les mobilisations de la jeunesse et des salariés, réclame une hausse générale des salaires et du point d'indice, et critique la réponse policière du gouvernement.",
-              "src": ""
-            },
-            "soc": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement les revendications salariales et éducatives du mouvement, tout en condamnant les violences et en appelant le gouvernement à ouvrir de vraies négociations.",
-              "src": ""
-            },
-            "eco": {
-              "type": "lecture",
-              "texte": "Le courant appuie habituellement les mobilisations de la jeunesse, en y associant les questions de climat et de libertés publiques, et s'oppose aux textes renforçant les pouvoirs des forces de l'ordre.",
-              "src": ""
-            },
-            "ren": {
-              "type": "declare",
-              "texte": "Sébastien Lecornu (Renaissance) dit vouloir « sceller des avancées dès la mi-décembre » sur les bas salaires des fonctionnaires, tout en maintenant le gel du point d'indice au nom du redressement des comptes.",
-              "src": "X et AFP, 13 novembre 2026"
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant appelle habituellement au dialogue social et à des mesures ciblées sur les bas salaires, tout en condamnant fermement les violences en marge des cortèges.",
-              "src": ""
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant insiste habituellement sur le maintien de l'ordre et la maîtrise de la dépense publique, et juge qu'une hausse générale des salaires publics n'est pas finançable.",
-              "src": ""
-            },
-            "d": {
-              "type": "lecture",
-              "texte": "Le courant réclame habituellement une réponse pénale ferme contre les casseurs et les blocages, et s'oppose à toute hausse de dépenses qui creuserait le déficit.",
-              "src": ""
-            },
-            "dn": {
-              "type": "lecture",
-              "texte": "Le courant se pose habituellement en défenseur du pouvoir d'achat tout en condamnant les violences et les blocages, qu'il impute à l'extrême gauche.",
-              "src": ""
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant dénonce habituellement les blocages et les violences, qu'il attribue à l'extrême gauche, et réclame des sanctions sévères contre les fauteurs de troubles.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "Imaz Press (AFP) – Acte V du mouvement social : des revendications variées, un peu moins d'affluence",
-              "u": "https://imazpress.com/toute-l-actu/acte-v-du-mouvement-social-des-revendications-variees-un-peu-moins-d-affluence"
-            },
-            {
-              "t": "L'Échiquier social – Grève générale du 17 novembre : vers un front commun du public et du privé",
-              "u": "https://www.lechiquiersocial.com/journee-de-greve-et-de-manifestation-mardi-17-novembre/"
-            },
-            {
-              "t": "France 24 – Acte V du mouvement social : des revendications variées, une affluence en baisse",
-              "u": "https://www.france24.com/fr/france/20261114-acte-v-du-mouvement-social-des-revendications-vari%C3%A9es-une-affluence-en-baisse"
-            }
-          ],
-          "image": {
-            "u": "https://imazpress.com/thumbs/1200x630/source/14994ebac3d04b86a41e7183b0e45d7a36253f22.jpg",
-            "credit": "Imaz Press (AFP)",
-            "alt": "Illustration de l'article de Imaz Press (AFP)"
-          }
-        },
-        {
-          "id": "2026-11-15-presomption-usage-arme-senat",
-          "rubrique": "Sécurité",
-          "titre": "Présomption d'usage légitime de l'arme : le texte contesté dans la rue arrive jeudi au Sénat",
-          "chapo": "Adoptée par l'Assemblée en juillet, la proposition de loi qui protège les policiers et gendarmes ayant fait usage de leur arme sera examinée jeudi 19 novembre par les sénateurs. Une adoption conforme la rendrait définitive.",
-          "faits": [
-            "Le texte, porté par le député Éric Pauget (Droite républicaine), crée une présomption d'usage légitime de l'arme pour les forces de l'ordre dans les cas prévus par le code de la sécurité intérieure ; cette présomption « peut, à tout moment, être renversée par tout élément de preuve contraire ».",
-            "L'Assemblée l'a adopté en première lecture le 7 juillet 2026 par 313 voix contre 199, avec les voix du socle gouvernemental, de LR et de l'alliance RN-UDR ; LFI, le PS, les écologistes et les communistes ont voté contre.",
-            "Le 10 novembre, la commission des lois du Sénat l'a adopté sans modification, estimant qu'il « sécurisera l'action des forces de l'ordre sans atténuer le contrôle judiciaire » ; s'il est voté dans les mêmes termes jeudi, il sera définitivement adopté.",
-            "Amnesty International France, la LDH et le Syndicat de la magistrature s'y opposent ; les manifestants de samedi l'ont qualifié de « permis de tuer »."
-          ],
-          "enjeu": "Le texte oppose deux lectures : la protection juridique des agents pour les uns, le risque d'affaiblir les enquêtes après un tir policier pour les autres. Son examen intervient en plein mouvement social, où les violences policières sont l'un des griefs des manifestants.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant combat habituellement tout renforcement des pouvoirs de la police, qu'il juge porteur d'impunité, et appelle à manifester contre ce type de texte.",
-              "src": ""
-            },
-            "gr": {
-              "type": "declare",
-              "texte": "Manuel Bompard (LFI) estime qu'avec cette présomption, « il sera trop tard pour récolter les éléments nécessaires à la manifestation de la vérité » après un tir.",
-              "src": "LCP, 7 juillet 2026"
-            },
-            "soc": {
-              "type": "declare",
-              "texte": "Olivier Faure (PS) accuse le gouvernement d'offrir une victoire au RN sur un thème longtemps porté par Jean-Marie Le Pen, et son groupe a voté contre le texte.",
-              "src": "LCP, 7 juillet 2026"
-            },
-            "eco": {
-              "type": "declare",
-              "texte": "Pouria Amirshahi (groupe Écologiste et social) juge que « ce texte ne protège pas les bons policiers, il abrite les autres ».",
-              "src": "LCP, 7 juillet 2026"
-            },
-            "ren": {
-              "type": "declare",
-              "texte": "Le groupe Ensemble pour la République, dont Renaissance est le pilier, a voté le texte en première lecture, après un amendement du gouvernement qui a remplacé la « présomption de légitime défense » par une « présomption d'usage légitime de l'arme ».",
-              "src": "LCP, 7 juillet 2026"
-            },
-            "modem": {
-              "type": "declare",
-              "texte": "Le groupe Les Démocrates a voté le texte en première lecture, dans sa version amendée par le gouvernement, qui laisse au procureur la possibilité de renverser la présomption.",
-              "src": "LCP, 7 juillet 2026"
-            },
-            "hor": {
-              "type": "declare",
-              "texte": "Le groupe Horizons a voté le texte en première lecture, aux côtés des autres groupes du socle gouvernemental.",
-              "src": "LCP, 7 juillet 2026"
-            },
-            "d": {
-              "type": "declare",
-              "texte": "Le texte est porté par Éric Pauget (Droite républicaine) ; au Sénat, la commission des lois présidée par Muriel Jourda (LR) l'a adopté sans modification, jugeant qu'il protège les agents sans réduire le contrôle des juges.",
-              "src": "LCP, 7 juillet 2026 ; Sénat, 10 novembre 2026"
-            },
-            "dn": {
-              "type": "declare",
-              "texte": "Les députés de l'alliance RN-UDR ont voté le texte en première lecture, conformément à leur demande ancienne d'une meilleure protection juridique des forces de l'ordre.",
-              "src": "LCP, 7 juillet 2026"
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant réclame habituellement une présomption de légitime défense pleine et entière pour les policiers et gendarmes, et juge souvent insuffisantes les versions de compromis.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "LCP – L'Assemblée approuve la « présomption d'usage légitime de l'arme » pour les forces de l'ordre dans une ambiance très houleuse",
-              "u": "https://lcp.fr/actualites/l-assemblee-approuve-la-presomption-d-usage-legitime-de-l-arme-pour-les-forces-de-l"
-            },
-            {
-              "t": "Politique Matin – Usage des armes : le Sénat maintient en commission le texte sur la présomption de légitimité",
-              "u": "https://www.politiquematin.fr/senat-presomption-usage-armes-commission-lois-10-novembre-2026-1136"
-            },
-            {
-              "t": "Sénat – Proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre",
-              "u": "https://www.senat.fr/travaux-parlementaires/textes-legislatifs/la-loi-en-clair/proposition-de-loi-visant-a-reconnaitre-une-presomption-de-legitime-defense-pour-les-forces-de-lordre-dans-lexercice-de-leurs-fonctions.html"
-            }
-          ],
-          "image": {
-            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2022-03/080_HL_XBOUZAS_1690307.jpg?itok=VtcxAI3-",
-            "credit": "LCP",
-            "alt": "Illustration de l'article de LCP"
-          }
-        },
-        {
-          "id": "2026-11-15-manche-migrants-pas-de-calais",
-          "rubrique": "Société",
-          "titre": "Traversées de la Manche : 23 500 arrivées en Angleterre depuis janvier, la police multiplie les « évictions » sur la côte",
-          "chapo": "Une nuit de patrouille avec la police aux frontières dans les dunes du Pas-de-Calais montre une baisse des traversées, mais des départs toujours nombreux et un nouveau décès samedi à Camiers.",
-          "faits": [
-            "Selon les statistiques britanniques citées par l'AFP, environ 23 500 personnes sont arrivées en Angleterre par la mer depuis le début de l'année, soit près de 40 % de moins qu'un an plus tôt ; 924 arrivées ont été enregistrées depuis le 6 novembre.",
-            "Vendredi soir, près de 400 personnes ont été repérées sur la côte ; « il y a des nuits où ça a été jusqu'à 1 000 personnes », indique le préfet du Pas-de-Calais, François-Xavier Lauch. Dans la nuit, cinq départs ont eu lieu, dont quatre en « taxi-boats », et deux tentatives ont été empêchées.",
-            "Un homme d'une vingtaine d'années a été retrouvé mort samedi matin à Camiers et cinq autres ont été pris en charge pour hypothermie ; au moins 25 personnes sont mortes en mer depuis janvier, selon le décompte de l'AFP.",
-            "Les policiers ont pour consigne de multiplier les « évictions » de groupes sur les plages ; des associations dénoncent des méthodes disproportionnées."
-          ],
-          "enjeu": "Les arrivées reculent nettement selon les chiffres britanniques, mais les passeurs s'adaptent avec des « taxi-boats » et des embarcations pouvant transporter plus de 200 personnes. Le sujet reste au cœur de la campagne présidentielle, entre fermeté réclamée à droite et alertes humanitaires à gauche.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant dénonce habituellement la politique de fermeture des frontières, qu'il tient pour responsable des morts en mer, et réclame des voies d'accès légales et sûres.",
-              "src": ""
-            },
-            "gr": {
-              "type": "lecture",
-              "texte": "Le courant critique habituellement la sous-traitance du contrôle de la frontière britannique par la France et réclame un accueil digne et des voies légales de passage.",
-              "src": ""
-            },
-            "soc": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement une coopération européenne et franco-britannique renforcée contre les passeurs, assortie de garanties humanitaires pour les exilés.",
-              "src": ""
-            },
-            "eco": {
-              "type": "lecture",
-              "texte": "Le courant met habituellement en avant l'urgence humanitaire sur le littoral et dénonce les démantèlements de campements et les méthodes policières jugées disproportionnées.",
-              "src": ""
-            },
-            "ren": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement la coopération avec Londres, financée en partie par le Royaume-Uni, et met en avant la baisse des traversées comme preuve de son efficacité.",
-              "src": ""
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant plaide habituellement pour une réponse européenne commune, alliant lutte contre les réseaux de passeurs et respect du droit d'asile.",
-              "src": ""
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant réclame habituellement plus de fermeté contre les passeurs et une renégociation des accords avec le Royaume-Uni pour que Londres assume davantage sa frontière.",
-              "src": ""
-            },
-            "d": {
-              "type": "lecture",
-              "texte": "Le courant réclame habituellement une politique migratoire plus restrictive, des moyens accrus pour la police aux frontières et des sanctions plus lourdes contre les passeurs.",
-              "src": ""
-            },
-            "dn": {
-              "type": "lecture",
-              "texte": "Le courant demande habituellement la remise en cause des accords du Touquet et un contrôle strict des frontières nationales, en liant la question à celle de l'immigration en général.",
-              "src": ""
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant prône habituellement l'arrêt de l'immigration et le renvoi systématique des migrants en situation irrégulière, et juge les dispositifs actuels inefficaces.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "La Gazette France (AFP) – Dans les dunes du Pas-de-Calais, avec la police qui tente de limiter les départs de migrants vers l'Angleterre",
-              "u": "https://www.lagazettefrance.fr/article/dans-les-dunes-du-pas-de-calais-avec-la-police-qui-tente-de-limiter-les-departs-de-migrants-vers-l-angleterre"
-            }
-          ],
-          "image": {
-            "u": "https://www.lagazettefrance.fr/cache/thumb_discover_1200/media/2026/11/D7G47ZQ.jpg",
-            "credit": "La Gazette France (AFP)",
-            "alt": "Dans les dunes du Pas-de-Calais, avec la police qui tente de limiter l ..."
-          }
-        },
-        {
-          "id": "2026-11-15-presidentielle-larcher-riner",
-          "rubrique": "Présidentielle 2027",
-          "titre": "Présidentielle : Larcher veut réunir les candidats de la droite et du centre, Riner se dit « pas macroniste »",
-          "chapo": "Le président du Sénat propose une réunion pour fixer une « méthode de départage » entre prétendants, alors qu'Édouard Philippe refuse toujours la primaire. Teddy Riner qualifie de « baiser empoisonné » les félicitations d'Emmanuel Macron.",
-          "faits": [
-            "Dans une déclaration transmise samedi à l'AFP, Gérard Larcher propose de réunir « dans les meilleurs délais » les candidats de la droite et du centre pour définir une « méthode de départage » et désigner début 2027 un candidat unique ; Éric Zemmour et Raphaël Glucksmann ne sont pas concernés.",
-            "Édouard Philippe maintient son refus de toute primaire : « Je ne changerai pas d'avis, je suis constant et cohérent », a-t-il dit vendredi. Bruno Retailleau a proposé un scrutin les 31 janvier et 7 février, et les équipes d'Attal, Retailleau et Lisnard se réunissent mardi.",
-            "Au salon du Made in France, Teddy Riner a déclaré : « Je ne suis pas l'envoyé du président. Je ne suis pas un macroniste », en se disant « ni de droite ni de gauche » ; Emmanuel Macron avait jugé que sa candidature ne pouvait « qu'apporter au pays ».",
-            "Le quintuple champion olympique, candidat depuis le 9 novembre, propose dans Le Parisien une réforme des retraites et un allègement des cotisations sociales."
-          ],
-          "enjeu": "Avec plusieurs prétendants sous les 10 % dans les sondages, la droite et le centre cherchent un mode de désignation avant l'hiver. L'entrée de Teddy Riner brouille encore l'offre au centre, qu'il refuse de voir assimilée au macronisme.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant juge habituellement ces tractations comme des querelles d'appareil entre candidats qui partagent, selon lui, la même politique libérale, et présente ses propres candidatures comme celles du monde du travail.",
-              "src": ""
-            },
-            "gr": {
-              "type": "lecture",
-              "texte": "Le courant renvoie habituellement dos à dos les prétendants de la droite et du centre, qu'il présente comme les héritiers du macronisme, et se pose en seule alternative au RN.",
-              "src": ""
-            },
-            "soc": {
-              "type": "lecture",
-              "texte": "Le courant critique habituellement le « ni droite ni gauche », qu'il associe au bilan d'Emmanuel Macron, et défend l'idée d'un rassemblement de la gauche sociale-démocrate.",
-              "src": ""
-            },
-            "eco": {
-              "type": "lecture",
-              "texte": "Le courant reproche habituellement aux candidats de la droite et du centre de délaisser l'écologie, et plaide pour une candidature commune de la gauche et des écologistes.",
-              "src": ""
-            },
-            "ren": {
-              "type": "declare",
-              "texte": "Gabriel Attal (Renaissance) soutient une primaire de la droite et du centre mais refuse d'y intégrer Éric Zemmour, la primaire ne devant pas « servir de marche-pied à l'extrême droite ».",
-              "src": "AFP, 13 novembre 2026"
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant plaide habituellement pour un candidat unique du centre et de la droite modérée, choisi sur un projet commun plutôt que par une compétition interne.",
-              "src": ""
-            },
-            "hor": {
-              "type": "declare",
-              "texte": "Édouard Philippe (Horizons) refuse toute primaire : « Je ne changerai pas d'avis, je suis constant et cohérent » ; ses proches la jugent « une course vers le bas ».",
-              "src": "AFP, 13 et 14 novembre 2026"
-            },
-            "d": {
-              "type": "declare",
-              "texte": "Gérard Larcher (LR) propose de réunir les candidats de la droite et du centre pour trouver une « méthode de départage », disant faire « confiance au sens de l'État » de chacun.",
-              "src": "AFP, 14 novembre 2026"
-            },
-            "dn": {
-              "type": "lecture",
-              "texte": "Le courant présente habituellement ces discussions comme la preuve de l'éparpillement de ses adversaires, et met en avant l'avance de sa candidate dans les sondages.",
-              "src": ""
-            },
-            "ed": {
-              "type": "declare",
-              "texte": "Éric Zemmour (Reconquête) s'est dit « ravi d'être candidat à cette primaire » et a demandé à David Lisnard de l'y intégrer, ce que Gabriel Attal refuse.",
-              "src": "AFP, 13 novembre 2026"
-            }
-          },
-          "sources": [
-            {
-              "t": "La Gazette France (AFP) – Présidentielle : Larcher veut réunir les candidats de la droite et du centre, la pression monte sur Philippe",
-              "u": "https://www.lagazettefrance.fr/article/presidentielle-larcher-veut-reunir-les-candidats-de-la-droite-et-du-centre-la-pression-monte-sur-philippe"
-            },
-            {
-              "t": "Europe 1 (AFP) – « Je ne suis pas un macroniste », affirme Teddy Riner, qualifiant les félicitations du président de « baiser empoisonné »",
-              "u": "https://www.europe1.fr/politique/je-ne-suis-pas-un-macroniste-affirme-teddy-riner-qualifiant-les-felicitations-du-president-de-baiser-empoisonne-1233182"
-            },
-            {
-              "t": "La Libre (AFP) – Teddy Riner affirme qu'il n'est « pas un macroniste » et réagit aux félicitations du président",
-              "u": "https://www.lalibre.be/international/europe/elections-france/2026/11/14/teddy-riner-affirme-quil-nest-pas-un-macroniste-et-reagit-aux-felicitations-du-president-un-baiser-empoisonne-6XKWEEJI2NDV7OLLAZT3YOR7T4/"
-            }
-          ],
-          "image": {
-            "u": "https://www.lagazettefrance.fr/cache/thumb_discover_1200/media/2026/11/D7EN29E.jpg",
-            "credit": "La Gazette France (AFP)",
-            "alt": "Présidentielle: Larcher veut réunir les candidats de la droite et du c ..."
-          }
-        },
-        {
-          "id": "2026-11-15-ukraine-otan-donbass-macron",
-          "rubrique": "International",
-          "titre": "Ukraine : Zelensky affirme que Washington a évoqué l'Otan contre le Donbass, Macron refuse une « paix injuste »",
-          "chapo": "Pour la première fois, selon le président ukrainien, les Américains ont lié une adhésion à l'Alliance à un retrait du Donbass. À Paris, Emmanuel Macron s'en prend à « ceux qui veulent rationner » l'aide à Kiev.",
-          "faits": [
-            "Selon des propos diffusés samedi, Volodymyr Zelensky rapporte que les Américains lui ont posé la question : « Et si l'Ukraine rejoignait l'Otan ? L'Ukraine se retirerait-elle du Donbass ? », une première selon lui.",
-            "Le président ukrainien pose ses conditions : d'abord un cessez-le-feu, puis la fin de la guerre et des garanties de sécurité ; il affirme que Moscou a rejeté à Abou Dhabi une trêve sur les frappes énergétiques.",
-            "À Dublin, les Européens ont convenu d'être représentés aux prochaines négociations par cinq pays (France, Allemagne, Royaume-Uni, Pologne, Italie) et par l'UE ; aucune date n'est fixée.",
-            "Dans un message sur X samedi, Emmanuel Macron estime que vouloir « rationner les moyens de l'Ukraine » pour « l'obliger à une paix injuste », c'est « la recette pour la guerre d'après », et que « cela ne peut pas être la position de la France »."
-          ],
-          "enjeu": "La piste américaine touche au cœur du conflit, la souveraineté de l'Ukraine sur ses territoires. En France, l'aide à Kiev devient un clivage de la présidentielle, entre l'exécutif et une candidate du RN qui promet de la réduire.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant s'oppose habituellement à l'Otan comme à l'invasion russe, refuse le soutien militaire au nom de l'antimilitarisme et dénonce une paix négociée entre grandes puissances sur le dos des peuples.",
-              "src": ""
-            },
-            "gr": {
-              "type": "lecture",
-              "texte": "Le courant plaide habituellement pour une conférence de paix et des frontières garanties, critique l'élargissement de l'Otan et refuse l'escalade militaire, tout en condamnant l'agression russe.",
-              "src": ""
-            },
-            "soc": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement fermement l'Ukraine, défend son intégrité territoriale et réclame un rôle central de l'Europe dans les négociations et dans les garanties de sécurité.",
-              "src": ""
-            },
-            "eco": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement un soutien européen sans faille à l'Ukraine, l'usage des avoirs russes gelés et le refus de toute paix imposée par la force.",
-              "src": ""
-            },
-            "ren": {
-              "type": "declare",
-              "texte": "Emmanuel Macron, fondateur de Renaissance, juge que « Vladimir Poutine ne veut pas négocier » et que « aider l'Ukraine à se défendre, c'est protéger la France et les Français ».",
-              "src": "X, via BFMTV et Quartz, 14 novembre 2026"
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement l'Ukraine et plaide pour une défense européenne plus intégrée, capable de garantir un futur cessez-le-feu.",
-              "src": ""
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement le soutien à Kiev et une hausse de l'effort de défense, en insistant sur la nécessité pour l'Europe de ne pas dépendre des seuls États-Unis.",
-              "src": ""
-            },
-            "d": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement l'Ukraine face à la Russie, tout en appelant à un réarmement de la France et à une vigilance sur le coût de l'aide.",
-              "src": ""
-            },
-            "dn": {
-              "type": "declare",
-              "texte": "Marine Le Pen (RN) promet, si elle est élue, de maintenir l'aide pendant six mois puis de cesser l'aide financière à l'Ukraine, « car nous n'avons plus les moyens de le faire ».",
-              "src": "VRT, via Paris Match Belgique, 15 octobre 2026"
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant prône habituellement l'arrêt de l'aide à l'Ukraine et une négociation rapide avec la Russie, au nom des intérêts nationaux et du refus de l'escalade.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "L'Avenir (AFP) – Zelensky affirme que Washington a proposé des concessions territoriales en échange d'une adhésion de l'Ukraine à l'Otan",
-              "u": "https://www.lavenir.net/actu/monde/2026/11/14/zelensky-affirme-que-washington-a-propose-des-concessions-territoriales-en-echange-dune-adhesion-de-lukraine-a-lotan-XHDRZ3IA3BACZLGTSRUE7CKO6I/"
-            },
-            {
-              "t": "Quartz – Emmanuel Macron critique le rationnement de l'aide à l'Ukraine",
-              "u": "https://fr.qz.com/emmanuel-macron-critique-rationnement-aide-ukraine-x-111426"
-            },
-            {
-              "t": "Yahoo Actualités (BFMTV) – Guerre en Ukraine : Emmanuel Macron estime que « ceux qui veulent rationner » l'aide à Kiev veulent « obliger » les Ukrainiens « à une paix injuste »",
-              "u": "https://fr.news.yahoo.com/guerre-ukraine-emmanuel-macron-estime-190025728.html"
-            },
-            {
-              "t": "Paris Match Belgique – Si elle arrive à l'Élysée, Marine Le Pen promet de couper l'aide à l'Ukraine",
-              "u": "https://www.parismatch.be/actualites/monde/2026/10/15/presidentielle-francaise-si-elle-arrive-a-lelysee-marine-le-pen-promet-de-couper-laide-a-lukraine-je-ne-prends-personne-en-traitre-EKOIX7JLGZBBTPVJXNLDVDTVXY/"
-            }
-          ],
-          "image": {
-            "u": "https://www.lavenir.net/resizer/v2/ZQSQCPYPU5EMXPHXK3GNCLPHVE.jpg?auth=46980bbfc9f7acc3be89987e0ea349e317f4882205a1402f811c3bbcba4b3e85&width=1200&height=630&quality=85&focal=2500%2C1733",
-            "credit": "L'Avenir (AFP)",
-            "alt": "Illustration de l'article de L'Avenir (AFP)"
-          }
-        }
-      ],
-      "breves": [
-        {
-          "titre": "Macron en visite d'État au Cambodge",
-          "texte": "Emmanuel Macron effectue du 14 au 16 novembre une visite d'État au Cambodge, la première d'un président français depuis François Mitterrand en 1993. Au programme : une audience avec le roi Norodom Sihamoni, des entretiens avec Hun Manet et Hun Sen, et à Siem Reap la clôture de la restauration du temple du Mebon occidental, menée pendant quatorze ans avec la France, en marge du sommet de la Francophonie à Phnom Penh.",
-          "src": {
-            "t": "The Star (Xinhua) – French president to pay landmark visit at royal invite",
-            "u": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/10/french-president-to-pay-landmark-visit-at-royal-invite"
-          }
-        },
-        {
-          "titre": "Grève de mardi : les transports dans l'incertitude",
-          "texte": "À la SNCF, la CGT-Cheminots, SUD-Rail et la CFDT appellent à la grève mardi, avec des perturbations possibles sur les TER et le Transilien ; les grévistes du rail et les contrôleurs aériens devaient se déclarer au plus tard ce dimanche. Aucun préavis national n'a été déposé dans l'aérien, et les prévisions de trafic sont attendues lundi.",
-          "src": {
-            "t": "Mistertravel – Grève du 17 novembre : ce que l'on sait pour les trains, les avions et les transports",
-            "u": "https://mistertravel.news/2026/11/12/greve-du-17-novembre-ce-que-lon-sait-pour-les-trains-les-avions-et-les-transports/"
-          }
-        }
-      ],
-      "agenda": [
-        {
-          "d": "Lun. 16 nov.",
-          "t": "Le Sénat poursuit l'examen des dépenses du budget de la Sécu ; Conseil des ministres des Affaires étrangères de l'UE ; fin de la visite d'Emmanuel Macron au Cambodge"
-        },
-        {
-          "d": "Mar. 17 nov.",
-          "t": "Grève dans la fonction publique à l'appel de tous les syndicats, appel interprofessionnel de la CGT ; réunion des équipes Attal, Retailleau et Lisnard sur la primaire"
-        },
-        {
-          "d": "Mer. 18 nov.",
-          "t": "Vote solennel du Sénat sur le budget de la Sécurité sociale"
-        },
-        {
-          "d": "Jeu. 19 nov.",
-          "t": "Examen au Sénat de la proposition de loi sur la présomption d'usage légitime de l'arme ; réunion de la coalition des volontaires pour l'Ukraine en Allemagne"
         },
         {
           "d": "Ven. 20 nov.",
