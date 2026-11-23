@@ -84,7 +84,12 @@
               "t": "Orange Actu – Droite et RN prêts à soutenir un projet de règle d'or budgétaire",
               "u": "https://actu.orange.fr/france/droite-et-rn-prets-a-soutenir-un-projet-de-regle-d-or-budgetaire-CNT000002tWWir.html"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.boursorama.com/static/i/content/images/2/0/5/205f7f731e4d65d8590e1ccdaa7bf5c7-1200x800.jpg",
+            "credit": "Boursorama",
+            "alt": "Le président Emmanuel Macron lors de l’inauguration de l’exposition \"Fabriqué en France\" au palais de l’Élysée, à Paris, le 20 novembre 2026 ( POOL / Aurelien Morissard )"
+          }
         },
         {
           "id": "2026-11-23-prefet-moutouh-rn",
@@ -163,7 +168,12 @@
               "t": "Acteurs publics – En pleine tourmente, le préfet Hugues Moutouh demande à être relevé de ses fonctions",
               "u": "https://acteurspublics.fr/articles/en-pleine-tourmente-le-prefet-hugues-moutouh-demande-a-etre-releve-de-ses-fonctions/"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://images.euronews.com/articles/stories/10/00/31/66/1200x675_cmsv2_ea819ef6-0aaf-521a-a29a-e738517b6ac4-10003166.jpg",
+            "credit": "Euronews",
+            "alt": "Soupçons de fuites : Marine Le Pen dit n'avoir \"jamais reçu d'informations confidentielles\" du préfet Moutouh"
+          }
         },
         {
           "id": "2026-11-23-primaire-lisnard",
@@ -242,7 +252,12 @@
               "t": "Orange Actu – Zemmour se pose en « candidat de la liberté de parler » face « au totalitarisme d'atmosphère »",
               "u": "https://actu.orange.fr/politique/zemmour-se-pose-en-quot-candidat-de-la-liberte-de-parler-quot-face-quot-au-totalitarisme-d-atmosphere-quot-CNT000002tWgNs.html"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://proxymedia.woopic.com/api/v1/images/2275%2Factu%2Fafp-news%2F6eca56f0-9fb5-47fd-8bf0-18fdb4897771.jpg?format=1200x630&facedetect=1&quality=85",
+            "credit": "Orange Actu",
+            "alt": "Illustration de l'article de Orange Actu"
+          }
         },
         {
           "id": "2026-11-23-cop31-echec",
@@ -321,7 +336,12 @@
               "t": "Ministère de la Transition écologique – COP31 : la France déplore l'échec des négociations face à l'urgence climatique",
               "u": "https://www.ecologie.gouv.fr/presse/cop31-france-deplore-lechec-negociations-face-lurgence-climatique"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://proxymedia.woopic.com/api/v1/images/2275%2Factu%2Fafp-news%2F4561d5cd-f88e-43d6-8c72-45eb181be40a.jpg?format=1200x630&facedetect=1&quality=85",
+            "credit": "Orange Actu",
+            "alt": "Illustration de l'article de Orange Actu"
+          }
         }
       ],
       "breves": [
