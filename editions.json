@@ -1,6 +1,386 @@
 {
-  "updated": "2026-11-22T06:34:17+01:00",
+  "updated": "2026-11-23T06:31:47+01:00",
   "editions": [
+    {
+      "date": "2026-11-23",
+      "label": "Lundi 23 novembre 2026",
+      "maj": "Mise à jour à 6 h 31",
+      "intro": "Emmanuel Macron envisage de réunir le Congrès dès janvier pour inscrire une règle d'or budgétaire dans la Constitution, une idée que la droite et le RN se disent prêts à voter. Le préfet Hugues Moutouh, soupçonné de fuites vers le RN, a demandé à être relevé de ses fonctions, et Marine Le Pen dément avoir reçu la moindre information. À droite, David Lisnard essuie les tirs du RN et du centre sur sa conception de la primaire. À l'international, la COP31 s'est achevée sur un échec à Antalya.",
+      "stories": [
+        {
+          "id": "2026-11-23-regle-or-congres",
+          "rubrique": "Budget",
+          "titre": "Règle d'or budgétaire : Macron envisage un Congrès à Versailles dès janvier, la droite et le RN prêts à suivre",
+          "chapo": "Selon La Tribune Dimanche, le chef de l'État réfléchit à faire adopter une révision constitutionnelle votée en 2011 et jamais menée à terme. La gauche dénonce un carcan pour les prochains gouvernements.",
+          "faits": [
+            "Selon La Tribune Dimanche, Emmanuel Macron réfléchit à convoquer le Parlement en Congrès à Versailles pour inscrire une règle d'or budgétaire dans la Constitution, avec un vote possible dès janvier, à quatre mois de la fin du quinquennat. L'Élysée n'a pas commenté.",
+            "Le texte envisagé reprendrait un projet de loi constitutionnelle adopté dans les mêmes termes par l'Assemblée et le Sénat en 2011, sous le gouvernement Fillon, mais jamais soumis au Congrès. Il prévoyait des lois-cadres fixant des trajectoires pluriannuelles de retour à l'équilibre.",
+            "Une révision par le Congrès exige une majorité des trois cinquièmes des suffrages exprimés, atteignable avec le RN, la droite et le bloc central. Selon des sources concordantes citées par l'AFP, le Premier ministre Sébastien Lecornu a entamé des consultations.",
+            "Jordan Bardella avait réclamé le 5 novembre une réforme constitutionnelle d'urgence sur ce point ; Édouard Philippe et Gabriel Attal envisagent eux aussi une règle d'or sous une forme ou une autre."
+          ],
+          "enjeu": "Le projet pourrait réunir une majorité inhabituelle, du bloc central au RN, à cinq mois de la présidentielle. Il pose la question des marges budgétaires laissées au prochain exécutif, alors que l'examen du budget 2027 se poursuit au Sénat.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant rejette habituellement toute règle d'équilibre budgétaire, qu'il voit comme une manière de graver l'austérité dans le marbre au détriment des services publics et des salaires.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Éric Coquerel (LFI), président de la commission des finances de l'Assemblée, dénonce une « réforme majeure qui limiterait drastiquement la capacité des prochains gouvernements » et rappelle que l'Allemagne a assoupli son frein à l'endettement en 2025.",
+              "src": "AFP, 22 novembre 2026"
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement le sérieux budgétaire tout en refusant qu'une règle constitutionnelle empêche l'investissement public et la justice fiscale.",
+              "src": ""
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant s'oppose habituellement aux règles budgétaires rigides, qu'il juge incompatibles avec les investissements nécessaires à la transition écologique.",
+              "src": ""
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "Gabriel Attal (Renaissance), candidat à la présidentielle, envisage lui aussi d'instaurer une règle d'or budgétaire sous une forme ou une autre, selon l'AFP.",
+              "src": "MoneyVox avec AFP, 22 novembre 2026"
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant, qui fait de la dette un sujet central, soutient habituellement les mécanismes contraignants de retour à l'équilibre, à condition qu'ils restent applicables.",
+              "src": ""
+            },
+            "hor": {
+              "type": "declare",
+              "texte": "Édouard Philippe (Horizons), candidat à la présidentielle, envisage lui aussi une règle d'or budgétaire sous une forme ou une autre, selon l'AFP.",
+              "src": "MoneyVox avec AFP, 22 novembre 2026"
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Bruno Retailleau (LR) juge qu'inscrire la règle d'or dans la Constitution « serait une bonne chose », tout en ironisant sur un président qui a attendu « le dixième budget ultradéficitaire » de son mandat ; il avait plaidé pour un référendum.",
+              "src": "AFP, 22 novembre 2026"
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Jordan Bardella (RN) se dit « heureux » que le chef de l'État semble se rallier à la demande du RN et votera la mesure si elle interdit tout budget aggravant la dette ; Marine Le Pen juge toutefois le texte de 2011 moins abouti que le projet du RN.",
+              "src": "AFP, 22 novembre 2026"
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant réclame habituellement une baisse massive de la dépense publique, notamment sur l'immigration et les aides sociales, et se montre favorable aux règles qui contraignent les déficits.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Boursorama – Budget : Macron envisage d'inscrire une « règle d'or » dans la Constitution",
+              "u": "https://www.boursorama.com/actualite-economique/actualites/budget-macron-envisage-d-inscrire-une-regle-d-or-dans-la-constitution-a358fd34d6d269be04d683313fddb9a5"
+            },
+            {
+              "t": "MoneyVox – Une règle d'or budgétaire dans la Constitution ? Macron réfléchirait à convoquer le Congrès",
+              "u": "https://www.moneyvox.fr/impot/actualites/111357/une-regle-or-budgetaire-dans-la-constitution-macron-reflechirait-a-convoquer-le-congres"
+            },
+            {
+              "t": "Orange Actu – Droite et RN prêts à soutenir un projet de règle d'or budgétaire",
+              "u": "https://actu.orange.fr/france/droite-et-rn-prets-a-soutenir-un-projet-de-regle-d-or-budgetaire-CNT000002tWWir.html"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-23-prefet-moutouh-rn",
+          "rubrique": "Justice",
+          "titre": "Soupçons de fuites vers le RN : le préfet Moutouh demande à partir, Marine Le Pen dément",
+          "chapo": "Un courriel interne du ministère de l'Intérieur, retrouvé chez un proche de Marine Le Pen, est au cœur de l'enquête. Le préfet dénonce une « campagne de déstabilisation ».",
+          "faits": [
+            "Hugues Moutouh, préfet de la région Centre-Val de Loire et secrétaire général du ministère de l'Intérieur d'avril 2025 à mai 2026, est soupçonné d'avoir transmis au RN des informations sur des enquêtes visant le parti. Convoqué vendredi par le ministre Laurent Nuñez, il a demandé samedi à être relevé de ses fonctions.",
+            "Le parquet de Paris a ouvert le 27 juillet une information judiciaire pour violation du secret professionnel, violation du secret de l'enquête et recel. Des perquisitions ont visé début novembre le ministère, le domicile du préfet et le siège du RN. Personne n'a été mis en examen et le préfet est présumé innocent.",
+            "Selon l'AFP, les enquêteurs s'intéressent à un courriel d'une fonctionnaire relatant son audition dans une enquête sur le financement de campagnes du RN, retrouvé lors d'une perquisition chez Frédéric Chatillon, proche de Marine Le Pen. Trois personnes, dont le préfet, y avaient accès.",
+            "La fin de ses fonctions doit être actée par décret en Conseil des ministres."
+          ],
+          "enjeu": "L'affaire touche à la neutralité de la haute administration à quelques mois de la présidentielle, alors que Marine Le Pen est en tête des sondages. L'instruction devra établir si des informations ont bien circulé et par quel canal.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant dénonce habituellement les liens entre l'appareil d'État, la police et l'extrême droite, qu'il juge structurels.",
+              "src": ""
+            },
+            "gr": {
+              "type": "lecture",
+              "texte": "Le courant, qui accuse régulièrement le ministère de l'Intérieur de partialité à son égard, réclame habituellement une transparence totale sur l'usage des informations sensibles de l'État.",
+              "src": ""
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant insiste habituellement sur la neutralité républicaine de la haute fonction publique et sur l'indépendance des enquêtes judiciaires.",
+              "src": ""
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant appelle habituellement à protéger l'indépendance de la justice et à garantir l'impartialité des hauts fonctionnaires face aux partis.",
+              "src": ""
+            },
+            "ren": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement l'exemplarité de l'administration et laisse la justice établir les faits, tout en soulignant la gravité de toute fuite au profit d'un parti.",
+              "src": ""
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant met habituellement en avant la déontologie publique et le respect de la présomption d'innocence dans les affaires en cours d'instruction.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant insiste habituellement sur l'autorité de l'État et la loyauté des hauts fonctionnaires, en laissant la justice se prononcer.",
+              "src": ""
+            },
+            "d": {
+              "type": "lecture",
+              "texte": "Le courant rappelle habituellement la présomption d'innocence et le devoir de réserve des préfets, en appelant à ne pas instrumentaliser les enquêtes en période électorale.",
+              "src": ""
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Marine Le Pen (RN) affirme n'avoir « jamais reçu d'informations confidentielles » ni en avoir demandé au préfet ; le député Jean-Philippe Tanguy (RN) parle de « rumeurs sans fondement en pleine campagne électorale ».",
+              "src": "Euronews avec AFP, 22 novembre 2026"
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant dénonce habituellement ce qu'il présente comme un acharnement judiciaire et médiatique contre la droite nationale.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Euronews – France : soupçonné de fuites au profit du RN, un préfet de région demande à être relevé de ses fonctions",
+              "u": "https://fr.euronews.com/2026/11/22/france-soupconne-de-fuites-au-profit-du-rn-un-prefet-de-region-demande-a-etre-releve-de-se"
+            },
+            {
+              "t": "Orange Actu – Enquête RN : un mail au cœur des soupçons pesant sur le préfet Moutouh",
+              "u": "https://actu.orange.fr/france/enquete-rn-un-mail-au-coeur-des-soupcons-pesant-sur-le-prefet-moutouh-CNT000002tXcZ9.html"
+            },
+            {
+              "t": "Acteurs publics – En pleine tourmente, le préfet Hugues Moutouh demande à être relevé de ses fonctions",
+              "u": "https://acteurspublics.fr/articles/en-pleine-tourmente-le-prefet-hugues-moutouh-demande-a-etre-releve-de-ses-fonctions/"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-23-primaire-lisnard",
+          "rubrique": "Présidentielle 2027",
+          "titre": "Primaire de la droite et du centre : Lisnard sous le feu du RN et du centre, Zemmour lance sa campagne",
+          "chapo": "Le maire de Cannes veut ouvrir la primaire à Éric Zemmour, contre l'avis de ses partenaires. Le candidat de Reconquête a tenu samedi son premier meeting à Toulon.",
+          "faits": [
+            "David Lisnard, maire de Cannes et ancien LR, défend une primaire ouverte à Éric Zemmour, qu'il présente comme un « pré-premier tour ». Bruno Retailleau, Gabriel Attal et le président du Sénat Gérard Larcher s'y opposent ; Édouard Philippe refuse toute primaire.",
+            "Selon un sondage Ifop pour Le Figaro, David Lisnard arriverait en tête d'une telle primaire avec 29 %, devant Édouard Philippe (28 %) si celui-ci y participait.",
+            "David Lisnard refuse de s'engager à soutenir le vainqueur et de dire qui il choisirait au second tour face à Marine Le Pen ou Jean-Luc Mélenchon. Il brigue aussi un troisième mandat à la tête de l'Association des maires de France, dont le résultat est attendu mercredi.",
+            "Samedi à Toulon, Éric Zemmour a tenu son premier meeting de campagne et promis de supprimer l'Arcom, qui a saisi la justice après certains de ses propos. Les sondages le créditent de 3 à 4 %."
+          ],
+          "enjeu": "La question du périmètre de la primaire, jusqu'à Reconquête ou non, divise la droite et le centre avant la réunion des équipes prévue jeudi. Elle dessine aussi la frontière entre droite et RN à cinq mois du premier tour.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant rejette habituellement les primaires comme des mécanismes de sélection internes aux partis de gouvernement et dénonce le rapprochement entre droite et extrême droite.",
+              "src": ""
+            },
+            "gr": {
+              "type": "lecture",
+              "texte": "Le courant présente habituellement la recomposition à droite comme une convergence des programmes libéraux et identitaires contre laquelle il se pose en alternative.",
+              "src": ""
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant dénonce habituellement toute porosité entre la droite républicaine et l'extrême droite et appelle à un cordon sanitaire clair.",
+              "src": ""
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant critique habituellement les programmes de dérégulation, notamment sur les codes de l'environnement et de l'urbanisme, et l'ouverture de la droite à l'extrême droite.",
+              "src": ""
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "Gabriel Attal (Renaissance) s'oppose, comme Bruno Retailleau, à l'intégration d'Éric Zemmour dans la primaire de la droite et du centre, selon l'AFP.",
+              "src": "AFP, 22 novembre 2026"
+            },
+            "modem": {
+              "type": "declare",
+              "texte": "Marc Fesneau, président du groupe MoDem à l'Assemblée, accuse David Lisnard de préparer « la grande alliance avec l'extrême droite ».",
+              "src": "AFP, 22 novembre 2026"
+            },
+            "hor": {
+              "type": "declare",
+              "texte": "Édouard Philippe (Horizons) refuse de participer à toute primaire, selon l'AFP.",
+              "src": "AFP, 22 novembre 2026"
+            },
+            "d": {
+              "type": "declare",
+              "texte": "David Lisnard (Nouvelle Énergie, ex-LR) assure que la « porte est fermée » au RN et qu'il ne gouvernera pas avec lui ; Bruno Retailleau et Gérard Larcher (LR) refusent d'ouvrir la primaire à Éric Zemmour.",
+              "src": "AFP, 22 novembre 2026"
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Jordan Bardella (RN) qualifie David Lisnard de « macroniste masqué » ; Marine Le Pen critique sa volonté de passer le code du travail « à la broyeuse », qui laisserait selon elle les travailleurs « totalement démunis ».",
+              "src": "AFP, 22 novembre 2026"
+            },
+            "ed": {
+              "type": "declare",
+              "texte": "Éric Zemmour (Reconquête) se présente en « candidat de la liberté, la liberté de penser, la liberté de parler » face à un « totalitarisme d'atmosphère » et promet de supprimer l'Arcom.",
+              "src": "AFP, 22 novembre 2026"
+            }
+          },
+          "sources": [
+            {
+              "t": "Orange Actu – Attaqué par le RN et le centre, Lisnard ne lâche rien sur la primaire",
+              "u": "https://actu.orange.fr/politique/attaque-par-le-rn-et-le-centre-lisnard-ne-lache-rien-sur-la-primaire-CNT000002tZCNA.html"
+            },
+            {
+              "t": "Orange Actu – Le Pen attaque Lisnard et son projet de « broyer » le code du travail",
+              "u": "https://actu.orange.fr/france/le-pen-attaque-lisnard-et-son-projet-de-quot-broyer-quot-le-code-du-travail-CNT000002tY5An.html"
+            },
+            {
+              "t": "Orange Actu – Zemmour se pose en « candidat de la liberté de parler » face « au totalitarisme d'atmosphère »",
+              "u": "https://actu.orange.fr/politique/zemmour-se-pose-en-quot-candidat-de-la-liberte-de-parler-quot-face-quot-au-totalitarisme-d-atmosphere-quot-CNT000002tWgNs.html"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-23-cop31-echec",
+          "rubrique": "International",
+          "titre": "Climat : la COP31 s'achève sur un échec à Antalya, faute d'accord sur les énergies fossiles",
+          "chapo": "L'Union européenne et plusieurs pays ont rejeté un projet de déclaration qui ne mentionnait pas les énergies fossiles. Paris « regrette profondément » et donne rendez-vous à Addis-Abeba.",
+          "faits": [
+            "La COP31, réunie à Antalya (Turquie), s'est achevée dimanche sans déclaration politique après le rejet par l'Union européenne et d'autres pays, dont Panama, les îles Marshall, Vanuatu et le Belize, d'un projet de décision finale qui ne mentionnait pas les énergies fossiles.",
+            "Après deux semaines de négociations et 48 heures de prolongation, elle devient la plus longue conférence climat de l'ONU. Seuls des textes techniques ont été adoptés. L'Arabie saoudite s'opposait à toute mention explicite des fossiles ; les États-Unis étaient absents.",
+            "Le projet rejeté prévoyait notamment de porter la part de l'électricité à 35 % de la consommation finale d'énergie d'ici 2035. Le secrétaire général de l'ONU, António Guterres, s'est dit profondément frustré.",
+            "La ministre de la Transition écologique, Monique Barbut, « regrette profondément » l'absence d'accord, juge que le texte faisait une place disproportionnée au captage du carbone et appelle à « faire mieux à Addis-Abeba », lieu de la COP32."
+          ],
+          "enjeu": "L'échec fragilise le multilatéralisme climatique, déjà privé des États-Unis, et met l'Union européenne face au choix de bloquer plutôt que d'accepter un texte jugé en recul. La préparation de la COP32 en Éthiopie part d'un terrain affaibli.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant voit habituellement dans l'échec des COP la preuve que le capitalisme et les intérêts pétroliers sont incompatibles avec la lutte contre le réchauffement.",
+              "src": ""
+            },
+            "gr": {
+              "type": "lecture",
+              "texte": "Le courant appelle habituellement à une planification écologique et à une sortie rapide des énergies fossiles, et dénonce le poids des lobbys pétroliers dans les négociations.",
+              "src": ""
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement un multilatéralisme climatique ambitieux et une Europe moteur de la sortie des énergies fossiles et de la solidarité avec les pays du Sud.",
+              "src": ""
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant fait habituellement de la sortie des énergies fossiles une ligne rouge et appelle l'Europe à accélérer sa propre transition, quel que soit le résultat des COP.",
+              "src": ""
+            },
+            "ren": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement l'Accord de Paris et le rôle moteur de l'Union européenne, en s'appuyant sur le nucléaire et l'électrification pour sortir des fossiles.",
+              "src": ""
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement l'Accord de Paris et une diplomatie climatique européenne exigeante, attentive au financement de l'adaptation.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement une écologie de la décarbonation fondée sur le nucléaire et l'innovation, dans le cadre européen et multilatéral.",
+              "src": ""
+            },
+            "d": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement la décarbonation par le nucléaire, en refusant que les engagements climatiques pèsent sur la compétitivité de l'industrie et de l'agriculture françaises.",
+              "src": ""
+            },
+            "dn": {
+              "type": "lecture",
+              "texte": "Le courant critique habituellement les grandes conférences internationales sur le climat et privilégie une écologie de proximité, le nucléaire et le refus de normes jugées punitives.",
+              "src": ""
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant se montre habituellement sceptique envers les COP et les objectifs climatiques internationaux, qu'il juge coûteux pour l'économie française.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Orange Actu – Climat : la COP31 échoue devant la division des pays sur les énergies fossiles",
+              "u": "https://actu.orange.fr/economie/climat-la-cop31-echoue-devant-la-division-des-pays-sur-les-energies-fossiles-CNT000002tWRJX.html"
+            },
+            {
+              "t": "Boursorama – La COP31 s'achève sur un échec, la sortie des énergies fossiles au cœur des désaccords",
+              "u": "https://www.boursorama.com/bourse/actualites/la-cop31-s-acheve-sur-un-echec-la-sortie-des-energies-fossiles-au-coeur-des-desaccords-7284d1ba0c5c781b9d3569a9133324a8"
+            },
+            {
+              "t": "Ministère de la Transition écologique – COP31 : la France déplore l'échec des négociations face à l'urgence climatique",
+              "u": "https://www.ecologie.gouv.fr/presse/cop31-france-deplore-lechec-negociations-face-lurgence-climatique"
+            }
+          ]
+        }
+      ],
+      "breves": [
+        {
+          "titre": "Pologne : les engins tombés vendredi étaient des missiles russes",
+          "texte": "Le parquet de Lublin a annoncé dimanche que les trois objets tombés vendredi dans le sud-est de la Pologne étaient des missiles de croisière Kh-101 fabriqués en Russie, sans faire de blessés. Varsovie évoque une possible provocation, au moment d'exercices de la Coalition des volontaires.",
+          "src": {
+            "t": "Orange Actu – Les objets volants tombés en Pologne étaient des missiles de croisière fabriqués en Russie",
+            "u": "https://actu.orange.fr/monde/les-objets-volants-tombes-en-pologne-etaient-des-missiles-de-croisiere-fabriques-en-russie-CNT000002tZ0oi.html"
+          }
+        },
+        {
+          "titre": "Crues dans le Pas-de-Calais : une décrue très lente",
+          "texte": "La situation n'est « pas totalement stabilisée », selon le préfet. Depuis jeudi, 800 personnes ont été évacuées et 850 logements inondés ; la Canche restait dimanche en vigilance orange crues.",
+          "src": {
+            "t": "Orange Actu – Crues dans le Pas-de-Calais : la situation n'est « pas totalement stabilisée », annonce le préfet",
+            "u": "https://actu.orange.fr/france/crues-dans-le-pas-de-calais-la-situation-n-est-quot-pas-totalement-stabilisee-quot-annonce-le-prefet-CNT000002tXctm.html"
+          }
+        },
+        {
+          "titre": "Présidentielle : la CFDT veut déplacer le second tour",
+          "texte": "Marylise Léon, secrétaire générale de la CFDT, appelle à changer la date de la présidentielle pour éviter un second tour le 2 mai, au lendemain du 1er-Mai.",
+          "src": {
+            "t": "Orange Actu – Présidentielle : Marylise Léon appelle à changer la date pour éviter un second tour le 2 mai",
+            "u": "https://actu.orange.fr/france/presidentielle-marylise-leon-appelle-a-changer-la-date-pour-eviter-un-second-tour-le-2-mai-CNT000002tWi4q.html"
+          }
+        }
+      ],
+      "agenda": [
+        {
+          "d": "Lun. 23 nov.",
+          "t": "Reprise au Sénat de l'examen de la partie recettes du budget de l'État"
+        },
+        {
+          "d": "Mar. 24 nov.",
+          "t": "Vote solennel de l'Assemblée sur le projet de loi logement ; ouverture du 108e Congrès des maires à Paris (jusqu'au 26)"
+        },
+        {
+          "d": "Mer. 25 nov.",
+          "t": "Élection à la présidence de l'Association des maires de France ; audition au Sénat de la ministre déléguée Alice Rufo sur la présence de militaires français en Ukraine"
+        },
+        {
+          "d": "Jeu. 26 nov.",
+          "t": "Commission mixte paritaire sur le budget de la Sécu ; réunion des équipes Attal, Retailleau et Lisnard sur la primaire ; niche parlementaire LR à l'Assemblée"
+        },
+        {
+          "d": "Sam. 28 nov.",
+          "t": "Marches féministes de Nous Toutes, rejointes par les gilets jaunes"
+        },
+        {
+          "d": "Mar. 1er déc.",
+          "t": "Journée de grève et de mobilisation dans la fonction publique"
+        },
+        {
+          "d": "Mer. 9 déc.",
+          "t": "Vote solennel du Sénat sur le budget de l'État"
+        }
+      ]
+    },
     {
       "date": "2026-11-22",
       "label": "Dimanche 22 novembre 2026",
@@ -3175,558 +3555,6 @@
         {
           "d": "Mar. 17 nov.",
           "t": "Grève dans la fonction publique, appel interprofessionnel de la CGT ; réunion des équipes Attal, Retailleau et Lisnard sur la primaire ; lancement de la 42e campagne des Restos du cœur"
-        },
-        {
-          "d": "Mer. 18 nov.",
-          "t": "Vote solennel du Sénat sur le budget de la Sécurité sociale"
-        },
-        {
-          "d": "Jeu. 19 nov.",
-          "t": "Examen au Sénat de la proposition de loi sur la présomption d'usage légitime de l'arme ; réunion de la coalition des volontaires pour l'Ukraine à Berlin"
-        },
-        {
-          "d": "Ven. 20 nov.",
-          "t": "Début de l'examen du budget 2027 de l'État au Sénat ; clôture prévue de la COP31 à Antalya"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-16",
-      "label": "Lundi 16 novembre 2026",
-      "maj": "Mise à jour à 6 h 27",
-      "intro": "Toute la fonction publique sera en grève mardi, FO et la CFDT ayant rejoint l'intersyndicale. À droite et au centre, Vincent Jeanbrun propose une primaire par éliminations successives qu'Édouard Philippe refuse toujours, tandis que Sandrine Rousseau appelle les Écologistes à rallier Jean-Luc Mélenchon. La cyberattaque de Maileva touche 22 millions de personnes, et des pluies record ont piégé des automobilistes près de Montpellier. À l'international, Emmanuel Macron et Marine Le Pen s'affrontent sur l'aide à l'Ukraine.",
-      "stories": [
-        {
-          "id": "2026-11-16-greve-17-novembre",
-          "rubrique": "Social",
-          "titre": "Grève de mardi : FO et la CFDT rejoignent l'intersyndicale, la SNCF publie ses prévisions ce soir",
-          "chapo": "Pour la première fois depuis le début du mouvement contre la vie chère, toutes les organisations syndicales de la fonction publique appellent à la grève mardi 17 novembre. Enseignants, cheminots, étudiants et lycéens seront aussi dans la rue.",
-          "faits": [
-            "L'appel lancé le 9 novembre par six syndicats de la fonction publique (CGT, Unsa, FSU, Solidaires, CFE-CGC, FA-FP) a été rejoint par FO puis par la CFDT, qui s'y est ralliée vendredi 13 novembre après une réunion à Matignon conclue sans accord, selon L'Express.",
-            "Les syndicats réclament une hausse immédiate du point d'indice, gelé depuis quatre ans, alors que l'inflation a atteint 3,4 % en octobre ; le gouvernement l'exclut et rappelle qu'un point de hausse coûterait 2,4 milliards d'euros.",
-            "À la SNCF, la CGT-Cheminots, SUD-Rail et la CFDT-Cheminots appellent à la grève ; les prévisions de trafic doivent être publiées ce lundi à 17 h. Le SNES-FSU et SUD Éducation appellent les enseignants à cesser le travail, et l'Unef, l'Union étudiante et l'Union syndicale lycéenne à manifester.",
-            "La CGT étend l'appel au privé. Lors de la précédente journée, le 5 novembre, l'Intérieur avait compté 575 000 manifestants et la CGT 1,6 million."
-          ],
-          "enjeu": "L'unité syndicale retrouvée donne à cette journée un poids que les derniers samedis n'avaient plus. Le gouvernement, qui a ouvert un mois de discussions sur les bas salaires, parie sur la négociation ciblée plutôt que sur une hausse générale.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant appelle habituellement à transformer les journées de grève en mouvement reconductible, public et privé ensemble, et à une hausse générale des salaires indexée sur les prix.",
-              "src": ""
-            },
-            "gr": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement les grèves pour les salaires, réclame le dégel et la revalorisation du point d'indice ainsi que l'indexation des salaires sur l'inflation.",
-              "src": ""
-            },
-            "soc": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement les revendications salariales des agents publics et appelle le gouvernement à rouvrir une négociation sur le point d'indice plutôt qu'à des mesures ciblées.",
-              "src": ""
-            },
-            "eco": {
-              "type": "lecture",
-              "texte": "Le courant appuie habituellement les mobilisations des services publics et juge insuffisantes les annonces salariales, en plaidant pour une meilleure répartition des richesses.",
-              "src": ""
-            },
-            "ren": {
-              "type": "declare",
-              "texte": "Sébastien Lecornu (Renaissance) dit vouloir « sceller des avancées dès la mi-décembre » sur les bas salaires des fonctionnaires, tout en maintenant le gel du point d'indice au nom du redressement des comptes.",
-              "src": "X et AFP, 13 novembre 2026"
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant privilégie habituellement le dialogue social et des mesures ciblées sur les plus bas salaires, compatibles avec la trajectoire de réduction du déficit.",
-              "src": ""
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant juge habituellement qu'une hausse générale des salaires publics n'est pas finançable et plaide pour des réformes de la fonction publique liant rémunération et efficacité.",
-              "src": ""
-            },
-            "d": {
-              "type": "lecture",
-              "texte": "Le courant s'oppose habituellement à toute hausse générale de la dépense publique et critique les grèves qui perturbent les transports et les écoles.",
-              "src": ""
-            },
-            "dn": {
-              "type": "lecture",
-              "texte": "Le courant se pose habituellement en défenseur du pouvoir d'achat des fonctionnaires et des salariés, tout en restant à distance des syndicats et des cortèges.",
-              "src": ""
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant critique habituellement les grèves dans les services publics et les syndicats qu'il juge politisés, et plaide pour une réduction du nombre de fonctionnaires.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "L'Express (via Orange) – Grève du 17 novembre : fonctionnaires, enseignants, cheminots… qui sera mobilisé ?",
-              "u": "https://actu.orange.fr/france/greve-du-17-novembre-fonctionnaires-enseignants-cheminots-qui-sera-mobilise-l-express-via-6medias-CNT000002tJItu.html"
-            },
-            {
-              "t": "Sortiraparis – Grève du 17 novembre à Paris : écoles, fonction publique, cheminots",
-              "u": "https://www.sortiraparis.com/en/news/in-paris/articles/357817-strike-and-demonstration-on-november-17-the-movement-is-gaining-momentum-what-s-planned-in-paris"
-            },
-            {
-              "t": "Sud Radio (AFP) – Mobilisation sociale : « pas de division du front syndical », dit Marylise Léon",
-              "u": "https://www.sudradio.fr/societe/mobilisation-sociale-pas-de-division-du-front-syndical-dit-marylise-leon"
-            }
-          ],
-          "image": {
-            "u": "https://proxymedia.woopic.com/api/v1/images/2275%2Factu%2Farticles6medias%2Fe79%2F0da%2Ff755ac4a9f269c1e667ed88b5e%2Fpexels-matreding-11421113-optimized-261115215710_FileVert-980x450.jpg?format=1200x630&facedetect=1&quality=85",
-            "credit": "L'Express (via Orange)",
-            "alt": "Illustration de l'article de L'Express (via Orange)"
-          }
-        },
-        {
-          "id": "2026-11-16-primaire-grande-convergence",
-          "rubrique": "Présidentielle 2027",
-          "titre": "Primaire de la droite et du centre : Jeanbrun propose une « grande convergence » par éliminations successives, Philippe dit toujours non",
-          "chapo": "À la veille d'une réunion des équipes de Renaissance, des Républicains et de Nouvelle Énergie, le ministre du Logement avance une formule inspirée des conservateurs britanniques. Édouard Philippe maintient son refus.",
-          "faits": [
-            "Dans le Journal du dimanche, Vincent Jeanbrun (LR), ministre du Logement, propose un débat chaque semaine et un vote chaque dimanche, le dernier étant éliminé à chaque tour, jusqu'à un seul candidat de la droite et du centre.",
-            "Le scrutin serait ouvert à tous les inscrits sur les listes électorales, pour 5 euros, en ligne ou en bureau de vote, du 30 novembre au 10 janvier. Il cite Édouard Philippe, Gabriel Attal, Bruno Retailleau et David Lisnard, puis Xavier Bertrand, Dominique de Villepin et Natacha Polony.",
-            "Édouard Philippe, candidat déclaré, a répété ce week-end qu'il ne participerait pas à une primaire, après l'appel de Gérard Larcher à réunir les candidats de la droite et du centre.",
-            "Les équipes de campagne de Renaissance, des Républicains et de Nouvelle Énergie doivent se réunir mardi 17 novembre pour en poser les bases."
-          ],
-          "enjeu": "Face au duel Le Pen-Mélenchon que dessinent les sondages, la droite et le centre cherchent un mode de départage. Sans Édouard Philippe, toute primaire perd une partie de son sens, ce qui laisse planer le risque de plusieurs candidatures concurrentes.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant considère habituellement les primaires de la droite et du centre comme une affaire d'appareils sans enjeu pour les travailleurs, et ne s'y intéresse que pour dénoncer les programmes d'austérité.",
-              "src": ""
-            },
-            "gr": {
-              "type": "lecture",
-              "texte": "Le courant présente habituellement les candidats de la droite et du centre comme les continuateurs de la politique d'Emmanuel Macron, et se pose en alternative à la fois à ce bloc et au RN.",
-              "src": ""
-            },
-            "soc": {
-              "type": "lecture",
-              "texte": "Le courant critique habituellement l'idée d'une primaire élargie à la gauche sociale-démocrate et insiste sur la distinction entre son projet et celui du bloc central.",
-              "src": ""
-            },
-            "eco": {
-              "type": "lecture",
-              "texte": "Le courant juge habituellement que les débats de la droite et du centre portent sur des personnes plus que sur l'écologie, et critique les reculs environnementaux de leurs programmes.",
-              "src": ""
-            },
-            "ren": {
-              "type": "declare",
-              "texte": "Prisca Thevenot (Renaissance), directrice de la mobilisation de la campagne de Gabriel Attal, a estimé que « c'est le moment de clarification » pour les candidats de la droite et du centre.",
-              "src": "Public Sénat, 6 novembre 2026"
-            },
-            "modem": {
-              "type": "declare",
-              "texte": "Marc Fesneau (MoDem) plaide, comme Gabriel Attal, pour une primaire au périmètre large, qui pourrait aller jusqu'à Raphaël Glucksmann, selon Public Sénat.",
-              "src": "Public Sénat, 6 novembre 2026"
-            },
-            "hor": {
-              "type": "declare",
-              "texte": "Édouard Philippe (Horizons) répète : « Cette primaire, je n'y participerai pas », après l'appel de Gérard Larcher à réunir les candidats de la droite et du centre.",
-              "src": "franceinfo, 15 novembre 2026"
-            },
-            "d": {
-              "type": "declare",
-              "texte": "Vincent Jeanbrun (LR) propose de « converger progressivement vers un candidat » et juge qu'Édouard Philippe « doit aussi démontrer qu'il est le mieux placé » face aux autres.",
-              "src": "Journal du dimanche, 15 novembre 2026"
-            },
-            "dn": {
-              "type": "lecture",
-              "texte": "Le courant considère habituellement ces tractations comme la recomposition d'un même bloc gouvernemental et se présente comme la seule alternative au macronisme.",
-              "src": ""
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant plaide habituellement pour une union des droites incluant ses propres candidats, et critique toute primaire qui l'exclurait.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "L'Express (via Orange) – Présidentielle 2027 : cette primaire originale proposée par Vincent Jeanbrun pour départager la droite et le centre",
-              "u": "https://actu.orange.fr/politique/presidentielle-2027-cette-primaire-originale-proposee-par-vincent-jeanbrun-pour-departager-la-droite-et-le-centre-l-express-via-6medias-CNT000002tJF8c.html"
-            },
-            {
-              "t": "Public Sénat – Sous pression du camp Attal et Retailleau, Édouard Philippe refuse la primaire",
-              "u": "https://www.publicsenat.fr/actualites/politique/la-febrilite-est-de-leur-cote-pas-du-sien-sous-pression-du-camp-attal-et-retailleau-edouard-philippe-reste-droit-dans-ses-bottes-et-refuse-la-primaire"
-            },
-            {
-              "t": "franceinfo – Présidentielle 2027 : « Cette primaire, je n'y participerai pas », répète Édouard Philippe",
-              "u": "https://www.franceinfo.fr/elections/direct-presidentielle-2027-l-entourage-d-emmanuel-macron-etrille-les-candidats-qui-veulent-baisser-l-aide-financiere-a-l-ukraine-dont-marine-le-pen_8283293.html"
-            }
-          ],
-          "image": {
-            "u": "https://proxymedia.woopic.com/api/v1/images/2275%2Factu%2Farticles6medias%2Fcc9%2Fec5%2F9da1c43f09a77ca70015cbfd57%2FABACA_1023005_024-optimized-261115164659_FileVert-980x450.jpg?format=1200x630&facedetect=1&quality=85",
-            "credit": "L'Express (via Orange)",
-            "alt": "Illustration de l'article de L'Express (via Orange)"
-          }
-        },
-        {
-          "id": "2026-11-16-ecologistes-rousseau-tondelier",
-          "rubrique": "Présidentielle 2027",
-          "titre": "Écologistes : Sandrine Rousseau appelle à rejoindre Mélenchon, Marine Tondelier renvoie au vote des adhérents du 13 décembre",
-          "chapo": "La députée de Paris juge « dangereuse » la candidature de la secrétaire nationale, créditée de 3 % environ. Marine Tondelier lui reproche de parler à sa place et maintient sa candidature jusqu'au vote interne.",
-          "faits": [
-            "Sur BFMTV dimanche, Sandrine Rousseau (Les Écologistes) a appelé son parti « à rejoindre la dynamique de Jean-Luc Mélenchon », jugeant la candidature de Marine Tondelier « dangereuse si elle se maintient » ; elle ne lui donnera pas son parrainage.",
-            "Le même jour sur ICI-franceinfo, Marine Tondelier a maintenu sa candidature, reproché à Sandrine Rousseau de fragiliser le travail collectif et rappelé que les adhérents voteront du 10 au 13 décembre : « Le 13 décembre, la question sera tranchée ».",
-            "Elle pose des conditions à tout rassemblement (programme, législatives, organisation du gouvernement) et reconnaît des désaccords avec Jean-Luc Mélenchon, notamment sur l'Ukraine.",
-            "Mi-octobre, huit députés du groupe Écologiste et Social, dont sa présidente Cyrielle Chatelain, avaient déjà mis en cause la candidature autonome, selon L'Opinion cité par LCP."
-          ],
-          "enjeu": "Le vote de décembre décidera si les Écologistes gardent un candidat ou se rangent derrière un autre. Un ralliement à LFI renforcerait Jean-Luc Mélenchon à gauche, au risque de fracturer un parti divisé.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant présente habituellement ses propres candidatures et juge que les alliances électorales de la gauche institutionnelle ne répondent pas aux intérêts des travailleurs.",
-              "src": ""
-            },
-            "gr": {
-              "type": "declare",
-              "texte": "Mathilde Panot (LFI) a affirmé que « plus on nous cible, plus les soutiens à la candidature de Jean-Luc Mélenchon affluent », en saluant le ralliement d'élus écologistes.",
-              "src": "LCP, 23 octobre 2026"
-            },
-            "soc": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement une gauche sociale-démocrate autonome de LFI, et soutient la candidature de Raphaël Glucksmann issue de la primaire de son camp.",
-              "src": ""
-            },
-            "eco": {
-              "type": "declare",
-              "texte": "Marine Tondelier (Les Écologistes) maintient sa candidature et renvoie au vote des adhérents du 13 décembre, alors que Sandrine Rousseau (Les Écologistes) appelle à rejoindre Jean-Luc Mélenchon.",
-              "src": "ICI-franceinfo et BFMTV, 15 novembre 2026"
-            },
-            "ren": {
-              "type": "lecture",
-              "texte": "Le courant met habituellement en avant les divisions de la gauche et présente une alliance avec LFI comme une dérive vers la radicalité.",
-              "src": ""
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant appelle habituellement les écologistes et les sociaux-démocrates à se tenir à distance de LFI et à rejoindre un bloc central et européen.",
-              "src": ""
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant voit habituellement dans un rapprochement entre écologistes et LFI le signe d'une radicalisation de la gauche, et s'adresse aux électeurs modérés.",
-              "src": ""
-            },
-            "d": {
-              "type": "lecture",
-              "texte": "Le courant dénonce habituellement les alliances avec LFI et accuse la gauche de céder à la radicalité pour des raisons électorales.",
-              "src": ""
-            },
-            "dn": {
-              "type": "lecture",
-              "texte": "Le courant présente habituellement Jean-Luc Mélenchon comme son principal adversaire et voit dans ces ralliements la confirmation d'un duel avec LFI.",
-              "src": ""
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant dénonce habituellement une gauche unie derrière LFI qu'il accuse de complaisance envers l'islamisme et l'immigration.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "L'Express (via Orange) – Présidentielle 2027 : Sandrine Rousseau juge « dangereuse » la candidature de Marine Tondelier",
-              "u": "https://actu.orange.fr/politique/presidentielle-2027-sandrine-rousseau-juge-dangereuse-la-candidature-de-marine-tondelier-l-express-via-6medias-CNT000002tJC95.html"
-            },
-            {
-              "t": "PolitiqueMatin – Marine Tondelier sur franceinfo : sa réponse à Rousseau",
-              "u": "https://www.politiquematin.fr/marine-tondelier-franceinfo-candidature-13-decembre-2026"
-            },
-            {
-              "t": "LCP – Présidentielle : une dynamique Mélenchon chez Les Écologistes au risque de fracturer le parti ?",
-              "u": "https://lcp.fr/actualites/presidentielle-une-dynamique-melenchon-chez-les-ecologistes-au-risque-de-fracturer-le"
-            }
-          ],
-          "image": {
-            "u": "https://proxymedia.woopic.com/api/v1/images/2275%2Factu%2Farticles6medias%2F705%2F4dd%2Fbff2fe0165ce3347162ba57906%2FABACA_sandrine-rousseau-980x450.jpg?format=1200x630&facedetect=1&quality=85",
-            "credit": "L'Express (via Orange)",
-            "alt": "Illustration de l'article de L'Express (via Orange)"
-          }
-        },
-        {
-          "id": "2026-11-16-maileva-cyberattaque",
-          "rubrique": "Société",
-          "titre": "Cyberattaque chez Maileva : les coordonnées de 22 millions de personnes volées, la brigade cyber enquête",
-          "chapo": "La filiale de La Poste qui envoie bulletins de paie, factures et lettres recommandées pour les entreprises a révélé samedi un vol de données massif, remontant à la mi-septembre.",
-          "faits": [
-            "La Poste a annoncé samedi 14 novembre que sa filiale Maileva, rattachée à Docaposte, avait subi une cyberattaque à la mi-septembre : noms, prénoms et adresses postales de 22 millions de destinataires ont été dérobés, selon l'AFP.",
-            "Le parquet de Paris a confirmé dimanche que la Brigade de lutte contre la cybercriminalité enquête pour « atteinte à un système de traitement automatisé de données » ; Maileva a saisi la Cnil et porté plainte. Aucune interpellation n'a eu lieu.",
-            "La plateforme, qui revendique plus de 70 000 utilisateurs et 180 millions de documents envoyés en 2024, avait suspendu ses services le 23 septembre. Des bailleurs sociaux et l'hôpital Foch de Suresnes ont prévenu leurs usagers.",
-            "Les spécialistes redoutent l'envoi de faux courriers ; ils recommandent de vérifier toute demande inhabituelle auprès de l'émetteur par un autre canal."
-          ],
-          "enjeu": "Après France Travail en 2024 et La Poste à Noël 2025, cette fuite relance la question de la protection des données confiées aux prestataires publics et privés, et du délai d'information des victimes, deux mois après l'attaque.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant met habituellement en cause la course à la rentabilité et la sous-traitance dans les groupes publics, qu'il juge responsables des failles de sécurité.",
-              "src": ""
-            },
-            "gr": {
-              "type": "lecture",
-              "texte": "Le courant réclame habituellement des moyens publics pour la cybersécurité et une souveraineté numérique, et critique la filialisation des services de La Poste.",
-              "src": ""
-            },
-            "soc": {
-              "type": "lecture",
-              "texte": "Le courant demande habituellement plus de transparence envers les victimes et un renforcement des obligations de sécurité des opérateurs traitant des données sensibles.",
-              "src": ""
-            },
-            "eco": {
-              "type": "lecture",
-              "texte": "Le courant insiste habituellement sur la protection des données personnelles et sur une régulation plus stricte des acteurs du numérique.",
-              "src": ""
-            },
-            "ren": {
-              "type": "lecture",
-              "texte": "Le courant met habituellement en avant les moyens déployés par l'État contre la cybercriminalité et la transposition des règles européennes de cybersécurité.",
-              "src": ""
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant plaide habituellement pour un renforcement de la coopération européenne en cybersécurité et une meilleure information des citoyens exposés.",
-              "src": ""
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant insiste habituellement sur la menace cyber, notamment étrangère, et sur la nécessité d'investir dans la protection des infrastructures et des entreprises.",
-              "src": ""
-            },
-            "d": {
-              "type": "lecture",
-              "texte": "Le courant réclame habituellement des sanctions pénales plus lourdes contre les cybercriminels et un renforcement des moyens d'enquête.",
-              "src": ""
-            },
-            "dn": {
-              "type": "lecture",
-              "texte": "Le courant dénonce habituellement la vulnérabilité des services publics face aux attaques informatiques et réclame une souveraineté numérique nationale.",
-              "src": ""
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant met habituellement en cause la défaillance de l'État et réclame une réponse ferme contre les attaques informatiques, notamment d'origine étrangère.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "Quartz – Maileva subit un vol de données touchant 22 millions de personnes",
-              "u": "https://fr.qz.com/maileva-vol-donnees-22-millions-personnes-enquete-cybercriminalite-111526"
-            },
-            {
-              "t": "franceinfo – Victime d'une cyberattaque, Maileva, une filiale du groupe La Poste, annonce un vol de données touchant 22 millions de personnes",
-              "u": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/victime-d-une-cyberattaque-maileva-une-filiale-du-groupe-la-poste-annonce-un-vol-de-donnees-touchant-22-millions-de-personnes_8282825.html"
-            },
-            {
-              "t": "L'Express (via Orange) – Les trois infos à retenir de ce dimanche 15 novembre",
-              "u": "https://actu.orange.fr/france/les-trois-infos-a-retenir-de-ce-dimanche-15-novembre-l-express-via-6medias-CNT000002tJGB4.html"
-            }
-          ],
-          "image": {
-            "u": "https://www.franceinfo.fr/pictures/L43pbLYm_AcsC85stXcPSJ9xfNQ/0x557:5354x3569/1500x843/2026/11/14/6af8b9d543bae768990004.jpg",
-            "credit": "franceinfo",
-            "alt": "Un bureau de La Poste à Clichy La Garenne, dans les Hauts-de-Seine, le 2 mars 2026."
-          }
-        },
-        {
-          "id": "2026-11-16-herault-pluies",
-          "rubrique": "Climat",
-          "titre": "Hérault : deux mois de pluie en quelques heures à Montpellier, des dizaines d'automobilistes piégés",
-          "chapo": "Un épisode méditerranéen a déversé jusqu'à 190 mm d'eau dans la nuit de samedi à dimanche au sud de Montpellier. Une septuagénaire, réfugiée sur le toit de sa voiture, a été hélitreuillée.",
-          "faits": [
-            "Météo-France a relevé 190 mm à l'aéroport de Montpellier-Fréjorgues, dont 153 mm en trois heures et 89 mm en une heure, soit l'équivalent de deux mois de pluie, sur des sols déjà saturés.",
-            "Près de 80 personnes ont été mises en sécurité, avec une centaine de pompiers et l'hélicoptère de la Sécurité civile. À Candillargues, une femme de 73 ans, dont la voiture avait dérivé jusqu'au bord d'un étang, a été retrouvée saine et sauve sur le toit de son véhicule.",
-            "À Pérols, 20 à 45 cm d'eau recouvraient la ville au plus fort de l'épisode, selon son maire Jean-Pierre Rico ; à Lattes, le maire Cyril Meunier a jugé que « la gestion de l'écoulement pluvial a été totalement dépassée ».",
-            "La vigilance orange pluie-inondation, qui concernait aussi le Gard et les Bouches-du-Rhône, a été levée dimanche matin ; dans le Gard, dix routes et quatre ponts submersibles restaient fermés."
-          ],
-          "enjeu": "La répétition des épisodes intenses sur le littoral languedocien pose la question de l'adaptation des réseaux pluviaux et de l'urbanisation en zone inondable, ainsi que du financement de la prévention par les collectivités.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant met habituellement en cause un système économique qu'il juge responsable du dérèglement climatique, et réclame des moyens publics pour protéger les quartiers populaires.",
-              "src": ""
-            },
-            "gr": {
-              "type": "lecture",
-              "texte": "Le courant réclame habituellement une planification écologique, des moyens pour les services de secours et l'arrêt de l'artificialisation des sols en zone inondable.",
-              "src": ""
-            },
-            "soc": {
-              "type": "lecture",
-              "texte": "Le courant plaide habituellement pour un soutien de l'État aux collectivités qui investissent dans la prévention des inondations et l'adaptation au changement climatique.",
-              "src": ""
-            },
-            "eco": {
-              "type": "lecture",
-              "texte": "Le courant lie habituellement ces épisodes au dérèglement climatique et demande d'adapter l'urbanisme, de désimperméabiliser les sols et de renforcer le fonds de prévention des risques.",
-              "src": ""
-            },
-            "ren": {
-              "type": "lecture",
-              "texte": "Le courant met habituellement en avant le plan national d'adaptation au changement climatique et la mobilisation des services de l'État lors des crises.",
-              "src": ""
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant insiste habituellement sur la responsabilité partagée entre État et collectivités dans la prévention des risques et la réforme du régime des catastrophes naturelles.",
-              "src": ""
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant insiste habituellement sur le rôle des maires dans la gestion des risques et sur la nécessité de simplifier les travaux de protection.",
-              "src": ""
-            },
-            "d": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement les élus locaux face aux normes, réclame des procédures plus rapides pour les ouvrages de protection et une indemnisation rapide des sinistrés.",
-              "src": ""
-            },
-            "dn": {
-              "type": "lecture",
-              "texte": "Le courant réclame habituellement une indemnisation rapide des sinistrés et critique un manque d'entretien des cours d'eau qu'il impute aux contraintes administratives.",
-              "src": ""
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant critique habituellement les normes environnementales qu'il juge responsables du mauvais entretien des fossés et cours d'eau, et réclame une aide rapide aux sinistrés.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "6Medias (via Orange) – Intempéries dans l'Hérault : l'équivalent de deux mois de pluies en quelques heures",
-              "u": "https://actu.orange.fr/france/intemperies-dans-l-herault-l-equivalent-de-deux-mois-de-pluies-en-quelques-heures-une-femme-portee-disparue-retrouvee-saine-et-sauve-6medias-CNT000002tJzs9.html"
-            },
-            {
-              "t": "France 3 Occitanie – Piégée par les intempéries, une femme de 73 ans retrouvée saine et sauve à Montpellier",
-              "u": "https://france3-regions.franceinfo.fr/occitanie/herault/montpellier/une-septuagenaire-disparue-au-volant-de-sa-voiture-activement-recherchee-a-montpellier-apres-les-orages-de-la-nuit-une-centaine-d-automobilistes-mis-en-securite-3449907.html"
-            },
-            {
-              "t": "Quartz – Des automobilistes ont été piégés par les inondations dans l'Hérault",
-              "u": "https://fr.qz.com/automobilistes-pieges-inondations-herault-septuagenaire-helitreuillee-111526"
-            }
-          ],
-          "image": {
-            "u": "https://proxymedia.woopic.com/api/v1/images/2275%2Factu%2Farticles6medias%2Ff1a%2F808%2F88ec975ff2422b4339156267ba%2Fcapture-twitter-968x450.jpg?format=1200x630&facedetect=1&quality=85",
-            "credit": "6Medias (via Orange)",
-            "alt": "Illustration de l'article de 6Medias (via Orange)"
-          }
-        },
-        {
-          "id": "2026-11-16-ukraine-aide-macron-le-pen",
-          "rubrique": "International",
-          "titre": "Ukraine : Macron dénonce « ceux qui veulent rationner » l'aide à Kiev, Le Pen le renvoie à son bilan",
-          "chapo": "Dans un message solennel, le chef de l'État vise sans la nommer la candidate du RN, qui veut cesser l'aide financière à l'Ukraine six mois après son élection. Zelensky prépare une réunion de la coalition des volontaires jeudi à Berlin.",
-          "faits": [
-            "Samedi soir sur X, Emmanuel Macron a affirmé que « ceux qui veulent rationner les moyens de l'Ukraine » veulent « l'obliger à une paix injuste » : « C'est la recette pour la guerre d'après. Cela ne peut pas être la position de la France ».",
-            "Marine Le Pen, qui a annoncé qu'elle cesserait l'aide financière à Kiev six mois après son élection, a répondu à l'AFP que « nul ne peut se prévaloir de sa propre turpitude », reprochant au président d'avoir « ruiné notre pays en dix ans ».",
-            "Depuis le Cambodge, l'entourage du président a jugé qu'elle « nous isolera en Europe ». Jean-Luc Mélenchon est lui aussi critiqué par ses adversaires pour des positions jugées trop proches de Moscou.",
-            "Volodymyr Zelensky a annoncé dimanche préparer une réunion de la coalition des volontaires, prévue jeudi à Berlin, pour définir la position européenne avant de futurs pourparlers. La cheffe de la diplomatie européenne, Kaja Kallas, prévient que « l'Amérique ne peut pas négocier à notre place »."
-          ],
-          "enjeu": "L'aide à l'Ukraine devient un clivage de la présidentielle, à cinq mois du scrutin. Dans les négociations pilotées par Washington, les Européens cherchent à peser, alors que la position française après 2027 est incertaine.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant renvoie habituellement dos à dos l'impérialisme russe et l'Otan, et s'oppose à la hausse des budgets militaires comme aux livraisons d'armes.",
-              "src": ""
-            },
-            "gr": {
-              "type": "lecture",
-              "texte": "Le courant condamne habituellement l'invasion russe mais plaide pour une solution négociée sous l'égide de l'ONU, s'oppose à l'élargissement de l'Otan et critique l'alignement sur Washington.",
-              "src": ""
-            },
-            "soc": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement fermement l'Ukraine, défend le maintien de l'aide militaire et financière et une défense européenne renforcée.",
-              "src": ""
-            },
-            "eco": {
-              "type": "declare",
-              "texte": "Marine Tondelier (Les Écologistes) réaffirme son soutien à l'Ukraine, critique la position de Marine Le Pen et conteste que les difficultés sociales soient dues à cette aide.",
-              "src": "ICI-franceinfo, 15 novembre 2026"
-            },
-            "ren": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement le soutien à l'Ukraine dans la durée, la coalition des volontaires et la place des Européens à la table des négociations.",
-              "src": ""
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement l'aide à l'Ukraine et une Europe de la défense, en insistant sur l'unité des Européens face à la Russie.",
-              "src": ""
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement le maintien de l'aide à l'Ukraine et une hausse de l'effort de défense, en jugeant que la sécurité de l'Europe se joue sur ce front.",
-              "src": ""
-            },
-            "d": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement l'Ukraine et la souveraineté européenne, tout en demandant un meilleur contrôle de l'usage et du coût de l'aide.",
-              "src": ""
-            },
-            "dn": {
-              "type": "declare",
-              "texte": "Marine Le Pen (RN) répond au président : « nul ne peut se prévaloir de sa propre turpitude », et maintient son projet de cesser l'aide financière à Kiev après six mois.",
-              "src": "AFP, 15 novembre 2026"
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant plaide habituellement pour une fin rapide du conflit par la négociation et critique le coût de l'aide à l'Ukraine pour les finances françaises.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "Euronews – Emmanuel Macron dénonce « ceux qui veulent rationner » l'aide à l'Ukraine, Marine Le Pen lui répond",
-              "u": "https://fr.euronews.com/2026/11/15/emmanuel-macron-denonce-ceux-qui-veulent-rationner-laide-a-lukraine-pour-lobliger-a-une-pa"
-            },
-            {
-              "t": "Bluewin (AFP) – Macron dénonce « ceux qui veulent rationner les moyens de l'Ukraine »",
-              "u": "https://www.bluewin.ch/fr/infos/monde/macron-denonce-ceux-qui-veulent-rationner-les-moyens-de-l-ukraine-li.3674338"
-            },
-            {
-              "t": "Public Sénat – Ukraine : « L'Amérique ne peut pas négocier à notre place », alerte la cheffe de la diplomatie européenne",
-              "u": "https://www.publicsenat.fr/actualites/politique/ukraine-lamerique-ne-peut-pas-negocier-a-notre-place-alerte-la-cheffe-de-la-diplomatie-europeenne"
-            }
-          ],
-          "image": {
-            "u": "https://images.euronews.com/articles/stories/09/99/30/78/1200x675_cmsv2_ffc73983-8ee0-5a9a-bedc-87b57337928b-9993078.jpg",
-            "credit": "Euronews",
-            "alt": "Emmanuel Macron dénonce \"ceux qui veulent rationner\" l'aide à l'Ukraine, Marine Le Pen lui répond"
-          }
-        }
-      ],
-      "breves": [
-        {
-          "titre": "Universités : pas de semestre validé d'office",
-          "texte": "Invité de franceinfo dimanche, le ministre de l'Enseignement supérieur Philippe Baptiste a exclu un semestre validé automatiquement ou une note minimale pour tous dans les universités perturbées par la mobilisation. Il demande aux établissements de tenir compte des cours manqués dans les évaluations et assure que la négociation avec les organisations étudiantes continue.",
-          "src": {
-            "t": "PolitiqueMatin – Invités politiques du 15 novembre 2026",
-            "u": "https://www.politiquematin.fr/invites-politiques-15-novembre-2026"
-          }
-        },
-        {
-          "titre": "Budget de la Sécu : vote du Sénat mercredi",
-          "texte": "Le Sénat achève cette semaine l'examen du budget 2027 de la Sécurité sociale, avec un vote solennel mercredi 18 novembre. Sa commission des affaires sociales propose de relever de 1 260 à 1 500 euros le plafond des pensions protégées du gel, de rétablir la réforme des retraites de 2023 et de viser un déficit de 12,7 milliards d'euros.",
-          "src": {
-            "t": "Public Sénat – Budget 2027 de la Sécurité sociale : les sénateurs proposent de revaloriser sur l'inflation les pensions allant jusqu'à 1 500 euros",
-            "u": "https://www.publicsenat.fr/actualites/sante/budget-2027-de-la-securite-sociale-les-senateurs-proposent-de-revaloriser-sur-linflation-les-pensions-allant-jusqua-1500-euros"
-          }
-        }
-      ],
-      "agenda": [
-        {
-          "d": "Lun. 16 nov.",
-          "t": "Le Sénat poursuit l'examen du budget de la Sécu ; prévisions de trafic SNCF pour la grève à 17 h ; Conseil des ministres des Affaires étrangères de l'UE"
-        },
-        {
-          "d": "Mar. 17 nov.",
-          "t": "Grève dans la fonction publique à l'appel de toutes les organisations syndicales, appel interprofessionnel de la CGT ; réunion des équipes Renaissance, LR et Nouvelle Énergie sur la primaire"
         },
         {
           "d": "Mer. 18 nov.",
