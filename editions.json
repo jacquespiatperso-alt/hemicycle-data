@@ -1,6 +1,544 @@
 {
-  "updated": "2026-11-23T06:31:47+01:00",
+  "updated": "2026-11-24T06:32:00+01:00",
   "editions": [
+    {
+      "date": "2026-11-24",
+      "label": "Mardi 24 novembre 2026",
+      "maj": "Mise à jour à 6 h 32",
+      "intro": "Au Sénat, la droite a rendu imposables les indemnités maladie de longue durée et alourdi la fiscalité des indemnités de départ, tout en allégeant les donations familiales. La règle d'or voulue par Emmanuel Macron trouve des soutiens au RN et chez LR, mais le calendrier interroge. Les députés LR préparent une niche consacrée à la sécurité, le sommet Choose France affiche 42,5 milliards d'investissements, et un sondage Odoxa place David Lisnard devant Édouard Philippe. À l'international, Volodymyr Zelensky réclame une négociation à quatre avec l'Europe.",
+      "stories": [
+        {
+          "id": "2026-11-24-senat-fiscalite-ald-indemnites",
+          "rubrique": "Budget",
+          "titre": "Budget 2027 : le Sénat rend imposables les indemnités maladie de longue durée et taxe davantage les indemnités de départ",
+          "chapo": "En poursuivant l'examen de la partie recettes, la majorité sénatoriale a durci plusieurs mesures du gouvernement, tout en allégeant la fiscalité des donations familiales. La gauche dénonce un budget qui frappe les malades et les salariés.",
+          "faits": [
+            "Lundi, le Sénat a adopté par 194 voix contre 146 un amendement de la rapporteure générale Christine Lavarde (LR), aussi porté par des centristes, qui rend les indemnités journalières versées pour une affection de longue durée intégralement imposables, au lieu de la moitié prévue par le gouvernement. Les indemnités liées aux accidents du travail et maladies professionnelles sont aussi visées ; le gouvernement s'en est remis à la sagesse du Sénat.",
+            "Les sénateurs ont voté l'article 2, qui plafonne à 48 060 euros (un plafond annuel de la Sécurité sociale) l'exonération des indemnités de rupture, quel que soit le motif du départ. L'exonération coûtait 1,379 milliard d'euros en 2024 selon l'IGF et l'IGAS ; l'exécutif en attend 380 millions d'économies en 2027. L'application est fixée au 1er janvier 2027, sans rétroactivité.",
+            "Le Sénat a supprimé la réduction d'impôt pour frais de scolarité (61 euros par collégien, 153 par lycéen, 183 par étudiant, soit 450 millions d'euros au total) et la demi-part des parents ayant élevé seuls un enfant au moins cinq ans.",
+            "À l'inverse, il a étendu à toute l'année 2027 l'allègement des donations familiales : seuil d'exonération porté de 31 865 à 50 000 euros et taux de 6 % jusqu'à 100 000 euros pour les dons d'argent aux descendants majeurs, avec un plafond de 200 000 euros par bénéficiaire."
+          ],
+          "enjeu": "La droite sénatoriale veut réduire le déficit en rognant les niches fiscales, au risque d'alourdir la note de ménages fragiles. Ces choix devront survivre à la navette et à la commission mixte paritaire, avant le vote solennel du Sénat prévu le 9 décembre.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant rejette habituellement toute imposition des revenus de remplacement des salariés malades ou licenciés et réclame à la place une taxation des grandes fortunes et des profits.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Pierre Barros (PCF) estime que la stabilité fiscale promise « s'arrête à la porte du cabinet médical ». Son collègue communiste Pascal Savoldelli a tenté, sans succès, de supprimer l'allègement des donations.",
+              "src": "Public Sénat, 23 novembre 2026"
+            },
+            "soc": {
+              "type": "declare",
+              "texte": "Patrick Kanner (PS) a lancé à la rapporteure : « Votre amendement est dégueulasse ». Thierry Cozic (PS) rappelle que 87 % des Français héritent de moins de 100 000 euros dans leur vie, pour contester l'allègement des donations.",
+              "src": "Public Sénat, 23 novembre 2026"
+            },
+            "eco": {
+              "type": "declare",
+              "texte": "Grégory Blanc (Les Écologistes) reproche à la droite d'« aller fiscaliser ceux qui sont en souffrance » et juge l'allègement des donations réservé à ceux qui sont « bien nés ».",
+              "src": "Public Sénat, 23 novembre 2026"
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "Le ministre des Comptes publics David Amiel (Renaissance) défend le plafonnement des indemnités de départ : « Il faut vraiment percevoir des indemnités très importantes pour avoir un impact significatif ».",
+              "src": "Public Sénat, 23 novembre 2026"
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement la réduction des niches fiscales pour redresser les comptes, tout en demandant que l'effort épargne les ménages modestes et les malades.",
+              "src": ""
+            },
+            "hor": {
+              "type": "declare",
+              "texte": "Emmanuel Capus (Horizons) s'oppose à la hausse sur les indemnités de départ, « encore une augmentation d'impôt », et juge la suppression de la réduction pour frais de scolarité une « économie de bouts de chandelles ».",
+              "src": "Public Sénat, 23 novembre 2026"
+            },
+            "d": {
+              "type": "declare",
+              "texte": "La rapporteure générale Christine Lavarde (LR) justifie ses amendements par l'état des comptes : « on a 3600 milliards de dettes ». Sa collègue Marie-Do Aeschlimann (LR) dit pourtant que le débat sur les indemnités de départ lui « donne la nausée ».",
+              "src": "Public Sénat, 23 novembre 2026"
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Edwige Diaz (RN) voit dans l'imposition des indemnités maladie de longue durée « une sacrée mauvaise surprise » pour des personnes déjà « frappées par des malheurs de la vie ». Le groupe RN-UDR a voté contre l'amendement.",
+              "src": "Public Sénat, 23 novembre 2026"
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant prône habituellement des économies sur les dépenses publiques, l'immigration et les aides sociales plutôt que des hausses d'impôts sur les salariés, et défend l'allègement de la transmission familiale.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Public Sénat – Budget 2027 : le Sénat vote la fiscalisation intégrale des indemnités pour affections de longue durée",
+              "u": "https://www.publicsenat.fr/actualites/politique/budget-2027-le-senat-vote-la-fiscalisation-integrale-des-indemnites-pour-affections-de-longue-duree"
+            },
+            {
+              "t": "Public Sénat – « Ce débat me donne la nausée » : le Sénat alourdit la fiscalité des indemnités de départ des salariés",
+              "u": "https://www.publicsenat.fr/actualites/economie/ce-debat-me-donne-la-nausee-le-senat-alourdit-la-fiscalite-des-indemnites-de-depart-des-salaries"
+            },
+            {
+              "t": "Public Sénat – Budget 2027 : le Sénat supprime la réduction d'impôt sur le revenu pour frais de scolarité",
+              "u": "https://www.publicsenat.fr/actualites/education/budget-2027-le-senat-supprime-la-reduction-dimpot-sur-le-revenu-pour-frais-de-scolarite"
+            },
+            {
+              "t": "Public Sénat – Budget 2027 : le Sénat allège la fiscalité des donations familiales",
+              "u": "https://www.publicsenat.fr/actualites/politique/budget-2027-le-senat-allege-la-fiscalite-des-donations-familiales"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-24-regle-or-reactions",
+          "rubrique": "Budget",
+          "titre": "Règle d'or : Le Pen et Retailleau prêts à voter, Larcher s'interroge sur le calendrier, la gauche ironise",
+          "chapo": "Au lendemain des révélations sur un possible Congrès à Versailles en janvier, Emmanuel Macron juge le débat « pas illégitime ». Le projet divise jusque dans les rangs de ceux qui en approuvent le principe.",
+          "faits": [
+            "Dans Le Figaro, Emmanuel Macron estime que la règle d'or « n'est pas illégitime » et qu'elle « peut être une idée à explorer » s'il reste de la volatilité sur les taux d'ici janvier. Selon l'exécutif, des préconsultations sont menées par le Premier ministre ; l'entourage de Gérard Larcher dit n'avoir eu « pas de contact à ce jour » avec l'Élysée.",
+            "Le texte de 2011 n'interdit pas les déficits : il crée des lois-cadres d'au moins trois ans fixant chaque année un plafond de dépenses et un minimum de mesures nouvelles en recettes. Sans loi-cadre applicable, aucun budget ne pourrait être adopté, et le Conseil constitutionnel contrôlerait les lois de finances.",
+            "Son adoption exige les trois cinquièmes des suffrages exprimés au Congrès. Selon Public Sénat, cette majorité serait atteinte de peu avec le RN, la droite et le centre, à une dizaine ou une vingtaine de voix près.",
+            "Le Parlement suspend ses travaux le 28 février en raison de la présidentielle. Pour s'appliquer avant, une première loi-cadre devrait être votée d'ici là, ce qui rend probable une première application après l'élection."
+          ],
+          "enjeu": "L'exécutif veut rassurer les marchés à quelques mois de la fin du quinquennat ; ses adversaires y voient un geste tardif d'un président qui n'a pas tenu l'équilibre. Le vote du RN serait décisif et donnerait au parti un rôle de faiseur de majorité constitutionnelle.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant combat habituellement toute règle d'équilibre budgétaire, qu'il considère comme une inscription de l'austérité dans la Constitution au détriment des services publics.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Le sénateur communiste Pascal Savoldelli (PCF) juge « quand même osé », en plein débat budgétaire, de proposer de réfléchir à une règle d'or.",
+              "src": "Public Sénat, 23 novembre 2026"
+            },
+            "soc": {
+              "type": "declare",
+              "texte": "Patrick Kanner (PS) reproche au président de vouloir « agiter le débat politique » au lieu de « fermer le banc dans le calme » ; le vote des socialistes relèvera d'« une décision politique » des instances du parti.",
+              "src": "Public Sénat, 23 novembre 2026"
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant s'oppose habituellement aux règles d'équilibre budgétaire rigides, jugées incompatibles avec les investissements nécessaires à la transition écologique.",
+              "src": ""
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "Le ministre de l'Économie Roland Lescure (Renaissance) plaide pour « créer une forme de consensus » afin de « montrer aux investisseurs » l'engagement du Parlement, tout en notant que « plafonner le déficit, c'est un peu interdire la fièvre ».",
+              "src": "Franceinfo, cité par Public Sénat, 23 novembre 2026"
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant fait habituellement de la réduction de la dette un impératif et soutient le principe d'une règle de retour à l'équilibre, à condition qu'elle fasse l'objet d'un large accord.",
+              "src": ""
+            },
+            "hor": {
+              "type": "declare",
+              "texte": "Édouard Philippe (Horizons) soutient le principe : son programme prévoit de « contraindre le gouvernement et le Parlement » à revenir à l'équilibre. Il n'a pas réagi directement au projet de Congrès.",
+              "src": "LCP, 23 novembre 2026"
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Bruno Retailleau (LR) juge qu'inscrire la règle d'or dans la Constitution « serait une bonne chose », tout en regrettant qu'on attende « le dixième budget ultra-déficitaire ». Gérard Larcher (LR) y est favorable sur le principe mais s'interroge sur le moment choisi, selon son entourage.",
+              "src": "Public Sénat, 23 novembre 2026"
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Marine Le Pen (RN) affirme sur France 2 : « C'est nous qui l'avons demandée. Ce serait dommage qu'on ne la soutienne pas », tout en jugeant le texte de 2011 moins abouti que la proposition du RN.",
+              "src": "Public Sénat, 23 novembre 2026"
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant réclame habituellement une baisse drastique de la dépense publique et approuve le principe de budgets à l'équilibre, tout en se montrant méfiant envers les initiatives d'Emmanuel Macron.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Public Sénat – « Il se fout de la gueule du monde » : la règle d'or budgétaire évoquée par Emmanuel Macron laisse dubitatif",
+              "u": "https://www.publicsenat.fr/actualites/politique/il-se-fout-de-la-gueule-du-monde-la-regle-dor-budgetaire-evoquee-par-emmanuel-macron-laisse-dubitatif"
+            },
+            {
+              "t": "LCP – Règle d'or : que prévoit vraiment le texte qu'Emmanuel Macron envisage de faire adopter ?",
+              "u": "https://lcp.fr/actualites/regle-d-or-que-prevoit-vraiment-le-texte-qu-emmanuel-macron-envisage-de-faire-adopter"
+            },
+            {
+              "t": "LCP – Finances publiques : pourquoi Emmanuel Macron rouvre le débat sur la règle d'or de 2011",
+              "u": "https://lcp.fr/actualites/finances-publiques-pourquoi-emmanuel-macron-rouvre-le-debat-sur-la-regle-d-or-de-2011"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-24-niche-lr-securite",
+          "rubrique": "Sécurité",
+          "titre": "Peines planchers, responsabilité pénale à 16 ans : les députés LR consacrent leur niche de jeudi à la sécurité",
+          "chapo": "À moins de cinq mois de la présidentielle, le groupe Droite républicaine inscrit quatre textes répressifs sur neuf à sa journée réservée du 26 novembre. La gauche doute de leur constitutionnalité.",
+          "faits": [
+            "Le texte de Patrick Hetzel (LR), adopté en commission, rétablit des peines planchers dès la première condamnation pour violences volontaires : 5, 7 ou 10 ans selon que le crime est puni de 15, 20 ou 30 ans de réclusion. Des peines planchers avaient existé sous Nicolas Sarkozy avant d'être abrogées sous François Hollande.",
+            "Éric Pauget (LR) propose une responsabilité pénale complète dès 16 ans et jusqu'à 5 ans de prison et 75 000 euros d'amende pour les parents de mineurs récidivistes ; son texte a été adopté en commission mais amputé d'un de ses principaux articles.",
+            "Deux textes, rejetés en commission, visent à suspendre les prestations sociales : jusqu'à un an pour les auteurs d'exactions en manifestation (Corentin Le Fur), jusqu'à trois ans pour les fraudeurs multirécidivistes (Nicolas Ray), ce dernier issu d'une mission menée avec le député RN Jocelyn Dessigny.",
+            "Le groupe LR est présidé par Laurent Wauquiez. Le RN n'avait inscrit qu'un texte sécuritaire lors de sa propre niche, en octobre."
+          ],
+          "enjeu": "La droite cherche à reprendre l'initiative sur un terrain que le RN lui dispute avant 2027. L'issue dépendra du vote du bloc central et du RN, et du temps disponible dans une journée de niche souvent écourtée par l'obstruction.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant rejette habituellement les peines planchers et la baisse de l'âge de la responsabilité pénale, et dénonce la suspension des aides comme une punition collective des familles pauvres.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "François Piquemal (LFI) a lancé aux députés LR, lors de l'examen en commission : « Vous êtes en train de courir après le Rassemblement national ».",
+              "src": "LCP, 23 novembre 2026 (propos de la semaine précédente)"
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant s'oppose habituellement aux peines automatiques au nom de l'individualisation des peines et doute de la constitutionnalité de la suspension des prestations sociales.",
+              "src": ""
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant combat habituellement les peines planchers et la pénalisation accrue des mineurs, et privilégie la prévention et l'éducation.",
+              "src": ""
+            },
+            "ren": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement la fermeté pénale, notamment sur les mineurs, mais se montre réservé sur les peines automatiques, que le Conseil constitutionnel encadre strictement.",
+              "src": ""
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant est habituellement attaché à l'individualisation des peines et réservé sur les peines planchers, tout en soutenant une réponse pénale plus rapide.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant prône habituellement une forte fermeté pénale et une réponse plus rapide aux violences des mineurs, et se montre ouvert à des peines minimales.",
+              "src": ""
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Patrick Hetzel (LR) défend ses peines planchers : « On ne devrait pas avoir besoin de frapper deux fois pour aller en prison une première fois ».",
+              "src": "LCP, 23 novembre 2026 (exposé des motifs)"
+            },
+            "dn": {
+              "type": "lecture",
+              "texte": "Le courant réclame habituellement le rétablissement des peines planchers, la majorité pénale à 16 ans et la suppression des aides aux fraudeurs, et vote en général ce type de textes.",
+              "src": ""
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant réclame habituellement des peines minimales obligatoires, l'abaissement de la majorité pénale et la suppression des aides sociales aux délinquants.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "LCP – Suspension des prestations sociales, peines planchers, responsabilité pénale à 16 ans : les députés LR à l'offensive sur la sécurité",
+              "u": "https://lcp.fr/actualites/suspension-des-prestations-sociales-peines-planchers-responsabilite-penale-a-16-ans-les"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-24-choose-france-airbus",
+          "rubrique": "Économie",
+          "titre": "Choose France : 42,5 milliards d'euros d'investissements annoncés, Macron promet 350 millions à la recherche aéronautique",
+          "chapo": "La deuxième édition française du sommet de l'attractivité a réuni 253 entreprises. Le matin, le chef de l'État était chez Airbus, près de Toulouse.",
+          "faits": [
+            "Le sommet « Choose France – Édition France », ouvert lundi à Paris par les ministres Roland Lescure et Sébastien Martin, recense 273 projets portés par 253 entreprises françaises, pour 42,5 milliards d'euros. 81 projets sont nouveaux (14,9 milliards) et environ 30 % bénéficient d'un soutien public.",
+            "ADP (9,5 milliards pour les aéroports parisiens) et RTE (8 milliards) représentent à eux seuls 41 % de l'enveloppe. Figurent aussi une usine de biocarburants pour l'aviation d'Elyse Energy (1,6 milliard) et près de 300 millions d'investissements de L'Oréal. Aucun chiffre d'emplois n'a été communiqué.",
+            "À l'usine Airbus de Blagnac, Emmanuel Macron a annoncé 350 millions d'euros « sanctuarisés » pour le Conseil pour la recherche aéronautique civile (Corac), consacrés à la décarbonation de l'aviation. L'Élysée avait promis 300 millions en 2023, une promesse non tenue en 2024 et 2025.",
+            "Le président a chiffré la filière à 230 000 emplois directs et 4 % du PIB ; l'aviation pèse 6 % des émissions de gaz à effet de serre du pays."
+          ],
+          "enjeu": "L'exécutif veut afficher une France attractive malgré l'instabilité politique et budgétaire. Ses adversaires interrogent la part de projets déjà connus et le coût public des soutiens accordés.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant dénonce habituellement ces sommets comme des vitrines pour grands groupes financées par l'argent public, sans garantie sur l'emploi ni sur les salaires.",
+              "src": ""
+            },
+            "gr": {
+              "type": "lecture",
+              "texte": "Le courant critique habituellement des annonces jugées recyclées et réclame que les aides publiques aux entreprises soient conditionnées à l'emploi et à la transition.",
+              "src": ""
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant salue habituellement les investissements industriels mais demande davantage de conditions sociales et environnementales aux aides publiques.",
+              "src": ""
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant met habituellement en doute la compatibilité des investissements aéroportuaires et aéronautiques avec les objectifs climatiques, tout en soutenant les projets de décarbonation.",
+              "src": ""
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "Le ministre de l'Économie Roland Lescure (Renaissance) se félicite d'une édition record : « On a à la fois plus de projets, plus de montants investis ».",
+              "src": "Franceinfo, cité par LCP, 23 novembre 2026"
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement la politique d'attractivité et de réindustrialisation menée depuis 2017, en insistant sur l'irrigation des territoires.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant approuve habituellement la politique d'attractivité et plaide pour une simplification accrue des procédures d'implantation industrielle.",
+              "src": ""
+            },
+            "d": {
+              "type": "lecture",
+              "texte": "Le courant reconnaît habituellement le succès de l'attractivité tout en estimant que la fiscalité et les normes pèsent encore trop sur les entreprises.",
+              "src": ""
+            },
+            "dn": {
+              "type": "lecture",
+              "texte": "Le courant critique habituellement des sommets jugés de communication et défend un patriotisme économique centré sur les PME et la préférence nationale dans la commande publique.",
+              "src": ""
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant réclame habituellement une baisse massive des impôts de production et des normes, qu'il juge plus efficace que les annonces d'investissement.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Public Sénat – Emmanuel Macron annonce 350 millions d'investissement dans la recherche aéronautique à Toulouse",
+              "u": "https://www.publicsenat.fr/actualites/economie/emmanuel-macron-annonce-350-millions-dinvestissement-dans-la-recherche-aeronautique-a-toulouse"
+            },
+            {
+              "t": "LCP – Sommet « Choose France » : que recouvrent les 42,5 milliards d'euros d'investissements annoncés ?",
+              "u": "https://lcp.fr/actualites/sommet-choose-france-que-recouvrent-les-425-milliards-d-euros-d-investissements-annonces"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-24-presidentielle-odoxa-generations",
+          "rubrique": "Présidentielle 2027",
+          "titre": "Présidentielle : Lisnard dépasse Philippe en popularité, Génération.s se range derrière Mélenchon",
+          "chapo": "Un sondage Odoxa montre qu'aucun candidat ne suscite plus d'adhésion que de rejet. À gauche, Génération.s rejoint la candidature insoumise.",
+          "faits": [
+            "Selon le baromètre Odoxa-Mascaret (1 005 personnes interrogées en ligne les 18 et 19 novembre), David Lisnard recueille 26 % d'adhésion (+4 points), devant Édouard Philippe (23 %), une première. Il est le seul, avec Édouard Philippe, à devancer Marine Le Pen dans un duel de second tour (5 points d'écart pour lui, 4 pour Édouard Philippe) ; entre 29 % et 42 % des sondés ne choisissent aucun des deux candidats selon les duels.",
+            "Pour la première fois, aucun candidat ne suscite plus de satisfaction que de mécontentement en cas de victoire : 51 % pour Marine Le Pen, 50 % pour Édouard Philippe, 68 % pour Jean-Luc Mélenchon.",
+            "Les adhérents de Génération.s ont voté à 85 % pour soutenir Jean-Luc Mélenchon, en échange d'un accord législatif ; selon Paul Vannier (LFI), 12 circonscriptions leur seraient réservées. La députée Sophie Taillé-Polian, ex-Génération.s, est exclue de l'accord.",
+            "Candidat et président sortant de l'AMF, David Lisnard dit trouver Sarah Knafo (Reconquête) « brillante » et son discours économique « très proche du mien », mais écarte tout rapprochement."
+          ],
+          "enjeu": "La recomposition se poursuit à droite autour de la question de la primaire, et à gauche autour de la candidature de Jean-Luc Mélenchon. Le niveau de rejet de tous les candidats annonce un second tour par défaut.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant présente habituellement ses propres candidatures et refuse de se ranger derrière les candidats des partis de gauche institutionnels.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Paul Vannier (LFI) a indiqué que douze circonscriptions seraient réservées à Génération.s aux législatives, dans le cadre de l'accord autour de « l'Avenir en commun ».",
+              "src": "AFP, cité par LCP, 23 novembre 2026"
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement une candidature sociale-démocrate distincte de LFI et refuse de se ranger derrière Jean-Luc Mélenchon.",
+              "src": ""
+            },
+            "eco": {
+              "type": "declare",
+              "texte": "Marine Tondelier (Les Écologistes) s'est dite prête à négocier une coalition avec LFI, selon LCP.",
+              "src": "LCP, 23 novembre 2026"
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "Gabriel Attal (Renaissance) soutient l'organisation d'une primaire de la droite et du centre, avec Bruno Retailleau, selon Public Sénat.",
+              "src": "Public Sénat, 24 novembre 2026"
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant plaide habituellement pour un rassemblement du centre autour d'une candidature unique et reste réservé sur une primaire étendue à la droite dure.",
+              "src": ""
+            },
+            "hor": {
+              "type": "declare",
+              "texte": "Édouard Philippe (Horizons) refuse le principe d'une primaire et a présenté le 18 novembre un programme prévoyant notamment 45 ans de cotisations pour la retraite.",
+              "src": "Public Sénat, 24 novembre 2026"
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Bruno Retailleau (LR) soutient une primaire de la droite et du centre mais s'oppose à l'inclusion d'Éric Zemmour souhaitée par David Lisnard.",
+              "src": "Public Sénat, 24 novembre 2026"
+            },
+            "dn": {
+              "type": "lecture",
+              "texte": "Le courant met habituellement en avant l'avance de Marine Le Pen au premier tour et présente les débats de primaire comme une recomposition de l'ancien système.",
+              "src": ""
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant appelle habituellement à l'union des droites et se dit favorable à une primaire ouverte qui inclurait Éric Zemmour.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Public Sénat – Sondage : au deuxième tour, seuls David Lisnard et Édouard Philippe seraient préférés à Marine Le Pen",
+              "u": "https://www.publicsenat.fr/actualites/politique/sondage-au-deuxieme-tour-seuls-david-lisnard-et-edouard-philippe-seraient-preferes-a-marine-le-pen"
+            },
+            {
+              "t": "LCP – Présidentielle : Génération.s officialise son soutien à Jean-Luc Mélenchon",
+              "u": "https://lcp.fr/actualites/presidentielle-generations-officialise-son-soutien-a-jean-luc-melenchon-445502"
+            },
+            {
+              "t": "Public Sénat – Présidentielle 2027 : David Lisnard confirme sa dynamique et devance Édouard Philippe",
+              "u": "https://www.publicsenat.fr/actualites/politique/election-presidentielle-2027-david-lisnard-confirme-sa-dynamique-et-devance-edouard-philippe"
+            },
+            {
+              "t": "Public Sénat – Sondage : le vainqueur de la présidentielle de 2027 devrait susciter plus de rejet que d'adhésion",
+              "u": "https://www.publicsenat.fr/actualites/politique/sondage-le-vainqueur-de-lelection-presidentielle-de-2027-devrait-susciter-plus-de-rejet-que-dadhesion"
+            },
+            {
+              "t": "Public Sénat – David Lisnard admet des convergences avec Sarah Knafo mais écarte tout rapprochement",
+              "u": "https://www.publicsenat.fr/actualites/politique/elle-a-un-discours-economique-tres-proche-du-mien-david-lisnard-admet-des-convergences-avec-sarah-knafo-mais-ecarte-tout-rapprochement"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-24-ukraine-europe-table",
+          "rubrique": "International",
+          "titre": "Ukraine : Zelensky veut une réunion à quatre avec l'Europe « dès demain » et relance le débat sur l'OTAN",
+          "chapo": "Devant l'assemblée parlementaire de l'OTAN réunie à Berlin, le président ukrainien a demandé que les Européens rejoignent sans attendre la table des négociations avec Washington et Moscou.",
+          "faits": [
+            "Lundi, par visioconférence, Volodymyr Zelensky a appelé à une réunion quadripartite Ukraine, Europe, États-Unis, Russie « dès que possible », se disant prêt « dès demain ». Selon lui, les partenaires souhaitent l'organiser avant Noël.",
+            "Jusqu'ici, l'Europe n'a été que consultée dans les pourparlers sous médiation américaine. Le 19 novembre à Berlin, les Européens ont désigné une équipe commune de sept représentants (France, Royaume-Uni, Allemagne, Pologne, Italie, institutions de l'UE et OTAN), et les émissaires américains ont appelé Moscou à accepter leur présence.",
+            "Zelensky a de nouveau plaidé pour l'adhésion à l'OTAN : « L'Otan est la solution ». Le secrétaire général Mark Rutte a répondu que tous les alliés n'y sont pas favorables pour le moment ; Moscou en fait une ligne rouge. Washington a évoqué la semaine dernière une protection équivalente à l'article 5 en cas de paix.",
+            "Le président ukrainien réclame des garanties précises : quels pays aideraient l'Ukraine en cas de nouvelle attaque, quelles troupes seraient déployées et à quel coût."
+          ],
+          "enjeu": "Pour Paris, l'enjeu est que la sécurité européenne ne se décide pas sans les Européens. Le sujet divise la classe politique française à cinq mois de la présidentielle, notamment sur l'aide à Kiev.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant condamne habituellement l'invasion russe tout en rejetant l'OTAN et l'augmentation des dépenses militaires, et appelle à la solidarité avec les travailleurs ukrainiens et russes.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Jean-Luc Mélenchon (LFI) a défendu l'idée d'un référendum sur le statut du Donbass dans le cadre d'un règlement de paix, ce que le ministre Jean-Noël Barrot lui a vivement reproché.",
+              "src": "Euronews, 8 novembre 2026"
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement fermement l'Ukraine, la présence de l'Europe aux négociations et des garanties de sécurité solides contre toute nouvelle agression.",
+              "src": ""
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement un soutien sans faille à l'Ukraine et refuse toute paix imposée qui récompenserait l'agression russe.",
+              "src": ""
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "Emmanuel Macron (Renaissance) a réclamé à Berlin que l'Ukraine, l'Europe, les États-Unis et la Russie négocient à la même table : « L'Europe n'est pas un sujet sur un menu de discussions ».",
+              "src": "Euronews, 19 novembre 2026"
+            },
+            "modem": {
+              "type": "declare",
+              "texte": "Le ministre des Affaires étrangères Jean-Noël Barrot (MoDem) affirme qu'aucun accord touchant à « l'architecture de sécurité européenne » ne peut être conçu ou discuté sans les Européens.",
+              "src": "Euronews, 8 novembre 2026"
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement l'Ukraine et plaide pour une défense européenne renforcée et des garanties de sécurité crédibles.",
+              "src": ""
+            },
+            "d": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement l'Ukraine et la participation de l'Europe aux négociations, tout en restant réservé sur une adhésion rapide de Kiev à l'OTAN ou à l'Union européenne.",
+              "src": ""
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Marine Le Pen (RN) a déclaré mi-octobre qu'elle couperait l'aide financière française à l'Ukraine, estimée à 6 milliards d'euros par an, ce à quoi Volodymyr Zelensky a répondu qu'elle « ne maîtrise pas bien certains détails ».",
+              "src": "Euronews, 8 novembre 2026"
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant s'oppose habituellement à l'adhésion de l'Ukraine à l'OTAN et à l'UE, et prône une négociation rapide pour mettre fin à la guerre.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "La DH (AFP) – Paix en Ukraine : Zelensky veut l'Europe à la table des négociations et relance le débat sur l'Otan",
+              "u": "https://www.dhnet.be/actu/monde/2026/11/23/paix-en-ukraine-zelensky-veut-leurope-a-la-table-des-negociations-et-relance-le-debat-sur-lotan-XE5LKFSDMBESZF6XR3UX75TJU4/"
+            },
+            {
+              "t": "La Libre – Zelensky veut des négociations de paix incluant l'Europe « le plus tôt possible »",
+              "u": "https://www.lalibre.be/international/europe/guerre-ukraine-russie/2026/11/23/zelensky-veut-des-negociations-de-paix-incluant-leurope-le-plus-tot-possible-UXKWKL4WAFBPRM4VMOTOHE7EEA/"
+            },
+            {
+              "t": "Euronews – Les dirigeants européens rejettent tout « Yalta 2.0 » sur l'Ukraine",
+              "u": "https://fr.euronews.com/2026/11/19/les-dirigeants-europeens-rejettent-tout-yalta-20-sur-lukraine"
+            },
+            {
+              "t": "Euronews – Ukraine : les Européens s'invitent à la table des négociations à Abu Dhabi, annonce Barrot",
+              "u": "https://fr.euronews.com/2026/11/08/ukraine-les-europeens-sinvitent-a-la-table-des-negociations-a-abu-dhabi-annonce-barrot"
+            }
+          ]
+        }
+      ],
+      "breves": [
+        {
+          "titre": "Le 108e Congrès des maires s'ouvre à Paris",
+          "texte": "Le Congrès de l'AMF se tient jusqu'à jeudi à la Porte de Versailles sur le thème « Regagnons nos libertés ». Le vote pour la présidence de l'association, entre le sortant David Lisnard (106 parrainages) et Philippe Laurent, maire de Sceaux (13), se déroule en ligne jusqu'à mercredi 13 h. Jeudi, Sébastien Lecornu débattra avec Gérard Larcher et le président de l'AMF.",
+          "src": {
+            "t": "Maire-info – Le 108e Congrès des maires de France s'ouvre aujourd'hui",
+            "u": "https://www.maire-info.com/congra-s-de-lamf/le-108e-congra-s-des-maires-de-france-souvre-aujourdhui-art26-31312"
+          }
+        },
+        {
+          "titre": "Mairie de Limoges : dons défiscalisés à 75 %",
+          "texte": "Le Sénat a adopté un amendement du gouvernement portant à 75 % la réduction d'impôt sur les dons des particuliers pour reconstruire l'hôtel de ville de Limoges, incendié lors des violences du 17 octobre. Plusieurs sénateurs LR ont jugé qu'il revenait à l'État, et non aux contribuables, d'assumer la reconstruction.",
+          "src": {
+            "t": "Public Sénat – Incendie de la mairie de Limoges : le Sénat vote la défiscalisation majorée des dons",
+            "u": "https://www.publicsenat.fr/actualites/politique/incendie-de-la-mairie-de-limoges-le-senat-vote-la-defiscalisation-majoree-des-dons-des-particuliers"
+          }
+        },
+        {
+          "titre": "Sécurité des enseignants : Richard Malka plaide pour un « filtre »",
+          "texte": "Auditionné par la mission d'information de l'Assemblée sur la protection des personnels éducatifs, l'avocat de la famille de Dominique Bernard propose qu'un personnel formé s'interpose entre parents et professeurs. Les conclusions de la mission sont attendues en février.",
+          "src": {
+            "t": "LCP – Sécurité des enseignants : l'avocat Richard Malka plaide pour l'instauration d'un « filtre »",
+            "u": "https://lcp.fr/actualites/securite-des-enseignants-l-avocat-richard-malka-plaide-pour-l-instauration-d-un-filtre"
+          }
+        }
+      ],
+      "agenda": [
+        {
+          "d": "Mar. 24 nov.",
+          "t": "Ouverture du 108e Congrès des maires à Paris (jusqu'au 26) ; vote solennel de l'Assemblée sur le projet de loi logement ; suite de l'examen du budget au Sénat"
+        },
+        {
+          "d": "Mer. 25 nov.",
+          "t": "Proclamation de l'élection à la présidence de l'AMF ; audition au Sénat de la ministre déléguée Alice Rufo sur la présence de militaires français en Ukraine"
+        },
+        {
+          "d": "Jeu. 26 nov.",
+          "t": "Niche parlementaire LR à l'Assemblée ; commission mixte paritaire sur le budget de la Sécu ; débat Lecornu-Larcher en clôture du Congrès des maires ; réunion des équipes Attal, Retailleau et Lisnard sur la primaire"
+        },
+        {
+          "d": "Sam. 28 nov.",
+          "t": "Marches féministes de Nous Toutes, rejointes par les gilets jaunes"
+        },
+        {
+          "d": "Mar. 1er déc.",
+          "t": "Journée de grève et de mobilisation dans la fonction publique"
+        },
+        {
+          "d": "Mer. 9 déc.",
+          "t": "Vote solennel du Sénat sur le budget de l'État"
+        }
+      ]
+    },
     {
       "date": "2026-11-23",
       "label": "Lundi 23 novembre 2026",
@@ -3124,469 +3662,6 @@
         {
           "d": "Jeu. 26 nov.",
           "t": "Niche parlementaire LR à l'Assemblée : violences dans les manifestations, responsabilité pénale des mineurs à 16 ans"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-17",
-      "label": "Mardi 17 novembre 2026",
-      "maj": "Mise à jour à 6 h 26",
-      "intro": "Toute la fonction publique est en grève ce mardi, avec des perturbations sur le RER D et plusieurs lignes Transilien. Cette nuit, le Sénat a réactivé la réforme des retraites de 2023 et supprimé le gel des pensions, pendant que l'Assemblée ouvrait le débat sur la loi logement. Lundi soir, cinq candidats à la présidentielle se sont opposés sur la pauvreté aux Restos du cœur, sans Édouard Philippe. À l'international, de nouvelles discussions sur l'Ukraine précèdent la réunion de jeudi à Berlin.",
-      "stories": [
-        {
-          "id": "2026-11-17-greve-fonction-publique",
-          "rubrique": "Social",
-          "titre": "Grève dans toute la fonction publique : RER D et lignes J, N et R perturbés, 17 stations fermées à Paris",
-          "chapo": "Pour la première fois depuis le début du mouvement contre la vie chère, toutes les organisations syndicales de la fonction publique appellent à cesser le travail ce mardi pour le dégel du point d'indice. La CGT étend l'appel au privé.",
-          "faits": [
-            "L'intersyndicale de la fonction publique, rejointe par FO puis par la CFDT, réclame une hausse immédiate du point d'indice ; le gouvernement l'exclut et a ouvert le 13 novembre un mois de discussions sur les bas salaires.",
-            "Selon les prévisions publiées lundi à 17 h par la SNCF, les RER A, B, C et E circulent normalement sur leurs parties SNCF ; deux trains sur trois sont prévus sur une partie du RER D et sur les lignes J, N et R. Le 5 novembre, le RER C ne roulait qu'à un train sur deux.",
-            "La CGT-Cheminots, SUD-Rail et la CFDT-Cheminots jugent insuffisante la prime de 400 euros annoncée le 3 novembre et réclament des négociations salariales immédiates, prévues pour l'instant en janvier 2027.",
-            "À la RATP, aucun préavis spécifique n'a été déposé ; à Paris, 17 stations de métro et de RER sont fermées dès 11 h à la demande de la préfecture de police, en raison de la manifestation."
-          ],
-          "enjeu": "L'unité syndicale retrouvée donne à cette journée un poids que les derniers samedis n'avaient plus. Le gouvernement parie sur une négociation ciblée sur les bas salaires d'ici la mi-décembre ; une forte mobilisation compliquerait cette stratégie, en pleine discussion budgétaire.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant appelle habituellement à faire des journées de grève le point de départ d'un mouvement reconductible, public et privé ensemble, et à l'indexation des salaires sur les prix.",
-              "src": ""
-            },
-            "gr": {
-              "type": "declare",
-              "texte": "Clémentine Autain (L'Après) réclame une revalorisation générale du point d'indice des fonctionnaires et critique les interdictions de rassemblement autour des lycées, sans justifier l'usage de mortiers d'artifice.",
-              "src": "franceinfo, 16 novembre 2026"
-            },
-            "soc": {
-              "type": "declare",
-              "texte": "Olivier Faure (PS) défend un smic à 1 700 euros, avec un accompagnement des PME, et prévient que les socialistes voteraient la censure si le gouvernement recourait aux ordonnances budgétaires.",
-              "src": "BFMTV-RMC, 16 novembre 2026"
-            },
-            "eco": {
-              "type": "declare",
-              "texte": "Marine Tondelier (Les Écologistes) plaide pour un smic à 2 000 euros brut et pour des exonérations de cotisations conditionnées aux hausses de salaires et à l'égalité salariale.",
-              "src": "LCI, 16 novembre 2026"
-            },
-            "ren": {
-              "type": "declare",
-              "texte": "Sébastien Lecornu (Renaissance) a ouvert une discussion d'un mois sur « les bas salaires » dans la fonction publique, tout en maintenant le gel du point d'indice au nom du redressement des comptes.",
-              "src": "LCP, 13 novembre 2026"
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant privilégie habituellement le dialogue social et des mesures ciblées sur les plus bas salaires, compatibles avec la réduction du déficit public.",
-              "src": ""
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant juge habituellement qu'une hausse générale des salaires publics n'est pas finançable et plaide pour lier rémunération, réforme de l'État et efficacité des services.",
-              "src": ""
-            },
-            "d": {
-              "type": "lecture",
-              "texte": "Le courant s'oppose habituellement à toute hausse générale de la dépense publique et critique les grèves qui perturbent les transports et les écoles.",
-              "src": ""
-            },
-            "dn": {
-              "type": "declare",
-              "texte": "Jean-Philippe Tanguy (RN) se dit favorable à une hausse ciblée des rémunérations publiques, à condition qu'elle soit soumise au vote du Parlement.",
-              "src": "France 2, 16 novembre 2026"
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant critique habituellement les grèves dans les services publics et des syndicats qu'il juge politisés, et plaide pour une réduction du nombre de fonctionnaires.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "Sortiraparis – Grève SNCF et RATP du 17 novembre : les prévisions de trafic RER, Transilien et métro",
-              "u": "https://www.sortiraparis.com/actualites/a-paris/articles/358322-greve-sncf-et-ratp-du-17-novembre-rer-transilien-metro-a-quoi-s-attendre"
-            },
-            {
-              "t": "Mistertravel – Grève du 17 novembre : ce qu'il faut savoir à la veille du mouvement",
-              "u": "https://mistertravel.news/2026/11/16/greve-du-17-novembre-ce-quil-faut-savoir-a-la-veille-du-mouvement/"
-            },
-            {
-              "t": "LCP – Fonction publique : Sébastien Lecornu ouvre une discussion d'un mois sur « les bas salaires »",
-              "u": "https://lcp.fr/actualites/fonction-publique-sebastien-lecornu-ouvre-une-discussion-d-un-mois-sur-les-bas-salaires"
-            },
-            {
-              "t": "PolitiqueMatin – Invités politiques du 16 novembre 2026",
-              "u": "https://www.politiquematin.fr/invites-politiques-16-novembre-2026"
-            }
-          ],
-          "image": {
-            "u": "https://cdn.sortiraparis.com/images/80/1467/1338204-greve-sncf-et-ratp-du-17-novembre-rer-transilien-metro-a-quoi-s-attendre.jpg",
-            "credit": "Sortiraparis",
-            "alt": "Illustration de l'article de Sortiraparis"
-          }
-        },
-        {
-          "id": "2026-11-17-senat-retraites-pensions",
-          "rubrique": "Budget",
-          "titre": "Budget de la Sécu : le Sénat réactive la réforme des retraites de 2023 et indexe toutes les pensions",
-          "chapo": "Dans la nuit de lundi à mardi, la majorité sénatoriale a rétabli le relèvement de l'âge légal à 64 ans, suspendu l'an dernier, contre l'avis du gouvernement. Elle a aussi supprimé le gel des pensions supérieures à 1 260 euros.",
-          "faits": [
-            "Peu après minuit et demi, le Sénat a adopté par 200 voix contre 129 les amendements qui rétablissent le calendrier de la réforme de 2023 (64 ans et 172 trimestres) ; la gauche, le RDSE et les 15 sénateurs RN et UDR ont voté contre, 13 sénateurs, surtout du groupe RDPI, se sont abstenus.",
-            "La rapporteure Marie-Do Aeschlimann (LR) chiffre le coût de la suspension à au moins dix milliards d'euros entre 2026 et 2032 ; la commission estime que le rétablissement améliorerait les comptes de 600 millions d'euros en 2027.",
-            "Plus tôt dans la nuit, les sénateurs ont supprimé par 329 voix contre 0 l'article 35, qui ne revalorisait que les pensions jusqu'à 1 260 euros par mois, une mesure évaluée à 4 milliards d'euros. La majorité sénatoriale veut compenser en supprimant l'abattement fiscal de 10 % des retraités dans le budget de l'État.",
-            "Le ministre du Travail Jean-Pierre Farandou s'est opposé à la « suspension de la suspension » mais s'est dit « prêt à suivre l'avis du Sénat » sur les pensions. Le vote solennel sur l'ensemble du texte a lieu mercredi 18 novembre ; rien n'est définitif avant la navette avec l'Assemblée."
-          ],
-          "enjeu": "Le Sénat dessine un budget de la Sécu très différent de l'accord passé l'an dernier entre le gouvernement et les socialistes. Le retour de la réforme a peu de chances de survivre à l'Assemblée, mais il pèse sur la négociation finale et sur la campagne présidentielle.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant réclame habituellement l'abrogation pure et simple de la réforme de 2023 et le retour de la retraite à 60 ans, financé par les profits des entreprises.",
-              "src": ""
-            },
-            "gr": {
-              "type": "declare",
-              "texte": "Céline Brulin (PCF) qualifie de « cadeau empoisonné » la suppression du gel des pensions, compensée par la fin de l'abattement fiscal de 10 % des retraités ; les sénateurs communistes ont voté contre le retour de la réforme.",
-              "src": "Public Sénat, 17 novembre 2026"
-            },
-            "soc": {
-              "type": "declare",
-              "texte": "Patrick Kanner, président du groupe socialiste au Sénat, dénonce une « forme d'irresponsabilité » ; Monique Lubin (PS) rappelle que « la parole a été donnée l'année dernière » sur la suspension.",
-              "src": "Public Sénat, 17 novembre 2026"
-            },
-            "eco": {
-              "type": "declare",
-              "texte": "Anne Souyris (Les Écologistes) s'oppose à la compensation envisagée pour l'indexation des pensions ; le groupe écologiste a voté contre le rétablissement de la réforme de 2023.",
-              "src": "Public Sénat, 17 novembre 2026"
-            },
-            "ren": {
-              "type": "declare",
-              "texte": "Martin Lévrier (Renaissance) a déposé l'un des amendements de rétablissement : « La solidarité intergénérationnelle, elle existe aussi. » La majorité de son groupe RDPI s'est toutefois abstenue.",
-              "src": "Public Sénat, 17 novembre 2026"
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement la stabilité des comptes sociaux tout en privilégiant le compromis avec la gauche modérée, et s'est montré ouvert à la suspension de la réforme en échange de la stabilité gouvernementale.",
-              "src": ""
-            },
-            "hor": {
-              "type": "declare",
-              "texte": "Emmanuel Capus (Horizons) a déposé un amendement identique pour rétablir la réforme de 2023, que le courant juge indispensable à l'équilibre du système.",
-              "src": "Public Sénat, 17 novembre 2026"
-            },
-            "d": {
-              "type": "declare",
-              "texte": "Marie-Do Aeschlimann (LR) juge la suspension « coûteuse » et estime qu'il était « insupportable » de pénaliser les deux tiers des pensions par le gel.",
-              "src": "Public Sénat, 17 novembre 2026"
-            },
-            "dn": {
-              "type": "declare",
-              "texte": "Les 15 sénateurs RN et UDR ont voté contre le retour de la réforme ; Gaëlle Frontoni (UDR) a critiqué la compensation par la fin de l'abattement fiscal des retraités.",
-              "src": "Public Sénat, 17 novembre 2026"
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement un allongement de la durée du travail et un système de retraite plus favorable aux familles, en critiquant la dépense sociale liée à l'immigration.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "Public Sénat – Le Sénat vote la réactivation de la réforme des retraites de 2023, contre l'avis du gouvernement",
-              "u": "https://www.publicsenat.fr/actualites/politique/le-senat-vote-la-reactivation-de-la-reforme-des-retraites-de-2023-contre-lavis-du-gouvernement"
-            },
-            {
-              "t": "Public Sénat – Retraites : le Sénat vote l'indexation complète des pensions sur l'inflation en 2027",
-              "u": "https://www.publicsenat.fr/actualites/politique/retraites-le-senat-vote-lindexation-complete-des-pensions-sur-linflation-en-2027"
-            },
-            {
-              "t": "Sénat – Financement de la sécurité sociale pour 2027",
-              "u": "https://www.senat.fr/dossier-legislatif/plfss2027.html"
-            }
-          ]
-        },
-        {
-          "id": "2026-11-17-debat-restos-du-coeur",
-          "rubrique": "Présidentielle 2027",
-          "titre": "Débat aux Restos du cœur : cinq candidats s'opposent sur la pauvreté, Édouard Philippe absent",
-          "chapo": "Marine Le Pen, Jean-Luc Mélenchon, Raphaël Glucksmann, Gabriel Attal et Bruno Retailleau ont débattu lundi soir sur TF1 et LCI de pouvoir d'achat, de logement et de solidarité, à la veille de la 42e campagne des Restos du cœur.",
-          "faits": [
-            "Enregistré dans un entrepôt des Restos du cœur en Île-de-France, le débat a mis les candidats face aux questions de bénévoles et de bénéficiaires ; l'association dit avoir distribué 186 millions de repas lors de sa dernière campagne.",
-            "Les échanges les plus vifs ont porté sur la priorité nationale dans le logement social, défendue par Marine Le Pen, et sur les associations : la candidate du RN veut des associations « apolitiques » et a visé la Ligue des droits de l'homme ; Gabriel Attal l'accuse de vouloir 3,7 milliards d'euros d'économies sur le secteur associatif.",
-            "Sur les retraites, Jean-Luc Mélenchon et Raphaël Glucksmann défendent la répartition et une hausse des petites pensions ; Bruno Retailleau propose un départ à 65 ans avec une part de capitalisation, Gabriel Attal une refonte du système.",
-            "Édouard Philippe, troisième dans les sondages, présidait le conseil municipal du Havre ; son directeur de campagne, Jérémie Patrier-Leitus, a dit à Libération qu'il souhaitait être « représenté », sans suite de la chaîne."
-          ],
-          "enjeu": "C'est le deuxième grand face-à-face de la campagne, et le premier consacré à la pauvreté. Il fait apparaître deux lignes nettes, travail et création de richesses d'un côté, redistribution de l'autre, et met en lumière l'absence d'Édouard Philippe au moment où sa position sur la primaire est contestée.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant juge habituellement que la pauvreté ne recule pas sans une hausse générale des salaires et l'expropriation des grands groupes, et se méfie de la charité comme substitut aux droits sociaux.",
-              "src": ""
-            },
-            "gr": {
-              "type": "declare",
-              "texte": "Jean-Luc Mélenchon (LFI) propose la gratuité des cantines, 400 000 logements sociaux par an et une allocation d'autonomie de 1 337 euros pour les étudiants : « La règle entre nous doit être le partage. »",
-              "src": "Public Sénat, 17 novembre 2026"
-            },
-            "soc": {
-              "type": "declare",
-              "texte": "Raphaël Glucksmann (Place publique) dénonce la « théorie du ruissellement », veut relancer le logement social et propose un passe mobilité à un euro par jour pour les moins de 25 ans.",
-              "src": "Public Sénat, 17 novembre 2026"
-            },
-            "eco": {
-              "type": "declare",
-              "texte": "Marine Tondelier (Les Écologistes), absente du débat, a confirmé lundi sa candidature et défendu un smic à 2 000 euros brut ; les adhérents trancheront en décembre.",
-              "src": "LCI, 16 novembre 2026"
-            },
-            "ren": {
-              "type": "declare",
-              "texte": "Gabriel Attal (Renaissance) met le salaire au cœur du sujet, propose une « banque nationale pour le logement » et reproche à Marine Le Pen de faire « une différence entre les Français et les étrangers ».",
-              "src": "Public Sénat, 17 novembre 2026"
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement une politique de lutte contre la pauvreté fondée sur le soutien aux associations, l'accès au logement et l'insertion par l'emploi, dans le cadre budgétaire existant.",
-              "src": ""
-            },
-            "hor": {
-              "type": "declare",
-              "texte": "Jérémie Patrier-Leitus (Horizons), directeur de campagne d'Édouard Philippe, assure que celui-ci souhaitait être représenté au débat et qu'il est « attaché aux Restos du cœur ».",
-              "src": "Libération, cité par LCP, 16 novembre 2026"
-            },
-            "d": {
-              "type": "declare",
-              "texte": "Bruno Retailleau (LR) estime que pour réduire la pauvreté il faut « plus de travail » et conclut : « Oui à la solidarité, non à l'assistanat » ; il propose un accès prioritaire au logement pour les actifs.",
-              "src": "Public Sénat, 17 novembre 2026"
-            },
-            "dn": {
-              "type": "declare",
-              "texte": "Marine Le Pen (RN) propose une TVA à 0 % sur les produits de première nécessité et la priorité aux Français dans le logement social : « Avant, avec un salaire, on faisait vivre une famille. »",
-              "src": "Public Sénat, 17 novembre 2026"
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant lie habituellement la pauvreté au coût de l'immigration et plaide pour réserver les aides sociales aux Français et pour une baisse des impôts sur le travail.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "Public Sénat – Présidentielle 2027 : pauvreté, pouvoir d'achat, logement… Le Pen, Mélenchon, Glucksmann, Retailleau, Attal confrontent leurs visions de la solidarité aux Restos",
-              "u": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-pauvrete-pouvoir-dachat-logement-le-pen-melenchon-glucksmann-retailleau-attal-confrontent-leurs-visions-de-la-solidarite-aux-restos"
-            },
-            {
-              "t": "LCP – Présidentielle 2027 : pourquoi Édouard Philippe sera absent du débat face à Marine Le Pen et Jean-Luc Mélenchon sur TF1",
-              "u": "https://lcp.fr/actualites/presidentielle-2027-pourquoi-edouard-philippe-sera-absent-du-debat-face-a-marine-le-pen"
-            },
-            {
-              "t": "Var Actu – Le Pen, Mélenchon, Attal… cinq candidats face à face ce lundi soir sur TF1",
-              "u": "https://www.varactu.fr/le-pen-melenchon-attal-cinq-candidats-face-a-face-ce-lundi-soir-sur-tf1-mais-un-grand-absent/"
-            }
-          ],
-          "image": {
-            "u": "https://www.publicsenat.fr/app/uploads/2026/11/Video-e1794870168323-1200x630.jpg",
-            "credit": "Public Sénat",
-            "alt": "Illustration de l'article de Public Sénat"
-          }
-        },
-        {
-          "id": "2026-11-17-loi-logement-assemblee",
-          "rubrique": "Logement",
-          "titre": "Logement : l'Assemblée examine le projet de loi Jeanbrun, qui repousse l'interdiction de louer les passoires thermiques",
-          "chapo": "Adopté par le Sénat, le texte « de relance et de décentralisation du logement » arrive dans l'hémicycle. Il donne plus de latitude aux maires pour construire et reporte de trois à cinq ans l'interdiction de louer les logements classés F et G.",
-          "faits": [
-            "Le gouvernement vise 2 millions de logements neufs ou réhabilités d'ici 2030 ; le texte crée des « opérations d'intérêt local » à l'initiative des maires, avec des dérogations au plan local d'urbanisme après validation du préfet.",
-            "L'avis conforme de l'architecte des bâtiments de France pourrait devenir un avis simple, et un troisième programme de renouvellement urbain (2030-2040) serait doté de 5 milliards d'euros.",
-            "L'interdiction de louer les logements F et G serait reportée de trois ans pour les maisons et de cinq ans pour les copropriétés ; le gouvernement estime que 650 000 à 700 000 logements seraient ainsi maintenus ou remis sur le marché d'ici 2028.",
-            "Le Sénat a ajouté une dérogation quand les travaux dépassent 50 % de la valeur du bien et un délai de 18 mois si l'assemblée de copropriété refuse les travaux, selon LCP."
-          ],
-          "enjeu": "Le texte arbitre entre l'urgence de l'offre locative et les objectifs climatiques de la loi de 2021. Le débat porte sur le pouvoir des maires face aux protections patrimoniales et sur le confort des locataires de logements mal isolés.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement la réquisition des logements vacants, le gel des loyers et un grand service public du logement, et s'oppose aux reculs sur la rénovation.",
-              "src": ""
-            },
-            "gr": {
-              "type": "lecture",
-              "texte": "Le courant critique habituellement tout report de l'interdiction de louer les passoires thermiques, au nom de la santé et des factures des locataires, et réclame un encadrement des loyers généralisé.",
-              "src": ""
-            },
-            "soc": {
-              "type": "lecture",
-              "texte": "Le courant plaide habituellement pour une relance massive du logement social et pour le maintien du calendrier de rénovation, accompagné d'aides renforcées aux propriétaires modestes.",
-              "src": ""
-            },
-            "eco": {
-              "type": "lecture",
-              "texte": "Le courant s'oppose habituellement à tout report du calendrier de la loi Climat et résilience et défend la protection du patrimoine et des sols face à l'assouplissement des règles d'urbanisme.",
-              "src": ""
-            },
-            "ren": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement le choc d'offre et la simplification des normes, tout en défendant le principe de la rénovation énergétique des logements.",
-              "src": ""
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement la décentralisation de la politique du logement et une plus grande latitude donnée aux élus locaux, avec un accompagnement des propriétaires.",
-              "src": ""
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant, très implanté chez les maires, défend habituellement la libération du foncier, la simplification des normes et le pouvoir des élus locaux en matière d'urbanisme.",
-              "src": ""
-            },
-            "d": {
-              "type": "declare",
-              "texte": "Vincent Jeanbrun (LR), ministre du Logement, veut sortir du « labyrinthe administratif dans lequel on finit par étouffer les porteurs de projet ».",
-              "src": "LCP, 16 novembre 2026 (propos de septembre)"
-            },
-            "dn": {
-              "type": "lecture",
-              "texte": "Le courant réclame habituellement la suppression ou le report des contraintes liées au DPE, jugées responsables de la pénurie de logements, et la priorité aux Français dans le logement social.",
-              "src": ""
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant critique habituellement les normes environnementales sur le logement, qu'il juge punitives pour les propriétaires, et lie la crise du logement à l'immigration.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "LCP – Crise du logement : le gouvernement veut assouplir les règles pour construire et louer davantage",
-              "u": "https://lcp.fr/actualites/crise-du-logement-le-gouvernement-veut-assouplir-les-regles-pour-construire-et-louer"
-            }
-          ],
-          "image": {
-            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2023-10/Immeuble_en_r%C3%A9novation_%C3%A0_Meudon_le_17_d%C3%A9cembre_2017_-_2.jpg?itok=dDWBPlOL",
-            "credit": "LCP",
-            "alt": "Illustration de l'article de LCP"
-          }
-        },
-        {
-          "id": "2026-11-17-ukraine-negociations-berlin",
-          "rubrique": "International",
-          "titre": "Ukraine : nouvelles discussions avec les émissaires de Trump et les Européens, rendez-vous jeudi à Berlin",
-          "chapo": "Volodymyr Zelensky annonce de nouveaux entretiens avec Washington et cinq pays européens, dont la France, et une réunion de la coalition des volontaires à Berlin. Le Kremlin refuse pour l'instant la présence des Européens à la table.",
-          "faits": [
-            "Dans son allocution de lundi soir, le président ukrainien a fait état de nouvelles discussions, qu'il juge « difficiles », avec les émissaires de Donald Trump et des représentants de la France, de l'Allemagne, du Royaume-Uni, de l'Italie et de la Pologne, selon Reuters.",
-            "Elles font suite, moins d'une semaine plus tard, aux pourparlers tripartites d'Abou Dhabi, les premiers entre Américains, Ukrainiens et Russes depuis neuf mois. Les participants doivent se retrouver jeudi à Berlin avec la coalition des volontaires.",
-            "Le conseiller du Kremlin Iouri Ouchakov affirme que la Russie n'a pas accepté la participation des Européens au prochain cycle, contredisant des responsables américains.",
-            "Volodymyr Zelensky dit disposer de renseignements sur d'importantes frappes russes en préparation et affirme que la Corée du Nord livre chaque mois des « dizaines » de missiles balistiques à la Russie."
-          ],
-          "enjeu": "La place des Européens, et donc de la France, dans la négociation se joue cette semaine. Le sujet s'invite dans la présidentielle, où le niveau de l'aide à Kiev oppose désormais ouvertement les candidats.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant dénonce habituellement à la fois l'invasion russe et la logique des blocs militaires, et s'oppose aux livraisons d'armes et à la hausse des budgets de défense.",
-              "src": ""
-            },
-            "gr": {
-              "type": "declare",
-              "texte": "Clémentine Autain (L'Après) conteste l'idée d'un référendum limité au Donbass pour trancher l'avenir de la région.",
-              "src": "franceinfo, 16 novembre 2026"
-            },
-            "soc": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement fermement l'Ukraine, réclame que les Européens soient associés à toute négociation et refuse toute paix imposée à Kiev.",
-              "src": ""
-            },
-            "eco": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement l'aide militaire et financière à l'Ukraine et réclame des sanctions renforcées contre la Russie, notamment sur l'énergie.",
-              "src": ""
-            },
-            "ren": {
-              "type": "declare",
-              "texte": "Emmanuel Macron (Renaissance) estime que vouloir « rationner les moyens de l'Ukraine » pour lui imposer une « paix injuste » est « la recette pour la guerre d'après ».",
-              "src": "X, 14 novembre 2026"
-            },
-            "modem": {
-              "type": "declare",
-              "texte": "Jean-Louis Bourlanges (MoDem) juge que « l'obsession de Poutine, c'est la reconstitution de l'URSS ».",
-              "src": "Public Sénat, 16 novembre 2026"
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement un soutien durable à l'Ukraine, une défense européenne renforcée et la présence des Européens dans toute négociation.",
-              "src": ""
-            },
-            "d": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement l'Ukraine et l'effort de défense, tout en insistant sur la souveraineté française et sur le contrôle de l'aide financière.",
-              "src": ""
-            },
-            "dn": {
-              "type": "declare",
-              "texte": "Marine Le Pen (RN) entend cesser l'aide financière à Kiev six mois après son élection et reproche au chef de l'État d'avoir « ruiné notre pays en dix ans ».",
-              "src": "AFP, 15 novembre 2026"
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant plaide habituellement pour une sortie négociée rapide du conflit, la fin de l'aide financière à Kiev et une diplomatie indépendante de l'Otan.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "Boursorama (Reuters) – Ukraine : Zelensky évoque de nouvelles discussions avec les Occidentaux",
-              "u": "https://www.boursorama.com/actualite-economique/actualites/ukraine-zelensky-evoque-de-nouvelles-discussions-avec-les-occidentaux-9cd9f831b29fc7dd746a2a114ed875b4"
-            },
-            {
-              "t": "Public Sénat – Jean-Louis Bourlanges : « L'obsession de Poutine, c'est la reconstitution de l'URSS »",
-              "u": "https://www.publicsenat.fr/emission/bonjour-chez-vous/jean-louis-bourlanges-lobsession-de-poutine-cest-la-reconstitution-de-lurss-e0"
-            },
-            {
-              "t": "PolitiqueMatin – Invités politiques du 16 novembre 2026",
-              "u": "https://www.politiquematin.fr/invites-politiques-16-novembre-2026"
-            }
-          ],
-          "image": {
-            "u": "https://s1.dmcdn.net/v/gzXbM1g-o1Lu19VdF/1280x720",
-            "credit": "Public Sénat",
-            "alt": "Illustration de l'article de Public Sénat"
-          }
-        }
-      ],
-      "breves": [
-        {
-          "titre": "Primaire : les équipes d'Attal, Retailleau et Lisnard se réunissent ce mardi",
-          "texte": "Les directeurs de campagne de Gabriel Attal, Bruno Retailleau et David Lisnard se retrouvent ce mardi pour discuter du calendrier d'une primaire de la droite et du centre ; Bruno Retailleau a proposé un vote les 31 janvier et 7 février. Édouard Philippe refuse toujours d'y participer, et Éric Zemmour réclame la présence de Reconquête.",
-          "src": {
-            "t": "Touch Actu – Primaire de la droite et du centre : candidats, dates proposées et ce qui se joue le 17 novembre",
-            "u": "https://touch-actu.fr/actualites/portraits-politiques-8958-primaire-de-la-droite-et-du-centre-candidats-dates-proposees-et-ce-qui-se-joue-le-17-novembre"
-          }
-        },
-        {
-          "titre": "Le Sénat vote une « taxe lapin » de 5 euros",
-          "texte": "Les sénateurs ont adopté lundi une pénalité forfaitaire de 5 euros pour les patients qui ne se présentent pas à un rendez-vous médical sans motif légitime, annulable jusqu'à 24 heures avant. Censurée en 2025 par le Conseil constitutionnel, la mesure a été réécrite ; la ministre de la Santé, Stéphanie Rist, s'en est remise à la sagesse du Sénat.",
-          "src": {
-            "t": "Public Sénat – Le Sénat adopte la « taxe lapin » contre les patients qui ne se présentent pas",
-            "u": "https://www.publicsenat.fr/actualites/sante/il-faut-des-messages-clairs-pour-sanctionner-ceux-qui-se-foutent-du-systeme-le-senat-adopte-la-taxe-lapin-contre-les-patients-qui-n"
-          }
-        },
-        {
-          "titre": "Épargne salariale : un déblocage exceptionnel en débat",
-          "texte": "Les députés examinent une proposition de loi qui permettrait, pendant un an, de débloquer jusqu'à 5 000 euros nets de participation et d'intéressement placés avant 2026. La gauche, qui préfère parler de hausses de salaires, avait supprimé l'article en commission ; la rapporteure Sylvie Bonnet (Droite républicaine) veut le rétablir.",
-          "src": {
-            "t": "LCP – Pouvoir d'achat : les Français vont-ils pouvoir débloquer leur épargne salariale de manière « exceptionnelle » ?",
-            "u": "https://lcp.fr/actualites/pouvoir-d-achat-les-francais-vont-ils-pouvoir-debloquer-leur-epargne-salariale-de"
-          }
-        }
-      ],
-      "agenda": [
-        {
-          "d": "Mar. 17 nov.",
-          "t": "Grève dans la fonction publique, appel interprofessionnel de la CGT ; réunion des équipes Attal, Retailleau et Lisnard sur la primaire ; lancement de la 42e campagne des Restos du cœur"
-        },
-        {
-          "d": "Mer. 18 nov.",
-          "t": "Vote solennel du Sénat sur le budget de la Sécurité sociale"
-        },
-        {
-          "d": "Jeu. 19 nov.",
-          "t": "Examen au Sénat de la proposition de loi sur la présomption d'usage légitime de l'arme ; réunion de la coalition des volontaires pour l'Ukraine à Berlin"
-        },
-        {
-          "d": "Ven. 20 nov.",
-          "t": "Début de l'examen du budget 2027 de l'État au Sénat ; clôture prévue de la COP31 à Antalya"
         }
       ]
     }
