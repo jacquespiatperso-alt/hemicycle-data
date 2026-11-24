@@ -167,7 +167,12 @@
               "t": "LCP – Finances publiques : pourquoi Emmanuel Macron rouvre le débat sur la règle d'or de 2011",
               "u": "https://lcp.fr/actualites/finances-publiques-pourquoi-emmanuel-macron-rouvre-le-debat-sur-la-regle-d-or-de-2011"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.publicsenat.fr/app/uploads/2026/11/Macron-avion-scaled.jpg",
+            "credit": "Public Sénat",
+            "alt": "Illustration de l'article de Public Sénat"
+          }
         },
         {
           "id": "2026-11-24-niche-lr-securite",
@@ -238,7 +243,12 @@
               "t": "LCP – Suspension des prestations sociales, peines planchers, responsabilité pénale à 16 ans : les députés LR à l'offensive sur la sécurité",
               "u": "https://lcp.fr/actualites/suspension-des-prestations-sociales-peines-planchers-responsabilite-penale-a-16-ans-les"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2026-06/Police-IMG_4105.jpg?itok=F7RQ2x1_",
+            "credit": "LCP",
+            "alt": "Illustration de l'article de LCP"
+          }
         },
         {
           "id": "2026-11-24-choose-france-airbus",
@@ -313,7 +323,12 @@
               "t": "LCP – Sommet « Choose France » : que recouvrent les 42,5 milliards d'euros d'investissements annoncés ?",
               "u": "https://lcp.fr/actualites/sommet-choose-france-que-recouvrent-les-425-milliards-d-euros-d-investissements-annonces"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.publicsenat.fr/app/uploads/2026/11/SIPA_01318685_000091-scaled.jpg",
+            "credit": "Public Sénat",
+            "alt": "Illustration de l'article de Public Sénat"
+          }
         },
         {
           "id": "2026-11-24-presidentielle-odoxa-generations",
@@ -400,7 +415,12 @@
               "t": "Public Sénat – David Lisnard admet des convergences avec Sarah Knafo mais écarte tout rapprochement",
               "u": "https://www.publicsenat.fr/actualites/politique/elle-a-un-discours-economique-tres-proche-du-mien-david-lisnard-admet-des-convergences-avec-sarah-knafo-mais-ecarte-tout-rapprochement"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.publicsenat.fr/app/uploads/2026/11/SIPA_01292547_000004-scaled.jpg",
+            "credit": "Public Sénat",
+            "alt": "Illustration de l'article de Public Sénat"
+          }
         },
         {
           "id": "2026-11-24-ukraine-europe-table",
@@ -483,7 +503,12 @@
               "t": "Euronews – Ukraine : les Européens s'invitent à la table des négociations à Abu Dhabi, annonce Barrot",
               "u": "https://fr.euronews.com/2026/11/08/ukraine-les-europeens-sinvitent-a-la-table-des-negociations-a-abu-dhabi-annonce-barrot"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.dhnet.be/resizer/v2/MIK7QIJ4VVD4TKGBBO7VLIQYIE.jpg?auth=0f48941d5f1e47610d1a553a60d38346ebceab498d20cb5c6602612a7459bf44&width=1200&height=630&quality=85&focal=2465%2C1640",
+            "credit": "La DH (AFP)",
+            "alt": "Illustration de l'article de La DH (AFP)"
+          }
         }
       ],
       "breves": [
