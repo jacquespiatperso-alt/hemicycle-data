@@ -1,6 +1,536 @@
 {
-  "updated": "2026-11-24T06:32:00+01:00",
+  "updated": "2026-11-25T06:27:00+01:00",
   "editions": [
+    {
+      "date": "2026-11-25",
+      "label": "Mercredi 25 novembre 2026",
+      "maj": "Mise à jour à 6 h 27",
+      "intro": "Au Sénat, la droite renonce à supprimer l'abattement fiscal des retraités mais le plafonne à 1 000 euros, et met le gouvernement en minorité sur les heures supplémentaires. L'Assemblée adopte la loi logement, sans trancher le sort des passoires thermiques. Le Congrès des maires s'ouvre sur la double candidature de David Lisnard, et un sondage Odoxa ne voit que Philippe et Lisnard battre Marine Le Pen. À l'international, l'OTAN s'alarme d'un projet russe d'arme nucléaire dans l'espace.",
+      "stories": [
+        {
+          "id": "2026-11-25-senat-retraites-zucman",
+          "rubrique": "Budget",
+          "titre": "Budget 2027 : le Sénat plafonne l'abattement de 10 % des retraités à 1 000 euros et écarte de nouveau la taxe Zucman",
+          "chapo": "Coup de théâtre mardi au Palais du Luxembourg : la suppression complète de l'abattement fiscal des retraités, portée par la commission des finances, a été rejetée. Les sénateurs ont adopté à la place un plafonnement à 1 000 euros, après avoir refusé dans la nuit la taxe Zucman et le retour de l'ISF.",
+          "faits": [
+            "La commission des finances voulait supprimer entièrement l'abattement de 10 % sur les pensions pour compenser l'indexation complète des retraites de base votée dans le budget de la Sécu. Porté par la rapporteure générale Christine Lavarde (LR) et soutenu par le gouvernement, cet amendement a été rejeté à main levée.",
+            "Le Sénat a finalement adopté, par 175 voix contre 161, un amendement de dernière minute de Jean-François Husson (LR) et Michel Canévet (Union centriste) qui plafonne l'abattement à 1 000 euros. Le projet initial du gouvernement prévoyait un plafond de 3 000 euros et le gel des pensions de base au-dessus de 1 260 euros par mois.",
+            "Selon la commission des finances, la suppression de l'abattement et l'indexation des pensions pèsent chacune environ 5,6 milliards d'euros pour les finances publiques.",
+            "Dans la nuit de lundi à mardi, la majorité de droite et du centre a rejeté les amendements de la gauche instaurant la taxe Zucman (impôt plancher de 2 % sur les patrimoines de plus de 100 millions d'euros) et rétablissant l'ISF."
+          ],
+          "enjeu": "La majorité sénatoriale cherche des économies sans toucher aux pensions les plus modestes, à quelques mois d'une présidentielle où le vote des retraités pèse lourd. Le texte, qui sera voté le 9 décembre, devra ensuite être concilié avec l'Assemblée.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant s'oppose habituellement à toute mesure qui réduit le revenu des retraités et réclame une taxation lourde des grandes fortunes et des profits.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Pascal Savoldelli (PCF) met en garde contre l'effet sur la CSG : l'abattement réduit le revenu fiscal de référence qui en détermine le taux. Le sénateur Gabriel Amar (LFI) rappelle que 86 % des Français soutiennent la taxe Zucman, selon un sondage Ifop de 2025.",
+              "src": "Public Sénat, 24 novembre 2026"
+            },
+            "soc": {
+              "type": "declare",
+              "texte": "Florence Blatrix Contat (PS) refuse de faire des retraités la « variable d'ajustement des finances publiques » et plaide pour la taxe Zucman au nom de la « justice fiscale ». Grégory Blanc (Place publique) demande à la droite d'« arrêter de dire » qu'elle est contre toute hausse d'impôts.",
+              "src": "Public Sénat, 24 novembre 2026"
+            },
+            "eco": {
+              "type": "declare",
+              "texte": "Thomas Dossus (Les Écologistes) demande si l'on peut accepter que les plus riches « payent proportionnellement moins d'impôts que les autres », en défendant la taxe Zucman et un ISF modulé selon l'impact climatique du patrimoine.",
+              "src": "Public Sénat, 24 novembre 2026"
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "Le ministre des Comptes publics David Amiel (Renaissance) soutenait la suppression de l'abattement, jugée « beaucoup plus progressive » qu'une désindexation, et s'oppose à la taxe Zucman. Martin Lévrier (Renaissance) a voté l'amendement de la rapporteure « pas avec un enthousiasme fou ».",
+              "src": "Public Sénat, 24 novembre 2026"
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement une contribution accrue des plus aisés au redressement des comptes, tout en écartant les impôts sur le patrimoine jugés nuisibles à l'investissement.",
+              "src": ""
+            },
+            "hor": {
+              "type": "declare",
+              "texte": "Emmanuel Capus (Horizons) juge la taxe Zucman « anticonstitutionnelle » et accuse le PS et les écologistes de « courir derrière LFI ».",
+              "src": "Public Sénat, 24 novembre 2026"
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Christine Lavarde (LR) estime plus juste d'indexer toutes les pensions et de supprimer un abattement datant de 1978 ; elle rejette la taxe Zucman au nom de l'attractivité. Jean-François Husson (LR) dénonce des avis dictés par « l'élection qui arrive au printemps ».",
+              "src": "Public Sénat, 24 novembre 2026"
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "La sénatrice Sylvie Josserand (RN) dénonce une « voracité fiscale » qui, après les indemnités des malades de longue durée, « tombe sur nos aînés ». Le RN s'oppose à toute réduction de l'abattement.",
+              "src": "Public Sénat, 24 novembre 2026"
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant s'oppose habituellement à toute hausse d'impôt sur les retraités comme sur le patrimoine, et réclame des économies sur la dépense publique.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Public Sénat – Budget 2027 : coup de théâtre, le Sénat renonce à supprimer l'abattement de 10 % des retraités, mais le plafonne à 1 000 euros",
+              "u": "https://www.publicsenat.fr/actualites/politique/budget-2027-coup-de-theatre-le-senat-renonce-a-supprimer-labattement-de-10-des-retraites"
+            },
+            {
+              "t": "Public Sénat – Budget 2027 : le Sénat écarte à nouveau la taxe Zucman et le rétablissement de l'ISF",
+              "u": "https://www.publicsenat.fr/actualites/economie/budget-2027-le-senat-ecarte-a-nouveau-la-taxe-zucman-et-le-retablissement-de-lisf"
+            },
+            {
+              "t": "Sénat – Scrutin n° 163, séance du 24 novembre 2026",
+              "u": "https://www.senat.fr/scrutin-public/2026/scr2026-163.html"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-25-heures-sup-senat",
+          "rubrique": "Budget",
+          "titre": "Heures supplémentaires défiscalisées : battu d'une voix au Sénat, le gouvernement réclame un nouveau vote",
+          "chapo": "L'amendement qui relevait le plafond d'exonération des heures supplémentaires, promis par Sébastien Lecornu à l'issue de la conférence sociale, a été rejeté lundi soir par une partie de la droite sénatoriale. Matignon demande une seconde délibération.",
+          "faits": [
+            "L'amendement du gouvernement portait le plafond annuel d'exonération d'impôt sur le revenu des heures supplémentaires de 7 500 à 10 000 euros, pour les heures effectuées en 2026 et 2027. Le Premier ministre s'y était engagé le 9 novembre.",
+            "Il a été rejeté par 22 voix contre 21 à main levée ; après un vote par assis-debout, ses soutiens n'étaient plus que 19. Plusieurs sénateurs LR, dont Jean-François Husson et Marie-Claire Carrère-Gee, ont voté contre.",
+            "Selon David Amiel, la mesure coûterait 28 millions d'euros à l'État et 150 millions à la Sécurité sociale ; l'exonération actuelle coûte déjà plus de 2 milliards d'euros par an.",
+            "Matignon a confirmé qu'il demanderait une seconde délibération d'ici la fin de l'examen des recettes, dimanche au plus tard."
+          ],
+          "enjeu": "Le vote met en lumière les tensions entre le gouvernement et la majorité sénatoriale de droite, plus attachée à la maîtrise des niches fiscales qu'aux engagements pris par l'exécutif. Pour Matignon, c'est un test de sa capacité à tenir les promesses de la conférence sociale.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant critique habituellement la défiscalisation des heures supplémentaires, qu'il juge contraire à l'emploi et préfère des hausses générales de salaires.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Pascal Savoldelli (PCF) observe qu'une exonération d'impôt ne profite pas aux nombreux salariés modestes non imposables et juge le « travailler plus pour gagner plus » « très discutable ».",
+              "src": "Public Sénat, 24 novembre 2026"
+            },
+            "soc": {
+              "type": "declare",
+              "texte": "Grégory Blanc (Place publique) relève les contradictions de la majorité sénatoriale, qui « donne d'un côté » et « reprend de l'autre », au point que « plus personne n'y comprend rien ».",
+              "src": "Public Sénat, 24 novembre 2026"
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant se montre habituellement réservé sur la défiscalisation des heures supplémentaires, qu'il juge coûteuse et défavorable au partage du travail.",
+              "src": ""
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "Jean-Baptiste Lemoyne (Renaissance) défend l'exonération pour les soignants qui enchaînent les gardes ou les conducteurs de bus. Le ministre David Amiel (Renaissance) veut « prendre en compte l'impact de la crise du carburant ».",
+              "src": "Public Sénat, 24 novembre 2026"
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement les mesures de pouvoir d'achat liées au travail, en veillant à leur coût pour les finances publiques.",
+              "src": ""
+            },
+            "hor": {
+              "type": "declare",
+              "texte": "Emmanuel Capus (Horizons) se dit « un petit peu estomaqué » que la droite vote contre le fait de travailler plus pour gagner plus : il n'y a « pas 40 000 solutions pour que le travail paye plus ».",
+              "src": "Public Sénat, 24 novembre 2026"
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Christine Lavarde (LR) se dit favorable au soutien du travail mais dénonce un « effet d'aubaine » pour des heures déjà effectuées en 2026. Jean-François Husson (LR) ne comprend pas ce « changement de pied » du gouvernement.",
+              "src": "Public Sénat, 24 novembre 2026"
+            },
+            "dn": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement la défiscalisation des heures supplémentaires comme une mesure de pouvoir d'achat pour les classes populaires et moyennes.",
+              "src": ""
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement les baisses d'impôts sur le travail, dont l'exonération des heures supplémentaires.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Public Sénat – Heures supplémentaires défiscalisées : mis en minorité au Sénat, le gouvernement veut un nouveau vote",
+              "u": "https://www.publicsenat.fr/actualites/politique/heures-supplementaires-defiscalisees-mis-en-minorite-au-senat-le-gouvernement-veut-un-nouveau-vote"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-25-loi-logement-adoptee",
+          "rubrique": "Logement",
+          "titre": "Loi logement : l'Assemblée adopte le texte, la fin de l'interdiction de louer les passoires thermiques renvoyée à la CMP",
+          "chapo": "Les députés ont adopté mardi en première lecture le projet de loi de relance du logement, par 362 voix contre 118. Le texte conserve à ce stade l'amendement RN qui supprime le calendrier d'interdiction de location des logements les plus énergivores.",
+          "faits": [
+            "Le projet de loi porté par Vincent Jeanbrun, ministre de la Ville et du Logement, a été adopté par 362 voix contre 118 et 50 abstentions. Le RN, le groupe présidentiel, la Droite républicaine, le MoDem, Horizons, LIOT et l'UDR ont voté pour ; LFI, les Écologistes et le groupe GDR contre ; la plupart des socialistes se sont abstenus.",
+            "Le texte vise 400 000 logements par an : procédure d'urbanisme simplifiée, avantage fiscal élargi pour l'investissement locatif, troisième programme de rénovation urbaine doté de 5 milliards d'euros, et possibilité pour le maire de s'opposer à une attribution de logement social.",
+            "Il contient l'amendement de Frédéric Falcon (RN), voté le 17 novembre par 108 voix contre 102 contre l'avis du gouvernement, qui supprime le calendrier de la loi Climat (classes G, F en 2028, E en 2034). Le gouvernement n'a pas demandé de seconde délibération et compte retirer la mesure en commission mixte paritaire.",
+            "Le même jour, le ministère a publié des chiffres montrant une baisse de 3,5 % des ventes de logements neufs aux particuliers au troisième trimestre, à un nouveau plus bas."
+          ],
+          "enjeu": "Le gouvernement veut une adoption définitive avant la fin de l'année. La CMP devra trancher le sort des passoires thermiques, sujet qui oppose la gauche et une partie du bloc central à la droite et au RN.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement la réquisition des logements vacants et un grand plan de logement public, et s'oppose aux avantages fiscaux accordés aux propriétaires bailleurs.",
+              "src": ""
+            },
+            "gr": {
+              "type": "lecture",
+              "texte": "Le courant réclame habituellement un encadrement strict des loyers, la rénovation obligatoire des passoires thermiques et la construction massive de logements sociaux, plutôt que des niches fiscales pour l'investissement privé.",
+              "src": ""
+            },
+            "soc": {
+              "type": "declare",
+              "texte": "Iñaki Echaniz (PS) explique l'abstention de son groupe et demande à la commission mixte paritaire de « supprimer les dispositions les plus problématiques », à commencer par celle sur les passoires thermiques.",
+              "src": "MySweetImmo avec AFP, 24 novembre 2026"
+            },
+            "eco": {
+              "type": "declare",
+              "texte": "Boris Tavernier (Les Écologistes) dénonce un texte qui permettra de louer « les pires passoires thermiques » et lance au gouvernement : « À vouloir jouer avec le feu, vous vous êtes brûlé ». Son groupe a voté contre.",
+              "src": "MySweetImmo avec AFP, 24 novembre 2026"
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "Marie Lebec (Renaissance) apporte le soutien du groupe présidentiel au texte, tout en qualifiant la mesure sur les passoires thermiques de « point noir ».",
+              "src": "MySweetImmo avec AFP, 24 novembre 2026"
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement la relance de la construction et la simplification de l'urbanisme, tout en restant attaché aux objectifs de rénovation énergétique.",
+              "src": ""
+            },
+            "hor": {
+              "type": "declare",
+              "texte": "Sylvain Berrios (Horizons) a défendu le droit de veto des maires sur les attributions de logements sociaux, qui sera un « droit de veto éclairé » s'il repose sur des faits.",
+              "src": "NosParlementaires, 22 novembre 2026"
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Le ministre Vincent Jeanbrun (LR) salue l'adoption d'un texte « très attendu par nos concitoyens », qui accélère aussi la reconstruction des zones touchées par les incendies de Gironde.",
+              "src": "LCP, 24 novembre 2026"
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Frédéric Falcon (RN), auteur de l'amendement, veut « revenir simplement à la situation de 2021 », juge les interdictions de louer comme une « folie » et accuse le gouvernement de jouer double jeu pour « plaire à la gauche ».",
+              "src": "LCP et MySweetImmo avec AFP, 24 novembre 2026"
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant s'oppose habituellement aux contraintes du diagnostic de performance énergétique imposées aux propriétaires et défend la levée des normes pesant sur la construction.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "LCP – Logement : les députés adoptent une version du projet de loi réautorisant, à ce stade, la location des passoires thermiques",
+              "u": "https://lcp.fr/actualites/logement-les-deputes-adoptent-une-version-du-projet-de-loi-reautorisant-a-ce-stade-la"
+            },
+            {
+              "t": "MySweetImmo – Les députés adoptent la loi logement, la bataille sur le DPE continue",
+              "u": "https://www.mysweetimmo.com/2026/11/24/loi-logement-adoptee-assemblee-dpe/"
+            },
+            {
+              "t": "NosParlementaires – Projet de loi logement : ce que les députés ont voté",
+              "u": "https://nosparlementaires.fr/actualites/projet-loi-logement-seance-assemblee-avant-vote-solennel"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-25-congres-maires-amf",
+          "rubrique": "Collectivités",
+          "titre": "Congrès des maires : la double candidature de David Lisnard divise, Retailleau veut « remettre la mairie au milieu du village »",
+          "chapo": "Le 108e Congrès des maires s'est ouvert mardi à Paris sur fond de campagne présidentielle. Le résultat de l'élection à la présidence de l'AMF, qui oppose le maire de Cannes au maire de Sceaux, est attendu ce mercredi.",
+          "faits": [
+            "Le Congrès se tient jusqu'à jeudi au parc des expositions de la porte de Versailles. Le vote électronique pour la présidence de l'AMF, ouvert lundi à 17 h, se clôt ce mercredi à 13 h.",
+            "Le président sortant David Lisnard, maire de Cannes et candidat à la présidentielle sous l'étiquette de son mouvement Nouvelle Énergie, affronte Philippe Laurent (UDI), maire de Sceaux et ancien secrétaire général de l'AMF. Lisnard conduit une liste transpartisane avec le socialiste Jean-François Debat, appelé à devenir premier vice-président délégué.",
+            "Philippe Laurent juge que « l'AMF n'est pas un plan B » pour un candidat battu à la présidentielle et qualifie le projet de budget de « catastrophique pour les communes ». Plusieurs maires interrogés par Public Sénat jugent le cumul problématique, d'autres le disent sans effet sur leur vote.",
+            "Bruno Retailleau, candidat LR, est venu au Congrès avec Valérie Pécresse et Gérard Larcher, sans croiser David Lisnard."
+          ],
+          "enjeu": "L'élection dira si les maires acceptent qu'un candidat à l'Élysée conserve la tête de leur association. Le Congrès sert aussi de tribune aux candidats en quête des 500 parrainages, alors qu'un maire sur deux se dit réticent à en accorder un.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant se tient habituellement à l'écart des institutions d'élus locaux et défend surtout le maintien des services publics de proximité face aux restrictions budgétaires.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Bally Bagayoko (LFI), maire de Saint-Denis, estime que David Lisnard n'est « pas le candidat » qu'il attend pour présider l'AMF : « Le droit parle », et « pour ce qui relève de l'éthique, c'est à lui de décider ».",
+              "src": "Public Sénat, 24 novembre 2026"
+            },
+            "soc": {
+              "type": "declare",
+              "texte": "Le Parti socialiste a annoncé le 10 novembre qu'il ne soutiendrait pas la candidature de David Lisnard à l'AMF, dénonçant un « mélange des genres », alors même que le socialiste Jean-François Debat figure sur sa liste.",
+              "src": "Public Sénat, 24 novembre 2026"
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement une décentralisation renforcée et des moyens accrus pour les communes, en particulier pour la transition écologique, et s'oppose aux baisses de dotations.",
+              "src": ""
+            },
+            "ren": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement le partenariat entre l'État et les collectivités, tout en demandant à celles-ci de participer à l'effort de redressement des comptes publics.",
+              "src": ""
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant est habituellement attaché à la décentralisation et à l'autonomie des collectivités, et plaide pour une meilleure association des élus locaux aux décisions.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant, issu en grande partie d'élus locaux, défend habituellement la liberté d'action des maires et la simplification des normes, tout en soutenant la maîtrise de la dépense.",
+              "src": ""
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Bruno Retailleau (LR) veut « remettre la mairie au milieu du village », fustige « l'État profond » et la « bureaucratie » et refuse que l'administration décide à la place des maires. Mathieu Darnaud (LR) minimise la rivalité avec Lisnard : « La présidentielle est une course de fond ».",
+              "src": "Public Sénat, 24 novembre 2026"
+            },
+            "dn": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement le rôle des maires face aux intercommunalités et à l'administration, et dénonce régulièrement la baisse des dotations aux communes.",
+              "src": ""
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant dénonce habituellement le poids des normes et de l'administration sur les communes et réclame plus de pouvoirs pour les maires, notamment en matière de sécurité.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Public Sénat – « Il aurait fallu qu'il fasse la part des choses » : les maires, premiers juges du cumul de candidatures de David Lisnard",
+              "u": "https://www.publicsenat.fr/actualites/politique/il-aurait-fallu-quil-fasse-la-part-des-choses-les-maires-premiers-juges-du-cumul-de-candidatures-de-david-lisnard"
+            },
+            {
+              "t": "Public Sénat – Fustigeant « l'État profond » et la « bureaucratie », Bruno Retailleau veut « remettre la mairie au milieu du village »",
+              "u": "https://www.publicsenat.fr/actualites/politique/fustigeant-letat-profond-et-la-bureaucratie-bruno-retailleau-veut-remettre-la-mairie-au-milieu-du-village"
+            },
+            {
+              "t": "Public Sénat – Congrès des maires : « L'AMF n'est pas un plan B », tacle Philippe Laurent visant David Lisnard",
+              "u": "https://www.publicsenat.fr/actualites/politique/congres-des-maires-lamf-nest-pas-un-plan-b-quon-reprend-une-fois-quon-na-pas-ete-elu-a-la-presidentielle-tacle-philippe-laurent-visan"
+            },
+            {
+              "t": "Maire-info – Deux candidats pour la présidence de l'AMF, et une liste transpartisane pour les instances",
+              "u": "https://www.maire-info.com/deux-candidats-pour-la-presidence-de-lamf-et-une-liste-transpartisane-pour-les-instances-article2-31062"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-25-presidentielle-odoxa-tondelier",
+          "rubrique": "Présidentielle 2027",
+          "titre": "Présidentielle : seuls Lisnard et Philippe battraient Le Pen au second tour, Tondelier maintient sa candidature en attendant l'accord avec LFI",
+          "chapo": "Un sondage Odoxa pour Public Sénat teste sept duels face à Marine Le Pen. À gauche, la candidate écologiste reste en lice pendant les discussions avec La France insoumise, et LFI se dit confiante pour ses parrainages.",
+          "faits": [
+            "Selon le baromètre Odoxa-Mascaret (1 005 personnes interrogées en ligne les 18 et 19 novembre), Édouard Philippe l'emporterait sur Marine Le Pen par 35 % contre 31 % et David Lisnard par 32 % contre 27 %. Marine Le Pen devancerait Gabriel Attal et Raphaël Glucksmann de 2 points, Bruno Retailleau de 3 points, Teddy Riner de 5 points, et Jean-Luc Mélenchon par 40 % contre 24 %.",
+            "Dans ces sept configurations, la part des sondés qui ne choisissent aucun des deux candidats va de 29 % à 42 %.",
+            "Marine Tondelier reste candidate « jusqu'à ce qu'on en décide autrement » au sein des Écologistes, dont les adhérents se prononceront le 13 décembre sur une alliance avec LFI. Yannick Jadot et Jérémie Iordanoff ont annoncé lundi la création d'un nouveau parti, Écologistes et Démocrates.",
+            "Les candidats ont jusqu'au 12 mars 2027 pour réunir 500 parrainages d'élus."
+          ],
+          "enjeu": "Le sondage nourrit l'argument de « l'éligibilité » dans la bataille à droite et au centre, où plusieurs candidats se disputent le même électorat. À gauche, le rapprochement entre écologistes et insoumis provoque une scission et pose la question de la ligne sur l'Ukraine, l'Europe et l'OTAN.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant présente habituellement ses propres candidats à la présidentielle sur une ligne de rupture anticapitaliste et refuse les alliances avec la gauche de gouvernement.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Bally Bagayoko (LFI) se dit confiant sur les 500 parrainages pour Jean-Luc Mélenchon : « Nous les aurons à date », LFI préférant les annoncer lors d'une séquence dédiée.",
+              "src": "Public Sénat, 24 novembre 2026"
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant plaide habituellement pour une candidature commune de la gauche sociale-démocrate et écologiste, distincte de La France insoumise, en mettant en avant sa capacité à battre l'extrême droite.",
+              "src": ""
+            },
+            "eco": {
+              "type": "declare",
+              "texte": "Marine Tondelier (Les Écologistes) assure que « l'union fait la force », souligne les « fortes convergences » avec LFI à l'Assemblée, mais reconnaît que l'Ukraine, l'Europe et l'OTAN « fâchent un peu ». Elle vise un accord de gouvernement, législatif et programmatique.",
+              "src": "Public Sénat, 24 novembre 2026"
+            },
+            "ren": {
+              "type": "lecture",
+              "texte": "Le courant met habituellement en avant la nécessité d'un candidat unique du bloc central, capable de rassembler au second tour face au Rassemblement national.",
+              "src": ""
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant plaide habituellement pour l'unité du bloc central derrière un candidat capable de l'emporter face aux extrêmes.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant met habituellement en avant les sondages de second tour favorables à Édouard Philippe pour en faire le candidat naturel du centre et de la droite.",
+              "src": ""
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Mathieu Darnaud (LR), soutien de Bruno Retailleau, juge que « la présidentielle est une course de fond » et appelle à un débat sur ce que les candidats « proposent concrètement », en défendant le principe d'une primaire.",
+              "src": "Public Sénat, 24 novembre 2026"
+            },
+            "dn": {
+              "type": "lecture",
+              "texte": "Le courant met habituellement en avant sa première place dans les intentions de vote et présente l'élection comme un choix entre lui et les autres partis réunis.",
+              "src": ""
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant appelle habituellement à l'union des droites et met en avant sa propre candidature comme la plus ferme sur l'immigration et l'identité.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Public Sénat – Sondage : au deuxième tour, seuls David Lisnard et Edouard Philippe seraient préférés à Marine Le Pen",
+              "u": "https://www.publicsenat.fr/actualites/politique/sondage-au-deuxieme-tour-seuls-david-lisnard-et-edouard-philippe-seraient-preferes-a-marine-le-pen"
+            },
+            {
+              "t": "Public Sénat – Main tendue des écologistes à Mélenchon : « Je suis candidate aujourd'hui, je serai candidate demain »",
+              "u": "https://www.publicsenat.fr/actualites/politique/main-tendue-des-ecologistes-a-melenchon-je-suis-candidate-aujourdhui-je-serai-candidate-demain-jusqua-ce-quon-en-decide-autrement-au-sein-du-mouvement"
+            },
+            {
+              "t": "Public Sénat – « Nous les aurons à date » : Bally Bagayoko (LFI) se montre confiant sur les 500 parrainages",
+              "u": "https://www.publicsenat.fr/actualites/politique/nous-les-aurons-a-date-bally-bagayoko-lfi-se-montre-confiant-sur-les-500-parrainages-pour-la-presidentielle"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-25-russie-arme-nucleaire-espace",
+          "rubrique": "International",
+          "titre": "Arme nucléaire dans l'espace : la Russie s'apprêterait à lancer un satellite armé, l'OTAN promet de défendre ses membres",
+          "chapo": "Selon plusieurs médias allemands, Moscou prévoit de mettre en orbite dans les prochaines semaines un satellite doté d'une ogive nucléaire. Le Kremlin dément tout sérieux à ces informations, Berlin et l'OTAN s'alarment.",
+          "faits": [
+            "D'après WDR, NDR et la Süddeutsche Zeitung, qui s'appuient sur des informations de la Bundeswehr et du renseignement allemand (BND), la Russie prévoit de lancer un satellite de type Spoutnik-S équipé d'une ogive nucléaire, capable de détruire d'autres satellites et de perturber communications, navigation et observation de la Terre.",
+            "Le secrétaire général de l'OTAN, Mark Rutte, a assuré lundi à Berlin que l'Alliance défendrait « chaque centimètre » de son territoire, y compris dans l'espace. Le chancelier Friedrich Merz juge ces informations « choquantes ».",
+            "Le ministre allemand de la Défense, Boris Pistorius, estime « trop tôt pour spéculer » sur la nature de l'arme. Le porte-parole du Kremlin, Dmitri Peskov, affirme que ces informations reposent sur des « sources inconnues » et ne méritent pas d'être prises au sérieux.",
+            "Le traité de l'espace de 1967, signé par la Russie, interdit de placer en orbite des armes nucléaires."
+          ],
+          "enjeu": "Une telle arme menacerait les satellites civils et militaires dont dépendent les armées et les économies européennes. Le sujet relance le débat sur la défense spatiale européenne au moment où Paris soutient l'Ukraine et où la présence de militaires français dans ce pays est examinée au Sénat.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant dénonce habituellement la course aux armements des grandes puissances, Russie comme OTAN, et s'oppose à la hausse des budgets militaires.",
+              "src": ""
+            },
+            "gr": {
+              "type": "lecture",
+              "texte": "Le courant appelle habituellement à la désescalade et au désarmement nucléaire, et met en garde contre une logique de blocs alimentée par l'OTAN, tout en condamnant l'agression russe en Ukraine.",
+              "src": ""
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement un soutien ferme à l'Ukraine, une défense européenne renforcée et le respect des traités de maîtrise des armements.",
+              "src": ""
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement le désarmement nucléaire et une Europe de la défense autonome, et soutient l'Ukraine face à la Russie.",
+              "src": ""
+            },
+            "ren": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement l'autonomie stratégique européenne, y compris dans l'espace, et une ligne de fermeté face à la Russie.",
+              "src": ""
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement une défense européenne commune et la fermeté face aux menaces russes, dans le cadre de l'Alliance atlantique.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement une hausse de l'effort de défense, notamment spatial, et une posture de fermeté face à la Russie.",
+              "src": ""
+            },
+            "d": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement la souveraineté militaire française, la dissuasion nucléaire nationale et un renforcement des capacités spatiales de défense.",
+              "src": ""
+            },
+            "dn": {
+              "type": "lecture",
+              "texte": "Le courant met habituellement en avant la dissuasion nucléaire française et la souveraineté nationale, se montre réservé sur l'intégration européenne de défense et appelle à éviter l'escalade avec la Russie.",
+              "src": ""
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant privilégie habituellement la souveraineté nationale en matière de défense, critique l'OTAN et l'Union européenne, et appelle à éviter toute escalade avec la Russie.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Boursorama avec AFP – La Russie prévoit de déployer une arme nucléaire dans l'espace, selon la presse, l'Otan se dit prête à défendre ses membres",
+              "u": "https://www.boursorama.com/actualite-economique/actualites/la-russie-prevoit-de-deployer-une-arme-nucleaire-dans-l-espace-selon-la-presse-l-otan-se-dit-prete-a-defendre-ses-membres-202826008f1a50c37d764ec92504b9dd"
+            },
+            {
+              "t": "La DH – Des projets inquiétants de la Russie dans l'espace dévoilés par des services de renseignement de l'OTAN",
+              "u": "https://dhnet.be/actu/monde/2026/11/23/des-projets-inquietants-de-la-russie-dans-lespace-devoiles-par-des-services-de-renseignement-de-lotan-HR26IFWOHVEMZPXM3FQD55KOJA"
+            }
+          ]
+        }
+      ],
+      "breves": [
+        {
+          "titre": "Soldats français en Ukraine : Alice Rufo entendue au Sénat",
+          "texte": "La ministre déléguée aux Armées est auditionnée ce mercredi à 8 h 30, à huis clos, par la commission des affaires étrangères et de la défense du Sénat, sur la mission « Volia ». Son président Cédric Perrin (LR) reproche au gouvernement de ne pas avoir informé le Parlement.",
+          "src": {
+            "t": "Public Sénat – Soldats français en Ukraine : la ministre déléguée auditionnée au Sénat le 25 novembre",
+            "u": "https://www.publicsenat.fr/actualites/politique/soldats-francais-en-ukraine-la-ministre-deleguee-aupres-de-la-ministre-des-armees-auditionnee-au-senat-le-25-novembre-prochain"
+          }
+        },
+        {
+          "titre": "Logements neufs : les ventes au plus bas",
+          "texte": "Les ventes de logements neufs aux particuliers ont reculé de 3,5 % au troisième trimestre par rapport au précédent, à un nouveau plus bas, selon les chiffres publiés mardi par le ministère du Logement.",
+          "src": {
+            "t": "LCP – Logement : les députés adoptent une version du projet de loi",
+            "u": "https://lcp.fr/actualites/logement-les-deputes-adoptent-une-version-du-projet-de-loi-reautorisant-a-ce-stade-la"
+          }
+        },
+        {
+          "titre": "Jadot et Iordanoff lancent leur parti",
+          "texte": "Le sénateur Yannick Jadot et le député Jérémie Iordanoff, qui ont quitté Les Écologistes après la main tendue de Marine Tondelier à Jean-Luc Mélenchon, ont annoncé lundi la création d'un nouveau parti, Écologistes et Démocrates.",
+          "src": {
+            "t": "Public Sénat – Main tendue des écologistes à Mélenchon",
+            "u": "https://www.publicsenat.fr/actualites/politique/main-tendue-des-ecologistes-a-melenchon-je-suis-candidate-aujourdhui-je-serai-candidate-demain-jusqua-ce-quon-en-decide-autrement-au-sein-du-mouvement"
+          }
+        }
+      ],
+      "agenda": [
+        {
+          "d": "Mer. 25 nov.",
+          "t": "Audition à huis clos d'Alice Rufo au Sénat sur les militaires français en Ukraine (8 h 30) ; clôture du vote à 13 h et proclamation du président de l'AMF ; suite du budget au Sénat"
+        },
+        {
+          "d": "Jeu. 26 nov.",
+          "t": "Niche parlementaire LR à l'Assemblée ; commission mixte paritaire sur le budget de la Sécu ; débat Lecornu-Larcher en clôture du Congrès des maires ; réunion des équipes Attal, Retailleau et Lisnard sur la primaire"
+        },
+        {
+          "d": "Sam. 28 nov.",
+          "t": "Marches féministes de Nous Toutes, rejointes par les gilets jaunes"
+        },
+        {
+          "d": "Dim. 29 nov.",
+          "t": "Au plus tard : seconde délibération au Sénat sur les heures supplémentaires défiscalisées"
+        },
+        {
+          "d": "Mar. 1er déc.",
+          "t": "Journée de grève et de mobilisation dans la fonction publique"
+        },
+        {
+          "d": "Mer. 9 déc.",
+          "t": "Vote solennel du Sénat sur le budget de l'État"
+        },
+        {
+          "d": "Dim. 13 déc.",
+          "t": "Vote des adhérents écologistes sur une alliance avec LFI pour la présidentielle"
+        }
+      ]
+    },
     {
       "date": "2026-11-24",
       "label": "Mardi 24 novembre 2026",
@@ -3200,493 +3730,6 @@
         {
           "d": "Jeu. 26 nov.",
           "t": "Commission mixte paritaire sur le budget de la Sécu ; niche parlementaire LR à l'Assemblée"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-18",
-      "label": "Mercredi 18 novembre 2026",
-      "maj": "Mise à jour à 6 h 27",
-      "intro": "Au lendemain de la grève, les fonctionnaires attendent toujours un geste sur le point d'indice, et Marine Le Pen a fait des retraites le cœur de sa journée en présentant un retour à 62 ans. Le Sénat vote cet après-midi son budget de la Sécu, après avoir imposé un an de résidence aux étrangers pour les prestations familiales. À droite, les équipes d'Attal, Retailleau et Lisnard visent une primaire en janvier. À l'international, la présence de militaires français en Ukraine fait débat avant la réunion de Berlin jeudi.",
-      "stories": [
-        {
-          "id": "2026-11-18-greve-fonction-publique-bilan",
-          "rubrique": "Social",
-          "titre": "Fonction publique : 146 000 manifestants selon l'Intérieur, les syndicats réclament toujours le dégel du point d'indice",
-          "chapo": "Appelés par toutes leurs organisations syndicales, les agents publics ont manifesté mardi dans de nombreuses villes contre la vie chère. Le gouvernement maintient son refus d'une hausse générale et renvoie à une négociation sur les grilles après les élections professionnelles de décembre.",
-          "faits": [
-            "Le ministère de l'Intérieur a compté 146 000 manifestants en France mardi 17 novembre ; une source policière en attendait entre 220 000 et 300 000 selon l'AFP. Les 5,8 millions d'agents publics étaient appelés à la grève, et plusieurs syndicats de cheminots avaient rejoint l'appel.",
-            "Selon la CFDT Fonction publique, les agents ont perdu plus de 16 % de pouvoir d'achat depuis 2017. Le point d'indice est gelé depuis 2011, hormis en 2016, 2017, 2022 et 2023.",
-            "Après la hausse du Smic au 1er décembre, 1,1 million d'agents, près de 20 %, auraient eu un traitement de base inférieur au salaire minimum ; après les mesures annoncées à Matignon, environ 660 000 resteront dans ce cas et toucheront une indemnité compensatrice, qui ne compte pas pour la retraite.",
-            "Le ministre des Comptes publics, David Amiel, chiffre à plus d'un milliard d'euros le coût de la hausse du Smic et des mesures pour les agents les moins payés. L'exécutif exclut une augmentation générale pour la quatrième année consécutive."
-          ],
-          "enjeu": "Les syndicats veulent transformer la journée en rapport de force avant les élections professionnelles de décembre. Pour le gouvernement, tout geste sur le point d'indice pèserait lourd sur un budget 2027 que le Sénat commence à examiner vendredi.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement les grèves de la fonction publique, réclame une hausse générale des salaires indexée sur les prix et appelle à étendre le mouvement au privé.",
-              "src": ""
-            },
-            "gr": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement le dégel et la revalorisation du point d'indice, le rattrapage des pertes de pouvoir d'achat depuis 2017 et des recrutements dans les services publics.",
-              "src": ""
-            },
-            "soc": {
-              "type": "lecture",
-              "texte": "Le courant plaide habituellement pour une revalorisation du point d'indice et une négociation salariale annuelle dans la fonction publique, tout en appelant à tenir les comptes publics.",
-              "src": ""
-            },
-            "eco": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement les revendications salariales des agents publics et défend des services publics renforcés, en particulier à l'hôpital et à l'école.",
-              "src": ""
-            },
-            "ren": {
-              "type": "declare",
-              "texte": "David Amiel (Renaissance), ministre des Comptes publics, chiffre à plus d'un milliard d'euros le coût des mesures pour les bas salaires ; le porte-parole Mathieu Lefèvre (Renaissance) promet des « chantiers plus structurels » après les élections professionnelles.",
-              "src": "AFP et Public Sénat, 17 novembre 2026"
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement des mesures ciblées sur les agents les moins payés et une refonte des grilles plutôt qu'une hausse uniforme du point d'indice, dans le respect de la trajectoire budgétaire.",
-              "src": ""
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant met habituellement en avant la maîtrise de la masse salariale publique et plaide pour des réformes de la fonction publique plutôt que pour un dégel général du point d'indice.",
-              "src": ""
-            },
-            "d": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement une réduction des effectifs publics et une rémunération davantage liée au mérite, en jugeant une hausse générale incompatible avec l'état des finances.",
-              "src": ""
-            },
-            "dn": {
-              "type": "lecture",
-              "texte": "Le courant se dit habituellement attaché au pouvoir d'achat des agents de terrain tout en promettant des économies sur les agences de l'État et le train de vie de l'administration.",
-              "src": ""
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant critique habituellement les grèves dans le service public et défend une baisse des dépenses publiques et des effectifs administratifs.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "Public Sénat – « Smicardisation », « tassement des salaires » : les fonctionnaires appellent à la mobilisation ce mardi 17 novembre",
-              "u": "https://www.publicsenat.fr/actualites/societe/smicardisation-tassement-des-salaires-les-fonctionnaires-appellent-a-la-mobilisation-ce-mardi-17-novembre"
-            },
-            {
-              "t": "AFP via Orange – Après Matignon, les fonctionnaires de retour dans la rue pour demander des hausses de salaire",
-              "u": "https://actu.orange.fr/economie/apres-matignon-les-fonctionnaires-de-retour-dans-la-rue-pour-demander-des-hausses-de-salaire-CNT000002tLbA0.html"
-            },
-            {
-              "t": "L'Express via Orange – Les trois infos à retenir du mardi 17 novembre",
-              "u": "https://actu.orange.fr/france/les-trois-infos-a-retenir-du-mardi-17-novembre-l-express-via-6medias-CNT000002tLSDs.html"
-            }
-          ],
-          "image": {
-            "u": "https://www.publicsenat.fr/app/uploads/2026/11/SIPA_01315345_000008-scaled.jpg",
-            "credit": "Public Sénat",
-            "alt": "Illustration de l'article de Public Sénat"
-          }
-        },
-        {
-          "id": "2026-11-18-le-pen-reforme-retraites",
-          "rubrique": "Présidentielle 2027",
-          "titre": "Retraites : Marine Le Pen présente une réforme à 62 ans, voire 60, et un pilier de capitalisation obligatoire",
-          "chapo": "La candidate du RN a détaillé mardi avec Jordan Bardella le projet qu'elle promet d'engager « dès [son] arrivée au pouvoir », pour une application au 1er janvier 2028. Les équipes de Bruno Retailleau, d'Édouard Philippe et de Gabriel Attal contestent son financement.",
-          "faits": [
-            "L'âge légal reviendrait à 62 ans, et à 60 ans pour ceux qui ont eu un premier emploi stable avant 20 ans, avec 40 ans de cotisation ; ceux qui ont commencé après 23 ans devraient cotiser 42 ans. La décote serait de 5 % par trimestre manquant, dans la limite de 50 %.",
-            "Un trimestre serait validé par au moins un trimestre travaillé à mi-temps, au lieu de 150 heures au Smic aujourd'hui ; les critères de pénibilité seraient supprimés. La majoration de pension des mères de trois enfants passerait à 12 %, celle des pères serait progressivement supprimée.",
-            "Le RN chiffre le coût brut à 18,6 milliards d'euros en 2032 et annonce un excédent net de 4,7 milliards à cet horizon, notamment grâce à une partie des excédents de l'Unédic. Un pilier de capitalisation obligatoire, alimenté par des fonds du logement et de la formation, rapporterait selon lui près de 900 milliards d'euros en une génération.",
-            "Marine Le Pen privilégie un débat parlementaire mais n'exclut pas un référendum si elle n'obtient pas de majorité absolue."
-          ],
-          "enjeu": "Les retraites deviennent un marqueur central de la campagne, au moment où le Sénat vient de voter le retour de la réforme de 2023. Le RN cherche à rassurer sur sa crédibilité budgétaire ; ses concurrents de droite et du centre attaquent précisément ce point.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant réclame habituellement le retour de la retraite à 60 ans pour tous avec 37,5 annuités, financé par les profits, et rejette toute forme de capitalisation.",
-              "src": ""
-            },
-            "gr": {
-              "type": "declare",
-              "texte": "Jean-Luc Mélenchon (LFI) propose l'abrogation de la réforme de 2023, un retour à 62 ans « dans un premier temps » puis à 60 ans « le plus vite possible », sans capitalisation.",
-              "src": "Public Sénat, 30 septembre 2026"
-            },
-            "soc": {
-              "type": "declare",
-              "texte": "Raphaël Glucksmann (Place publique) veut abroger la réforme Borne et fonder une future réforme « sur la pénibilité », sans fixer d'âge ; Olivier Faure (PS) défend un retour à 62 ans avec des durées de cotisation modulées selon la pénibilité.",
-              "src": "Public Sénat, 30 septembre 2026"
-            },
-            "eco": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement l'abrogation de la réforme de 2023, un retour vers 62 ans et une meilleure prise en compte de la pénibilité, et s'oppose à la capitalisation.",
-              "src": ""
-            },
-            "ren": {
-              "type": "declare",
-              "texte": "Paul Midy (Renaissance), au nom de l'équipe de Gabriel Attal, dénonce « une vaste arnaque financière » ; le ministre David Amiel (Renaissance) juge la réforme « insoutenable financièrement et terriblement injuste socialement ».",
-              "src": "Public Sénat, 17 novembre 2026"
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement une réforme négociée avec les partenaires sociaux, juge le retour à 62 ans infinançable et plaide pour l'équilibre du système par répartition.",
-              "src": ""
-            },
-            "hor": {
-              "type": "declare",
-              "texte": "Maël de Calan, porte-parole d'Édouard Philippe (Horizons), estime que Marine Le Pen « n'a proposé que des dépenses supplémentaires » et parle de « l'ère de la post-vérité ».",
-              "src": "Public Sénat, 17 novembre 2026"
-            },
-            "d": {
-              "type": "declare",
-              "texte": "Bruno Retailleau (LR) qualifie la réforme d'« injuste et bancale » et de « catalogue de contradictions » ; il chiffre à 600 millions d'euros par an au plus le gain des nouvelles règles de validation et juge la capitalisation « financée par aucune ressource nouvelle ».",
-              "src": "Public Sénat, 17 novembre 2026"
-            },
-            "dn": {
-              "type": "declare",
-              "texte": "Marine Le Pen (RN) promet d'« abolir la réforme Borne au 1er janvier 2028 » ; Jordan Bardella (RN) affirme que « les plus avantagés de notre réforme seront les moins diplômés », Jean-Philippe Tanguy (RN) défend la suppression des critères de pénibilité.",
-              "src": "AFP et LCP, 17 novembre 2026"
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant juge habituellement le retour à 62 ans irréaliste, défend un allongement de la durée du travail et une retraite plus favorable aux familles nombreuses.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "AFP via Orange – Le Pen affirme que sa réforme des retraites sera « engagée dès son arrivée au pouvoir » et appliquée au 1er janvier 2028",
-              "u": "https://actu.orange.fr/france/le-pen-affirme-que-sa-reforme-des-retraites-sera-quot-engagee-des-son-arrivee-au-pouvoir-quot-et-sera-appliquee-au-1er-janvier-2028-CNT000002tLo2Q.html"
-            },
-            {
-              "t": "Public Sénat – Présidentielle 2027 : que contient la réforme des retraites présentée par Marine Le Pen ?",
-              "u": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-que-contient-la-reforme-des-retraites-presentee-par-marine-le-pen"
-            },
-            {
-              "t": "Public Sénat – « Catalogue de contradictions », « vaste arnaque financière » : la réforme des retraites du RN suscite la critique de certains candidats",
-              "u": "https://www.publicsenat.fr/actualites/politique/catalogue-de-contradictions-vaste-arnaque-financiere-la-reforme-des-retraites-du-rn-suscite-la-critique-de-certains-candidats"
-            },
-            {
-              "t": "LCP – Réforme des retraites : pourquoi le RN veut supprimer les critères de pénibilité du travail",
-              "u": "https://lcp.fr/actualites/reforme-des-retraites-pourquoi-le-rn-veut-supprimer-les-criteres-de-penibilite-du"
-            },
-            {
-              "t": "Public Sénat – Reculer ou avancer l'âge légal : ce que proposent les principaux candidats sur les retraites",
-              "u": "https://www.publicsenat.fr/actualites/politique/reculer-ou-avancer-lage-legal-avec-ou-sans-capitalisation-ce-que-proposent-les-principaux-candidats-a-lelection-presidentielle-sur-les-retraites"
-            }
-          ],
-          "image": {
-            "u": "https://proxymedia.woopic.com/api/v1/images/2275%2Factu%2Fafp-news%2Fc35774c6-944c-44f2-bac0-b451c85b35e8.jpg?format=1200x630&facedetect=1&quality=85",
-            "credit": "AFP via Orange",
-            "alt": "Illustration de l'article de AFP via Orange"
-          }
-        },
-        {
-          "id": "2026-11-18-senat-secu-prestations-etrangers",
-          "rubrique": "Budget",
-          "titre": "Budget de la Sécu : le Sénat impose un an de résidence aux étrangers pour les prestations familiales, vote solennel ce mercredi",
-          "chapo": "Après des débats houleux, la majorité sénatoriale a adopté mardi l'article 37 du budget de la Sécurité sociale, qui instaure un délai de carence d'un an. Les sénateurs se prononcent sur l'ensemble du texte cet après-midi, après les questions au gouvernement.",
-          "faits": [
-            "L'article exige un an de séjour régulier pour la plupart des prestations familiales (Paje, allocation de rentrée scolaire, complément familial, allocation de soutien familial) et les APL, pour les ressortissants extra-européens. Sont exemptés les réfugiés, les bénéficiaires de la protection subsidiaire, les apatrides, les titulaires d'un titre autorisant à travailler et les nationaux de pays liés par une convention de réciprocité.",
-            "Les amendements de suppression ont été rejetés par 206 voix contre 132. Les amendements RN et UDR qui portaient le délai à trois ou cinq ans ont tous été rejetés.",
-            "Selon Public Sénat, la mesure ferait économiser 1,8 million d'euros par an à la branche famille, mais coûterait environ 60 millions d'euros par an de plus à l'État au titre des APL. Une condition de cinq ans figurant dans la loi immigration de 2023 avait été censurée par le Conseil constitutionnel comme cavalier législatif.",
-            "La veille, le Sénat avait réactivé la réforme des retraites de 2023 et supprimé le gel des pensions. Le texte repartira ensuite vers l'Assemblée nationale."
-          ],
-          "enjeu": "Le Sénat imprime une ligne plus restrictive sur l'accès des étrangers aux aides, un sujet très politique à quelques mois de la présidentielle. La gauche y voit une « préférence nationale », la majorité sénatoriale une mesure « proportionnée » ; l'Assemblée aura le dernier mot.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant s'oppose habituellement à toute condition de nationalité ou de durée de séjour pour l'accès aux prestations sociales, qu'il juge discriminatoire envers les travailleurs immigrés.",
-              "src": ""
-            },
-            "gr": {
-              "type": "declare",
-              "texte": "Silvana Silvani (PCF) dénonce une « discrimination contraire aux engagements constitutionnels et internationaux de la France » ; une quarantaine d'associations ont protesté contre l'article.",
-              "src": "Public Sénat, 17 novembre 2026"
-            },
-            "soc": {
-              "type": "declare",
-              "texte": "Corinne Féret (PS) estime que la mesure « répond à une des demandes historiques de l'extrême droite : la préférence nationale » ; Marion Canalès (PS) parle d'« économies de bouts de chandelles ».",
-              "src": "Public Sénat, 17 novembre 2026"
-            },
-            "eco": {
-              "type": "declare",
-              "texte": "Mélanie Vogel, présidente du groupe écologiste, dénonce « un cadeau idéologique » à l'extrême droite ; Ghislaine Senée (Les Écologistes) y voit « une préférence nationale déguisée ».",
-              "src": "Public Sénat, 17 novembre 2026"
-            },
-            "ren": {
-              "type": "declare",
-              "texte": "Xavier Iacovelli (Renaissance) a critiqué l'inutilité de l'article, au vu de l'économie attendue pour la branche famille.",
-              "src": "Public Sénat, 17 novembre 2026"
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement une politique d'intégration équilibrée et se montre réservé sur les conditions de durée de séjour pour les aides aux familles, au nom de l'intérêt des enfants.",
-              "src": ""
-            },
-            "hor": {
-              "type": "declare",
-              "texte": "Emmanuel Capus (Horizons) a mis en garde dans le débat contre « un jeu extrêmement dangereux » qui reviendrait à « porter l'extrême droite au pinacle ».",
-              "src": "Public Sénat, 17 novembre 2026"
-            },
-            "d": {
-              "type": "declare",
-              "texte": "La majorité LR et centriste a maintenu l'article, jugé « véritablement proportionné » par la rapporteure ; Laurent Burgoa (LR) a lancé dans l'hémicycle : « C'est tapis rouge que vous faites pour le RN ».",
-              "src": "Public Sénat, 17 novembre 2026"
-            },
-            "dn": {
-              "type": "declare",
-              "texte": "Aymeric Durox (RN) a invoqué une « immigration massive » que les Français veulent voir stoppée ; les amendements RN et UDR portant le délai à trois et cinq ans ont été rejetés.",
-              "src": "Public Sénat, 17 novembre 2026"
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant réclame habituellement de réserver les prestations familiales aux Français et juge un délai d'un an très insuffisant.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "Public Sénat – Budget 2027 de la Sécu : après des débats houleux, le Sénat adopte le délai de carence d'un an pour l'accès aux prestations familiales des étrangers",
-              "u": "https://www.publicsenat.fr/actualites/politique/budget-2027-de-la-secu-apres-des-debats-houleux-le-senat-adopte-le-delai-de-carence-dun-an-pour-lacces-aux-prestations-familiales-des-etrangers"
-            },
-            {
-              "t": "Public Sénat – Le Sénat vote la réactivation de la réforme des retraites de 2023, contre l'avis du gouvernement",
-              "u": "https://www.publicsenat.fr/actualites/politique/le-senat-vote-la-reactivation-de-la-reforme-des-retraites-de-2023-contre-lavis-du-gouvernement"
-            },
-            {
-              "t": "Public Sénat – Le Sénat rétablit la réforme des retraites de 2023 : Pierre Moscovici alerte",
-              "u": "https://www.publicsenat.fr/actualites/economie/le-senat-retablit-la-reforme-des-retraites-de-2023-elle-ne-marchait-pas-sans-quoi-elle-naurait-pas-ete-suspendue-avertit-pierre-moscovici"
-            }
-          ]
-        },
-        {
-          "id": "2026-11-18-primaire-droite-janvier",
-          "rubrique": "Présidentielle 2027",
-          "titre": "Primaire de la droite et du centre : les équipes d'Attal, Retailleau et Lisnard visent un vote en janvier",
-          "chapo": "Réunis mardi sans représentant d'Édouard Philippe, les directeurs de campagne des trois candidats se sont rapprochés sur une primaire ouverte à deux tours en janvier. La question d'une participation d'Éric Zemmour les divise encore.",
-          "faits": [
-            "Selon un participant cité par Public Sénat, les équipes s'accordent sur une primaire ouverte à deux tours, avec vote électronique et une participation de 2 à 5 euros. Deux calendriers sont envisagés : 17 et 24 janvier, ou 24 et 31 janvier 2027.",
-            "Nouvelle Énergie, le parti de David Lisnard, affirme qu'« aucun accord n'a été conclu à ce stade ». Bruno Retailleau avait proposé la semaine dernière les 31 janvier et 7 février.",
-            "Édouard Philippe a redit qu'il ne participerait pas à une primaire, tout en se disant prêt à une discussion proposée par Gérard Larcher sur une « méthode de départage ». Environ un millier d'élus locaux ont réclamé une primaire dans une tribune au Figaro.",
-            "L'entourage de Gabriel Attal exclut une primaire avec Reconquête ; chez Lisnard, Alexandra Martin répond « pas forcément » à la question d'une exclusion d'Éric Zemmour."
-          ],
-          "enjeu": "La droite et le centre cherchent à éviter un second tour entre Marine Le Pen et Jean-Luc Mélenchon. Sans Édouard Philippe, la primaire perdrait une partie de son sens ; avec Reconquête, elle changerait de nature.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant se tient habituellement à l'écart de ces débats de stratégie et dénonce une recomposition qu'il juge interne au camp libéral et conservateur.",
-              "src": ""
-            },
-            "gr": {
-              "type": "lecture",
-              "texte": "Le courant critique habituellement les primaires, qu'il juge source de division et d'affichage, et mise sur une candidature construite autour de son programme.",
-              "src": ""
-            },
-            "soc": {
-              "type": "lecture",
-              "texte": "Le courant a lui-même engagé un processus de départage à gauche et observe habituellement ces débats à droite sous l'angle d'un possible second tour face à l'extrême droite.",
-              "src": ""
-            },
-            "eco": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement le principe de primaires ouvertes pour désigner un candidat commun, mais dans son propre camp, à gauche.",
-              "src": ""
-            },
-            "ren": {
-              "type": "declare",
-              "texte": "Gabriel Attal (Renaissance) juge la primaire « inéluctable », estimant qu'« aucun candidat n'est en situation d'être au deuxième tour » ; son équipe exclut d'y associer Reconquête.",
-              "src": "LCP, 16 novembre 2026, et Public Sénat, 17 novembre 2026"
-            },
-            "modem": {
-              "type": "declare",
-              "texte": "Marc Fesneau (Les Démocrates) plaide pour une primaire qui ne soit pas « trop étriquée », de Bruno Retailleau à Raphaël Glucksmann, et constate : « On a un problème de leadership ».",
-              "src": "LCP, 16 novembre 2026"
-            },
-            "hor": {
-              "type": "declare",
-              "texte": "Édouard Philippe (Horizons) maintient : « Cette primaire, je n'y participerai pas », tout en se disant « enchanté » de participer à une discussion proposée par Gérard Larcher.",
-              "src": "LCP, 16 novembre 2026"
-            },
-            "d": {
-              "type": "declare",
-              "texte": "Bruno Retailleau (LR) a proposé un vote les 31 janvier et 7 février ; un de ses conseillers prévient : « On ne va pas lui donner un droit de veto sur la primaire », à propos d'Édouard Philippe.",
-              "src": "Public Sénat, 17 novembre 2026"
-            },
-            "dn": {
-              "type": "lecture",
-              "texte": "Le courant présente habituellement ces discussions comme une manœuvre de partis en perte de vitesse et met en avant la candidature de Marine Le Pen comme la seule en position de gagner.",
-              "src": ""
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant plaide habituellement pour une union des droites incluant Reconquête et réclame de pouvoir participer à tout processus de départage à droite.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "Public Sénat – Primaire : les équipes d'Attal, Retailleau et Lisnard s'alignent sur un vote en janvier, moins sur le cas d'Éric Zemmour",
-              "u": "https://www.publicsenat.fr/actualites/politique/primaire-les-equipes-dattal-retailleau-et-lisnard-salignent-sur-un-vote-en-janvier-moins-sur-le-cas-deric-zemmour"
-            },
-            {
-              "t": "LCP – « Je n'y participerai pas » : Édouard Philippe accepte une discussion à droite mais ferme toujours la porte à une primaire",
-              "u": "https://lcp.fr/actualites/je-n-y-participerai-pas-edouard-philippe-accepte-une-discussion-a-droite-mais-ferme"
-            },
-            {
-              "t": "LCP – Présidentielle 2027 : Marc Fesneau plaide pour une primaire large de Bruno Retailleau à Raphaël Glucksmann",
-              "u": "https://lcp.fr/actualites/presidentielle-2027-marc-fesneau-plaide-pour-une-primaire-large-de-bruno-retailleau-a"
-            }
-          ],
-          "image": {
-            "u": "https://www.publicsenat.fr/app/uploads/2026/11/Ret-attal-scaled-e1794945422807-1200x630.jpg",
-            "credit": "Public Sénat",
-            "alt": "Illustration de l'article de Public Sénat"
-          }
-        },
-        {
-          "id": "2026-11-18-ukraine-soldats-francais-berlin",
-          "rubrique": "International",
-          "titre": "Ukraine : la présence de militaires français fait débat, Marine Le Pen veut couper l'aide financière, les alliés à Berlin jeudi",
-          "chapo": "Selon RFI, des militaires français interviennent en Ukraine depuis plusieurs mois pour l'entretien du matériel livré et la formation. Le ministère des Armées dément toute « intervention », le Parlement demande des explications, à deux jours de la réunion de la coalition des volontaires à Berlin.",
-          "faits": [
-            "D'après RFI, cité par Public Sénat, une force baptisée « Volia », dirigée par un général français, s'appuie sur le détachement « Gerfaut », officiellement déployé en Pologne dans le cadre de la mission européenne EUMAM-Ukraine. Moscou y voit, par la voix de Sergueï Lavrov, « une participation directe au conflit ».",
-            "La ministre déléguée Alice Rufo a jugé mardi « absurde » d'imaginer des forces françaises engagées au front, invoquant « le caractère extrêmement ponctuel de ces missions ». L'article 35 de la Constitution impose d'informer le Parlement de toute intervention à l'étranger.",
-            "Lundi, après avoir reçu l'ambassadeur d'Ukraine, Marine Le Pen a affirmé son « soutien sans faille » à Kiev mais annoncé qu'une France dirigée par le RN ne pourrait plus aider financièrement l'Ukraine, tout en respectant les engagements pris sur le prêt européen de 90 milliards d'euros.",
-            "Le chancelier Friedrich Merz réunit jeudi 19 novembre à Berlin la coalition des volontaires, avec Volodymyr Zelensky. Celui-ci a indiqué vendredi que les émissaires américains l'avaient interrogé sur un retrait du Donbass en échange d'une adhésion à l'Otan, une décision qu'il dit ne pas pouvoir prendre seul."
-          ],
-          "enjeu": "Le soutien militaire à l'Ukraine devient un sujet de politique intérieure, entre exigence de transparence du Parlement et débat sur le coût de l'aide. Les Européens veulent peser sur des négociations que Washington mène directement avec Moscou et Kiev.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant s'oppose habituellement à tout engagement militaire français et à la course aux armements, en renvoyant dos à dos l'impérialisme russe et l'Otan.",
-              "src": ""
-            },
-            "gr": {
-              "type": "declare",
-              "texte": "Manuel Bompard (LFI) réclame un débat à l'Assemblée nationale sur la présence de militaires français en Ukraine.",
-              "src": "Public Sénat, 17 novembre 2026"
-            },
-            "soc": {
-              "type": "declare",
-              "texte": "Hélène Conway-Mouret (PS) regrette : « Nous n'avons pas été directement informés », estimant que « cette absence d'information nourrit les spéculations et les discours complotistes ».",
-              "src": "Public Sénat, 17 novembre 2026"
-            },
-            "eco": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement un soutien ferme à l'Ukraine, y compris militaire, et une défense européenne commune, tout en demandant un contrôle parlementaire des engagements.",
-              "src": ""
-            },
-            "ren": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement un soutien militaire et financier durable à l'Ukraine, la participation de la France à des garanties de sécurité et une place pour les Européens dans les négociations.",
-              "src": ""
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement le soutien à l'Ukraine et une Europe de la défense plus autonome, en insistant sur l'information du Parlement.",
-              "src": ""
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement l'aide militaire à l'Ukraine et l'effort de réarmement européen, et juge nécessaire que l'Europe soit à la table des négociations.",
-              "src": ""
-            },
-            "d": {
-              "type": "declare",
-              "texte": "Cédric Perrin (LR), président de la commission des affaires étrangères du Sénat, veut auditionner « très rapidement » la ministre des Armées et dénonce « de l'amateurisme » dans l'information du Parlement.",
-              "src": "Public Sénat, 17 novembre 2026"
-            },
-            "dn": {
-              "type": "declare",
-              "texte": "Marine Le Pen (RN) revendique un « soutien sans faille à l'Ukraine » mais affirme que la France ne pourrait plus l'« aider financièrement » dans les prochains mois, vu l'état des finances publiques.",
-              "src": "LCP, 17 novembre 2026"
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant s'oppose habituellement à tout envoi de militaires français en Ukraine et à la poursuite de l'aide, et plaide pour une négociation rapide avec la Russie.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "Public Sénat – Soldats français en Ukraine : Cédric Perrin veut auditionner la ministre des Armées",
-              "u": "https://www.publicsenat.fr/actualites/parlementaire/soldats-francais-en-ukraine-je-proposerai-tres-rapidement-dauditionner-la-ministre-de-la-defense-annonce-cedric-perrin-le-president-de-la-commission-des-affaires-etrangeres"
-            },
-            {
-              "t": "LCP – Ukraine : Marine Le Pen revendique un « soutien sans faille » mais veut fermer le robinet financier",
-              "u": "https://lcp.fr/actualites/ukraine-marine-le-pen-revendique-un-soutien-sans-faille-mais-veut-fermer-le-robinet"
-            },
-            {
-              "t": "Euronews – Volodymyr Zelensky affirme que Washington évoque une cession de territoires en échange d'une adhésion à l'Otan",
-              "u": "https://fr.euronews.com/2026/11/14/volodymyr-zelensky-affirme-que-washington-evoque-une-cession-de-territoires-en-echange-dun"
-            },
-            {
-              "t": "France 24 – Les alliés de l'Ukraine en sommet à Berlin le 19 novembre",
-              "u": "https://www.france24.com/fr/europe/20261113-en-direct-ukraine-russie-europeens-presents-prochaines-negociations-zelensky-poutine"
-            }
-          ],
-          "image": {
-            "u": "https://www.publicsenat.fr/app/uploads/2026/11/SIPA_01196051_000066-scaled.jpg",
-            "credit": "Public Sénat",
-            "alt": "Illustration de l'article de Public Sénat"
-          }
-        }
-      ],
-      "breves": [
-        {
-          "titre": "Universités bloquées : le ministre redoute plus d'échecs en licence",
-          "texte": "Devant la commission de la culture du Sénat, Philippe Baptiste a indiqué mardi que le conflit touche chaque jour 20 à 30 % des établissements et dit s'attendre à « un taux d'échec encore plus important cette année ». Il exclut une hausse des frais d'inscription en licence, master et doctorat.",
-          "src": {
-            "t": "Public Sénat – Blocages d'universités : le ministre s'attend à un taux d'échec en licence encore plus important",
-            "u": "https://www.publicsenat.fr/actualites/politique/blocages-duniversites-le-ministre-de-lenseignement-superieur-sattend-a-un-taux-dechec-encore-plus-important-cette-annee"
-          }
-        },
-        {
-          "titre": "Jean-Luc Mélenchon dîne avec de grands patrons",
-          "texte": "Le candidat insoumis était invité mardi soir par le club Entreprise & Cité, avec notamment Bernard Arnault et Patrick Pouyanné. « Ce n'est pas un dîner, c'est une présentation de programme », a expliqué Manuel Bompard.",
-          "src": {
-            "t": "LCP – Présidentielle 2027 : pourquoi Jean-Luc Mélenchon va dîner ce mardi avec des grands patrons",
-            "u": "https://lcp.fr/actualites/presidentielle-2027-pourquoi-jean-luc-melenchon-va-diner-ce-mardi-avec-des-grands"
-          }
-        },
-        {
-          "titre": "Macron reconnaît « parfois des erreurs »",
-          "texte": "Dix ans jour pour jour après l'annonce de sa première candidature, Emmanuel Macron a écrit lundi sur X avoir « fait de [son] mieux pour l'intérêt supérieur du pays », en admettant des erreurs, et promis de s'engager « jusqu'au bout ».",
-          "src": {
-            "t": "LCP – « Il y a eu parfois des erreurs » : Emmanuel Macron affirme avoir « fait de son mieux »",
-            "u": "https://lcp.fr/actualites/il-y-a-eu-parfois-des-erreurs-emmanuel-macron-affirme-avoir-fait-de-son-mieux-pendant"
-          }
-        },
-        {
-          "titre": "Somme et Pas-de-Calais en vigilance orange",
-          "texte": "Météo-France a placé les deux départements en vigilance orange pluie-inondation depuis mardi 23 heures et au moins jusqu'à mercredi en fin d'après-midi. Des rafales jusqu'à 90 km/h sont attendues dans le Nord, et plus de 150 km/h sur les côtes corses.",
-          "src": {
-            "t": "L'Express via Orange – Les trois infos à retenir du mardi 17 novembre",
-            "u": "https://actu.orange.fr/france/les-trois-infos-a-retenir-du-mardi-17-novembre-l-express-via-6medias-CNT000002tLSDs.html"
-          }
-        }
-      ],
-      "agenda": [
-        {
-          "d": "Mer. 18 nov.",
-          "t": "Vote solennel du Sénat sur le budget de la Sécurité sociale, après les questions au gouvernement ; vigilance orange pluie-inondation dans la Somme et le Pas-de-Calais"
-        },
-        {
-          "d": "Jeu. 19 nov.",
-          "t": "Réunion de la coalition des volontaires pour l'Ukraine à Berlin ; examen au Sénat de la proposition de loi sur la présomption d'usage légitime de l'arme"
-        },
-        {
-          "d": "Ven. 20 nov.",
-          "t": "Début de l'examen du budget 2027 de l'État au Sénat ; clôture prévue de la COP31 à Antalya"
-        },
-        {
-          "d": "Jeu. 26 nov.",
-          "t": "Niche parlementaire LR à l'Assemblée : violences dans les manifestations, responsabilité pénale des mineurs à 16 ans"
         }
       ]
     }
