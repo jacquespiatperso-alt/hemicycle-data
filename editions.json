@@ -234,7 +234,12 @@
               "t": "NosParlementaires – Projet de loi logement : ce que les députés ont voté",
               "u": "https://nosparlementaires.fr/actualites/projet-loi-logement-seance-assemblee-avant-vote-solennel"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2026-11/52909691774_d2ffb58754_k.jpg?itok=RLPEUJjc",
+            "credit": "LCP",
+            "alt": "Illustration de l'article de LCP"
+          }
         },
         {
           "id": "2026-11-25-congres-maires-amf",
@@ -317,7 +322,12 @@
               "t": "Maire-info – Deux candidats pour la présidence de l'AMF, et une liste transpartisane pour les instances",
               "u": "https://www.maire-info.com/deux-candidats-pour-la-presidence-de-lamf-et-une-liste-transpartisane-pour-les-instances-article2-31062"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.publicsenat.fr/app/uploads/2026/11/SIPA_01313517_000057-1200x630.jpg",
+            "credit": "Public Sénat",
+            "alt": "Illustration de l'article de Public Sénat"
+          }
         },
         {
           "id": "2026-11-25-presidentielle-odoxa-tondelier",
@@ -396,7 +406,12 @@
               "t": "Public Sénat – « Nous les aurons à date » : Bally Bagayoko (LFI) se montre confiant sur les 500 parrainages",
               "u": "https://www.publicsenat.fr/actualites/politique/nous-les-aurons-a-date-bally-bagayoko-lfi-se-montre-confiant-sur-les-500-parrainages-pour-la-presidentielle"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.publicsenat.fr/app/uploads/2026/11/SIPA_01292547_000004-scaled.jpg",
+            "credit": "Public Sénat",
+            "alt": "Illustration de l'article de Public Sénat"
+          }
         },
         {
           "id": "2026-11-25-russie-arme-nucleaire-espace",
@@ -471,7 +486,12 @@
               "t": "La DH – Des projets inquiétants de la Russie dans l'espace dévoilés par des services de renseignement de l'OTAN",
               "u": "https://dhnet.be/actu/monde/2026/11/23/des-projets-inquietants-de-la-russie-dans-lespace-devoiles-par-des-services-de-renseignement-de-lotan-HR26IFWOHVEMZPXM3FQD55KOJA"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.boursorama.com/static/i/content/images/d/f/5/df5adcd4d2503c7f4159b0f3260eb24d-1200x800.jpg",
+            "credit": "Boursorama avec AFP",
+            "alt": "Mark Rutte à Berlin, en Allemagne, le 19 novembre 2026. ( AFP / KENZO TRIBOUILLARD )"
+          }
         }
       ],
       "breves": [
