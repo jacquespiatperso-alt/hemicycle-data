@@ -84,7 +84,12 @@
               "t": "Public Sénat – Budget 2027 : la gauche du Sénat échoue à supprimer la flat tax",
               "u": "https://www.publicsenat.fr/actualites/politique/budget-2027-la-gauche-du-senat-echoue-a-supprimer-la-flat-tax"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.publicsenat.fr/app/uploads/2026/07/SIPA_01249772_000079-1-scaled.jpg",
+            "credit": "Public Sénat",
+            "alt": "Illustration de l'article de Public Sénat"
+          }
         },
         {
           "id": "2026-11-26-lisnard-amf",
@@ -175,7 +180,12 @@
               "t": "LCP – Présidentielle 2027 : Edouard Philippe défie David Lisnard et lui propose un débat télévisé",
               "u": "https://lcp.fr/actualites/presidentielle-2027-edouard-philippe-defie-david-lisnard-et-lui-propose-un-debat"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.publicsenat.fr/app/uploads/2026/11/SIPA_01319103_000011-1200x630.jpg",
+            "credit": "Public Sénat",
+            "alt": "Illustration de l'article de Public Sénat"
+          }
         },
         {
           "id": "2026-11-26-niche-lr-securite",
@@ -254,7 +264,12 @@
               "t": "NosParlementaires – Niche LR du 26 novembre : le RSA limité à deux ans et la responsabilité pénale à 16 ans",
               "u": "https://nosparlementaires.fr/actualites/niche-lr-26-novembre-2026-rsa-mineurs-textes"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2026-06/Police-IMG_4105.jpg?itok=F7RQ2x1_",
+            "credit": "LCP",
+            "alt": "Illustration de l'article de LCP"
+          }
         },
         {
           "id": "2026-11-26-fuites-rn-moutouh-procureur",
@@ -329,7 +344,12 @@
               "t": "LCP – Procureur présent au siège du RN lors d'une perquisition : Gérald Darmanin saisit l'inspection générale de la justice",
               "u": "https://lcp.fr/actualites/procureur-present-au-siege-du-rn-lors-d-une-perquisition-gerald-darmanin-saisit-l"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2026-11/AFP__20261122__D8AF763__v1__HighRes__FilesFrancePolicePartiesInvestigation.jpg?itok=wLttZCPO",
+            "credit": "LCP",
+            "alt": "Illustration de l'article de LCP"
+          }
         },
         {
           "id": "2026-11-26-presidentielle-ni-ni-date",
@@ -407,7 +427,12 @@
               "t": "Public Sénat – « Nous éviterons le duel Rassemblement national/La France insoumise » au second tour, déclare Raphaël Glucksmann",
               "u": "https://www.publicsenat.fr/actualites/politique/nous-eviterons-le-duel-rassemblement-national-la-france-insoumise-au-second-tour-declare-raphael-glucksmann"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2026-09/R6JU7410.jpg?itok=H5i-8Nl-",
+            "credit": "LCP",
+            "alt": "Illustration de l'article de LCP"
+          }
         },
         {
           "id": "2026-11-26-reparations-esclavage",
@@ -477,7 +502,12 @@
               "t": "LCP – Esclavage et traite négrière : les députés font un premier pas vers des réparations financières",
               "u": "https://lcp.fr/actualites/esclavage-et-traite-negriere-les-deputes-font-un-premier-pas-vers-des-reparations"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2026-11/Steevy%20Gustave.jpg?itok=sRphzOP4",
+            "credit": "LCP",
+            "alt": "Illustration de l'article de LCP"
+          }
         },
         {
           "id": "2026-11-26-ukraine-soldats-francais",
@@ -560,7 +590,12 @@
               "t": "La Clé publique – Soldats français en Ukraine : quel contrôle du Parlement ?",
               "u": "https://laclepublique.fr/national/articles/2026/2026-11-18-mission-volia-controle-parlementaire/"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2026-11/AFP__20250605__49ED3YV__v1__HighRes__FranceBrazilPoliticsDiplomacy.jpg?itok=OY8fuR_n",
+            "credit": "LCP",
+            "alt": "Illustration de l'article de LCP"
+          }
         }
       ],
       "breves": [
