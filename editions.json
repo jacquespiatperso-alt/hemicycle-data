@@ -1,6 +1,629 @@
 {
-  "updated": "2026-11-25T06:27:00+01:00",
+  "updated": "2026-11-26T06:33:00+01:00",
   "editions": [
+    {
+      "date": "2026-11-26",
+      "label": "Jeudi 26 novembre 2026",
+      "maj": "Mise à jour à 6 h 33",
+      "intro": "Au Sénat, la surtaxe sur les grandes entreprises est reconduite et la droite revient sur l'imposition des malades de longue durée. David Lisnard est réélu à 72 % à la tête des maires de France, la droite défend ce jeudi ses textes sur la sécurité à l'Assemblée et les soupçons de fuites vers le RN coûtent son poste au préfet Moutouh. Le « ni-ni » du centre face à un duel Le Pen-Mélenchon fait débat, et un premier texte sur les réparations de l'esclavage passe en commission. À l'international, l'Ukraine attend des pourparlers élargis aux Européens, tandis que la mission de militaires français à Kiev interroge les sénateurs.",
+      "stories": [
+        {
+          "id": "2026-11-26-senat-surtaxe-ald",
+          "rubrique": "Budget",
+          "titre": "Budget 2027 : le Sénat reconduit la surtaxe sur les grandes entreprises, la droite recule sur la taxation des malades de longue durée",
+          "chapo": "Le Sénat a prolongé pour une troisième année la contribution exceptionnelle des grands groupes, allégée de 2 milliards d'euros. Dans le même temps, le groupe LR fait machine arrière sur deux mesures votées lundi, qui touchaient les malades en affection de longue durée et les parents isolés.",
+          "faits": [
+            "Dans la nuit de mercredi à jeudi, le Sénat a adopté sans la modifier la reconduction de la contribution exceptionnelle sur les entreprises réalisant plus de 1,5 milliard d'euros de chiffre d'affaires, créée en 2024 sous le gouvernement Barnier. Les amendements visant à la supprimer ou à en réduire la portée ont été rejetés.",
+            "Le gouvernement l'a allégée de 2 milliards d'euros : elle doit rapporter 5 milliards en 2027, contre 7 milliards en 2026.",
+            "Mercredi soir, le groupe LR a annoncé qu'il demanderait une seconde délibération sur deux mesures votées lundi à l'initiative de la rapporteure générale Christine Lavarde (LR) : l'imposition intégrale des indemnités versées pour une affection de longue durée (cancers, sclérose en plaques, Parkinson…), que le gouvernement voulait exonérer pour moitié, et la suppression de la demi-part fiscale des parents ayant élevé seuls leurs enfants.",
+            "Mardi soir, la majorité sénatoriale, soutenue par le gouvernement, avait rejeté les amendements communistes et écologistes visant à supprimer ou relever la flat tax, le prélèvement forfaitaire de 31,4 % sur les revenus du capital."
+          ],
+          "enjeu": "La droite sénatoriale cherche des économies et des recettes sans heurter des publics jugés fragiles, ce qui la conduit à corriger ses propres votes. Le budget de l'État doit être voté par le Sénat le 9 décembre avant une commission mixte paritaire, tandis que celle sur le budget de la Sécu se réunit ce jeudi.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant réclame habituellement une taxation pérenne et nettement plus lourde des profits des grands groupes, et rejette toute mesure fiscale qui pèse sur les malades ou les familles modestes.",
+              "src": ""
+            },
+            "gr": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement la suppression de la flat tax, une imposition accrue des dividendes et une contribution permanente des grandes entreprises, plutôt que des économies sur les dépenses sociales.",
+              "src": ""
+            },
+            "soc": {
+              "type": "declare",
+              "texte": "Simon Uzenat (PS) refuse une « reconduction au rabais » de la surtaxe et Florence Blatrix Contat (PS) regrette « deux milliards de recettes de moins ». Patrick Kanner (PS) se félicite d'avoir voté contre des mesures « iniques » sur les malades de longue durée.",
+              "src": "Public Sénat, 25 et 26 novembre 2026"
+            },
+            "eco": {
+              "type": "declare",
+              "texte": "Le groupe écologiste du Sénat salue une « victoire de la mobilisation » après le recul de LR sur les indemnités de longue durée, estimant que la droite « semble avoir pris conscience de l'ignominie de ses mesures ».",
+              "src": "Public Sénat, 25 novembre 2026"
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "Le ministre de l'Économie Roland Lescure (Renaissance) défend la reconduction : « 99 % des entreprises françaises ne paient pas cette surtaxe », justifiée selon lui par une situation d'exception. David Amiel (Renaissance) estime que la flat tax n'a « pas coûté des milliards ».",
+              "src": "Public Sénat, 24 et 26 novembre 2026"
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement le redressement des comptes publics en insistant sur la justice fiscale et sur une contribution plus forte des plus hauts revenus et des grands groupes.",
+              "src": ""
+            },
+            "hor": {
+              "type": "declare",
+              "texte": "Emmanuel Capus (Horizons) rappelle que le ministre avait promis une taxe « ciblée, et surtout temporaire » et estime que le taux d'imposition des grandes entreprises atteint désormais un niveau record.",
+              "src": "Public Sénat, 26 novembre 2026"
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Christine Lavarde (LR) juge prématuré de supprimer la surtaxe : « Il faut que tout le monde fasse un effort ». Le groupe LR revient sur deux mesures qui, selon lui, « impacteraient injustement » des personnes en situation de fragilité.",
+              "src": "Public Sénat, 25 et 26 novembre 2026"
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Gaëlle Frontoni (UDR) conteste la reconduction d'une taxe présentée comme temporaire : « Une contribution exceptionnelle, ça s'arrête quand ? », avant de conclure que « l'exception devient donc une règle ».",
+              "src": "Public Sénat, 26 novembre 2026"
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant plaide habituellement pour une baisse générale des impôts sur les entreprises et pour des économies sur les dépenses publiques plutôt que pour de nouvelles taxes.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Public Sénat – Budget : le Sénat reconduit la surtaxe sur les grandes entreprises, allégée de 2 milliards d'euros",
+              "u": "https://www.publicsenat.fr/actualites/politique/budget-le-senat-reconduit-la-surtaxe-sur-les-grandes-entreprises-allegee-de-2-milliards-deuros"
+            },
+            {
+              "t": "Public Sénat – Taxation totale des indemnités pour affections de longue durée : les sénateurs LR font machine arrière",
+              "u": "https://www.publicsenat.fr/actualites/politique/taxation-totale-des-indemnites-pour-affections-de-longue-duree-les-senateurs-lr-font-machine-arriere-et-vont-demander-un-nouveau-vote"
+            },
+            {
+              "t": "Public Sénat – Budget 2027 : la gauche du Sénat échoue à supprimer la flat tax",
+              "u": "https://www.publicsenat.fr/actualites/politique/budget-2027-la-gauche-du-senat-echoue-a-supprimer-la-flat-tax"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-26-lisnard-amf",
+          "rubrique": "Territoires",
+          "titre": "Congrès des maires : David Lisnard réélu avec 72 % à la tête de l'AMF, Sébastien Lecornu attendu ce jeudi",
+          "chapo": "Le maire de Cannes, candidat à la présidentielle, a été très largement reconduit pour un troisième mandat. Sa réélection relance la bataille à droite, alors que le gouvernement demande 5,5 milliards d'euros d'effort aux collectivités.",
+          "faits": [
+            "David Lisnard a été réélu mercredi président de l'Association des maires de France avec 9 505 voix (72,06 %), contre 3 686 (27,94 %) pour Philippe Laurent, maire UDI de Sceaux. Il avait obtenu environ 62 % en 2021.",
+            "Selon Maires de France, 13 826 élus ont voté, soit 40,43 % des inscrits, la plus forte participation depuis 1989. Jean-François Debat, maire PS de Bourg-en-Bresse, succède à André Laignel comme premier vice-président délégué.",
+            "Candidat à la présidentielle sous l'étiquette Nouvelle Énergie, David Lisnard a annoncé « une forme de déport » et une direction collégiale de l'association pendant sa campagne, à partir de février.",
+            "Le projet de budget 2027 demande 5,5 milliards d'euros d'effort aux collectivités. Le Premier ministre est attendu ce jeudi à la clôture du Congrès, où Jean-François Debat lira la résolution finale."
+          ],
+          "enjeu": "Ce score conforte David Lisnard dans la compétition du centre et de la droite, où Édouard Philippe le défie en débat. Selon Hervé Marseille (UDI), Gérard Larcher doit réunir Lisnard, Retailleau, Attal et Philippe en début de semaine prochaine pour tenter de dégager une candidature unique.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant voit habituellement dans les associations d'élus des relais institutionnels et dénonce les baisses de dotations qui fragilisent les services publics locaux et leurs agents.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Fabien Roussel (PCF), maire de Saint-Amand-les-Eaux, affirme que les communes ont perdu « 80 milliards de dotation » et appelle à « un choc d'investissement et de soutien auprès des communes ».",
+              "src": "Public Sénat, 25 novembre 2026"
+            },
+            "soc": {
+              "type": "declare",
+              "texte": "Michaël Delafosse (PS), maire de Montpellier, prête à David Lisnard « une vision ultralibérale » et juge que supprimer 700 000 postes de fonctionnaires serait un « massacre à la tronçonneuse dans les services publics ».",
+              "src": "Public Sénat, 25 novembre 2026"
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement des collectivités dotées de moyens pour la transition écologique et s'oppose aux programmes de forte réduction de l'emploi public.",
+              "src": ""
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "Gabriel Attal (Renaissance) défend une primaire entre « le 15 janvier et le 15 février » et reproche à Édouard Philippe de refuser « toutes les modalités possibles sans proposer des alternatives ».",
+              "src": "LCP, 25 novembre 2026"
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement la décentralisation et le dialogue avec les maires, et plaide pour le rassemblement du centre et de la droite autour d'une candidature crédible.",
+              "src": ""
+            },
+            "hor": {
+              "type": "declare",
+              "texte": "Édouard Philippe (Horizons) propose un débat télévisé à David Lisnard, qu'il juge pas assez étanche vis-à-vis de l'extrême droite : « On peut aimer les tronçonneuses et ne pas savoir trancher ! »",
+              "src": "LCP et Public Sénat, 24 et 25 novembre 2026"
+            },
+            "d": {
+              "type": "lecture",
+              "texte": "Le courant, dont David Lisnard s'est éloigné, défend habituellement les libertés locales et l'allègement des normes, et cherche à éviter la dispersion des candidatures à droite.",
+              "src": ""
+            },
+            "dn": {
+              "type": "lecture",
+              "texte": "Le courant critique habituellement l'effort financier demandé aux communes et l'empilement des normes, et se pose en défenseur des maires ruraux face à l'État.",
+              "src": ""
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement les communes face aux intercommunalités et prône une union des droites face au bloc central.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Public Sénat – David Lisnard largement réélu à la tête de l'Association des maires de France",
+              "u": "https://www.publicsenat.fr/actualites/politique/david-lisnard-largement-reelu-a-la-tete-de-lassociation-des-maires-de-france"
+            },
+            {
+              "t": "LCP – Présidentielle 2027 : David Lisnard très largement réélu à la tête de l'Association des maires de France",
+              "u": "https://lcp.fr/actualites/presidentielle-2027-david-lisnard-tres-largement-reelu-a-la-tete-de-l-association-des"
+            },
+            {
+              "t": "Maires de France – David Lisnard réélu à la tête de l'Association des maires de France",
+              "u": "https://www.mairesdefrance.com/congres-maires-2026-david-lisnard-reelu-a-la-tete-de-lassociation-des-maires-de-france-article-29181-0"
+            },
+            {
+              "t": "Public Sénat – « David Lisnard, c'est massacre à la tronçonneuse dans les services publics », tacle Michaël Delafosse (PS)",
+              "u": "https://www.publicsenat.fr/actualites/politique/david-lisnard-cest-massacre-a-la-tronconneuse-dans-les-services-publics-tacle-michael-delafosse-ps"
+            },
+            {
+              "t": "Public Sénat – Congrès des maires : « J'appelle à un choc d'investissement et de soutien auprès des communes », déclare Fabien Roussel",
+              "u": "https://www.publicsenat.fr/actualites/politique/congres-des-maires-jappelle-a-un-choc-dinvestissement-et-de-soutien-aupres-des-communes-declare-fabien-roussel"
+            },
+            {
+              "t": "LCP – Présidentielle 2027 : Edouard Philippe défie David Lisnard et lui propose un débat télévisé",
+              "u": "https://lcp.fr/actualites/presidentielle-2027-edouard-philippe-defie-david-lisnard-et-lui-propose-un-debat"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-26-niche-lr-securite",
+          "rubrique": "Justice",
+          "titre": "Peines planchers, responsabilité pénale à 16 ans, RSA limité à deux ans : la droite à l'offensive dans sa niche ce jeudi",
+          "chapo": "Le groupe Droite républicaine dispose ce jeudi de sa journée réservée à l'Assemblée. Neuf textes sont inscrits, dominés par la sécurité et la justice des mineurs, avec en dernière position la limitation du RSA voulue par Laurent Wauquiez.",
+          "faits": [
+            "La séance court de 9 h à minuit ; tout texte qui n'a pas été mis aux voix à minuit tombe.",
+            "La proposition de Patrick Hetzel rétablit des peines minimales dès la première condamnation pour violences volontaires, avec dérogation possible du juge par décision motivée ; elle a été adoptée en commission le 18 novembre. Celle d'Éric Pauget, qui rend la responsabilité pénale systématique dès 16 ans, a aussi été adoptée, mais amputée d'un de ses principaux articles.",
+            "Le texte de Nicolas Ray, qui suspend jusqu'à trois ans les prestations sociales des fraudeurs récidivistes, a été rejeté en commission. Celui de Corentin Le Fur prive d'aides publiques, jusqu'à un an, les auteurs d'exactions lors de manifestations.",
+            "La proposition de Laurent Wauquiez limitant à deux ans le RSA des personnes aptes au travail ne sera débattue que si les huit textes précédents sont votés à temps. La journée comprend aussi la suppression du « zéro artificialisation nette » et le maintien des pharmacies dans les communes rurales."
+          ],
+          "enjeu": "À cinq mois de la présidentielle, LR veut imposer ses thèmes régaliens et obliger le bloc central comme le RN à se positionner. La gauche doute de la constitutionnalité de plusieurs mesures et dénonce une surenchère.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant rejette habituellement l'alourdissement des peines et la répression des mouvements sociaux, et dénonce la stigmatisation des allocataires du RSA.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "François Piquemal (LFI) a lancé aux députés LR en commission : « Vous êtes en train de courir après le Rassemblement national ».",
+              "src": "LCP, 23 novembre 2026"
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant s'oppose habituellement aux peines planchers, abrogées en 2014 sous une majorité socialiste, et défend la spécificité de la justice des mineurs ainsi qu'un RSA sans limite de durée.",
+              "src": ""
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant conteste habituellement l'efficacité des peines automatiques et défend le zéro artificialisation nette, que l'un des textes veut supprimer.",
+              "src": ""
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "Gabriel Attal (Renaissance), auteur de la loi de juin 2025 sur la justice des mineurs, assumait de « mettre fin à l'excuse de minorité automatique et systématique ».",
+              "src": "Assemblée nationale, 13 février 2025"
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement l'individualisation des peines par le juge et se montre réservé sur les automatismes, tout en soutenant la lutte contre la fraude sociale.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement le durcissement de la réponse pénale et l'exécution rapide des peines, notamment pour les mineurs récidivistes.",
+              "src": ""
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Éric Pauget (LR) plaide pour « la suppression de l'excuse de minorité et l'abaissement de l'âge de la responsabilité pénale ». Patrick Hetzel (LR) défend une peine minimale effective dès la première condamnation pour violences.",
+              "src": "Assemblée nationale, 17 décembre 2025 ; LCP, 23 novembre 2026"
+            },
+            "dn": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement les peines planchers, l'abaissement de la majorité pénale et la suppression des aides sociales pour les fraudeurs.",
+              "src": ""
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant réclame habituellement des peines plus lourdes, la fin de l'excuse de minorité et une conditionnalité stricte des prestations sociales.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "LCP – Suspension des prestations sociales, peines planchers, responsabilité pénale à 16 ans... Les députés LR à l'offensive sur la sécurité",
+              "u": "https://lcp.fr/actualites/suspension-des-prestations-sociales-peines-planchers-responsabilite-penale-a-16-ans-les"
+            },
+            {
+              "t": "LCP – Violences dans les manifestations, responsabilité pénale des mineurs à 16 ans… Les textes de la niche parlementaire LR du 26 novembre",
+              "u": "https://lcp.fr/actualites/violences-dans-les-manifestations-responsabilite-penale-des-mineurs-a-16-ans-les-textes"
+            },
+            {
+              "t": "NosParlementaires – Niche LR du 26 novembre : le RSA limité à deux ans et la responsabilité pénale à 16 ans",
+              "u": "https://nosparlementaires.fr/actualites/niche-lr-26-novembre-2026-rsa-mineurs-textes"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-26-fuites-rn-moutouh-procureur",
+          "rubrique": "Justice",
+          "titre": "Soupçons de fuites vers le RN : Hugues Moutouh démis de son poste de préfet, Darmanin saisit l'inspection sur un procureur présent au siège du parti",
+          "chapo": "L'ancien secrétaire général de Beauvau a été officiellement relevé de ses fonctions mercredi. Le garde des Sceaux a, lui, ordonné une enquête administrative sur un procureur adjoint de Paris trouvé au siège du RN lors d'une perquisition.",
+          "faits": [
+            "Hugues Moutouh, ancien secrétaire général du ministère de l'Intérieur, a été démis mercredi en Conseil des ministres de ses fonctions de préfet du Loiret ; il est remplacé par Pierre Ory, préfet de Seine-et-Marne. Il avait présenté sa démission après avoir été convoqué par Laurent Nuñez.",
+            "Le parquet de Paris a ouvert en juillet une information judiciaire pour violation du secret professionnel et du secret de l'enquête. Selon Le Monde, la copie d'un courriel confidentiel de Beauvau transmis à M. Moutouh a été retrouvée chez Frédéric Chatillon, proche de Marine Le Pen. Aucune mise en examen n'a été prononcée.",
+            "Gérald Darmanin a saisi l'Inspection générale de la justice après la présence, lors de la perquisition du siège du RN le 9 novembre, du procureur adjoint de Paris Christian de Rocquigny, qui dit y avoir pris un café avec le député européen RN Jean-Paul Garraud.",
+            "Dans Le Figaro, Hugues Moutouh dénonce une « opération de nature politique » et assure n'avoir « jamais été militant ni partisan »."
+          ],
+          "enjeu": "L'affaire pose la question de la loyauté de hauts fonctionnaires envers l'État, à cinq mois d'une présidentielle où le RN est en tête des sondages. Le Conseil supérieur de la magistrature pourrait avoir à se prononcer sur d'éventuelles sanctions contre le magistrat.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant dénonce habituellement la proximité entre une partie de l'appareil d'État et l'extrême droite, et réclame une transparence complète sur ces liens.",
+              "src": ""
+            },
+            "gr": {
+              "type": "lecture",
+              "texte": "Le courant réclame habituellement des sanctions fermes contre les fonctionnaires soupçonnés de servir un parti et y voit le signe d'une porosité entre une partie de l'État et le RN.",
+              "src": ""
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant insiste habituellement sur la neutralité de la haute fonction publique et demande que la justice aille au bout de ses investigations.",
+              "src": ""
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant réclame habituellement une enquête approfondie et des garanties renforcées sur l'indépendance des administrations à l'égard des partis.",
+              "src": ""
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "Gérald Darmanin (Renaissance), garde des Sceaux, veut « lever une ambiguïté » et évoque un possible « défaut de loyauté », tout en disant n'avoir « aucun élément » montrant que le magistrat a transmis des informations.",
+              "src": "LCP, 25 novembre 2026"
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement la neutralité de l'administration et la présomption d'innocence, en demandant que les procédures internes et judiciaires suivent leur cours.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant insiste habituellement sur le devoir de réserve des hauts fonctionnaires et sur le respect des procédures, sans préjuger de l'issue de l'enquête.",
+              "src": ""
+            },
+            "d": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement l'autorité de l'État et la loyauté de ses serviteurs, tout en mettant en garde contre l'usage politique des enquêtes.",
+              "src": ""
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Jordan Bardella et Marine Le Pen (RN) démentent que leur parti ait reçu des informations confidentielles du ministère de l'Intérieur.",
+              "src": "LCP, 25 novembre 2026"
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant dénonce habituellement ce qu'il présente comme un acharnement politique et judiciaire contre la droite nationale.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "LCP – Soupçons de fuites vers le RN : Hugues Moutouh officiellement débarqué de son poste de préfet du Loiret",
+              "u": "https://lcp.fr/actualites/soupcons-de-fuites-vers-le-rn-hugues-moutouh-officiellement-debarque-de-son-poste-de"
+            },
+            {
+              "t": "LCP – Procureur présent au siège du RN lors d'une perquisition : Gérald Darmanin saisit l'inspection générale de la justice",
+              "u": "https://lcp.fr/actualites/procureur-present-au-siege-du-rn-lors-d-une-perquisition-gerald-darmanin-saisit-l"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-26-presidentielle-ni-ni-date",
+          "rubrique": "Présidentielle 2027",
+          "titre": "Présidentielle : Bayrou, Barrot et Philippe refusent de choisir entre Le Pen et Mélenchon, le second tour maintenu au 2 mai",
+          "chapo": "Face à l'hypothèse d'un duel RN-LFI, plusieurs figures du bloc central assument le « ni-ni ». Le gouvernement, lui, ne change pas à ce stade le calendrier, malgré les critiques sur un second tour au lendemain du 1er-Mai.",
+          "faits": [
+            "François Bayrou (MoDem) a déclaré mardi qu'il ne voterait « ni pour l'un ni pour l'autre » en cas de second tour entre Marine Le Pen et Jean-Luc Mélenchon. Édouard Philippe mardi soir, puis Jean-Noël Barrot mercredi matin, ont adopté la même position.",
+            "David Lisnard a indiqué dimanche qu'il voterait contre Jean-Luc Mélenchon dans ce cas de figure, tandis que Boris Vallaud (PS) dit qu'il votera toujours contre Marine Le Pen.",
+            "Le scrutin reste fixé aux 18 avril et 2 mai 2027, au lendemain du 1er-Mai, avec une fin de campagne le 30 avril à minuit. La CFDT et Gérard Larcher demandent un changement de date ; une alternative évoquée serait les 11 et 25 avril."
+          ],
+          "enjeu": "Le refus de choisir rompt avec la tradition du front républicain et pourrait peser sur les reports de voix si les sondages se confirment. Le débat sur la date touche à la place des syndicats et des défilés du 1er-Mai dans une fin de campagne.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant renvoie habituellement dos à dos le bloc central et l'extrême droite, et tient à préserver le 1er-Mai comme journée de mobilisation syndicale, à l'écart de la campagne.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Jean-Luc Mélenchon (LFI) a répondu au refus de choisir de François Bayrou : « Voilà le pire de l'esprit de défaite typiquement vichiste. »",
+              "src": "LCP, 25 novembre 2026"
+            },
+            "soc": {
+              "type": "declare",
+              "texte": "Boris Vallaud (PS) : « Je voterai toujours contre Marine Le Pen et pour le candidat d'en face ». Raphaël Glucksmann (Place publique) assure : « Nous éviterons le duel Rassemblement national/La France insoumise ».",
+              "src": "LCP et Public Sénat, 25 novembre 2026"
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant appelle habituellement à faire barrage à l'extrême droite au second tour et défend l'union de la gauche, dans une discussion en cours avec LFI pour la présidentielle.",
+              "src": ""
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "Matthieu Lefèvre (Renaissance), porte-parole du gouvernement, justifie le 2 mai par « la maximisation de la participation des Français », en tenant compte des vacances scolaires.",
+              "src": "LCP, 25 novembre 2026"
+            },
+            "modem": {
+              "type": "declare",
+              "texte": "François Bayrou (MoDem) refuse de choisir : « Je ne dis pas qu'ils sont égaux, je dis qu'ils sont également mortels. » Jean-Noël Barrot (MoDem) parle de « deux poisons mortels pour la France et pour la démocratie ».",
+              "src": "LCP, 25 novembre 2026"
+            },
+            "hor": {
+              "type": "declare",
+              "texte": "Édouard Philippe (Horizons) : « Entre LFI et le Rassemblement national, je ne choisis pas. » Il ne donnerait aucune consigne de vote et veut « créer une alternative ».",
+              "src": "LCP, 25 novembre 2026"
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Gérard Larcher (LR), président du Sénat, demande un changement de date, jugeant un second tour au lendemain du 1er-Mai difficilement compatible avec les défilés où s'expriment syndicalistes et responsables politiques.",
+              "src": "LCP, 25 novembre 2026"
+            },
+            "dn": {
+              "type": "lecture",
+              "texte": "Le courant récuse habituellement la logique du front républicain et estime qu'une partie de la droite et du centre se ralliera à lui face à LFI.",
+              "src": ""
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant appelle habituellement à l'union des droites et à faire barrage à la gauche radicale au second tour.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "LCP – Présidentielle 2027 : Bayrou, Philippe, Barrot... Ils choisiraient le « ni-ni » en cas de second tour Le Pen-Mélenchon",
+              "u": "https://lcp.fr/actualites/presidentielle-2027-bayrou-philippe-barrot-ils-choisiraient-le-ni-ni-en-cas-de-second"
+            },
+            {
+              "t": "LCP – Présidentielle 2027 : malgré les critiques, le gouvernement maintient, à ce stade, le second tour au lendemain du 1er-Mai",
+              "u": "https://lcp.fr/actualites/presidentielle-2027-malgre-les-critiques-le-gouvernement-maintient-a-ce-stade-le-second"
+            },
+            {
+              "t": "Public Sénat – « Nous éviterons le duel Rassemblement national/La France insoumise » au second tour, déclare Raphaël Glucksmann",
+              "u": "https://www.publicsenat.fr/actualites/politique/nous-eviterons-le-duel-rassemblement-national-la-france-insoumise-au-second-tour-declare-raphael-glucksmann"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-26-reparations-esclavage",
+          "rubrique": "Société",
+          "titre": "Esclavage et traite négrière : les députés adoptent en commission un premier texte sur des réparations",
+          "chapo": "La commission des lois de l'Assemblée a adopté mercredi une proposition de loi écologiste qui ouvre la voie à des réparations financières, vingt-cinq ans après la loi Taubira. Le RN et la Droite républicaine se sont abstenus.",
+          "faits": [
+            "La proposition de loi de Steevy Gustave (Écologiste et social) « visant à la réparation des préjudices résultant de la traite et de l'esclavage » a été adoptée mercredi en commission des lois.",
+            "Elle crée un comité chargé d'examiner les archives, de déterminer le préjudice et les conditions de sa réparation, ainsi qu'un second organe sur les sommes dues à Haïti au titre de l'indemnité de 150 millions de francs-or imposée en 1825.",
+            "Le texte sera débattu en séance le 3 décembre, lors de la journée réservée au groupe écologiste. La loi Taubira de 2001 a reconnu la traite et l'esclavage comme crimes contre l'humanité."
+          ],
+          "enjeu": "Le débat porte sur le passage de la reconnaissance mémorielle à une réparation matérielle, et sur son fondement juridique. Le vote en séance dira si une majorité existe pour aller au-delà du symbole.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant lie habituellement l'esclavage à l'histoire coloniale et soutient les revendications de réparation des peuples concernés, dont Haïti.",
+              "src": ""
+            },
+            "gr": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement les démarches de reconnaissance et de réparation de l'esclavage, y compris financières, en lien avec les élus ultramarins.",
+              "src": ""
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant revendique habituellement l'héritage de la loi Taubira et soutient les politiques de mémoire et de reconnaissance de la traite.",
+              "src": ""
+            },
+            "eco": {
+              "type": "declare",
+              "texte": "Steevy Gustave (Les Écologistes), rapporteur, défend son texte : « Je ne demande à personne de porter la culpabilité de ses ancêtres, elle ne se transmet pas par le sang. »",
+              "src": "LCP, 25 novembre 2026"
+            },
+            "ren": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement le travail de mémoire sur la traite et l'esclavage, tout en restant prudent sur l'idée de réparations financières.",
+              "src": ""
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement la reconnaissance historique et le travail des historiens, en privilégiant le dialogue avec les territoires ultramarins et Haïti.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement les politiques de mémoire mais se montre réservé sur la création de nouvelles obligations financières pour l'État.",
+              "src": ""
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Patrick Hetzel (LR) refuse de soutenir « un dispositif qui présuppose une dette de l'État sans définition du fondement juridique » ; son groupe s'est abstenu.",
+              "src": "LCP, 25 novembre 2026"
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Cyril Tribuiani (RN) estime que si la France doit « regarder son histoire en face », il n'appartient pas aux générations présentes de payer pour ce passé ; son groupe s'est abstenu.",
+              "src": "LCP, 25 novembre 2026"
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant rejette habituellement toute idée de repentance ou de réparation au titre de l'histoire coloniale et de l'esclavage.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "LCP – Esclavage et traite négrière : les députés font un premier pas vers des réparations financières",
+              "u": "https://lcp.fr/actualites/esclavage-et-traite-negriere-les-deputes-font-un-premier-pas-vers-des-reparations"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-26-ukraine-soldats-francais",
+          "rubrique": "International",
+          "titre": "Ukraine : Zelensky attend une date pour des pourparlers avec les Européens, la présence de militaires français fait débat à Paris",
+          "chapo": "Kiev attend que Washington fixe un nouveau cycle de négociations élargi aux Européens. À Paris, la ministre déléguée aux Armées a été entendue à huis clos par les sénateurs sur la mission discrète de militaires français en Ukraine.",
+          "faits": [
+            "Volodymyr Zelensky a indiqué mercredi attendre que les États-Unis fixent la date d'un nouveau cycle de pourparlers avec la Russie, cette fois avec les Européens. Le précédent s'était tenu à Abou Dhabi les 10 et 11 novembre.",
+            "Selon le conseiller du Kremlin Iouri Ouchakov, aucun accord n'existe encore sur une rencontre avec les Européens, que Vladimir Poutine invite à venir à Moscou. La veille, Zelensky avait accusé Washington de retarder les livraisons de missiles Patriot.",
+            "La ministre déléguée aux Armées Alice Rufo a été entendue mercredi à huis clos par la commission des affaires étrangères et de la défense du Sénat sur la mission « Volia », révélée par RFI le 16 novembre : de petits détachements français y forment des militaires ukrainiens et entretiennent du matériel, sans mission de combat selon le gouvernement.",
+            "En vertu de l'article 35 de la Constitution, le Parlement doit être informé de toute intervention des forces armées à l'étranger dans les trois jours, et l'autoriser au-delà de quatre mois."
+          ],
+          "enjeu": "Les Européens cherchent à peser dans des négociations largement pilotées par Washington et Moscou. En France, la mission relance le débat sur le contrôle parlementaire des engagements militaires et s'invite dans la campagne présidentielle.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant s'oppose habituellement à toute implication militaire française et à l'OTAN, et dénonce une guerre dont les peuples paient le prix.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Jean-Luc Mélenchon (LFI) estime que la France ne peut « en aucun cas devenir cobelligérant en Ukraine ».",
+              "src": "LCP, 25 novembre 2026"
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement l'aide militaire à l'Ukraine et une défense européenne renforcée, tout en demandant une information régulière du Parlement.",
+              "src": ""
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement fermement l'Ukraine et des sanctions accrues contre la Russie, et réclame un contrôle parlementaire des engagements militaires.",
+              "src": ""
+            },
+            "ren": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement le soutien militaire à Kiev et la présence des Européens à la table des négociations, au nom de la sécurité du continent.",
+              "src": ""
+            },
+            "modem": {
+              "type": "declare",
+              "texte": "Jean-Noël Barrot (MoDem), ministre des Affaires étrangères, a répondu aux députés : « aider un pays agressé à se défendre, ce n'est pas devenir une partie au conflit ».",
+              "src": "LCP, 25 novembre 2026"
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement l'aide à l'Ukraine et l'effort de défense, en insistant sur la crédibilité de la France face à la Russie.",
+              "src": ""
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Cédric Perrin (LR), président de la commission sénatoriale, dit n'avoir pas été informé et dénonce « beaucoup d'amateurisme » ainsi qu'« une certaine forme de mépris du Parlement ».",
+              "src": "Public Sénat, 18 novembre 2026"
+            },
+            "dn": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement l'Ukraine sur le plan défensif mais s'oppose à tout envoi de troupes françaises et réclame un vote du Parlement sur tout engagement.",
+              "src": ""
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant s'oppose habituellement à l'engagement militaire de la France en Ukraine et plaide pour une négociation rapide avec la Russie.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Public Sénat – Soldats français en Ukraine : la ministre déléguée auprès de la ministre des Armées auditionnée au Sénat",
+              "u": "https://www.publicsenat.fr/actualites/politique/soldats-francais-en-ukraine-la-ministre-deleguee-aupres-de-la-ministre-des-armees-auditionnee-au-senat-le-25-novembre-prochain"
+            },
+            {
+              "t": "LCP – Présidentielle 2027 : l'Ukraine « ce n'est pas notre guerre », déclare Teddy Riner",
+              "u": "https://lcp.fr/actualites/presidentielle-2027-l-ukraine-ce-n-est-pas-notre-guerre-declare-teddy-riner-445612"
+            },
+            {
+              "t": "Anadolu (A News) – Zelenskyy says Ukraine waiting for US to set date for new round of peace talks with Russia",
+              "u": "https://www.anews.com.tr/world/2026/11/25/zelenskyy-says-ukraine-waiting-for-us-to-set-date-for-new-round-of-peace-talks-with-russia"
+            },
+            {
+              "t": "La Clé publique – Soldats français en Ukraine : quel contrôle du Parlement ?",
+              "u": "https://laclepublique.fr/national/articles/2026/2026-11-18-mission-volia-controle-parlementaire/"
+            }
+          ]
+        }
+      ],
+      "breves": [
+        {
+          "titre": "Budget de la Sécu : la CMP se réunit ce jeudi",
+          "texte": "Sept députés et sept sénateurs tentent ce jeudi d'accorder leurs versions du budget de la Sécurité sociale 2027, rejeté par l'Assemblée le 23 octobre puis adopté par le Sénat le 18 novembre avec l'indexation de toutes les pensions et le retour symbolique de la retraite à 64 ans. Un compromis paraît peu probable ; en cas d'échec, le texte repart en nouvelle lecture.",
+          "src": {
+            "t": "L'Échiquier social – Budget de la Sécurité sociale 2027 : un improbable compromis ce jeudi en commission mixte paritaire",
+            "u": "https://www.lechiquiersocial.com/budget-de-la-securite-sociale-2027-un-improbable-compromis-ce-jeudi-en-commission-mixte-paritaire/"
+          }
+        },
+        {
+          "titre": "Chasse à courre : une pétition dépasse les 100 000 signatures",
+          "texte": "Déposée le 3 novembre par le militant Pierre Rigaux sur la plateforme de l'Assemblée nationale, la pétition pour l'interdiction de la chasse à courre a franchi mercredi le seuil des 100 000 signatures vérifiées. Elle sera mise en avant sur le site de l'Assemblée et pourra être débattue en commission du développement durable.",
+          "src": {
+            "t": "LCP – Interdiction de la chasse à courre : une pétition dépasse les 100.000 signatures vérifiées",
+            "u": "https://lcp.fr/actualites/interdiction-de-la-chasse-a-courre-une-petition-depasse-les-100000-signatures-verifiees"
+          }
+        },
+        {
+          "titre": "Plus-values immobilières : le Sénat vote un taux de 20 %",
+          "texte": "Contre l'avis du gouvernement, le Sénat a adopté un amendement centriste qui ramènerait l'imposition des plus-values immobilières à 20 % au-delà de deux ans de détention, contre 36,2 % aujourd'hui avant abattements, à partir des cessions de 2028. La mesure devra survivre à la suite de la navette.",
+          "src": {
+            "t": "MoneyVox – Budget 2027 : un amendement du Sénat fait évoluer l'imposition des plus-values immobilières",
+            "u": "https://www.moneyvox.fr/impot/actualites/111405/budget-2027-un-amendement-du-senat-fait-evoluer-imposition-des-plus-values-immobilieres"
+          }
+        }
+      ],
+      "agenda": [
+        {
+          "d": "Jeu. 26 nov.",
+          "t": "Niche parlementaire LR à l'Assemblée ; commission mixte paritaire sur le budget de la Sécu ; clôture du Congrès des maires avec Sébastien Lecornu"
+        },
+        {
+          "d": "Sam. 28 nov.",
+          "t": "Marches féministes de Nous Toutes"
+        },
+        {
+          "d": "Dim. 29 nov.",
+          "t": "Au plus tard : seconde délibération au Sénat sur les heures supplémentaires défiscalisées"
+        },
+        {
+          "d": "Sem. du 30 nov.",
+          "t": "Gérard Larcher doit réunir David Lisnard, Bruno Retailleau, Gabriel Attal et Édouard Philippe sur la candidature de la droite et du centre"
+        },
+        {
+          "d": "Mar. 1er déc.",
+          "t": "Journée de grève et de mobilisation dans la fonction publique"
+        },
+        {
+          "d": "Jeu. 3 déc.",
+          "t": "Niche écologiste à l'Assemblée, avec la proposition de loi sur les réparations de l'esclavage"
+        },
+        {
+          "d": "Mer. 9 déc.",
+          "t": "Vote solennel du Sénat sur le budget de l'État"
+        },
+        {
+          "d": "Dim. 13 déc.",
+          "t": "Vote des adhérents écologistes sur une alliance avec LFI pour la présidentielle"
+        }
+      ]
+    },
     {
       "date": "2026-11-25",
       "label": "Mercredi 25 novembre 2026",
@@ -3270,486 +3893,6 @@
         {
           "d": "Mer. 9 déc.",
           "t": "Vote solennel du Sénat sur le budget de l'État"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-19",
-      "label": "Jeudi 19 novembre 2026",
-      "maj": "Mise à jour à 6 h 27",
-      "intro": "Contre l'avis du gouvernement, les députés ont supprimé l'interdiction de louer les passoires thermiques, et le Sénat a adopté un budget de la Sécu qui rétablit la réforme des retraites de 2023. Ce jeudi, les sénateurs examinent la présomption de légitime défense pour les policiers et gendarmes, tandis qu'un sondage Ifop place Jean-Luc Mélenchon nettement devant Édouard Philippe. À l'international, Trump, Poutine et Xi se réunissent à Shenzhen pendant que les alliés de l'Ukraine se retrouvent à Berlin.",
-      "stories": [
-        {
-          "id": "2026-11-19-loi-logement-passoires-thermiques",
-          "rubrique": "Logement",
-          "titre": "Loi logement : contre l'avis du gouvernement, les députés suppriment l'interdiction de louer les passoires thermiques",
-          "chapo": "Un amendement du RN, adopté à six voix d'écart avec l'appui de LR et d'une partie d'Horizons, efface le calendrier de la loi Climat qui sortait du marché locatif les logements classés G, F puis E. Le vote solennel sur l'ensemble du texte est prévu mardi.",
-          "faits": [
-            "Mardi 17 novembre, l'Assemblée a adopté par 108 voix contre 102 (7 abstentions) l'amendement n° 85 de Frédéric Falcon (RN), à l'article 6 du projet de loi de relance et de décentralisation du logement porté par Vincent Jeanbrun.",
-            "Le RN, l'UDR, Les Républicains et une partie du groupe Horizons ont voté pour, la gauche contre. Le ministre avait donné un avis défavorable.",
-            "La loi Climat et résilience de 2021 interdit de louer les logements classés G depuis le 1er janvier 2025, puis les F au 1er janvier 2028 et les E en 2034. Le gouvernement proposait seulement d'autoriser la remise en location des F et G sous condition de travaux, avec un délai de trois ans pour les maisons et cinq ans pour les copropriétés.",
-            "Le texte, déjà adopté par le Sénat le 8 juillet en procédure accélérée, doit être voté solennellement par les députés le mardi 24 novembre avant une commission mixte paritaire. Une seconde délibération reste possible."
-          ],
-          "enjeu": "Le vote rouvre l'arbitrage entre l'offre de logements à louer et la rénovation énergétique, que le gouvernement voulait concilier par des délais. La version finale se jouera en commission mixte paritaire, où associations et gauche demandent déjà le rétablissement des interdictions.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement les droits des locataires face aux bailleurs, réclame l'encadrement des loyers et une rénovation massive financée par l'État plutôt que par les ménages modestes.",
-              "src": ""
-            },
-            "gr": {
-              "type": "declare",
-              "texte": "Anaïs Belouassa-Cherifi (LFI) dénonce « un recul considérable pour tous les locataires » et accuse la majorité de l'hémicycle d'exonérer les bailleurs ; pour elle, « le logement est une question de santé publique ».",
-              "src": "LCP, 17 novembre 2026"
-            },
-            "soc": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement le calendrier de la loi Climat, assorti d'aides renforcées à la rénovation, et juge que les locataires modestes ne doivent pas supporter le coût des passoires thermiques.",
-              "src": ""
-            },
-            "eco": {
-              "type": "declare",
-              "texte": "Julie Laernoes (Les Écologistes) attribue au gouvernement « une lourde responsabilité » pour avoir ouvert une brèche, et promet de se battre pour empêcher ce qu'elle appelle un « recul social et climatique historique ».",
-              "src": "Actu-Environnement, 18 novembre 2026"
-            },
-            "ren": {
-              "type": "declare",
-              "texte": "Vincent Jeanbrun, ministre de la Ville et du Logement, s'est opposé à l'amendement : il veut « redonner de la souplesse, redonner du temps » aux propriétaires tout en gardant le cap de la rénovation ; son entourage rappelle que « le Gouvernement propose, le Parlement dispose ».",
-              "src": "LCP et Actu-Environnement, 17-18 novembre 2026"
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement un assouplissement du calendrier de rénovation, avec des aides et des délais, sans renoncer à l'objectif d'un parc locatif décent sur le plan énergétique.",
-              "src": ""
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant plaide habituellement pour desserrer les contraintes qui retirent des logements du marché locatif ; une partie de ses députés a voté l'amendement, une autre s'en est tenue à la ligne du gouvernement.",
-              "src": ""
-            },
-            "d": {
-              "type": "lecture",
-              "texte": "Le courant réclame habituellement la fin des interdictions de louer liées au DPE, jugées responsables de la pénurie de logements, et ses députés ont voté l'amendement du RN.",
-              "src": ""
-            },
-            "dn": {
-              "type": "declare",
-              "texte": "Frédéric Falcon (RN), auteur de l'amendement, se félicite : « Nous venons de supprimer les contraintes DPE, et ce n'est pas rien ! » ; il dit vouloir mettre fin à un « véritable carnage sur le marché locatif » et espère que la mesure survivra à la CMP.",
-              "src": "LCP, 17 novembre 2026"
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant dénonce habituellement les normes environnementales imposées aux propriétaires et défend la suppression des interdictions de louer fondées sur le diagnostic énergétique.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "LCP – Logement : un amendement du RN visant à supprimer l'interdiction de louer des passoires thermiques voté à l'Assemblée",
-              "u": "https://lcp.fr/actualites/logement-un-amendement-du-rn-visant-a-supprimer-l-interdiction-de-louer-des-passoires"
-            },
-            {
-              "t": "Actu-Environnement – Loi logement : les députés suppriment l'obligation de rénovation des passoires énergétiques",
-              "u": "https://www.actu-environnement.com/ae/news/suppression-interdiction-location-passoires-thermiques-assemblee-projet-loi-relance-logement-48816.php4"
-            },
-            {
-              "t": "Planet – Passoires thermiques : les députés votent la fin de l'interdiction de louer les G, F et E, par 108 voix contre 102",
-              "u": "https://www.planet.fr/passoires-thermiques-les-deputes-votent-la-fin-de-linterdiction-de-louer-les-g-f-et-e-par-108-voix-contre-102.3000417.817020.html"
-            }
-          ],
-          "image": {
-            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2026-11/Fr%C3%A9d%C3%A9ric%20Falcon.jpg?itok=1RksXpfI",
-            "credit": "LCP",
-            "alt": "Illustration de l'article de LCP"
-          }
-        },
-        {
-          "id": "2026-11-19-budget-secu-adopte-senat",
-          "rubrique": "Budget",
-          "titre": "Budget de la Sécu : le Sénat adopte sa version, avec le retour de la réforme des retraites, avant une CMP le 26 novembre",
-          "chapo": "Après six jours de débats, les sénateurs ont voté mercredi un budget de la Sécurité sociale très remanié par la majorité de droite et du centre. Un accord avec l'Assemblée, qui avait rejeté le texte en octobre, paraît peu probable.",
-          "faits": [
-            "Le Sénat a adopté le projet de loi de financement de la Sécurité sociale pour 2027 le mercredi 18 novembre par 201 voix contre 124 et 15 abstentions. Les trois groupes de gauche et le groupe RN-UDR ont voté contre, ainsi qu'une grande partie du RDSE.",
-            "La copie sénatoriale rétablit la réforme des retraites de 2023 (âge légal porté progressivement à 64 ans et 172 trimestres), supprime la désindexation partielle des pensions et impose un an de résidence régulière aux étrangers hors UE pour la plupart des prestations familiales.",
-            "Le déficit atteint 14 milliards d'euros dans la version du Sénat, contre 12,7 milliards visés par le gouvernement et 21,8 milliards attendus en 2026.",
-            "Le Sénat a aussi décalé au 1er avril 2027 la réforme des allègements de cotisations (3,7 milliards d'euros), voté une taxe sur les produits transformés sucrés et une « taxe lapin » sur les rendez-vous médicaux non honorés. La commission mixte paritaire est convoquée le 26 novembre."
-          ],
-          "enjeu": "Faute de majorité à l'Assemblée, le gouvernement devra choisir entre un compromis, le 49.3 ou des ordonnances. Le retour de la réforme de 2023 et la condition de résidence sont des lignes rouges pour la gauche, dont dépend en partie le sort d'une éventuelle censure.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant rejette habituellement les budgets de la Sécurité sociale fondés sur les économies, réclame la retraite à 60 ans et l'égalité des droits sociaux entre Français et étrangers.",
-              "src": ""
-            },
-            "gr": {
-              "type": "declare",
-              "texte": "Céline Brulin (PCF) a qualifié de « cadeau empoisonné » la compensation de l'indexation des pensions par la suppression de l'abattement fiscal des retraités ; la gauche dénonce une « préférence nationale déguisée » dans la condition de résidence.",
-              "src": "Public Sénat, 17-18 novembre 2026"
-            },
-            "soc": {
-              "type": "declare",
-              "texte": "Monique Lubin (PS) a dit ne pas comprendre qu'une telle disposition sur les pensions puisse être présentée ; les sénateurs socialistes jugent l'ensemble du projet « très marqué à droite » et regrettent l'absence de dialogue avec Matignon.",
-              "src": "Public Sénat, 17-18 novembre 2026"
-            },
-            "eco": {
-              "type": "declare",
-              "texte": "Anne Souyris (Les Écologistes) a jugé injuste le financement de l'indexation des pensions par la fin de l'abattement des retraités, et son groupe a voté contre l'ensemble du texte.",
-              "src": "Public Sénat, 17 novembre 2026"
-            },
-            "ren": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement la suspension de la réforme des retraites négociée par le gouvernement Lecornu et une trajectoire de réduction du déficit, et s'oppose au retour des 64 ans voté par le Sénat.",
-              "src": ""
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement un compromis entre maîtrise des dépenses et équité, et se montre réservé sur les mesures visant spécifiquement les prestations des étrangers.",
-              "src": ""
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement le report de l'âge de départ et une réduction plus rapide du déficit social, tout en soutenant le gouvernement dans la recherche d'un accord.",
-              "src": ""
-            },
-            "d": {
-              "type": "declare",
-              "texte": "Marie-Do Aeschlimann (LR), rapporteure, a justifié le retour sur le gel des pensions : « il était insupportable de laisser faire » ; Christine Lavarde (LR) y voit un « équilibre socialement plus juste ».",
-              "src": "Public Sénat, 17 novembre 2026"
-            },
-            "dn": {
-              "type": "declare",
-              "texte": "Gaëlle Frontoni (UDR) a fustigé « dix années de dérives de nos finances publiques » ; le groupe RN-UDR a voté contre l'ensemble du texte, qui rétablit la réforme des retraites de 2023.",
-              "src": "Public Sénat, 17-18 novembre 2026"
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement la priorité nationale pour les prestations sociales et la lutte contre la fraude, et critique le niveau des prélèvements obligatoires.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "Public Sénat – Budget 2027 de la Sécurité sociale : les modifications à retenir après l'adoption du projet de loi au Sénat",
-              "u": "https://www.publicsenat.fr/actualites/politique/budget-2027-de-la-securite-sociale-les-modifications-a-retenir-apres-le-passage-du-projet-de-loi-au-senat"
-            },
-            {
-              "t": "Toute l'Europe – Le Sénat adopte le budget 2027 de la Sécurité sociale en première lecture",
-              "u": "https://www.touteleurope.eu/vie-politique-des-etats-membres/le-senat-adopte-le-budget-2027-de-la-securite-sociale-en-premiere-lecture/"
-            },
-            {
-              "t": "Public Sénat – Retraites : le Sénat vote l'indexation complète des pensions sur l'inflation en 2027",
-              "u": "https://publicsenat.fr/actualites/politique/retraites-le-senat-vote-lindexation-complete-des-pensions-sur-linflation-en-2027"
-            }
-          ],
-          "image": {
-            "u": "https://www.publicsenat.fr/app/uploads/2026/11/SIPA_01311091_000065-1200x630.jpg",
-            "credit": "Public Sénat",
-            "alt": "Illustration de l'article de Public Sénat"
-          }
-        },
-        {
-          "id": "2026-11-19-presomption-legitime-defense-senat",
-          "rubrique": "Sécurité",
-          "titre": "Présomption de légitime défense pour les policiers et gendarmes : le Sénat examine le texte ce jeudi",
-          "chapo": "Adoptée par l'Assemblée en juillet, la proposition de loi du député LR Eric Pauget arrive au Sénat, inscrite par le gouvernement avant la niche du RN qui comptait la porter en décembre. Syndicats de police favorables, gauche et magistrats opposés.",
-          "faits": [
-            "Le texte, adopté par l'Assemblée nationale le 7 juillet 2026, modifie l'article L. 435-1 du code de la sécurité intérieure : les policiers et gendarmes qui font usage de leur arme seraient présumés avoir agi dans un cas autorisé, avec absolue nécessité et stricte proportionnalité.",
-            "Cette présomption pourrait être renversée « à tout moment » par tout élément de preuve contraire. Le texte crée aussi un nouveau cas d'usage de l'arme pour empêcher la réitération imminente d'un meurtre.",
-            "Le groupe RN-UDR du Sénat avait inscrit le texte dans sa niche du 10 décembre ; le gouvernement l'a avancé au 19 novembre lors de la conférence des présidents du 3 novembre.",
-            "L'examen intervient alors que se tient à Paris, jusqu'au 20 novembre, le procès de trois policiers poursuivis pour violences et faux dans l'affaire Michel Zecler, frappé en 2020 dans son studio."
-          ],
-          "enjeu": "La présomption inverserait en pratique la charge de la preuve lors des enquêtes sur les tirs des forces de l'ordre. Le vote dira si la majorité sénatoriale de droite et du centre adopte le texte conforme, ce qui le rendrait définitif, ou le modifie.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant dénonce habituellement les violences policières et s'oppose à tout élargissement des règles d'usage des armes par les forces de l'ordre.",
-              "src": ""
-            },
-            "gr": {
-              "type": "declare",
-              "texte": "Les députés LFI estiment que « le RN prend le relais de la macronie » sur ce texte, signe selon eux de leur « complicité politique » ; la gauche qualifie régulièrement la mesure de « permis de tuer ».",
-              "src": "Sud Ouest, 2-4 novembre 2026"
-            },
-            "soc": {
-              "type": "lecture",
-              "texte": "Le courant s'oppose habituellement à une présomption de légitime défense, jugeant que le cadre de 2017 suffit et que le contrôle du juge doit rester entier.",
-              "src": ""
-            },
-            "eco": {
-              "type": "lecture",
-              "texte": "Le courant s'oppose habituellement à l'extension de l'usage des armes par la police et réclame un contrôle indépendant des forces de l'ordre.",
-              "src": ""
-            },
-            "ren": {
-              "type": "lecture",
-              "texte": "Le courant met habituellement en avant la protection juridique des forces de l'ordre ; le gouvernement a choisi d'inscrire lui-même le texte à l'ordre du jour du Sénat.",
-              "src": ""
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant se montre habituellement prudent sur les présomptions en droit pénal et insiste sur l'équilibre entre protection des agents et contrôle judiciaire.",
-              "src": ""
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement les mesures de protection des forces de l'ordre et une réponse pénale ferme aux refus d'obtempérer.",
-              "src": ""
-            },
-            "d": {
-              "type": "declare",
-              "texte": "Le député Eric Pauget (LR), auteur de la proposition, défend une meilleure protection juridique des policiers et gendarmes qui font usage de leur arme ; le texte a été adopté par l'Assemblée le 7 juillet.",
-              "src": "Quartz, d'après Le Monde, 18 novembre 2026"
-            },
-            "dn": {
-              "type": "declare",
-              "texte": "Edwige Diaz (RN) affirme que le gouvernement « est démasqué dans sa manœuvre » et ne voulait pas voter un texte du RN ; le groupe RN-UDR revendique une « double légitimité, parlementaire et populaire ».",
-              "src": "Sud Ouest, 4 novembre 2026"
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant réclame habituellement une présomption de légitime défense pour les forces de l'ordre et des peines plus lourdes pour les violences commises contre elles.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "Quartz – Le Sénat examine la présomption d'usage légitime des armes",
-              "u": "https://fr.qz.com/senat-examine-presomption-usage-legitime-armes-policiers-111826"
-            },
-            {
-              "t": "Sud Ouest via Head Topics – Présomption de légitime défense pour les gendarmes et les policiers : le gouvernement devance le RN",
-              "u": "https://fr.headtopics.com/news/presomption-de-legitime-defense-pour-les-gendarmes-et-les-89526466"
-            },
-            {
-              "t": "Sénat – Reconnaître une présomption de légitime défense pour les forces de l'ordre",
-              "u": "https://www.senat.fr/leg/ppl25-866.html"
-            }
-          ],
-          "image": {
-            "u": "https://i.headtopics.com/images/2026/11/4/sudouest/presomption-de-legitime-defense-pour-les-gendarmes-presomption-de-legitime-defense-pour-les-gendarmes-BA1FD1EACB195D4BD598EDA35F309BD8-16x9.webp",
-            "credit": "Sud Ouest via Head Topics",
-            "alt": "Présomption de légitime défense pour les gendarmes et les policiers : le gouvernement devance le RN, le texte examiné dès le 19 novembre au Sénat"
-          }
-        },
-        {
-          "id": "2026-11-19-sondage-ifop-melenchon-philippe",
-          "rubrique": "Présidentielle 2027",
-          "titre": "Sondage Ifop : Mélenchon creuse l'écart sur Philippe pour la deuxième place, Le Pen entre 32 et 36 %",
-          "chapo": "Selon la vague Ifop-Fiducial publiée mercredi, le mouvement social profite aux deux pôles. À droite et au centre, David Lisnard progresse au détriment de Bruno Retailleau, à l'heure où se négocie une primaire.",
-          "faits": [
-            "Dans ce sondage Ifop-Fiducial pour TF1, LCI, Le Figaro et Sud Radio publié le 18 novembre, Marine Le Pen (RN) obtient 32 à 36 % des intentions de vote au premier tour selon les hypothèses, en léger recul depuis octobre.",
-            "Jean-Luc Mélenchon (LFI) recueille 17 à 19,5 %, en hausse de 1 à 2 points, et devance Édouard Philippe d'au moins quatre points ; ce dernier plafonne à 15 % dans son scénario le plus favorable.",
-            "Dans une configuration testée, David Lisnard atteint 12 %, Édouard Philippe 14 % et Bruno Retailleau 7 % ; Gabriel Attal ne dépasse pas 9 % dans le meilleur des cas.",
-            "Selon l'Ifop, 47 % des électeurs d'Édouard Philippe se disent sûrs de leur choix, contre 88 % pour Marine Le Pen et 85 % pour Jean-Luc Mélenchon. L'élection est prévue le 18 avril 2027."
-          ],
-          "enjeu": "Édouard Philippe perd son principal argument, celui d'être le mieux placé pour éviter un second tour Le Pen-Mélenchon. Le sondage pèse sur les discussions d'une primaire de la droite et du centre, qu'il refuse jusqu'ici.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant accorde habituellement peu de crédit aux sondages et présente ses propres candidatures comme celles du camp des travailleurs, indépendamment de la course en tête.",
-              "src": ""
-            },
-            "gr": {
-              "type": "lecture",
-              "texte": "Le courant met habituellement en avant la dynamique de Jean-Luc Mélenchon comme preuve qu'il est le mieux placé à gauche pour accéder au second tour, et appelle les autres forces à le rejoindre.",
-              "src": ""
-            },
-            "soc": {
-              "type": "lecture",
-              "texte": "Le courant conteste habituellement l'idée que Jean-Luc Mélenchon serait le seul candidat de gauche qualifiable et défend une candidature sociale-démocrate capable de rassembler au second tour.",
-              "src": ""
-            },
-            "eco": {
-              "type": "lecture",
-              "texte": "Le courant renvoie habituellement le choix de sa stratégie présidentielle à ses adhérents, qui doivent se prononcer le 13 décembre, entre candidature propre et rassemblement.",
-              "src": ""
-            },
-            "ren": {
-              "type": "lecture",
-              "texte": "Le courant plaide habituellement pour l'unité du bloc central et met en garde contre un second tour entre extrêmes ; Gabriel Attal reste candidat à une primaire de la droite et du centre.",
-              "src": ""
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant appelle habituellement au rassemblement du centre derrière une candidature unique pour éviter un duel entre le RN et LFI.",
-              "src": ""
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant met habituellement en avant la capacité d'Édouard Philippe à l'emporter au second tour et refuse de se plier à une primaire.",
-              "src": ""
-            },
-            "d": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement une primaire ouverte pour départager Bruno Retailleau, David Lisnard et Gabriel Attal, et voit dans la progression de David Lisnard l'espace d'une droite affirmée.",
-              "src": ""
-            },
-            "dn": {
-              "type": "lecture",
-              "texte": "Le courant présente habituellement ses scores en tête comme le signe d'une alternance attendue et cible Jean-Luc Mélenchon comme principal adversaire.",
-              "src": ""
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant revendique habituellement une candidature propre à droite et conteste l'idée d'un vote utile en faveur du RN dès le premier tour.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "20 Minutes via Yahoo – Présidentielle 2027 : Mélenchon creuse l'écart avec Philippe et Riner à 4 % dans un nouveau sondage",
-              "u": "https://fr.news.yahoo.com/sport/pr%C3%A9sidentielle-2027-m%C3%A9lenchon-creuse-l-123445437.html"
-            },
-            {
-              "t": "L'Avenir – Présidentielle 2027 en France : Marine Le Pen atteint jusqu'à 36 % des intentions de vote dans ce sondage",
-              "u": "https://www.lavenir.net/actu/monde/2026/11/18/election-presidentielle-2027-en-france-marine-le-pen-atteint-jusqua-36-des-intentions-de-vote-dans-les-sondages-NJ6VZVVI3FCZXPWN6Z5ZE2FWME/"
-            }
-          ],
-          "image": {
-            "u": "https://s.yimg.com/lo/mysterio/api/9b320578affa0f2351acfe2c5888d7af3241f6e288e79108a120677ed4a4fd90/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Ffr%2F20minutes.fr%2F9c2392f15dcd78a6ac6cbe3976527938.jpg",
-            "credit": "20 Minutes via Yahoo",
-            "alt": "Illustration de l'article de 20 Minutes via Yahoo"
-          }
-        },
-        {
-          "id": "2026-11-19-sommet-shenzhen-berlin-ukraine",
-          "rubrique": "International",
-          "titre": "Trump, Poutine et Xi réunis à Shenzhen, les alliés de l'Ukraine se retrouvent au même moment à Berlin",
-          "chapo": "Les trois dirigeants tiennent ce jeudi un sommet inédit en marge de l'APEC, qui fait craindre en Europe un « Yalta 2.0 ». Plus de trente dirigeants de la coalition des volontaires se réunissent à Berlin pour réaffirmer les garanties de sécurité à Kiev.",
-          "faits": [
-            "Donald Trump, Vladimir Poutine et Xi Jinping se sont retrouvés mercredi 18 novembre à Shenzhen, dans le sud de la Chine, pour le dîner de l'APEC ; leur sommet à trois est prévu jeudi vers 14 h 30 heure locale (7 h 30 à Paris). C'est la première rencontre entre Trump et Poutine depuis l'Alaska en août 2025.",
-            "L'ordre du jour reste flou : Ukraine, arsenaux nucléaires après l'expiration du traité New START en février, Iran et commerce. Donald Trump a jugé un accord sur l'Ukraine « très proche ».",
-            "À Berlin, la coalition des volontaires tient son 18e sommet de dirigeants, avec plus de trente chefs d'État et de gouvernement attendus ainsi que les émissaires américains Steve Witkoff et Jared Kushner. Berlin veut réaffirmer des garanties de sécurité juridiquement contraignantes, applicables après un cessez-le-feu.",
-            "L'Élysée fixe trois priorités : défense aérienne de l'Ukraine, garanties de sécurité avec une force multinationale, et pleine participation de l'Europe aux pourparlers de paix repris à Abou Dhabi."
-          ],
-          "enjeu": "Les Européens redoutent que l'avenir de l'Ukraine et la sécurité du continent se décident sans eux ; le chancelier Friedrich Merz a demandé à Donald Trump de « rester aux côtés de l'Europe ». En France, le débat sur l'aide à Kiev et sur la présence de militaires français en Ukraine se poursuit.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant dénonce habituellement les rivalités entre grandes puissances et la course aux armements, et s'oppose à l'envoi de troupes françaises comme à l'agression russe.",
-              "src": ""
-            },
-            "gr": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement une solution diplomatique sous l'égide de l'ONU, refuse l'escalade militaire et critique la dépendance de l'Europe envers les États-Unis.",
-              "src": ""
-            },
-            "soc": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement un soutien ferme à l'Ukraine, des garanties de sécurité européennes et une Europe de la défense capable de peser face à Washington, Moscou et Pékin.",
-              "src": ""
-            },
-            "eco": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement l'Ukraine, réclame des sanctions renforcées contre la Russie et refuse toute paix imposée au détriment des Ukrainiens.",
-              "src": ""
-            },
-            "ren": {
-              "type": "declare",
-              "texte": "Pour le sommet de Berlin, l'Élysée fixe à Emmanuel Macron trois priorités : protéger le ciel ukrainien, bâtir des garanties de sécurité avec une force multinationale, et obtenir la pleine participation de l'Europe aux négociations de paix.",
-              "src": "Ukrinform via UA.NEWS, 18 novembre 2026"
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement l'unité européenne face aux grandes puissances et le maintien de l'aide à l'Ukraine jusqu'à une paix juste et durable.",
-              "src": ""
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement un effort de défense accru, le soutien militaire à l'Ukraine et une Europe autonome sur le plan stratégique.",
-              "src": ""
-            },
-            "d": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement l'Ukraine et l'effort de défense européen, tout en restant réservé sur l'envoi de soldats français sans mandat clair du Parlement.",
-              "src": ""
-            },
-            "dn": {
-              "type": "lecture",
-              "texte": "Le courant plaide habituellement pour une sortie négociée du conflit, s'oppose à l'envoi de militaires français en Ukraine et veut limiter l'aide financière à Kiev.",
-              "src": ""
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement une diplomatie fondée sur les intérêts nationaux, une paix négociée rapide et refuse tout engagement de troupes françaises en Ukraine.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "Euronews – Trump and Putin shake hands ahead of high-stakes trilateral summit in China",
-              "u": "https://www.euronews.com/2026/11/18/trump-arrives-in-china-for-unprecedented-trilateral-encounter-with-xi-and-putin"
-            },
-            {
-              "t": "AFP via DH – Xi, Trump et Poutine réunis pour une réception à la veille de leur sommet inédit",
-              "u": "https://www.dhnet.be/actu/monde/2026/11/18/xi-trump-et-poutine-reunis-pour-une-reception-a-la-veille-de-leur-sommet-inedit-7XRROKEMNNC5ZCKYVCIXT4XVSQ/"
-            },
-            {
-              "t": "L'Express via Orange – Sommet entre Poutine, Trump et Xi Jinping à Shenzhen : la crainte d'un Yalta 2.0",
-              "u": "https://actu.orange.fr/monde/sommet-entre-vladimir-poutine-donald-trump-et-xi-jinping-a-shenzhen-la-crainte-d-un-yalta-2-0-l-express-CNT000002tLgmE.html"
-            },
-            {
-              "t": "Reuters via Boursorama – Réunion de la « Coalition des volontaires » prévue jeudi à Berlin",
-              "u": "https://www.boursorama.com/actualite-economique/actualites/reunion-de-la-coalition-des-volontaires-prevue-jeudi-a-berlin-7ca857b8c3fa213584784c8708ede198"
-            },
-            {
-              "t": "UA.NEWS – The Élysée Palace outlined Macron's three priorities at the Coalition of the Willing meeting in Berlin",
-              "u": "https://ua.news/en/world/eliseiskii-palats-nazvav-tri-prioriteti-makrona-na-zustrichi-koalitsiyi-okhochikh-u-berlini"
-            }
-          ],
-          "image": {
-            "u": "https://images.euronews.com/articles/stories/09/99/75/97/1200x675_cmsv2_8f446056-29dd-51f3-ae8a-c2fe8da78523-9997597.jpg",
-            "credit": "Euronews",
-            "alt": "Trump and Putin shake hands ahead of high-stakes trilateral summit in China"
-          }
-        }
-      ],
-      "breves": [
-        {
-          "titre": "Encadrement des loyers : course contre la montre",
-          "texte": "Les députés examinent en deuxième lecture la proposition de loi d'Iñaki Echaniz (PS) qui prolonge de deux ans, jusqu'en novembre 2028, l'encadrement des loyers dans quelque 70 communes. Faute d'un vote conforme à la version du Sénat, l'expérimentation s'arrêterait le 23 novembre.",
-          "src": {
-            "t": "Capital via Shango – Encadrement des loyers : les députés se prononcent sur une prolongation de deux ans",
-            "u": "https://www.shango.media/capital-encadrement-des-loyers-les-deputes-se-prononcent-sur-une-prolongation-de-deux-ans-12059956"
-          }
-        },
-        {
-          "titre": "Soldats français en Ukraine : audition au Sénat le 25 novembre",
-          "texte": "Alice Rüfo, ministre déléguée auprès de la ministre des Armées, sera entendue par les sénateurs mercredi prochain, après avoir confirmé la présence de militaires français en Ukraine, hors opérations de combat.",
-          "src": {
-            "t": "Public Sénat – Soldats français en Ukraine : la ministre déléguée auprès de la ministre des Armées auditionnée au Sénat le 25 novembre",
-            "u": "https://www.publicsenat.fr/actualites/politique/soldats-francais-en-ukraine-la-ministre-deleguee-aupres-de-la-ministre-des-armees-auditionnee-au-senat-le-25-novembre-prochain"
-          }
-        },
-        {
-          "titre": "Pensions : l'indexation complète votée sans voix contre",
-          "texte": "Avant le vote final, le Sénat avait supprimé par 329 voix contre 0 le gel partiel des pensions au-delà de 1 260 euros, en le compensant par la fin de l'abattement fiscal de 10 % des retraités, soit environ 4 milliards d'euros.",
-          "src": {
-            "t": "Public Sénat – Retraites : le Sénat vote l'indexation complète des pensions sur l'inflation en 2027",
-            "u": "https://publicsenat.fr/actualites/politique/retraites-le-senat-vote-lindexation-complete-des-pensions-sur-linflation-en-2027"
-          }
-        }
-      ],
-      "agenda": [
-        {
-          "d": "Jeu. 19 nov.",
-          "t": "Sommet Trump-Poutine-Xi à Shenzhen ; réunion de la coalition des volontaires pour l'Ukraine à Berlin ; examen au Sénat de la présomption de légitime défense des forces de l'ordre"
-        },
-        {
-          "d": "Ven. 20 nov.",
-          "t": "Début de l'examen du budget 2027 de l'État au Sénat ; fin du procès de l'affaire Zecler à Paris ; clôture prévue de la COP31 à Antalya"
-        },
-        {
-          "d": "Mar. 24 nov.",
-          "t": "Vote solennel de l'Assemblée sur le projet de loi logement"
-        },
-        {
-          "d": "Mer. 25 nov.",
-          "t": "Audition au Sénat d'Alice Rüfo sur la présence de militaires français en Ukraine"
-        },
-        {
-          "d": "Jeu. 26 nov.",
-          "t": "Commission mixte paritaire sur le budget de la Sécu ; niche parlementaire LR à l'Assemblée"
         }
       ]
     }
