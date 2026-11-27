@@ -1,6 +1,545 @@
 {
-  "updated": "2026-11-26T06:33:00+01:00",
+  "updated": "2026-11-27T06:26:07+01:00",
   "editions": [
+    {
+      "date": "2026-11-27",
+      "label": "Vendredi 27 novembre 2026",
+      "maj": "Mise à jour à 6 h 26",
+      "intro": "Le budget de la Sécu repart à l'Assemblée après l'échec de la commission mixte paritaire, pendant que Sébastien Lecornu refroidit l'idée d'une règle d'or et que Gérard Larcher protège les collectivités. La niche de la droite tourne court, avec six textes retirés sur huit. Les propos de Teddy Riner sur l'Ukraine font réagir jusqu'à l'Élysée, et le code civil va tourner la page du « devoir conjugal ». En Europe, les Vingt-Sept se séparent sans accord sur leur budget 2028-2034.",
+      "stories": [
+        {
+          "id": "2026-11-27-secu-cmp-echec",
+          "rubrique": "Budget",
+          "titre": "Budget de la Sécu : députés et sénateurs échouent à s'entendre, le texte repart à l'Assemblée le 7 décembre",
+          "chapo": "La commission mixte paritaire sur le budget 2027 de la Sécurité sociale a tourné court jeudi matin. Le gouvernement doit désormais choisir entre une nouvelle lecture suivie d'un 49.3 et le recours aux ordonnances, que le Premier ministre ne semble pas privilégier.",
+          "faits": [
+            "Réunie jeudi 26 novembre à 8 h 15 à l'Assemblée, la commission mixte paritaire (sept députés, sept sénateurs) a constaté son désaccord au bout d'environ une heure et quart.",
+            "Les députés avaient rejeté en octobre la partie recettes du texte, tandis que le Sénat avait adopté une semaine plus tôt une version très remaniée, revenant notamment sur la suspension de la réforme des retraites de 2023.",
+            "Le rapporteur LR du Sénat Jean-François Rapin cite ce point comme principal obstacle ; le rapporteur général de l'Assemblée Thibault Bazin (Droite républicaine) évoque une dizaine d'articles de désaccord majeur.",
+            "Le texte revient en nouvelle lecture : examen en commission des affaires sociales dès lundi, puis en séance le 7 décembre. Le délai constitutionnel de 50 jours expirait jeudi à minuit, ce qui ouvre juridiquement la voie aux ordonnances.",
+            "Sébastien Lecornu a pris acte de l'échec et recevra la semaine prochaine les présidents de groupe pour chercher un compromis global sur les budgets de l'État et de la Sécu."
+          ],
+          "enjeu": "Faute d'accord, le gouvernement doit trouver une majorité de non-censure s'il veut recourir au 49.3, ou assumer des ordonnances que Gérard Larcher juge la pire des solutions. La question des retraites reste le principal point de friction entre le Sénat et une partie de l'Assemblée.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant rejette habituellement tout budget de la Sécu qui réduit les dépenses de santé, et réclame l'abrogation pure et simple de la réforme des retraites plutôt que sa suspension.",
+              "src": ""
+            },
+            "gr": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement l'abrogation de la réforme des retraites et de nouvelles recettes sur le capital, et s'oppose par principe au recours au 49.3 comme aux ordonnances.",
+              "src": ""
+            },
+            "soc": {
+              "type": "declare",
+              "texte": "Annie Le Houérou (PS), membre de la CMP, voit « tellement d'irritants dans ce texte » qu'elle a du mal à imaginer une issue favorable pour la gauche, notamment après le retour en arrière du Sénat sur les retraites.",
+              "src": "Public Sénat, 26 novembre 2026"
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant s'oppose habituellement aux économies sur l'hôpital et les malades, et défend le maintien de la suspension de la réforme des retraites obtenue à l'automne 2025.",
+              "src": ""
+            },
+            "ren": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement la recherche d'un compromis entre les deux chambres pour doter le pays d'un budget de la Sécu, en évitant une procédure par ordonnances.",
+              "src": ""
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant plaide habituellement pour un compromis budgétaire large et responsable entre les groupes, et pour un effort de redressement des comptes sociaux partagé.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement une réduction plus nette du déficit de la Sécurité sociale et se montre réservé sur la suspension de la réforme des retraites.",
+              "src": ""
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Jean-François Rapin (LR), rapporteur au Sénat, explique que la « suspension de la suspension » de la réforme des retraites était « une ligne à tenir » pour la majorité sénatoriale, et prédit l'échec de la nouvelle lecture.",
+              "src": "Public Sénat, 26 novembre 2026"
+            },
+            "dn": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement l'abrogation de la réforme des retraites et s'oppose aux économies touchant les retraités et les malades, tout en réclamant des coupes dans d'autres dépenses.",
+              "src": ""
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant prône habituellement une baisse des prélèvements et des économies ciblées sur l'immigration et la fraude sociale, plutôt que des hausses de cotisations.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Public Sénat – Budget 2027 de la Sécurité sociale : échec de la tentative de compromis entre députés et sénateurs",
+              "u": "https://www.publicsenat.fr/actualites/politique/budget-2027-de-la-securite-sociale-echec-de-la-tentative-de-compromis-entre-deputes-et-senateurs"
+            },
+            {
+              "t": "LCP – Budget de la Sécu : échec de la réunion de conciliation entre députés et sénateurs",
+              "u": "https://lcp.fr/actualites/info-lcp-budget-de-la-secu-echec-de-la-reunion-de-conciliation-entre-deputes-et"
+            },
+            {
+              "t": "LCP – Budget de la Sécu : députés et sénateurs vont tenter de se mettre d'accord ce jeudi",
+              "u": "https://lcp.fr/actualites/budget-de-la-secu-deputes-et-senateurs-vont-tenter-de-se-mettre-d-accord-ce-jeudi"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-27-regle-dor-collectivites",
+          "rubrique": "Budget",
+          "titre": "Règle d'or : Lecornu assure qu'« aucune décision n'est prise », Larcher refuse de prélever plus de 2,5 milliards sur les collectivités",
+          "chapo": "À la clôture du Congrès des maires, le Premier ministre a tempéré l'idée d'un Congrès à Versailles pour inscrire une règle d'or budgétaire dans la Constitution. Le président du Sénat a, lui, fixé une limite à l'effort demandé aux communes.",
+          "faits": [
+            "Jeudi, lors d'un débat avec David Lisnard et Gérard Larcher au Congrès des maires, Sébastien Lecornu a affirmé qu'« aucune décision n'est prise » sur une réunion du Congrès consacrée à une règle d'or, évoquée lundi par Emmanuel Macron dans Le Figaro.",
+            "Le Premier ministre consulte les formations politiques pendant trois semaines, se dit « intellectuellement » favorable à l'idée, et rappelle que la charge des intérêts de la dette doit atteindre 75 milliards d'euros l'an prochain.",
+            "Il exclut tout dispositif qui « lierait les mains » de ses successeurs et estime qu'une telle règle ne pourrait s'appliquer qu'à partir de 2029 ou 2030.",
+            "Gérard Larcher a prévenu qu'il n'était « pas question » de prélever plus de 2,5 milliards d'euros sur les collectivités, alors que le projet de budget prévoit selon lui au moins 5,5 milliards d'économies à leur charge."
+          ],
+          "enjeu": "L'idée d'une règle d'or, à cinq mois de la présidentielle, pose la question des marges laissées au prochain exécutif. Pour le budget 2027, l'effort demandé aux collectivités reste un point de négociation clé avec le Sénat avant son vote du 9 décembre.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant rejette habituellement toute règle d'or budgétaire, qu'il considère comme une austérité gravée dans le marbre au détriment des services publics.",
+              "src": ""
+            },
+            "gr": {
+              "type": "lecture",
+              "texte": "Le courant s'oppose habituellement à une règle d'or constitutionnelle, jugée contraire à la souveraineté budgétaire du Parlement, et dénonce les ponctions sur les collectivités.",
+              "src": ""
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant a habituellement combattu la règle d'or proposée en 2011, et défend des moyens stables pour les collectivités face aux économies demandées par l'État.",
+              "src": ""
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant s'oppose habituellement à une règle d'or qui freinerait l'investissement dans la transition écologique, et défend les budgets des collectivités.",
+              "src": ""
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "Sébastien Lecornu (Renaissance), Premier ministre, se dit « intellectuellement » favorable à une règle d'or tout en répétant qu'« aucune décision n'est prise » et qu'il ne veut pas lier les mains de ses successeurs.",
+              "src": "Public Sénat, 26 novembre 2026"
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement la maîtrise de la dette comme priorité nationale, et voit d'un œil favorable une règle de discipline budgétaire partagée.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant plaide habituellement pour une stricte maîtrise de la dépense publique et soutient l'idée d'inscrire une règle d'équilibre dans les textes.",
+              "src": ""
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Gérard Larcher (LR), président du Sénat, refuse de prélever plus de 2,5 milliards d'euros sur les collectivités et prévient que « rien ne serait pire » qu'un budget adopté par ordonnances.",
+              "src": "Public Sénat, 26 novembre 2026"
+            },
+            "dn": {
+              "type": "lecture",
+              "texte": "Le courant s'oppose habituellement aux contraintes budgétaires venues de Bruxelles et défend les communes face aux baisses de dotations de l'État.",
+              "src": ""
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement une forte baisse de la dépense publique, ciblée notamment sur l'immigration, et une décentralisation favorable aux élus locaux.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "Public Sénat – Budget 2027 : il n'est pas question de prélever plus de 2,5 milliards d'euros sur les collectivités, prévient Gérard Larcher",
+              "u": "https://www.publicsenat.fr/actualites/politique/budget-2027-il-nest-pas-question-de-prelever-plus-de-25-milliards-deuros-sur-les-collectivites-previent-gerard-larcher"
+            },
+            {
+              "t": "Public Sénat – Réunion du Congrès pour la règle d'or : aucune décision n'est prise, insiste Sébastien Lecornu",
+              "u": "https://www.publicsenat.fr/actualites/politique/reunion-du-congres-pour-la-regle-dor-aucune-decision-nest-prise-insiste-sebastien-lecornu"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-27-niche-lr-retraits",
+          "rubrique": "Justice",
+          "titre": "Niche LR : six textes retirés, dont la limitation du RSA, la droite dénonce l'obstruction de la gauche",
+          "chapo": "La journée réservée au groupe de Laurent Wauquiez, centrée sur la sécurité, s'est soldée par deux textes adoptés seulement. Les élus LR accusent LFI d'avoir bloqué les débats à coups d'amendements et de suspensions de séance.",
+          "faits": [
+            "Sur les huit textes inscrits jeudi, seuls deux ont été adoptés : une résolution non contraignante sur l'égalité entre les territoires et une proposition de loi facilitant le maintien des pharmacies en zone rurale, votée par 180 voix contre 0.",
+            "Six textes ont été retirés, dont ceux de Nicolas Ray sur la fraude sociale en récidive, de Corentin Le Fur sur les prestations des casseurs et la limitation à deux ans du RSA pour les personnes aptes à travailler.",
+            "Les propositions sur les peines planchers dès la première condamnation (Patrick Hetzel) et sur les mineurs récidivistes (Éric Pauget) n'ont pas été adoptées ; ce dernier a dénoncé plus de 150 amendements et sous-amendements.",
+            "Le ministre délégué à l'Intérieur Jean-Didier Berger a assuré que le projet de loi « casseurs-payeurs », adopté par le Sénat fin octobre, viendrait « le plus rapidement possible » à l'Assemblée."
+          ],
+          "enjeu": "À cinq mois de la présidentielle, LR voulait imposer ses thèmes régaliens ; la journée illustre surtout la difficulté des petits groupes à faire aboutir leurs textes. Elle met aussi en lumière la concurrence entre la droite et le RN sur la sécurité.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant combat habituellement le durcissement pénal et les conditions posées au RSA, qu'il assimile à une stigmatisation des plus pauvres et des quartiers populaires.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Anaïs Belouassa-Cherifi (LFI) estime que les élus LR « sont en train de se faire doubler par leur droite », par le Rassemblement national.",
+              "src": "AFP, 27 novembre 2026"
+            },
+            "soc": {
+              "type": "declare",
+              "texte": "Colette Capdevielle (PS) juge « inutile » le texte sur la fraude sociale, en rappelant qu'une loi renforçant contrôles et sanctions a été promulguée en juin.",
+              "src": "AFP, 27 novembre 2026"
+            },
+            "eco": {
+              "type": "declare",
+              "texte": "Benjamin Lucas-Lundy (groupe Écologiste et social) se réjouit d'une « victoire par forfait » après les retraits, et avait qualifié la niche de « tract de la droite radicalisée ».",
+              "src": "AFP, 26 et 27 novembre 2026"
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "Le groupe Ensemble pour la République s'était opposé en commission à la proposition de Patrick Hetzel sur les peines planchers, adoptée malgré son vote.",
+              "src": "AFP (Sud Radio), 26 novembre 2026"
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant se montre habituellement réservé sur les peines automatiques, au nom de l'individualisation des peines, tout en soutenant une exécution plus rapide des sanctions.",
+              "src": ""
+            },
+            "hor": {
+              "type": "declare",
+              "texte": "Le groupe Horizons avait annoncé son soutien au texte de Nicolas Ray sur la fraude aux prestations sociales en récidive, rejeté en commission puis retiré en séance.",
+              "src": "AFP (Sud Radio), 26 novembre 2026"
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Laurent Wauquiez (LR) a lancé aux élus LFI « Vous humiliez l'Assemblée nationale » ; Nicolas Ray (LR) dit regretter « cette obstruction » qui l'a contraint à retirer son texte.",
+              "src": "AFP, 27 novembre 2026"
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Sébastien Chenu (RN) revendique la paternité de plusieurs mesures de la niche, que son groupe surnomme la « sous-niche RN », et propose de porter à cinq ans la suspension des aides des fraudeurs.",
+              "src": "AFP, 26 et 27 novembre 2026"
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement des peines planchers systématiques, l'abaissement de la majorité pénale et la suppression des aides sociales pour les fraudeurs et les délinquants.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "LCP – Les députés LR veulent rétablir et renforcer les peines planchers",
+              "u": "https://lcp.fr/actualites/on-ne-devrait-pas-avoir-besoin-de-frapper-deux-fois-pour-aller-en-prison-les-deputes-lr"
+            },
+            {
+              "t": "AFP (Boursorama) – Six textes retirés, débats houleux : la journée mouvementée de LR à l'Assemblée",
+              "u": "https://www.boursorama.com/actualite-economique/actualites/six-textes-retires-debats-houleux-la-journee-mouvementee-de-lr-a-l-assemblee-2460d2fe335ec3d5b329e1238e3aa58c"
+            },
+            {
+              "t": "LCP – Pharmacies : les députés adoptent un texte pour assouplir les règles d'installation en milieu rural",
+              "u": "https://lcp.fr/actualites/pharmacies-les-deputes-adoptent-un-texte-pour-assouplir-les-regles-d-installation-en"
+            },
+            {
+              "t": "Sud Radio – À l'Assemblée, LR veut sévir mais se heurte aux batailles parlementaires",
+              "u": "https://www.sudradio.fr/societe/a-lassemblee-lr-veut-sevir-mais-se-heurte-aux-batailles-parlementaires"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-27-riner-ukraine",
+          "rubrique": "Présidentielle 2027",
+          "titre": "« Ce n'est pas notre guerre » : les propos de Teddy Riner sur l'Ukraine font réagir jusqu'à Emmanuel Macron",
+          "chapo": "Le judoka, candidat déclaré à l'Élysée, a contesté l'aide française à Kiev en marge du Congrès des maires. Le chef de l'État et le ministre des Affaires étrangères lui ont répondu, tandis que ses concurrents s'en emparent.",
+          "faits": [
+            "Mercredi, interrogé au Salon des maires, Teddy Riner a déclaré ne pas comprendre « qu'on envoie des troupes en Ukraine alors que ce n'est pas notre guerre », avant de nuancer : « Non, je ne dis pas ça ».",
+            "Il a ensuite précisé à l'AFP que la France n'avait « plus les moyens » de « donner de l'argent que nous n'avons pas », et s'est dit prêt à s'asseoir avec la Russie et Volodymyr Zelensky pour mettre fin à la guerre.",
+            "Les militaires français présents en Ukraine forment des soldats ukrainiens et entretiennent du matériel, sans participer aux combats, selon l'AFP.",
+            "Jeudi soir à Bruxelles, Emmanuel Macron a appelé à ne pas « créer de doute et de trouble », estimant qu'abandonner l'Ukraine mettrait « en péril notre sécurité »."
+          ],
+          "enjeu": "La séquence fait entrer la politique étrangère dans la campagne et teste la crédibilité d'un candidat venu du sport. Elle relance aussi le débat sur le coût de l'aide à Kiev en pleine discussion budgétaire.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant dénonce habituellement la guerre menée par la Russie comme les livraisons d'armes et la hausse des budgets militaires, et appelle à une solidarité ouvrière par-delà les frontières.",
+              "src": ""
+            },
+            "gr": {
+              "type": "declare",
+              "texte": "Jean-Luc Mélenchon (LFI) a de son côté critiqué le déploiement de militaires en Ukraine, en affirmant que la France ne peut « en aucun cas devenir cobelligérant ».",
+              "src": "AFP (Paris Match), 26 novembre 2026"
+            },
+            "soc": {
+              "type": "declare",
+              "texte": "Luc Broussy (PS), soutien de Raphaël Glucksmann, demande « à quel moment cette guignolade va-t-elle cesser ? » après les propos du candidat.",
+              "src": "TIME France, 26 novembre 2026"
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement un soutien ferme à l'Ukraine face à l'agression russe, y compris financier, et une Europe de la défense plus autonome.",
+              "src": ""
+            },
+            "ren": {
+              "type": "declare",
+              "texte": "Gabriel Attal (Renaissance) répond que le soutien à l'Ukraine « c'est pas un soutien humanitaire » mais la défense des intérêts de la France et de l'Europe.",
+              "src": "AFP (Paris Match), 26 novembre 2026"
+            },
+            "modem": {
+              "type": "declare",
+              "texte": "Jean-Noël Barrot (MoDem), ministre des Affaires étrangères, juge que « tout est faux » dans les propos de Teddy Riner et assure que la France n'est pas cobelligérante.",
+              "src": "LCP, 26 novembre 2026"
+            },
+            "hor": {
+              "type": "declare",
+              "texte": "Jérémie Patrier-Leitus (Horizons), soutien d'Édouard Philippe, qualifie Teddy Riner de « nouvel ambassadeur de la Russie en France ».",
+              "src": "TIME France, 26 novembre 2026"
+            },
+            "d": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement l'aide à l'Ukraine et la fermeté face à Moscou, tout en réclamant un meilleur contrôle de son coût pour les finances publiques.",
+              "src": ""
+            },
+            "dn": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement l'Ukraine dans sa défense, mais refuse tout envoi de troupes françaises et se montre critique sur le coût de l'aide pour la France.",
+              "src": ""
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant s'oppose habituellement à toute implication militaire française en Ukraine et plaide pour une négociation rapide avec la Russie.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "LCP – « Pas créer de doute et de trouble » : Emmanuel Macron recadre Teddy Riner sur l'aide à l'Ukraine",
+              "u": "https://lcp.fr/actualites/pas-creer-de-doute-et-de-trouble-emmanuel-macron-recadre-teddy-riner-sur-l-aide-a-l"
+            },
+            {
+              "t": "Paris Match – « Ce n'est pas notre guerre » : Teddy Riner divise avec ses propos sur l'Ukraine",
+              "u": "https://www.parismatch.be/actualites/monde/2026/11/26/ce-nest-pas-notre-guerre-teddy-riner-candidat-a-la-presidentielle-francaise-divise-avec-ses-propos-sur-lukraine-D23DQVPS2RBRXCNBSRLTSZTSZA/"
+            },
+            {
+              "t": "TIME France – Teddy Riner sur l'Ukraine : une petite phrase, des nuances et des critiques",
+              "u": "https://www.timefrance.fr/politique/teddy-riner-sur-lukraine-une-petite-phrase-des-nuances-et-des-critiques/"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-27-devoir-conjugal",
+          "rubrique": "Société",
+          "titre": "Fin du « devoir conjugal » : députés et sénateurs trouvent un accord, le code civil bientôt modifié",
+          "chapo": "La commission mixte paritaire s'est entendue jeudi sur la proposition de loi qui inscrit dans le code civil que le mariage n'oblige pas à des relations sexuelles. Le texte doit encore être validé par les deux chambres d'ici la fin de l'année.",
+          "faits": [
+            "Jeudi 26 novembre, sept députés et sept sénateurs se sont mis d'accord sur un texte commun pour la proposition de loi « visant à mettre fin au devoir conjugal ».",
+            "L'article 1er prévoit que « la communauté de vie ne crée aucune obligation pour les époux d'avoir des relations sexuelles », dans la rédaction de l'Assemblée et non avec les termes « relations intimes » voulus par le Sénat. Cet article est lu lors des mariages civils.",
+            "L'article 2, qui interdisait de fonder un divorce sur l'absence de relations sexuelles, est supprimé, comme l'avait voulu le Sénat.",
+            "Le texte fait suite à la condamnation de la France par la Cour européenne des droits de l'homme en 2025. Le vote de l'Assemblée est prévu le 7 décembre, avant celui du Sénat."
+          ],
+          "enjeu": "Le législateur entend clore une jurisprudence qui permettait de reprocher à un époux le refus de relations sexuelles. Reste à savoir si la suppression de l'article 2 suffira à empêcher les juges d'en tenir compte dans les divorces pour faute.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement les avancées des droits des femmes, tout en estimant que la lutte contre les violences sexuelles exige surtout des moyens bien supérieurs.",
+              "src": ""
+            },
+            "gr": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement l'inscription explicite du consentement dans la loi et soutient les textes qui renforcent les droits des femmes dans le couple.",
+              "src": ""
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement la suppression de toute notion d'obligation sexuelle dans le mariage et l'inscription du consentement dans le droit.",
+              "src": ""
+            },
+            "eco": {
+              "type": "declare",
+              "texte": "Marie-Charlotte Garin (Écologiste), rapporteure à l'Assemblée, souligne que « même dans le mariage, le consentement n'est jamais acquis ».",
+              "src": "LCP, 26 novembre 2026"
+            },
+            "ren": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement les textes transpartisans sur le consentement, dans la ligne de la loi de 2025 qui l'a inscrit dans la définition pénale du viol.",
+              "src": ""
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement les textes transpartisans sur l'égalité entre les femmes et les hommes et la clarification du droit de la famille.",
+              "src": ""
+            },
+            "hor": {
+              "type": "declare",
+              "texte": "Le texte a été initialement porté par Paul Christophe (Horizons), qui a depuis quitté son mandat de député pour se consacrer à sa mairie.",
+              "src": "LCP, 26 novembre 2026"
+            },
+            "d": {
+              "type": "declare",
+              "texte": "Jean-Baptiste Blanc (LR), rapporteur au Sénat, a défendu la suppression de l'article 2, qui n'avait selon lui « pas d'utilité juridique ».",
+              "src": "LCP, 26 novembre 2026"
+            },
+            "dn": {
+              "type": "lecture",
+              "texte": "Le courant se dit habituellement attaché à la lutte contre les violences faites aux femmes, tout en se montrant prudent sur les modifications du droit du mariage.",
+              "src": ""
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement une conception traditionnelle de la famille et se montre réservé sur les réformes du droit du mariage.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "LCP – Vers la fin de la notion de « devoir conjugal » dans le mariage : pourquoi le code civil sera bientôt modifié",
+              "u": "https://lcp.fr/actualites/vers-la-fin-de-la-notion-de-devoir-conjugal-dans-le-mariage-pourquoi-le-code-civil-sera"
+            },
+            {
+              "t": "Sénat – Proposition de loi visant à mettre fin au devoir conjugal",
+              "u": "https://www.senat.fr/travaux-parlementaires/textes-legislatifs/la-loi-en-clair/proposition-de-loi-visant-a-mettre-fin-au-devoir-conjugal.html"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-27-sommet-ue-budget",
+          "rubrique": "Europe",
+          "titre": "Budget européen 2028-2034 : les Vingt-Sept écourtent leur sommet, Macron dénonce une « erreur stratégique »",
+          "chapo": "Réunis jeudi à Bruxelles, les dirigeants de l'UE n'ont pas trouvé d'accord sur le prochain cadre financier pluriannuel. Paris refuse les coupes proposées et défend la PAC, tandis qu'un prêt de 45 milliards à l'Ukraine reste en discussion.",
+          "faits": [
+            "La Commission a proposé un budget d'environ 2 000 milliards d'euros pour 2028-2034 ; le président du Conseil européen António Costa a proposé de le réduire d'environ 200 milliards, soit autour de 10 %.",
+            "Le chancelier allemand Friedrich Merz, qui veut des coupes plus fortes, a annoncé jeudi soir que le sommet ne se poursuivrait pas vendredi. Un accord est espéré au Conseil européen des 17 et 18 décembre.",
+            "Emmanuel Macron a qualifié les coupes d'« erreur stratégique » et prévenu qu'il ne signerait pas d'accord déséquilibré, fixant le 31 décembre comme limite. L'Élysée exige qu'aucun euro de la PAC versé à la France ne soit perdu.",
+            "La Commission propose aussi un prêt de 45 milliards d'euros, financé par une dette commune, pour le budget de guerre ukrainien de 2027 ; la Hongrie, la Slovaquie et la Tchéquie y sont opposées, selon Euronews."
+          ],
+          "enjeu": "Pour la France, l'enjeu est double : préserver les aides agricoles et éviter que la négociation ne déborde sur la présidentielle. Le montant de la contribution française au budget européen devient aussi un thème de campagne.",
+          "positions": {
+            "eg": {
+              "type": "lecture",
+              "texte": "Le courant rejette habituellement l'Union européenne telle qu'elle fonctionne, qu'il juge au service des grandes entreprises, et s'oppose aux hausses des dépenses militaires.",
+              "src": ""
+            },
+            "gr": {
+              "type": "lecture",
+              "texte": "Le courant critique habituellement les politiques d'austérité européennes et défend une PAC réorientée vers les petits producteurs, tout en refusant une Europe de la défense intégrée.",
+              "src": ""
+            },
+            "soc": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement un budget européen ambitieux, financé par de nouvelles ressources propres, et le maintien de la PAC et de la cohésion.",
+              "src": ""
+            },
+            "eco": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement un budget européen en hausse, des ressources propres comme une taxe sur les grandes fortunes, et une PAC conditionnée à la transition écologique.",
+              "src": ""
+            },
+            "ren": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement un budget européen à la hauteur des défis de compétitivité face à la Chine et aux États-Unis, ainsi que le soutien financier à l'Ukraine.",
+              "src": ""
+            },
+            "modem": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement une Europe plus intégrée, dotée de moyens budgétaires accrus et de ressources propres, ainsi qu'un soutien constant à l'Ukraine.",
+              "src": ""
+            },
+            "hor": {
+              "type": "lecture",
+              "texte": "Le courant soutient habituellement l'aide à l'Ukraine et une Europe de la défense, tout en demandant une gestion rigoureuse des dépenses européennes.",
+              "src": ""
+            },
+            "d": {
+              "type": "lecture",
+              "texte": "Le courant défend habituellement la PAC comme priorité absolue de la France à Bruxelles et se montre réservé sur un nouvel endettement commun européen.",
+              "src": ""
+            },
+            "dn": {
+              "type": "declare",
+              "texte": "Marine Le Pen (RN) réclame une réduction de 10 milliards d'euros de la contribution française au budget de l'Union européenne.",
+              "src": "Euronews, 26 novembre 2026"
+            },
+            "ed": {
+              "type": "lecture",
+              "texte": "Le courant prône habituellement une forte baisse de la contribution française au budget européen et rejette tout emprunt commun, y compris pour l'Ukraine.",
+              "src": ""
+            }
+          },
+          "sources": [
+            {
+              "t": "RTBF – Budget européen 2028-2034 : les dirigeants des Vingt-Sept écourtent leur sommet, un accord espéré en décembre",
+              "u": "https://www.rtbf.be/article/budget-europeen-2028-2034-les-dirigeants-des-vingt-sept-ecourtent-leur-sommet-un-accord-espere-en-decembre-11821909"
+            },
+            {
+              "t": "Euronews – EU summit: leaders spar over new budget and Ukraine aid",
+              "u": "https://www.euronews.com/2026/11/26/eu-summit-leaders-ready-to-spar-over-new-budget-and-ukraine-aid"
+            }
+          ]
+        }
+      ],
+      "breves": [
+        {
+          "titre": "Le Sénat supprime l'abattement fiscal des plateformes vidéo",
+          "texte": "Lors de l'examen du budget 2027, les sénateurs ont supprimé l'abattement dont bénéficient les plateformes de vidéo gratuites comme YouTube, TikTok ou Facebook.",
+          "src": {
+            "t": "Public Sénat – YouTube, TikTok, Facebook : le Sénat supprime l'abattement fiscal dont bénéficient les plateformes",
+            "u": "https://www.publicsenat.fr/actualites/politique/youtube-tiktok-facebook-le-senat-supprime-labattement-fiscal-dont-beneficient-les-plateformes"
+          }
+        },
+        {
+          "titre": "Incendies : 200 millions d'euros de plus pour les pompiers",
+          "texte": "Le Sénat a allégé la fiscalité locale des PME touchées par les incendies de cet été et augmenté de 200 millions d'euros les moyens des services départementaux d'incendie et de secours.",
+          "src": {
+            "t": "Public Sénat – Incendies : le Sénat allège la fiscalité des PME frappées cet été et augmente de 200 millions le budget des SDIS",
+            "u": "https://www.publicsenat.fr/actualites/economie/incendies-le-senat-allege-la-fiscalite-des-pme-frappees-cet-ete-et-augmente-de-200-millions-le-budget-des-sdis"
+          }
+        },
+        {
+          "titre": "Un crédit d'impôt pour préserver les haies",
+          "texte": "Les sénateurs ont voté un crédit d'impôt destiné à inciter les agriculteurs à entretenir et préserver les haies, dans le cadre du budget 2027.",
+          "src": {
+            "t": "Public Sénat – Budget 2027 : le Sénat vote un crédit d'impôt pour inciter les agriculteurs à préserver les haies",
+            "u": "https://www.publicsenat.fr/actualites/politique/budget-2027-le-senat-vote-un-credit-dimpot-pour-inciter-les-agriculteurs-a-preserver-les-haies"
+          }
+        }
+      ],
+      "agenda": [
+        {
+          "d": "Sam. 28 nov.",
+          "t": "Marches féministes de Nous Toutes"
+        },
+        {
+          "d": "Lun. 30 nov.",
+          "t": "Nouvelle lecture du budget de la Sécu en commission des affaires sociales de l'Assemblée"
+        },
+        {
+          "d": "Sem. du 30 nov.",
+          "t": "Sébastien Lecornu reçoit les présidents de groupe parlementaire ; Gérard Larcher réunit les prétendants de la droite et du centre"
+        },
+        {
+          "d": "Mar. 1er déc.",
+          "t": "Journée de grève et de mobilisation dans la fonction publique"
+        },
+        {
+          "d": "Jeu. 3 déc.",
+          "t": "Niche écologiste à l'Assemblée, avec la proposition de loi sur les réparations de l'esclavage"
+        },
+        {
+          "d": "Lun. 7 déc.",
+          "t": "Budget de la Sécu en séance à l'Assemblée ; vote sur le texte mettant fin au devoir conjugal"
+        },
+        {
+          "d": "Mer. 9 déc.",
+          "t": "Vote solennel du Sénat sur le budget de l'État"
+        },
+        {
+          "d": "Dim. 13 déc.",
+          "t": "Vote des adhérents écologistes sur une alliance avec LFI pour la présidentielle"
+        },
+        {
+          "d": "Jeu. 17 déc.",
+          "t": "Conseil européen de deux jours à Bruxelles sur le budget 2028-2034"
+        }
+      ]
+    },
     {
       "date": "2026-11-26",
       "label": "Jeudi 26 novembre 2026",
@@ -3368,562 +3907,6 @@
         {
           "d": "Sam. 28 nov.",
           "t": "Vote attendu du Sénat sur la première partie du budget de l'État (ou dimanche 29)"
-        },
-        {
-          "d": "Mer. 9 déc.",
-          "t": "Vote solennel du Sénat sur le budget de l'État"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-20",
-      "label": "Vendredi 20 novembre 2026",
-      "maj": "Mise à jour à 6 h 32",
-      "intro": "Faute de temps, le Sénat n'a pas pu voter jeudi la présomption d'usage légitime de l'arme pour les policiers et gendarmes : le débat reprend ce vendredi, jour où les sénateurs ouvrent aussi l'examen du budget de l'État. À l'Assemblée, la niche socialiste a prolongé de deux ans l'encadrement des loyers et pérennisé Territoires zéro chômeur, tandis que Sébastien Lecornu durcit la cybersécurité de l'État. À l'international, le sommet Trump-Poutine-Xi de Shenzhen s'achève sans un mot sur l'Ukraine, et la COP31 bute sur les énergies fossiles.",
-      "stories": [
-        {
-          "id": "2026-11-20-usage-armes-senat-report",
-          "rubrique": "Sécurité",
-          "titre": "Usage des armes par les policiers : faute de temps, le Sénat reporte à ce vendredi le vote sur la présomption",
-          "chapo": "Soutenu par le gouvernement et la majorité sénatoriale, le texte n'a pas pu être mis aux voix jeudi soir avant l'heure limite. Le ministre de l'Intérieur et le RN accusent la gauche d'obstruction ; l'examen reprend ce vendredi en fin d'après-midi.",
-          "faits": [
-            "Le Sénat n'a pas pu voter jeudi 19 novembre la proposition de loi du député Éric Pauget (LR), adoptée par l'Assemblée le 7 juillet par 313 voix contre 199. L'examen reprend ce vendredi 20 novembre en fin d'après-midi, avec 76 amendements restant à étudier, selon l'AFP.",
-            "Réécrit par le gouvernement, le texte prévoit que les policiers et gendarmes qui font usage de leur arme « sont présumés avoir agi » dans le cadre légal. Cette présomption peut être renversée par tout élément contraire et ne supprime pas les conditions d'absolue nécessité et de stricte proportionnalité.",
-            "La commission des lois l'a adopté sans modification le 10 novembre : un vote conforme en séance vaudrait adoption définitive par le Parlement.",
-            "Le ministre de l'Intérieur, Laurent Nuñez, assure que la présomption « lèvera simplement l'automaticité de la garde à vue » des agents. Amnesty International France, la LDH, la CGT, la CFDT et le Syndicat de la magistrature s'y opposent."
-          ],
-          "enjeu": "Une adoption conforme ce vendredi clôturerait le parcours parlementaire d'un texte réclamé de longue date par les syndicats de police. La gauche, qui juge la mesure dangereuse, prépare déjà une saisine du Conseil constitutionnel.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant dénonce habituellement les violences policières et ce qu'il considère comme l'impunité des forces de l'ordre, et s'oppose à toute mesure qui renforcerait leur protection juridique.",
-              "src": ""
-            },
-            "gr": {
-              "type": "lecture",
-              "texte": "Le courant s'oppose habituellement à tout élargissement de l'usage des armes par la police, réclame l'abrogation de la loi de 2017 sur les refus d'obtempérer et un contrôle indépendant des forces de l'ordre.",
-              "src": ""
-            },
-            "soc": {
-              "type": "declare",
-              "texte": "Patrick Kanner (PS), président du groupe socialiste au Sénat, dénonce une « course à l'échalote entre l'extrême droite, la droite et le gouvernement » et promet de saisir le Conseil constitutionnel si le texte est adopté.",
-              "src": "AFP via Sud Radio, 19 novembre 2026"
-            },
-            "eco": {
-              "type": "declare",
-              "texte": "Mélanie Vogel (Les Écologistes), présidente du groupe écologiste au Sénat, estime que le texte revient à créer un « permis de tuer » pour les forces de l'ordre.",
-              "src": "BFMTV, cité par Quartz, 19-20 novembre 2026"
-            },
-            "ren": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement les mesures de protection juridique des forces de l'ordre portées par le gouvernement, à condition qu'elles ne créent pas d'immunité pénale ni ne modifient les règles d'engagement du tir.",
-              "src": ""
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant se montre habituellement attentif à l'équilibre entre protection des forces de l'ordre et contrôle du juge, et appuie les versions encadrées défendues par le gouvernement.",
-              "src": ""
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement un renforcement de l'autorité de l'État et du soutien aux forces de l'ordre, et appuie le texte dans sa version réécrite par le gouvernement.",
-              "src": ""
-            },
-            "d": {
-              "type": "declare",
-              "texte": "Lauriane Josende (LR), rapporteure, juge que « les forces de l'ordre ont besoin d'être soutenues » et assure que la loi « ne bouleversera absolument pas » le cadre légal de l'usage des armes ni le déroulement des enquêtes.",
-              "src": "AFP via Sud Radio, 19 novembre 2026"
-            },
-            "dn": {
-              "type": "declare",
-              "texte": "Edwige Diaz (RN), présidente du groupe RN au Sénat, soutient le texte, que son groupe voulait inscrire dans sa niche de décembre, et souhaite ironiquement « bon courage » au gouvernement pour convaincre la gauche qu'il ne suit pas les idées du RN.",
-              "src": "AFP via Sud Radio, 19 novembre 2026"
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant réclame habituellement une présomption de légitime défense large pour les policiers et gendarmes, et juge souvent insuffisantes les versions encadrées par le gouvernement.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "Sud Radio – Usage des armes par la police : un vote sous haute tension au Sénat",
-              "u": "https://www.sudradio.fr/societe/usage-des-armes-par-la-police-un-vote-sous-haute-tension-au-senat"
-            },
-            {
-              "t": "Quartz – Le Sénat reporte le vote sur l'usage légitime des armes par la police",
-              "u": "https://fr.qz.com/senat-reporte-vote-presomption-usage-legitime-armes-112026"
-            },
-            {
-              "t": "Parlons Politique – Après un tir policier, qui doit prouver que l'usage de l'arme était légal ? Le Sénat face à un choix décisif",
-              "u": "https://www.parlons-politique.fr/actualite-nationale/apres-un-tir-policier-qui-doit-prouver-que-lusage-de-larme-etait-legal-le-senat-face-a-un-choix-decisif_31545/"
-            }
-          ],
-          "image": {
-            "u": "https://www.parlons-politique.fr/wp-content/uploads/2026/11/senateurs-entree-palais.webp",
-            "credit": "Parlons Politique",
-            "alt": "Illustration de l'article de Parlons Politique"
-          }
-        },
-        {
-          "id": "2026-11-20-niche-ps-loyers-tzcld",
-          "rubrique": "Logement",
-          "titre": "Niche socialiste : l'encadrement des loyers prolongé de deux ans, Territoires zéro chômeur pérennisé",
-          "chapo": "Lors de leur journée réservée, les députés PS ont fait adopter définitivement trois textes, dont la prolongation de l'encadrement des loyers, obtenue par un vote bloqué face à des centaines de sous-amendements du RN.",
-          "faits": [
-            "Jeudi 19 novembre, l'Assemblée a adopté définitivement, par 148 voix contre 95, la proposition de loi d'Iñaki Echaniz (PS) qui prolonge de deux ans l'expérimentation de l'encadrement des loyers, censée s'arrêter la semaine prochaine. Le texte était identique à celui voté par le Sénat en octobre.",
-            "Face aux amendements et sous-amendements du RN, un vote bloqué demandé par le rapporteur et accepté par le gouvernement a écarté plus de 400 sous-amendements, selon le gouvernement. Le ministre du Logement, Vincent Jeanbrun, a dénoncé « de l'obstruction pure et dure ».",
-            "Le dispositif Territoires zéro chômeur de longue durée, dont l'expérimentation devait finir le 31 décembre, a été pérennisé par 258 voix contre 3. Il compte 94 entreprises à but d'emploi dans 85 territoires et 4 300 salariés payés au Smic ; le budget 2027 prévoit 63 millions d'euros.",
-            "La proposition de loi de Victorin Lurel (PS) contre la vie chère outre-mer a aussi été adoptée définitivement, à l'unanimité (193 voix), dans la nuit. La séance s'étant close à minuit, les textes sur les marges des carburants, la régularisation de travailleurs sans papiers et les produits des colonies israéliennes n'ont pas abouti."
-          ],
-          "enjeu": "Pour 1,2 million de locataires d'environ 70 communes, dont Paris, Lyon, Bordeaux et Lille, le plafonnement des loyers est maintenu. Le recours au vote bloqué a nourri des soupçons d'accord entre le PS et le gouvernement, démentis par le rapporteur, au moment où l'exécutif cherche des voix pour son budget.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement un blocage, voire une baisse des loyers, et la réquisition des logements vacants ; il juge l'encadrement expérimental insuffisant pour les locataires modestes.",
-              "src": ""
-            },
-            "gr": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement la généralisation de l'encadrement des loyers à toutes les zones tendues et défend des dispositifs comme Territoires zéro chômeur, en réclamant davantage de moyens.",
-              "src": ""
-            },
-            "soc": {
-              "type": "declare",
-              "texte": "Iñaki Echaniz (PS), rapporteur, dément tout arrangement : « Non, il n'y a pas de deal avec le gouvernement » ; il a remercié « du fond du cœur » les députés qui ont permis l'adoption du texte.",
-              "src": "LCP, 19 novembre 2026"
-            },
-            "eco": {
-              "type": "lecture",
-              "texte": "Le courant plaide habituellement pour un encadrement des loyers pérenne et étendu, et soutient l'économie sociale et solidaire dont relève Territoires zéro chômeur.",
-              "src": ""
-            },
-            "ren": {
-              "type": "declare",
-              "texte": "Guillaume Kasbarian (Renaissance), dont les amendements ont été rejetés, s'interroge sur le vote bloqué : « Qu'est-ce que vous avez négocié ? Nous, on n'était pas dans la boucle ».",
-              "src": "LCP, 19 novembre 2026"
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement un encadrement des loyers laissé au choix des collectivités volontaires, et soutient les dispositifs d'insertion comme Territoires zéro chômeur.",
-              "src": ""
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant juge habituellement que l'encadrement des loyers peut décourager l'offre locative et plaide pour l'assouplir ; des amendements d'Henri Alfandari (Horizons) ont été rejetés.",
-              "src": ""
-            },
-            "d": {
-              "type": "lecture",
-              "texte": "Le courant reste habituellement réservé sur l'encadrement des loyers, jugé défavorable à l'investissement locatif, mais la majorité sénatoriale de droite et du centre a voté la prolongation de deux ans en octobre.",
-              "src": ""
-            },
-            "dn": {
-              "type": "declare",
-              "texte": "Frédéric Falcon (RN) accuse le PS de monnayer son soutien : le gouvernement « a besoin des voix socialistes et le Parti socialiste les vend » ; le groupe RN a en revanche voté, à trois voix près, la pérennisation de Territoires zéro chômeur.",
-              "src": "LCP, 19 novembre 2026"
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant s'oppose habituellement à l'encadrement des loyers, présenté comme une atteinte au droit de propriété, et défend la baisse des normes et des taxes pesant sur les bailleurs.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "LCP – Encadrement des loyers : l'Assemblée prolonge l'expérimentation du dispositif, au terme d'une âpre bataille dans l'hémicycle",
-              "u": "https://lcp.fr/actualites/encadrement-des-loyers-l-assemblee-prolonge-l-experimentation-du-dispositif-au-terme-d"
-            },
-            {
-              "t": "LCP – Emploi : le dispositif « Territoires zéro chômeur de longue durée » pérennisé",
-              "u": "https://lcp.fr/actualites/emploi-le-dispositif-territoires-zero-chomeur-de-longue-duree-perennise-a-l-issue-de-l"
-            },
-            {
-              "t": "LCP – Lutte contre la vie chère en Outre-mer : le texte présenté par les députés socialistes définitivement adopté",
-              "u": "https://lcp.fr/actualites/lutte-contre-la-vie-chere-en-outre-mer-le-texte-presente-par-les-deputes-socialistes"
-            }
-          ],
-          "image": {
-            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2026-11/I%C3%B1aki%20Echaniz.jpg?itok=RtzaW7ht",
-            "credit": "LCP",
-            "alt": "Illustration de l'article de LCP"
-          }
-        },
-        {
-          "id": "2026-11-20-budget-etat-senat",
-          "rubrique": "Budget",
-          "titre": "Budget de l'État : le Sénat ouvre ce vendredi l'examen d'un texte rejeté par les députés",
-          "chapo": "Après la Sécurité sociale, les sénateurs entament trois semaines de débats sur le projet de loi de finances pour 2027, dans sa version initiale, l'Assemblée ayant rejeté sa partie recettes le 4 novembre.",
-          "faits": [
-            "Les députés ont rejeté le 4 novembre la première partie du projet de loi de finances par 458 voix contre : le Sénat est donc saisi du texte initial du gouvernement, sans les amendements votés à l'Assemblée.",
-            "Le gouvernement vise un déficit public de 5 % du PIB en 2027, contre 5,4 % prévus en 2026, et une dette de 121,7 % du PIB ; la charge de la dette passerait de 79,2 à 91,2 milliards d'euros.",
-            "En commission, la majorité de droite et du centre, avec la rapporteure générale Christine Lavarde (LR), a notamment porté de 17 % à 35 % le prélèvement exceptionnel sur les avoirs en déshérence (2,9 milliards d'euros attendus) et réécrit les mesures sur les dons familiaux, la location meublée et l'assurance-vie.",
-            "Le vote solennel est prévu le 9 décembre. Le Parlement a jusqu'au 17 décembre à minuit pour se prononcer, délai au-delà duquel l'article 47 de la Constitution ouvre la voie aux ordonnances, jamais utilisées pour un budget."
-          ],
-          "enjeu": "Une commission mixte paritaire est attendue mi-décembre, mais un vote favorable de l'Assemblée paraît peu probable. Le gouvernement pourrait devoir choisir entre le 49.3, au risque d'une censure, et une loi spéciale, comme en 2024 et 2025.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant rejette habituellement les budgets d'austérité et réclame une forte taxation du capital et des grandes fortunes pour financer les services publics et les salaires.",
-              "src": ""
-            },
-            "gr": {
-              "type": "lecture",
-              "texte": "Le courant rejette habituellement les budgets fondés sur la réduction des dépenses publiques et défend une fiscalité accrue sur les hauts patrimoines, les dividendes et les superprofits.",
-              "src": ""
-            },
-            "soc": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement une contribution plus forte des hauts patrimoines et des grandes entreprises ; ses sénateurs ont annoncé quelque 200 amendements sur le volet fiscal.",
-              "src": ""
-            },
-            "eco": {
-              "type": "lecture",
-              "texte": "Le courant réclame habituellement une fiscalité écologique et une taxation des plus fortunés, et s'oppose aux coupes dans les crédits de la transition et des collectivités.",
-              "src": ""
-            },
-            "ren": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement la trajectoire de réduction du déficit fixée par le gouvernement et cherche un compromis pour éviter une loi spéciale ou un recours au 49.3.",
-              "src": ""
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant plaide habituellement pour un budget de compromis, associant maîtrise des dépenses et justice fiscale, et appelle les groupes à éviter la censure.",
-              "src": ""
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement une baisse plus franche des dépenses publiques et des réformes de structure, plutôt que de nouveaux prélèvements.",
-              "src": ""
-            },
-            "d": {
-              "type": "lecture",
-              "texte": "Le courant privilégie habituellement les économies sur les dépenses plutôt que les hausses d'impôts ; majoritaire au Sénat avec les centristes, il entend y imposer sa version du texte.",
-              "src": ""
-            },
-            "dn": {
-              "type": "lecture",
-              "texte": "Le courant dénonce habituellement la hausse des prélèvements et réclame des économies sur l'immigration, la contribution européenne et les agences de l'État ; ses députés ont voté le rejet du texte.",
-              "src": ""
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement une baisse massive des impôts et des dépenses sociales, et rejette les budgets jugés trop dépensiers.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "Public Sénat – Budget 2027 : calendrier, 49.3, ordonnances… Quelles sont les échéances à venir et les scénarios possibles ?",
-              "u": "https://www.publicsenat.fr/actualites/politique/budget-2027-calendrier-49-3-ordonnancesquelles-sont-les-echeances-a-venir-et-les-scenarios-possibles"
-            },
-            {
-              "t": "LCP – Budget 2027 rejeté : quelles sont les prochaines étapes au Parlement ?",
-              "u": "https://lcp.fr/actualites/budget-2027-rejete-quelles-sont-les-prochaines-etapes-au-parlement-444753"
-            },
-            {
-              "t": "LégiFiscal – PLF 2027 : les principaux articles adoptés par la commission des finances du Sénat",
-              "u": "https://www.legifiscal.fr/actualites-fiscales/4735-plf-2027-principaux-articles-adoptes-commission-finances-senat.html"
-            },
-            {
-              "t": "Sénat – Projet de loi de finances pour 2027 : la loi en clair",
-              "u": "https://www.senat.fr/travaux-parlementaires/textes-legislatifs/la-loi-en-clair/projet-de-loi-de-finances-pour-2027.html"
-            }
-          ],
-          "image": {
-            "u": "https://www.publicsenat.fr/app/uploads/2026/11/SIPA_01241650_000021-1200x630.jpg",
-            "credit": "Public Sénat",
-            "alt": "Illustration de l'article de Public Sénat"
-          }
-        },
-        {
-          "id": "2026-11-20-cybersecurite-lecornu",
-          "rubrique": "Numérique",
-          "titre": "Cybersécurité : Lecornu impose aux ministères de consacrer une part croissante de leur budget numérique à leur défense",
-          "chapo": "Face à une menace jugée « particulièrement grave et inédite », le Premier ministre a annoncé jeudi un « serrage de vis » pour l'État, après une série d'attaques et de pannes.",
-          "faits": [
-            "Chaque ministère devra consacrer au moins 5 % de son budget numérique à la cybersécurité à partir de 2027, puis 10 % en 2030, a annoncé Sébastien Lecornu le 19 novembre.",
-            "Selon le ministre de l'Économie, Roland Lescure, 200 millions d'euros du programme France 2030 financeront des outils d'intelligence artificielle contre les cyberattaques, leur déploiement dans les administrations et chez les opérateurs d'importance vitale, ainsi que la formation.",
-            "Ces annonces suivent notamment le vol de 100 millions d'euros au Crédit Mutuel Arkéa et le sabotage, le 12 octobre, d'installations frigorifiques de supermarchés, attribué par la France à l'Iran.",
-            "Le projet de loi sur la résilience des infrastructures critiques et la cybersécurité, adopté le 17 novembre par l'Assemblée (464 voix contre 64), concernera quelque 20 000 entités ; il doit encore passer en commission mixte paritaire."
-          ],
-          "enjeu": "L'État veut relever sa propre protection avant d'imposer de nouvelles obligations aux entreprises et aux collectivités, dont le coût inquiète les PME. Ces dépenses s'ajoutent au débat budgétaire, où chaque crédit nouveau est disputé.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant critique habituellement la dépendance des services publics aux grands groupes du numérique et le recours à la sous-traitance, et se méfie des dispositifs de surveillance associés à la sécurité.",
-              "src": ""
-            },
-            "gr": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement la souveraineté numérique, les logiciels libres et la sortie de la dépendance aux géants américains du cloud, plutôt que de nouveaux contrats avec des prestataires privés.",
-              "src": ""
-            },
-            "soc": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement le renforcement de la cybersécurité de l'État et demande que l'effort s'accompagne de moyens pour les collectivités et les hôpitaux, souvent ciblés.",
-              "src": ""
-            },
-            "eco": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement la sobriété numérique et les logiciels libres, et demande que la protection des données et des libertés encadre l'usage de l'intelligence artificielle.",
-              "src": ""
-            },
-            "ren": {
-              "type": "declare",
-              "texte": "Sébastien Lecornu (Renaissance), Premier ministre, juge la menace « particulièrement grave et inédite » et prévient : « Rien ne laisse à penser que les choses vont s'arranger ».",
-              "src": "Économie Matin, 20 novembre 2026"
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement une stratégie européenne de cybersécurité et la transposition rapide des directives comme NIS 2, avec un accompagnement des petites structures.",
-              "src": ""
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant plaide habituellement pour un État plus efficace et mieux protégé, et soutient l'effort de défense, y compris dans le cyberespace.",
-              "src": ""
-            },
-            "d": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement le renforcement des moyens de sécurité, y compris numérique, tout en alertant sur le poids des nouvelles normes pour les entreprises et les collectivités.",
-              "src": ""
-            },
-            "dn": {
-              "type": "lecture",
-              "texte": "Le courant met habituellement en avant la souveraineté nationale face aux ingérences étrangères et critique le coût des normes européennes imposées aux entreprises.",
-              "src": ""
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant insiste habituellement sur les menaces extérieures et réclame un renforcement des moyens régaliens, tout en dénonçant les contraintes européennes.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "Économie Matin – Pourquoi la France consacre désormais 10 % de ses budgets numériques à la cybersécurité",
-              "u": "https://www.economiematin.fr/cybersecurite-200-millions-euros-budget-ministeres-2027"
-            },
-            {
-              "t": "Quartz – Lecornu annonce un plan de renforcement de la cybersécurité",
-              "u": "https://fr.qz.com/lecornu-annonce-plan-renforcement-cybersecurite-etat-111926"
-            }
-          ],
-          "image": {
-            "u": "https://www.economiematin.fr/wp-content/uploads/2026/02/caf-piratage-donnees.jpg",
-            "credit": "Économie Matin",
-            "alt": "fuite CAF"
-          }
-        },
-        {
-          "id": "2026-11-20-shenzhen-berlin-ukraine",
-          "rubrique": "International",
-          "titre": "Shenzhen : Trump, Poutine et Xi adoptent une « déclaration de paix » muette sur l'Ukraine, les Européens resserrent les rangs à Berlin",
-          "chapo": "Le sommet inédit des trois dirigeants s'est achevé sans avancée sur la guerre. Au même moment, la coalition des volontaires réunie à Berlin a promis d'accélérer l'envoi de défenses antiaériennes à Kiev avant l'hiver.",
-          "faits": [
-            "Réunis jeudi 19 novembre à Shenzhen, en marge de l'APEC, Donald Trump, Vladimir Poutine et Xi Jinping ont adopté une « déclaration de paix » après environ 80 minutes d'échanges, selon le Kremlin et les médias d'État chinois.",
-            "Le texte évoque la stabilité internationale et le risque nucléaire, mais ne mentionne ni l'Ukraine ni l'Iran, et ne prévoit aucun cessez-le-feu.",
-            "Depuis Shenzhen, Vladimir Poutine a estimé que « toute forme » de coopération militaire entre l'Ukraine et les Européens lui posait « un problème », et dit avoir proposé à des Européens de venir à Moscou.",
-            "À Berlin, une trentaine de dirigeants ont retrouvé Volodymyr Zelensky et les émissaires américains Steve Witkoff et Jared Kushner. L'Élysée y a plaidé pour des livraisons accélérées de missiles intercepteurs avant l'hiver et pour des garanties de sécurité, « raison d'être » de la coalition."
-          ],
-          "enjeu": "Ce face-à-face des trois puissances, sans les Européens, nourrit la crainte d'un règlement négocié au-dessus de l'Europe. Le financement de l'Ukraine en 2027, estimé à 70 milliards, dont 45 à la charge de l'UE, doit être tranché lors d'un Conseil européen extraordinaire la semaine prochaine.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant dénonce habituellement une guerre entre puissances impérialistes, s'oppose aux livraisons d'armes comme à l'OTAN, et appelle à la solidarité entre travailleurs russes et ukrainiens.",
-              "src": ""
-            },
-            "gr": {
-              "type": "lecture",
-              "texte": "Le courant plaide habituellement pour une conférence de paix et un cessez-le-feu négocié sous l'égide de l'ONU, et rejette tout alignement sur les États-Unis comme l'envoi de troupes françaises.",
-              "src": ""
-            },
-            "soc": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement un soutien militaire et financier ferme à l'Ukraine, refuse toute paix imposée sans les Ukrainiens et les Européens, et soutient les garanties de sécurité.",
-              "src": ""
-            },
-            "eco": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement l'Ukraine et une défense européenne commune, et réclame des sanctions renforcées contre la Russie, notamment sur ses exportations d'hydrocarbures.",
-              "src": ""
-            },
-            "ren": {
-              "type": "declare",
-              "texte": "Emmanuel Macron (Renaissance) estimait le 14 novembre que ceux qui veulent « rationner les moyens de l'Ukraine » souhaitent « au fond l'obliger à une paix injuste » ; à Berlin, il a défendu la protection du ciel ukrainien et des garanties de sécurité.",
-              "src": "Euronews, 14 et 19 novembre 2026"
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement une Europe unie et souveraine dans le soutien à l'Ukraine, associée à toute négociation de paix qui engage sa propre sécurité.",
-              "src": ""
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement l'aide militaire à l'Ukraine et un réarmement européen, et juge qu'aucun accord ne doit récompenser l'agression russe.",
-              "src": ""
-            },
-            "d": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement l'Ukraine et l'effort de défense européen, tout en restant prudent sur l'envoi de soldats français et en réclamant un contrôle parlementaire.",
-              "src": ""
-            },
-            "dn": {
-              "type": "declare",
-              "texte": "Marine Le Pen (RN) a dit à l'ambassadeur d'Ukraine que la France ne pourrait « plus aider financièrement » Kiev si elle était élue, en raison de l'état des finances publiques, tout en promettant de respecter les engagements déjà pris.",
-              "src": "Euronews, 16 novembre 2026"
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant plaide habituellement pour une sortie rapide du conflit par la négociation, refuse tout engagement militaire français et critique le coût de l'aide à l'Ukraine.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "Euronews – Trilateral summit ends with 'peace declaration' but no mention of Ukraine and Iran",
-              "u": "https://www.euronews.com/2026/11/19/us-and-china-want-to-help-end-ukraine-war-trump-says-ahead-of-trilateral-with-russia"
-            },
-            {
-              "t": "RFI – Guerre en Ukraine : réunie à Berlin, la « coalition des volontaires » réaffirme son soutien à Kiev",
-              "u": "https://fr.news.yahoo.com/guerre-ukraine-coalition-volontaires-r%C3%A9unie-160502459.html"
-            },
-            {
-              "t": "Euronews – Coalition des volontaires réunie à Berlin : quelles priorités pour la France ?",
-              "u": "https://fr.euronews.com/2026/11/19/coalition-des-volontaires-reunie-a-berlin-quelles-priorites-pour-la-france"
-            },
-            {
-              "t": "Euronews – Marine Le Pen : « La France continuerait à soutenir l'Ukraine », mais pas financièrement",
-              "u": "https://fr.euronews.com/2026/11/16/marine-le-pen-la-france-continuerait-a-soutenir-lukraine-mais-pas-financierement"
-            }
-          ],
-          "image": {
-            "u": "https://images.euronews.com/articles/stories/09/99/89/11/1200x675_cmsv2_0f4caaa5-809a-5e25-bde5-e81782758de6-9998911.jpg",
-            "credit": "Euronews",
-            "alt": "Trilateral summit ends with 'peace declaration' but no mention of Ukraine and Iran"
-          }
-        },
-        {
-          "id": "2026-11-20-cop31-fossiles",
-          "rubrique": "International",
-          "titre": "COP31 : les énergies fossiles disparaissent du projet d'accord, Paris dénonce un « point noir »",
-          "chapo": "À quelques heures de la fin théorique des négociations d'Antalya, le texte de compromis de la présidence australo-turque ne mentionne plus le pétrole, le gaz ni le charbon.",
-          "faits": [
-            "Le projet de décision finale de neuf pages, publié jeudi 19 novembre par la présidence partagée entre la Turquie et l'Australie, ne mentionne plus explicitement les énergies fossiles, contrairement à une version précédente. Les pays producteurs, dont l'Arabie saoudite, s'opposent à toute mention.",
-            "Le texte appelle à porter à 35 % d'ici 2035 la part de l'électricité dans la consommation finale d'énergie mondiale, contre un peu plus de 20 % aujourd'hui, sans préciser son origine, et propose de « discuter » d'un triplement du financement de l'adaptation.",
-            "La ministre française de la Transition écologique, Monique Barbut, a qualifié cette absence de « point noir ». Le Panama menace de bloquer le consensus sans mention d'une sortie progressive du pétrole.",
-            "Les Européens ont prévenu qu'ils n'avaient « aucunement l'intention » d'apporter des financements supplémentaires. Un accord est recherché dans la nuit de vendredi à samedi, selon l'AFP."
-          ],
-          "enjeu": "Un texte sans référence aux fossiles marquerait un recul par rapport à l'engagement pris à Dubaï, en 2023, de s'en éloigner progressivement. L'Union européenne doit arbitrer entre un accord a minima et le risque d'un échec de la conférence.",
-          "positions": {
-            "eg": {
-              "type": "lecture",
-              "texte": "Le courant juge habituellement les COP impuissantes face aux intérêts des multinationales de l'énergie et réclame une planification écologique sous contrôle des travailleurs.",
-              "src": ""
-            },
-            "gr": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement une sortie programmée des énergies fossiles et une planification écologique, et dénonce l'influence des pays et groupes producteurs dans les négociations.",
-              "src": ""
-            },
-            "soc": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement une diplomatie climatique ambitieuse, la sortie progressive des fossiles et la solidarité financière avec les pays les plus vulnérables.",
-              "src": ""
-            },
-            "eco": {
-              "type": "lecture",
-              "texte": "Le courant fait habituellement de la sortie des énergies fossiles une ligne rouge et juge inacceptable tout accord climatique qui l'abandonnerait.",
-              "src": ""
-            },
-            "ren": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement l'héritage de l'accord de Paris et une transition fondée sur l'électrification, y compris nucléaire, en appelant à maintenir l'objectif de sortie des fossiles.",
-              "src": ""
-            },
-            "modem": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement le multilatéralisme climatique et une position européenne commune, en cherchant un compromis qui préserve l'objectif de 1,5 °C.",
-              "src": ""
-            },
-            "hor": {
-              "type": "lecture",
-              "texte": "Le courant défend habituellement une transition pragmatique appuyée sur le nucléaire et l'électrification, et l'idée que l'Europe ne peut porter seule l'effort financier.",
-              "src": ""
-            },
-            "d": {
-              "type": "lecture",
-              "texte": "Le courant soutient habituellement les objectifs climatiques à condition qu'ils ne pèsent pas sur la compétitivité, et met en avant le nucléaire comme solution.",
-              "src": ""
-            },
-            "dn": {
-              "type": "lecture",
-              "texte": "Le courant se montre habituellement critique envers les engagements climatiques internationaux jugés pénalisants pour l'économie française et défend le nucléaire contre les énergies renouvelables intermittentes.",
-              "src": ""
-            },
-            "ed": {
-              "type": "lecture",
-              "texte": "Le courant rejette habituellement ce qu'il appelle l'écologie punitive et considère les grandes conférences climatiques comme coûteuses et inefficaces.",
-              "src": ""
-            }
-          },
-          "sources": [
-            {
-              "t": "La Libre (AFP) – Climat : à la COP31, ultimes heures pour un accord incertain",
-              "u": "https://www.lalibre.be/dernieres-depeches/2026/11/20/climat-a-la-cop31-ultimes-heures-pour-un-accord-incertain-HILM3ZYKG5FV5PJIMQUJYMAT74/"
-            },
-            {
-              "t": "Le Petit Journal (AFP) – COP31 sur le climat : les énergies fossiles disparaissent du projet de décision finale",
-              "u": "https://lepetitjournal.com/istanbul/actualites/cop31-sur-le-climat-les-energies-fossiles-disparaissent-du-projet-de-decision-finale-459327"
-            },
-            {
-              "t": "Bourse Direct (AFP) – COP31 sur le climat : les énergies fossiles disparaissent du projet de décision finale",
-              "u": "https://www.boursedirect.fr/fr/actualites/categorie/economie/cop31-sur-le-climat-la-reference-aux-energies-fossiles-disparait-dans-le-projet-de-decision-finale-afp-476c4c9f6ad0d6663e274a14afad20ea4e7955b9"
-            }
-          ],
-          "image": {
-            "u": "https://www.lalibre.be/resizer/v2/ODKLKJBY5JHBZGGEX5JO7VIOG4.png?auth=99992c0249edfd0f59ed7caae24c0f483574cfcaa1b362acfcac9717c690a301&width=1200&height=630&quality=85&smart=true",
-            "credit": "La Libre (AFP)",
-            "alt": "Illustration de l'article de La Libre (AFP)"
-          }
-        }
-      ],
-      "breves": [
-        {
-          "titre": "Mort du député David Habib",
-          "texte": "Le député des Pyrénées-Atlantiques David Habib, élu depuis 2002 et membre du groupe Liot après avoir siégé chez les socialistes, est mort dans la nuit de mercredi à jeudi à 65 ans. Yaël Braun-Pivet a annoncé un hommage de l'Assemblée ; Boris Vallaud a salué « un homme de conviction, de courage ».",
-          "src": {
-            "t": "LCP – David Habib, député des Pyrénées-Atlantiques depuis 24 ans, est mort à 65 ans",
-            "u": "https://lcp.fr/actualites/david-habib-depute-des-pyrenees-atlantiques-depuis-24-ans-est-mort-a-65-ans-445340"
-          }
-        },
-        {
-          "titre": "Affaire Zecler : verdict attendu ce vendredi",
-          "texte": "La cour criminelle de Paris doit rendre ce vendredi son verdict dans le procès de trois policiers jugés pour les violences commises en 2020 contre le producteur de musique Michel Zecler, frappé dans son studio.",
-          "src": {
-            "t": "Mediaterranée – Procès Zecler : ses proches témoignent, verdict attendu le 20 novembre",
-            "u": "https://www.mediaterranee.com/1352026-proces-zecler-ses-proches-temoignent-verdict-attendu-le-20-novembre.html"
-          }
-        }
-      ],
-      "agenda": [
-        {
-          "d": "Ven. 20 nov.",
-          "t": "Début de l'examen du budget de l'État au Sénat ; reprise du débat sur l'usage des armes par les forces de l'ordre ; verdict du procès Zecler ; fin théorique de la COP31 à Antalya"
-        },
-        {
-          "d": "Mar. 24 nov.",
-          "t": "Vote solennel de l'Assemblée sur le projet de loi logement"
-        },
-        {
-          "d": "Mer. 25 nov.",
-          "t": "Audition au Sénat d'Alice Rüfo sur la présence de militaires français en Ukraine"
-        },
-        {
-          "d": "Jeu. 26 nov.",
-          "t": "Commission mixte paritaire sur le budget de la Sécu ; niche parlementaire LR à l'Assemblée"
         },
         {
           "d": "Mer. 9 déc.",
