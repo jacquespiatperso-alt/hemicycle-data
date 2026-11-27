@@ -85,7 +85,12 @@
               "t": "LCP – Budget de la Sécu : députés et sénateurs vont tenter de se mettre d'accord ce jeudi",
               "u": "https://lcp.fr/actualites/budget-de-la-secu-deputes-et-senateurs-vont-tenter-de-se-mettre-d-accord-ce-jeudi"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.publicsenat.fr/app/uploads/2026/11/SIPA_01166393_000004-1200x630.jpg",
+            "credit": "Public Sénat",
+            "alt": "Illustration de l'article de Public Sénat"
+          }
         },
         {
           "id": "2026-11-27-regle-dor-collectivites",
@@ -243,7 +248,12 @@
               "t": "Sud Radio – À l'Assemblée, LR veut sévir mais se heurte aux batailles parlementaires",
               "u": "https://www.sudradio.fr/societe/a-lassemblee-lr-veut-sevir-mais-se-heurte-aux-batailles-parlementaires"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2023-09/Prison%20france_frame_8462%20LCP.jpeg?itok=4svFmowF",
+            "credit": "LCP",
+            "alt": "Illustration de l'article de LCP"
+          }
         },
         {
           "id": "2026-11-27-riner-ukraine",
@@ -322,7 +332,12 @@
               "t": "TIME France – Teddy Riner sur l'Ukraine : une petite phrase, des nuances et des critiques",
               "u": "https://www.timefrance.fr/politique/teddy-riner-sur-lukraine-une-petite-phrase-des-nuances-et-des-critiques/"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2024-09/Macron%202.jpg?itok=ZikaBhjE",
+            "credit": "LCP",
+            "alt": "Illustration de l'article de LCP"
+          }
         },
         {
           "id": "2026-11-27-devoir-conjugal",
@@ -397,7 +412,12 @@
               "t": "Sénat – Proposition de loi visant à mettre fin au devoir conjugal",
               "u": "https://www.senat.fr/travaux-parlementaires/textes-legislatifs/la-loi-en-clair/proposition-de-loi-visant-a-mettre-fin-au-devoir-conjugal.html"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2026-01/Marie-Charlotte%20Garin%20plaide%20pour%20mettre%20fin%20au%20devoir%20conjugal.jpg?itok=dBv6owpa",
+            "credit": "LCP",
+            "alt": "Illustration de l'article de LCP"
+          }
         },
         {
           "id": "2026-11-27-sommet-ue-budget",
@@ -472,7 +492,12 @@
               "t": "Euronews – EU summit: leaders spar over new budget and Ukraine aid",
               "u": "https://www.euronews.com/2026/11/26/eu-summit-leaders-ready-to-spar-over-new-budget-and-ukraine-aid"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://static-content.rtbf.be/article/image/1920x1080/a/1/2/1837d381a66198385bf42a254df7ef1e.jpg",
+            "credit": "RTBF",
+            "alt": "Budget européen 2028-2034 : les dirigeants des Vingt-Sept écourtent leur sommet, un accord espéré en décembre"
+          }
         }
       ],
       "breves": [
