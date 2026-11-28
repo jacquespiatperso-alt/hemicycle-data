@@ -85,7 +85,12 @@
               "t": "Public Sénat – Heures supplémentaires défiscalisées : mis en minorité au Sénat, le gouvernement veut un nouveau vote",
               "u": "https://www.publicsenat.fr/actualites/politique/heures-supplementaires-defiscalisees-mis-en-minorite-au-senat-le-gouvernement-veut-un-nouveau-vote"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.publicsenat.fr/app/uploads/2026/11/SIPA_01311139_000001-1200x630.jpg",
+            "credit": "Public Sénat",
+            "alt": "Illustration de l'article de Public Sénat"
+          }
         },
         {
           "id": "2026-11-28-le-pen-presse-secret",
@@ -161,7 +166,12 @@
               "t": "AFP (La DH) – Bardella, Moutouh : face aux révélations, Le Pen attaque la presse",
               "u": "https://www.dhnet.be/dernieres-depeches/2026/11/27/bardella-moutouh-face-aux-revelations-le-pen-attaque-la-presse-5HNQB5QTRVFG5AI4ST5MIT364A/"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2026-11/Capture%20d%27%C3%A9cran%202026-11-27%20123239.png?itok=weYuHRuc",
+            "credit": "LCP",
+            "alt": "Illustration de l'article de LCP"
+          }
         },
         {
           "id": "2026-11-28-ni-ni-lisnard",
@@ -240,7 +250,12 @@
               "t": "Public Sénat – Présidentielle : « J'ai mon plan qui est prévu depuis le départ, de façon minutieuse », défend David Lisnard",
               "u": "https://www.publicsenat.fr/actualites/politique/presidentielle-jai-mon-plan-qui-est-prevu-depuis-le-depart-de-facon-minutieuse-defend-david-lisnard"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2026-09/R6JU7410.jpg?itok=H5i-8Nl-",
+            "credit": "LCP",
+            "alt": "Illustration de l'article de LCP"
+          }
         },
         {
           "id": "2026-11-28-convention-citoyenne-finances",
@@ -311,7 +326,12 @@
               "t": "Public Sénat – « Réconcilier des normes budgétaires et des aspirations populaires » : ouverture d'une convention citoyenne sur les finances publiques",
               "u": "https://www.publicsenat.fr/actualites/politique/reconcilier-des-normes-budgetaires-et-des-aspirations-populaires-ouverture-dune-convention-citoyenne-sur-les-finances-publiques"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.publicsenat.fr/app/uploads/2026/11/SIPA_01087045_000028-1200x630.jpg",
+            "credit": "Public Sénat",
+            "alt": "Illustration de l'article de Public Sénat"
+          }
         },
         {
           "id": "2026-11-28-apa-decret",
@@ -382,7 +402,12 @@
               "t": "Public Sénat – Seniors : le gouvernement modifie le mode de calcul de l'Allocation personnalisée d'autonomie",
               "u": "https://www.publicsenat.fr/actualites/economie/seniors-le-gouvernement-modifie-le-mode-de-calcul-de-lallocation-personnalisee-dautonomie"
             }
-          ]
+          ],
+          "image": {
+            "u": "https://www.publicsenat.fr/app/uploads/2026/11/SIPA_01253827_000006-scaled.jpg",
+            "credit": "Public Sénat",
+            "alt": "Illustration de l'article de Public Sénat"
+          }
         }
       ],
       "breves": [
